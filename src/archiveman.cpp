@@ -15,10 +15,10 @@
  *                                                                         *
  ***************************************************************************/
 
-#include <QSqlTableModel>
-#include <QSqlQuery>
-#include <QSqlRecord>
-#include <QSqlIndex>
+#include <QtSql/QSqlTableModel>
+#include <QtSql/QSqlQuery>
+#include <QtSql/QSqlRecord>
+#include <QtSql/QSqlIndex>
 #include <QFile>
 #include <QTextStream>
 

@@ -9,11 +9,6 @@ INCLUDEPATH += . src src/external src/models
 
 # Input
 HEADERS += src/addeditchapterdialog.h \
-           src/addressprovider.h \
-           src/addressselection.h \
-           src/addresstemplateprovider.h \
-           src/akonadiaddressselector.h \
-           src/akonadiaddressselectordialog.h \
            src/archdoc.h \
            src/archdocposition.h \
            src/archiveman.h \
@@ -148,11 +143,6 @@ FORMS += src/calctemplate.ui \
          src/upgradedb.ui \
          src/wageseditbase.ui
 SOURCES += src/addeditchapterdialog.cpp \
-           src/addressprovider.cpp \
-           src/addressselection.cpp \
-           src/addresstemplateprovider.cpp \
-           src/akonadiaddressselector.cpp \
-           src/akonadiaddressselectordialog.cpp \
            src/archdoc.cpp \
            src/archdocposition.cpp \
            src/archiveman.cpp \

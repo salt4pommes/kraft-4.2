@@ -21,7 +21,7 @@
 #include <QLabel>
 #include <QLineEdit>
 
-#include <KDialog>
+#include <KDE/KDialog>
 
 #include "catalogchapter.h"
 

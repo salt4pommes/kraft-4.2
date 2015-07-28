@@ -18,12 +18,11 @@
 #include <kglobal.h>
 
 #include "addressprovider.h"
-#include "akonadi/contact/contactsearchjob.h"
 #include "akonadi/session.h"
 
-#include <Akonadi/Item>
-#include <Akonadi/ItemFetchJob>
-#include <Akonadi/ItemFetchScope>
+#include <akonadi/item.h>
+#include <akonadi/itemfetchjob.h>
+#include <akonadi/itemfetchscope.h>
 
 AddressProvider::AddressProvider( QObject *parent )
   :QObject( parent )
@@ -51,7 +50,8 @@ void AddressProvider::getAddressee( const QString& uid )
 {
     if( uid.isEmpty() || mUidSearches.contains( uid ) ) {
         // search is already running
-        kDebug() << "Search already underways!";
+        //@todo add error info here
+//        kDebug() << "Search already underways!";
         return;
     }
 
@@ -68,7 +68,7 @@ void AddressProvider::getAddressee( const QString& uid )
     connect( job, SIGNAL( result( KJob* ) ), this, SLOT( searchResult( KJob* ) ) );
     job->start();
 #endif
-    mUidSearches.insert( uid );
+    mUidSearches.insert( uitd );
     mUidSearchJobs[job] = uid;
 
 }
@@ -85,7 +85,8 @@ void AddressProvider::searchResult( KJob* job )
     uid = mUidSearchJobs.value( job );
 
     if( job->error() ) {
-        kDebug() << "Address Search job failed: " << job->errorString();
+        //@todo add error info here
+//        kDebug() << "Address Search job failed: " << job->errorString();
     } else {
 #if KDE_IS_VERSION(4,12,0)
         Akonadi::ItemFetchJob *fetchJob = qobject_cast<Akonadi::ItemFetchJob*>(job);
@@ -97,19 +98,23 @@ void AddressProvider::searchResult( KJob* job )
                 contact = item.payload<KABC::Addressee>();
                 uid = contact.uid();
                 cnt++;
-                kDebug() << "Found uid search job for UID " << uid << " = " << contact.realName();
+                //@todo add error info here
+//                kDebug() << "Found uid search job for UID " << uid << " = " << contact.realName();
                 emit addresseeFound( uid, contact );
            }
         }
 #else
 	Akonadi::ContactSearchJob *searchJob = qobject_cast<Akonadi::ContactSearchJob*>( job );
         const KABC::Addressee::List contacts = searchJob->contacts();
-        kDebug() << "Found list of " << contacts.size() << " addresses as search result";
+
+        //@todo add error info here
+//        kDebug() << "Found list of " << contacts.size() << " addresses as search result";
 
         if( mUidSearchJobs.contains( job )) {            
             if( contacts.size() > 0 ) {
                 contact = contacts[0];
-                kDebug() << "Found uid search job for UID " << uid << " = " << contact.realName();
+                //@todo add error info here
+//                kDebug() << "Found uid search job for UID " << uid << " = " << contact.realName();
             }
             emit addresseeFound( uid, contact );
             cnt++;

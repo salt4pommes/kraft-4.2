@@ -17,7 +17,7 @@
 #ifndef ARCHIVEMAN_H
 #define ARCHIVEMAN_H
 
-#include <qdom.h>
+#include <Qt/qdom.h>
 
 #include "dbids.h"
 

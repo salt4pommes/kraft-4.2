@@ -17,7 +17,7 @@
 
 #include <QString>
 #include <QVariant>
-#include <QSqlQuery>
+#include <QtSql/QSqlQuery>
 #include <QStringList>
 
 #include <kdebug.h>

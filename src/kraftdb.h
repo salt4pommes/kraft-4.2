@@ -18,8 +18,8 @@
 #ifndef KRAFTDB_H
 #define KRAFTDB_H
 
-#include <QSqlError>
-#include <QSqlDatabase>
+#include <QtSql/QSqlError>
+#include <QtSql/QSqlDatabase>
 
 #include <QMap>
 #include <QObject>

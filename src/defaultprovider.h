@@ -17,7 +17,7 @@
 #ifndef DEFAULTPROVIDER_H
 #define DEFAULTPROVIDER_H
 
-#include <qdom.h>
+#include <Qt/qdom.h>
 
 #include "kraftcat_export.h"
 

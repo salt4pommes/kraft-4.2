@@ -16,7 +16,7 @@
  ***************************************************************************/
 
 #include <QString>
-#include <QSqlQuery>
+#include <QtSql/QSqlQuery>
 #include <QDateTime>
 
 // include files for KDE
