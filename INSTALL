@@ -1,0 +1,99 @@
+
+Generic compile and installation instructions in the beginning of
+this file. 
+
+=> Find Kraft specific instructions below. Make sure to read them!
+
++------------------------------------------------------------------+
+|    Please use binary Packages from the openSUSE Buildservice     |
+|        or the binary package repository of your joice.           |
+|          Go to http://software.opensuse.org/search               |
+|      and search for Kraft. Use the openSUSE 1-Click-Install      |
++------------------------------------------------------------------+
+
+The following section briefly describes how to build Kraft with cmake.
+
+-----------------------------------------------------
+Quick-start 0: Precondition
+-----------------------------------------------------
+
+Check that cmake is installed on your machine and is in your PATH.
+To do so, just type
+
+$ cmake --version
+
+on your command line. Version 2.4 is required, the most recent
+stable version of cmake is preferred.
+
+To build Kraft, the following libs and software versions have to
+be provided:
+- KDE libs incl. devel packages version > 4.4.0
+- KDE Pimlibs (for Akonadi based kaddressbook access)
+- google ctemplate, A simple but powerful template language for C++,
+  packages from the openSUSE Buildservice or from the website
+  http://code.google.com/p/google-ctemplate/
+
+-----------------------------------------------------
+Quick-start 1: Build Kraft
+-----------------------------------------------------
+
+cmake is designed so that the build process can be done in a separate
+directory. This is highly recommended for users and required for packagers.
+
+Go to the top level of the cvs working directory or the source tarball.
+To build Kraft in the subdirectory ./build/ type
+
+$ mkdir build
+$ cd build
+$ cmake ..
+    to generate the Makefiles.
+$ ccmake .
+    to change the configuration of the build process. (optional)
+
+Congratulations, your Makefiles were generated!
+Now you could just type
+
+$ make
+    to build the project in the build/ directory.
+
+Note that 'make' automatically checks whether any CMakeLists.txt file
+has changed and reruns cmake if necessary.
+
+Congratulations, you will never have a chaos of generated files
+between the important source files again!
+
+Kraft Installation
+==================
+
+Database
+========
+
+Since version 0.40 Kraft either can use a SQLite file based 
+database or a MySQL server based database.
+
+The SQLite database is created automatically on the fly
+on first start. Its use is recommended for all users who
+want to evaluate Kraft.
+
+To run Kraft with MySQL, create or pick a user on the MySQL
+server with appropiate permissions to write to a specific
+database and create tables on it. Create an empty database
+to use with Kraft. Remember both the database name and the
+credentials.
+On Krafts first start, enter these data in the setup assistant.
+Kraft will create the database tables and fill it automatically.
+
+Document Generation
+===================
+
+Kraft generates PDF documents. For that it uses a python tool named
+erml2pdf. The tool can be found in Kraft's tools directory in this
+source package. 
+
+erml2pdf uses a python lib called the ReportLab Toolkit: a mature, 
+Open Source PDF library which can be found at 
+http://www.reportlab.org/rl_toolkit.html
+Furthermore it uses python-pypdf for pdf processing.
+
+erml2pdf must be in the system path to be found by kraft.
+

@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>d_calcTempl</class>
+ <widget class="QWidget" name="d_calcTempl">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>538</width>
+    <height>620</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Edit Template</string>
+  </property>
+  <property name="sizeGripEnabled" stdset="0">
+   <bool>true</bool>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <widget class="QTabWidget" name="tabWidget">
+     <property name="currentIndex">
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="Widget8">
+      <attribute name="title">
+       <string>Template</string>
+      </attribute>
+      <layout class="QGridLayout" name="_2">
+       <item row="1" column="0">
+        <layout class="QVBoxLayout" name="_3">
+         <item>
+          <layout class="QHBoxLayout" name="_4">
+           <item>
+            <spacer name="spacer4">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeType">
+              <enum>QSizePolicy::Expanding</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>195</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <widget class="QLabel" name="textLabel4">
+             <property name="text">
+              <string>&amp;Store in Chapter</string>
+             </property>
+             <property name="wordWrap">
+              <bool>false</bool>
+             </property>
+             <property name="buddy">
+              <cstring>cbChapter</cstring>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QComboBox" name="cbChapter">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="QGroupBox" name="groupBox">
+           <property name="title">
+            <string>Template</string>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_2">
+            <item>
+             <widget class="QTextEdit" name="m_text">
+              <property name="minimumSize">
+               <size>
+                <width>0</width>
+                <height>200</height>
+               </size>
+              </property>
+              <property name="acceptRichText">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="_7">
+              <item>
+               <widget class="QLabel" name="textLabel3">
+                <property name="text">
+                 <string>&amp;Unit</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>false</bool>
+                </property>
+                <property name="buddy">
+                 <cstring>m_unit</cstring>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="m_unit"/>
+              </item>
+              <item>
+               <spacer name="spacer3">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeType">
+                 <enum>QSizePolicy::Expanding</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>90</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="m_addTime">
+                <property name="text">
+                 <string>&amp;Count Time for Overalltime</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="_8">
+              <item>
+               <widget class="QLabel" name="textLabel1_2">
+                <property name="toolTip">
+                 <string/>
+                </property>
+                <property name="text">
+                 <string>Margin</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>false</bool>
+                </property>
+                <property name="buddy">
+                 <cstring>spBenefit</cstring>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QSpinBox" name="spBenefit">
+                <property name="buttonSymbols">
+                 <enum>QAbstractSpinBox::UpDownArrows</enum>
+                </property>
+                <property name="specialValueText">
+                 <string/>
+                </property>
+                <property name="suffix">
+                 <string> %</string>
+                </property>
+                <property name="prefix">
+                 <string/>
+                </property>
+                <property name="minimum">
+                 <number>-1000</number>
+                </property>
+                <property name="maximum">
+                 <number>1000</number>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="KPushButton" name="pbRundPreis">
+                <property name="text">
+                 <string>round</string>
+                </property>
+                <property name="shortcut">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="spacer12">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeType">
+                 <enum>QSizePolicy::Expanding</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>197</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+              <item>
+               <widget class="QLabel" name="textLabel1_3">
+                <property name="text">
+                 <string>VAT</string>
+                </property>
+                <property name="wordWrap">
+                 <bool>false</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="KComboBox" name="cbMwst">
+                <item>
+                 <property name="text">
+                  <string>full</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>half</string>
+                 </property>
+                </item>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="Widget9">
+      <attribute name="title">
+       <string>Time Calculation</string>
+      </attribute>
+      <layout class="QGridLayout" name="_11">
+       <item row="0" column="0">
+        <layout class="QVBoxLayout" name="_12">
+         <item>
+          <widget class="KSqueezedTextLabel" name="m_textDispTime"/>
+         </item>
+         <item>
+          <widget class="QLabel" name="textLabel2">
+           <property name="text">
+            <string>Time measureable effort for this template:</string>
+           </property>
+           <property name="wordWrap">
+            <bool>false</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="_13">
+           <item>
+            <widget class="QTreeWidget" name="m_timeParts">
+             <property name="rootIsDecorated">
+              <bool>false</bool>
+             </property>
+             <property name="itemsExpandable">
+              <bool>false</bool>
+             </property>
+             <property name="columnCount">
+              <number>4</number>
+             </property>
+             <attribute name="headerStretchLastSection">
+              <bool>true</bool>
+             </attribute>
+             <column>
+              <property name="text">
+               <string>Label</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Duration</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Hourly Rate</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Glob. Rate</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QVBoxLayout" name="_14">
+             <item>
+              <widget class="KPushButton" name="m_butAddTime">
+               <property name="toolTip">
+                <string>Adds a new time calculation part to the template</string>
+               </property>
+               <property name="text">
+                <string>new...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butEditTime">
+               <property name="toolTip">
+                <string>Edits the current time calculation part</string>
+               </property>
+               <property name="text">
+                <string>edit...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butRemoveTime">
+               <property name="toolTip">
+                <string>Deletes the current time calculation part</string>
+               </property>
+               <property name="text">
+                <string>delete</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="spacer5_2">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Expanding</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>191</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="TabPage">
+      <attribute name="title">
+       <string>Fix Costs</string>
+      </attribute>
+      <layout class="QGridLayout" name="_15">
+       <item row="0" column="0">
+        <layout class="QVBoxLayout" name="_16">
+         <item>
+          <widget class="KSqueezedTextLabel" name="m_textDispFix"/>
+         </item>
+         <item>
+          <widget class="QLabel" name="textLabel2_3">
+           <property name="text">
+            <string>Fix costs for this template per one unit:</string>
+           </property>
+           <property name="wordWrap">
+            <bool>false</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="_17">
+           <item>
+            <widget class="QTreeWidget" name="m_fixParts">
+             <property name="rootIsDecorated">
+              <bool>false</bool>
+             </property>
+             <property name="itemsExpandable">
+              <bool>false</bool>
+             </property>
+             <property name="columnCount">
+              <number>4</number>
+             </property>
+             <attribute name="headerStretchLastSection">
+              <bool>true</bool>
+             </attribute>
+             <column>
+              <property name="text">
+               <string>Amount</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Label</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Single Price</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Overall Price</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QVBoxLayout" name="_18">
+             <item>
+              <widget class="KPushButton" name="m_butAddFix">
+               <property name="toolTip">
+                <string>adds a new fix calculation part</string>
+               </property>
+               <property name="text">
+                <string>new...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butEditFix">
+               <property name="toolTip">
+                <string>edits the current fix calculation part</string>
+               </property>
+               <property name="text">
+                <string>edit...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butRemoveFix">
+               <property name="toolTip">
+                <string>deletes the current fix calculation part</string>
+               </property>
+               <property name="text">
+                <string>delete</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="spacer6">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Expanding</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>170</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="TabPage_2">
+      <attribute name="title">
+       <string>Material</string>
+      </attribute>
+      <layout class="QGridLayout" name="_19">
+       <item row="0" column="0">
+        <layout class="QVBoxLayout" name="_20">
+         <item>
+          <widget class="KSqueezedTextLabel" name="m_textDispMat"/>
+         </item>
+         <item>
+          <widget class="QLabel" name="textLabel2_2">
+           <property name="text">
+            <string>Needed materials for one unit of this template:</string>
+           </property>
+           <property name="wordWrap">
+            <bool>false</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="_21">
+           <item>
+            <widget class="QTreeWidget" name="m_matParts">
+             <property name="rootIsDecorated">
+              <bool>false</bool>
+             </property>
+             <property name="itemsExpandable">
+              <bool>false</bool>
+             </property>
+             <property name="columnCount">
+              <number>4</number>
+             </property>
+             <attribute name="headerStretchLastSection">
+              <bool>true</bool>
+             </attribute>
+             <column>
+              <property name="text">
+               <string>Label</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Amount</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Unit</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Price</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QVBoxLayout" name="_22">
+             <item>
+              <widget class="KPushButton" name="m_butAddMat">
+               <property name="toolTip">
+                <string>adds a new material calculation part</string>
+               </property>
+               <property name="text">
+                <string>new...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butEditMat">
+               <property name="toolTip">
+                <string>edits the current material part</string>
+               </property>
+               <property name="text">
+                <string>edit...</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="KPushButton" name="m_butRemoveMat">
+               <property name="toolTip">
+                <string>deletes the current material calculation part</string>
+               </property>
+               <property name="text">
+                <string>delete</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="spacer5_2_2">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeType">
+                <enum>QSizePolicy::Expanding</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>160</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QGroupBox" name="groupBox_2">
+     <property name="title">
+      <string>Price</string>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QRadioButton" name="m_rbManual">
+        <property name="text">
+         <string>&amp;manual:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="KDoubleNumInput" name="m_manualPriceVal">
+        <property name="minValue" stdset="0">
+         <number>0</number>
+        </property>
+        <property name="maxValue" stdset="0">
+         <number>99999</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="textLabel1">
+        <property name="text">
+         <string>Euro</string>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="spacer5">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Expanding</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>248</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="m_rbCalculation">
+        <property name="text">
+         <string>Calculated Price</string>
+        </property>
+        <property name="shortcut">
+         <string/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QGroupBox" name="groupBox_3">
+     <property name="title">
+      <string>Overall Price per Unit</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="0">
+       <widget class="QLabel" name="m_tLabelTime">
+        <property name="text">
+         <string>Time Calculation Part:</string>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLabel" name="m_textTimePart">
+        <property name="text">
+         <string comment="KDE::DoNotExtract">textLabel2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="m_tLabelFix">
+        <property name="text">
+         <string>Fix Costs Part:</string>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QLabel" name="m_textFixPart">
+        <property name="text">
+         <string comment="KDE::DoNotExtract">textLabel2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="m_tLabelMat">
+        <property name="text">
+         <string>Material Part:</string>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLabel" name="m_textMaterialPart">
+        <property name="text">
+         <string comment="KDE::DoNotExtract">textLabel2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="m_resPreisName">
+        <property name="text">
+         <string>Calculated Price:</string>
+        </property>
+        <property name="textFormat">
+         <enum>Qt::PlainText</enum>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QLabel" name="m_resultPrice">
+        <property name="toolTip">
+         <string/>
+        </property>
+        <property name="text">
+         <string>88.888,88 €</string>
+        </property>
+        <property name="textFormat">
+         <enum>Qt::PlainText</enum>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>KDoubleNumInput</class>
+   <extends>QWidget</extends>
+   <header>knuminput.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KSqueezedTextLabel</class>
+   <extends>QLabel</extends>
+   <header>ksqueezedtextlabel.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KPushButton</class>
+   <extends>QPushButton</extends>
+   <header>kpushbutton.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KComboBox</class>
+   <extends>QComboBox</extends>
+   <header>kcombobox.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>cbChapter</tabstop>
+  <tabstop>m_text</tabstop>
+  <tabstop>m_unit</tabstop>
+  <tabstop>m_addTime</tabstop>
+  <tabstop>spBenefit</tabstop>
+  <tabstop>pbRundPreis</tabstop>
+  <tabstop>cbMwst</tabstop>
+  <tabstop>m_rbManual</tabstop>
+  <tabstop>m_rbCalculation</tabstop>
+  <tabstop>m_timeParts</tabstop>
+  <tabstop>m_butAddTime</tabstop>
+  <tabstop>m_butEditTime</tabstop>
+  <tabstop>m_butRemoveTime</tabstop>
+  <tabstop>m_fixParts</tabstop>
+  <tabstop>m_butAddFix</tabstop>
+  <tabstop>m_butEditFix</tabstop>
+  <tabstop>m_butRemoveFix</tabstop>
+  <tabstop>m_matParts</tabstop>
+  <tabstop>m_butAddMat</tabstop>
+  <tabstop>m_butEditMat</tabstop>
+  <tabstop>m_butRemoveMat</tabstop>
+ </tabstops>
+ <includes>
+  <include location="local">kpushbutton.h</include>
+  <include location="local">kcombobox.h</include>
+  <include location="local">knuminput.h</include>
+ </includes>
+ <resources/>
+ <connections/>
+</ui>

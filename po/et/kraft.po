@@ -1,0 +1,3420 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marek Laane <bald@smail.ee>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-16 02:15+0000\n"
+"PO-Revision-Date: 2012-12-17 16:02+0200\n"
+"Last-Translator: Marek Laane <bald@smail.ee>\n"
+"Language-Team: Estonian <kde-et@linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Marek Laane"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bald@smail.ee"
+
+#: addeditchapterdialog.cpp:31
+msgid "Add/Edit Catalog Chapter"
+msgstr "Kataloogi jaotise lisamine või muutmine"
+
+#: addeditchapterdialog.cpp:45
+msgid "Create a new Catalog Chapter"
+msgstr "Uue kataloogijaotise loomine"
+
+#: addeditchapterdialog.cpp:49
+msgid "Chapter Name:"
+msgstr "Jaotise nimi:"
+
+#: addeditchapterdialog.cpp:53
+msgid "Chapter Description:"
+msgstr "Jaotise kirjeldus:"
+
+#: addeditchapterdialog.cpp:71
+#, kde-format
+msgid "Create new Catalog Chapter below chapter %1"
+msgstr "Kataloogi uue jaotise loomine jaotise %1 alla"
+
+#: addeditchapterdialog.cpp:78
+#, kde-format
+msgid "Edit name and description of chapter %1"
+msgstr "Jaotise %1 nime ja kirjelduse muutmine"
+
+#: addressselection.cpp:59
+msgid "Please select a contact from the list below: "
+msgstr "Palun vali kontakt allolevast loendist: "
+
+#: addressselection.cpp:71 akonadiaddressselector.cpp:172 docdigestview.cpp:68
+msgid "&Search: "
+msgstr "&Otsing: "
+
+#: addressselection.cpp:125 akonadiaddressselector.cpp:215
+msgid "New Contact..."
+msgstr "Uus kontakt..."
+
+#: akonadiaddressselector.cpp:206
+msgid "Display address book selection list and hide address details."
+msgstr ""
+"Aadressiraamatu valikuloendi näitamine ja aadressi üksikasjade peitmine"
+
+#: akonadiaddressselector.cpp:211
+msgid "Edit Contact..."
+msgstr "Muuda kontakti..."
+
+#: akonadiaddressselector.cpp:212
+msgid "Edit the currently selected contact"
+msgstr "Valitud kontakti muutmine"
+
+#: akonadiaddressselector.cpp:216
+msgid "Create a new Contact"
+msgstr "Uue kontakti loomine"
+
+#: archdoc.cpp:60 kraftdoc.cpp:196
+#, kde-format
+msgid "%1 for %2 (Id %3)"
+msgstr "%1 kliendile %2 (ID %3)"
+
+#: brunskatalog.cpp:43
+msgid "Select Bruns Catalog Data File"
+msgstr "Brunsi kataloogi andmefaili valimine"
+
+#: brunskatalog.cpp:55
+msgid "Select Bruns Catalog Key File"
+msgstr "Brunsi kataloogi võtmefaili valimine"
+
+#: brunskataloglistview.cpp:36
+msgctxt "Abbrev. for botanical name"
+msgid "Bot. Name"
+msgstr "Bot. nimi"
+
+#: brunskataloglistview.cpp:37
+msgctxt "Abbrev. for localized name"
+msgid "Name"
+msgstr "Nimi"
+
+#: brunskataloglistview.cpp:38
+msgctxt "Abbrev. for article identification number"
+msgid "Art. Id."
+msgstr "Art. ID."
+
+#: brunskataloglistview.cpp:39
+msgctxt "Abbrev. for article Matchcode"
+msgid "Art. Match."
+msgstr "Art. kood"
+
+#: brunskataloglistview.cpp:42
+msgid "Catalog"
+msgstr "Kataloog"
+
+#: brunskataloglistview.cpp:110
+msgid "Fruits"
+msgstr "Puuviljad"
+
+#: brunskataloglistview.cpp:114
+msgid "Azalea and Rhododendrons"
+msgstr "Asalead ja rododendronid"
+
+#: brunskataloglistview.cpp:118
+msgid "Roses"
+msgstr "Roosid"
+
+#: brunskataloglistview.cpp:122
+msgctxt "botanical"
+msgid "Bushes"
+msgstr "Põõsad"
+
+#: brunskataloglistview.cpp:126
+msgctxt "Various plants (bot.)"
+msgid "Others"
+msgstr "Muu"
+
+#: brunskatalogview.cpp:61
+msgid "Plant Details (Sizes, Root Forms etc.):"
+msgstr "Taime üksikasjad (suurus, juurekuju jms.):"
+
+#: brunskatalogview.cpp:67 insertplantdialog.cpp:55
+msgid "Matchcode"
+msgstr "Kaubakood"
+
+#: brunskatalogview.cpp:68 insertplantdialog.cpp:56
+msgid "Form"
+msgstr "Vorm"
+
+#: brunskatalogview.cpp:69 insertplantdialog.cpp:57
+msgid "Form Add"
+msgstr "Vormi lisa"
+
+#: brunskatalogview.cpp:70
+msgid "Wuchs"
+msgstr "Kõrgus"
+
+#: brunskatalogview.cpp:71 insertplantdialog.cpp:59
+msgid "Root"
+msgstr "Juur"
+
+#: brunskatalogview.cpp:72 insertplantdialog.cpp:60
+msgid "Quality"
+msgstr "Kvaliteet"
+
+#: brunskatalogview.cpp:73 insertplantdialog.cpp:61
+msgid "Group"
+msgstr "Rühm"
+
+#: calcpart.cpp:117
+msgid "Base"
+msgstr "Baas"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, d_calcTempl)
+#: calctemplate.ui:14
+msgid "Edit Template"
+msgstr "Malli muutmine"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget8)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:27 calctemplate.ui:75 templkataloglistview.cpp:44
+#: texteditdialog.cpp:64
+msgid "Template"
+msgstr "Mall"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: calctemplate.ui:53
+msgid "&Store in Chapter"
+msgstr "&Salvestatakse jaotises"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: calctemplate.ui:96
+msgid "&Unit"
+msgstr "Ü&hik:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_addTime)
+#: calctemplate.ui:128
+msgid "&Count Time for Overalltime"
+msgstr "A&ja arvestamine koguajana"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: calctemplate.ui:142
+msgid "Margin"
+msgstr "Marginaal"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, spBenefit)
+#: calctemplate.ui:161
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (KPushButton, pbRundPreis)
+#: calctemplate.ui:177
+msgid "round"
+msgstr "Ümarda"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: calctemplate.ui:203 kraftview_ro.cpp:220 kraftview_ro.cpp:257
+#: reportgenerator.cpp:333
+msgid "VAT"
+msgstr "Käibemaks"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:214
+msgid "full"
+msgstr "normaalne"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:219
+msgid "half"
+msgstr "soodus"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget9)
+#: calctemplate.ui:235
+msgid "Time Calculation"
+msgstr "Ajaarvestus"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: calctemplate.ui:246
+msgid "Time measureable effort for this template:"
+msgstr "Malli ajaline mõõde:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:271 calctemplate.ui:390 calctemplate.ui:499
+msgid "Label"
+msgstr "Pealdis"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:276
+msgid "Duration"
+msgstr "Kestus"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:281
+msgid "Hourly Rate"
+msgstr "Tunnitasu"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:286
+msgid "Glob. Rate"
+msgstr "Glob. tasu"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddTime)
+#: calctemplate.ui:296
+msgid "Adds a new time calculation part to the template"
+msgstr "Uue ajaarvestuse komponendi lisamine mallile"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:299 calctemplate.ui:413 calctemplate.ui:527
+msgid "new..."
+msgstr "Uus..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditTime)
+#: calctemplate.ui:306
+msgid "Edits the current time calculation part"
+msgstr "Aktiivse ajaarvestuse komponendi muutmine"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:309 calctemplate.ui:423 calctemplate.ui:537
+msgid "edit..."
+msgstr "Muuda..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveTime)
+#: calctemplate.ui:316
+msgid "Deletes the current time calculation part"
+msgstr "Aktiivse ajaarvestuse komponendi kustutamine"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:319 calctemplate.ui:433 calctemplate.ui:547
+msgid "delete"
+msgstr "Kustuta"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: calctemplate.ui:349
+msgid "Fix Costs"
+msgstr "Püsikulud"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: calctemplate.ui:360
+msgid "Fix costs for this template per one unit:"
+msgstr "Malli püsikulud ühiku kohta:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:385 calctemplate.ui:504
+msgid "Amount"
+msgstr "Kogus"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:395
+msgid "Single Price"
+msgstr "Ühikuhind"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:400
+msgid "Overall Price"
+msgstr "Koguhind"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddFix)
+#: calctemplate.ui:410
+msgid "adds a new fix calculation part"
+msgstr "Uue püsikulu arvestuse komponendi lisamine"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditFix)
+#: calctemplate.ui:420
+msgid "edits the current fix calculation part"
+msgstr "Aktiivse püsikulu komponendi muutmine"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveFix)
+#: calctemplate.ui:430
+msgid "deletes the current fix calculation part"
+msgstr "Aktiivse püsikulu komponendi kustutamine"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage_2)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:463 kraftglobals.h:29 materialdialog.ui:68
+#: materialkataloglistview.cpp:37
+msgid "Material"
+msgstr "Materjal"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: calctemplate.ui:474
+msgid "Needed materials for one unit of this template:"
+msgstr "Malli ühikule vajalikud materjalid:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:509 materialkataloglistview.cpp:39
+msgid "Unit"
+msgstr "Ühik"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: calctemplate.ui:514 calctemplate.ui:580 templkataloglistview.cpp:45
+msgid "Price"
+msgstr "Hind"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:524
+msgid "adds a new material calculation part"
+msgstr "Uue materjaliarvestuse komponendi lisamine"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:534
+msgid "edits the current material part"
+msgstr "Aktiivse materjalikomponendi muutmine"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:544
+msgid "deletes the current material calculation part"
+msgstr "Aktiivse materjalikomponendi kustutamine"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbManual)
+#: calctemplate.ui:586
+msgid "&manual:"
+msgstr "&Käsitsi:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: calctemplate.ui:603
+msgid "Euro"
+msgstr "eurot"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbCalculation)
+#: calctemplate.ui:629
+msgid "Calculated Price"
+msgstr "Arvutatud hind"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: calctemplate.ui:642
+msgid "Overall Price per Unit"
+msgstr "Koguhind ühiku kohta"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelTime)
+#: calctemplate.ui:648
+msgid "Time Calculation Part:"
+msgstr "Ajaarvestuse komponent"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelFix)
+#: calctemplate.ui:671
+msgid "Fix Costs Part:"
+msgstr "Püsikulude komponent"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelMat)
+#: calctemplate.ui:694
+msgid "Material Part:"
+msgstr "Materjalikomponent"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resPreisName)
+#: calctemplate.ui:717
+msgid "Calculated Price:"
+msgstr "Arvutatud hind:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resultPrice)
+#: calctemplate.ui:733
+msgid "88.888,88 €"
+msgstr "88.888,88 €"
+
+#: catalogselection.cpp:56
+msgid "Selected &Catalog: "
+msgstr "Valitud &kataloog: "
+
+#: catalogselection.cpp:149 catalogselection.cpp:164 catalogselection.cpp:173
+msgid "Append to Document"
+msgstr "Lisa dokumenti"
+
+#: catalogtemplate.cpp:50
+msgid "Manual Price"
+msgstr "Käsitsi hind"
+
+#: catalogtemplate.cpp:52
+msgid "Calculated"
+msgstr "Arvutatud"
+
+#: catalogtemplate.cpp:54
+msgid "AutoCalc"
+msgstr "Automaatne arvutus"
+
+#: catalogtemplate.cpp:55
+#, c-format
+msgid "Err: Unknown type %d"
+msgstr "Tõrge: tundmatu tüüp %d"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: createdb.ui:17
+msgid "Database creation and initial schema setup:"
+msgstr "Andmebaasi loomine ja algne skeemi häälestamine:"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateCounter)
+#. i18n: ectx: property (text), widget (QLabel, mFillCounter)
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeCounter)
+#: createdb.ui:36 createdb.ui:80 upgradedb.ui:39
+msgid "0 / 129"
+msgstr "0 / 129"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateIcon)
+#. i18n: ectx: property (text), widget (QLabel, mFillIcon)
+#: createdb.ui:49 createdb.ui:93 upgradedb.ui:52
+msgid "X"
+msgstr "X"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: createdb.ui:61
+msgid "Filling the database with initial values:"
+msgstr "Andmebaasi täitmine algsete väärtustega:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: createdb.ui:113 upgradedb.ui:72
+msgid "Status: "
+msgstr "Olek: "
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateStatus)
+#: createdb.ui:123
+#, fuzzy
+#| msgid "Database setup status...."
+msgid "Database setup status..."
+msgstr "Andmebaasi häälestamise olek..."
+
+#. i18n: ectx: label, entry (BrunsDataFile), group (bruns)
+#: databasesettings.kcfg:7
+msgid "Bruns Data File:"
+msgstr "Brunsi andmefail:"
+
+#. i18n: ectx: label, entry (BrunsKeyFile), group (bruns)
+#: databasesettings.kcfg:10
+msgid "Bruns Key File:"
+msgstr "Brunsi võtmefail:"
+
+#. i18n: ectx: label, entry (DbDriver), group (database selection)
+#: databasesettings.kcfg:15
+msgid "Qt Database Driver:"
+msgstr "Qt andmebaasidraiver:"
+
+#. i18n: ectx: label, entry (DbServerName), group (mysql settings)
+#: databasesettings.kcfg:20
+msgid "Database Server:"
+msgstr "Andmebaasi server:"
+
+#. i18n: ectx: label, entry (DbDatabaseName), group (mysql settings)
+#: databasesettings.kcfg:24
+msgid "Database Name"
+msgstr "Andmebaasi nimi"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: label, entry (DbUser), group (mysql settings)
+#: databasesettings.kcfg:27 mysqldetails.ui:51
+msgid "Database User:"
+msgstr "Andmebaasi kasutaja:"
+
+#. i18n: ectx: label, entry (DbPassword), group (mysql settings)
+#: databasesettings.kcfg:31
+msgid "Database Password:"
+msgstr "Andmebaasi parool:"
+
+#. i18n: ectx: label, entry (DefaultDbName), group (mysql settings)
+#: databasesettings.kcfg:34
+msgid "The default database name when creating new databases"
+msgstr "Vaikimisi andmebaasi nimi uute andmebaaside loomisel"
+
+#. i18n: ectx: label, entry (DbFile), group (Sqlite settings)
+#: databasesettings.kcfg:39
+msgid "File Name"
+msgstr "Failinimi"
+
+#. i18n: ectx: label, entry (DbPath), group (Sqlite settings)
+#: databasesettings.kcfg:42
+msgid "The path where database file are stored. Leave empty!"
+msgstr "Asukoht, kuhu on salvestatud andmebaasifail. Jäta tühjaks!"
+
+#. i18n: ectx: property (text), widget (QLabel, mInfoText)
+#: dbinit.ui:19
+msgid "Database Update:"
+msgstr "Andmebaasi uuendus:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: dbinit.ui:34
+msgid "Overall Progress:"
+msgstr "Üldine edenemine:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: dbinit.ui:55
+msgid "Detail Progress:"
+msgstr "Üksikasjalik edenemine:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: dbinit.ui:76
+msgid "Status:"
+msgstr "Olek:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dbselect.ui:21
+#, fuzzy
+#| msgid ""
+#| "Kraft uses a database backend to store values. By default it uses a file "
+#| "based database with easy setup targetted to single user mode.\n"
+#| "\n"
+#| "Please select the database backend you want to use:"
+msgid ""
+"Kraft uses a database backend to store values. By default it uses a file "
+"based database with easy setup targeted to single user mode.\n"
+"\n"
+"Please select the database backend you want to use:"
+msgstr ""
+"Kraft kasutab väärtuste salvestamiseks andmebaasi taustaprogrammi. Vaikimisi "
+"kasutatakse failipõhist andmebaasi, mida üksikkasutajal on hõlpus "
+"häälestada.\n"
+"\n"
+"Palun vali andmebaasi taustaprogramm, mida soovid kasutada:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbSqlite3)
+#: dbselect.ui:31
+msgid "SQLite 3 - file based database (default)"
+msgstr "SQLite 3 - failipõhine andmebaas (vaikimisi)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbMySQL)
+#: dbselect.ui:41
+msgid "MySQL Serverbased Database for advanced Setups"
+msgstr "MySQL-i serveripõhine andmebaas keerukama häälestusega"
+
+#: defaultprovider.cpp:51 doctext.cpp:89 positionviewwidget.cpp:420
+msgid "Unknown"
+msgstr "Tundmatu"
+
+#: docassistant.cpp:60
+msgid "Show Templates"
+msgstr "Näita malle"
+
+#: docassistant.cpp:65
+msgid "Show mask to create or select templates to be used in the document"
+msgstr "Maski näitamine dokumendis kasutatava malli loomiseks või valimiseks"
+
+#: docassistant.cpp:128
+msgid "Add a template to the document"
+msgstr "Malli lisamine dokumenti"
+
+#: docassistant.cpp:134
+msgid "Create a new template"
+msgstr "Uue malli loomine"
+
+#: docassistant.cpp:141
+msgid "Edit the current template"
+msgstr "Aktiivse malli muutmine"
+
+#: docassistant.cpp:148
+msgid "Delete the current template"
+msgstr "Aktiivse malli kustutamine"
+
+#: docassistant.cpp:299
+msgid ""
+"Do you really want to delete the template permanently? There is no way to "
+"recover!"
+msgstr "Kas tõesti kustutada mall jäädavalt? Seda ei saa enam taastada!"
+
+#: docdigestdetailview.cpp:123
+msgid "Date"
+msgstr "Kuupäev"
+
+#: docdigestdetailview.cpp:126 models/documentmodel.cpp:65
+msgid "Whiteboard"
+msgstr "Kirjeldus"
+
+#: docdigestdetailview.cpp:131 models/documentmodel.cpp:69
+msgid "Project"
+msgstr "Projekt"
+
+#: docdigestdetailview.cpp:135
+msgid "Customer"
+msgstr "Klient"
+
+#: docdigestdetailview.cpp:146
+msgid "The address is not listed in an address book."
+msgstr "Aadress puudub aadressiraamatus"
+
+#: docdigestdetailview.cpp:148
+#, kde-format
+msgid ""
+"The client has the address book id %1 but can not found in our address books."
+msgstr ""
+"Kliendi aadressiraamatu ID on %1, aga seda pole meie aadressiraamatutes."
+
+#: docdigestdetailview.cpp:151
+msgid "The client can be found in our address books."
+msgstr "Klient leidub meie aadressiraamatutes."
+
+#: docdigestdetailview.cpp:162 prefsdialog.cpp:424
+msgid "preferred address"
+msgstr "Eelistatud aadress"
+
+#: docdigestdetailview.cpp:166 prefsdialog.cpp:428
+msgid "home address"
+msgstr "Kodune aadress"
+
+#: docdigestdetailview.cpp:170 prefsdialog.cpp:432
+msgid "work address"
+msgstr "Tööaadress"
+
+#: docdigestdetailview.cpp:174 prefsdialog.cpp:436
+msgid "postal address"
+msgstr "Postiaadress"
+
+#: docdigestdetailview.cpp:178 prefsdialog.cpp:440
+msgid "international address"
+msgstr "Rahvusvaheline aadress"
+
+#: docdigestdetailview.cpp:182 prefsdialog.cpp:444
+msgid "domestic address"
+msgstr "Kodumaine aadress"
+
+#: docdigestdetailview.cpp:186 prefsdialog.cpp:448
+msgid "unknown"
+msgstr "Teadmata"
+
+#: docdigestdetailview.cpp:209
+msgid "This document was never printed."
+msgstr "Dokumenti ei ole kunagi trükitud."
+
+#. i18n: ectx: ToolBar (documentToolBar)
+#: docdigestview.cpp:114 docdigestview.cpp:116 docdigestview.cpp:118
+#: kraftui.rc:21 portal.cpp:220
+msgid "Document Actions"
+msgstr "Dokumendi toimingud"
+
+#: docdigestview.cpp:135
+msgid "Latest Documents"
+msgstr "Viimati kasutatud dokumendid"
+
+#: docdigestview.cpp:137
+msgid "Shows the latest ten documents"
+msgstr "Viimase kümne dokumendi näitamine"
+
+#: docdigestview.cpp:155
+msgid "All Documents"
+msgstr "Kõik dokumendid"
+
+#: docdigestview.cpp:157
+msgid "Shows a complete list of all documents"
+msgstr "Kõigi dokumentide täielik loend"
+
+#: docdigestview.cpp:175
+msgid "Timelined Documents"
+msgstr "Dokumendid aja järgi"
+
+#: docdigestview.cpp:177
+msgid "Shows all documents along a timeline"
+msgstr "Kõik dokumendid ajateljel"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: docfooter.ui:36
+msgid "Footer Texts"
+msgstr "Jaluse tekst"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: docfooter.ui:42
+msgid "&Summary Text on Last Page:"
+msgstr "&Kokkuvõttev tekst viimasel leheküljel:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docfooter.ui:66
+msgid "&Greeting:"
+msgstr "Lõputer&vitus:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, _taxGroup)
+#: docfooter.ui:94 positionviewwidget.cpp:104
+msgid "Tax"
+msgstr "Maks"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docfooter.ui:100
+msgid "Document &Tax:"
+msgstr "Dokumendi &maks:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docheader.ui:64
+msgid "&Project:"
+msgstr "&Projekt:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docheader.ui:80
+msgid "&Whiteboard:"
+msgstr "Kir&jeldus:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mProjectLabelEdit)
+#: docheader.ui:104
+msgid ""
+"Enter a label that describes the project. This may appear on the customer "
+"document."
+msgstr ""
+"Kirjuta siia tekst, mis kirjeldab projekti. See võib olla näha kliendi "
+"dokumendis."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: docheader.ui:160
+msgid "Postal &Address:"
+msgstr "Posti&aadress:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labName)
+#: docheader.ui:178
+msgid "not selected"
+msgstr "pole valitud"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:204
+msgid "Select an addressee from the address books."
+msgstr "Vali aadressiraamatust adressaat."
+
+#. i18n: ectx: property (text), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:207
+msgid "select..."
+msgstr "Vali..."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: docheader.ui:232
+msgid "&Salutatory Address:"
+msgstr "&Pöördumine:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: docheader.ui:245
+msgid "Customer:"
+msgstr "Klient:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: docheader.ui:273
+msgid "&Entry Text on First Page:"
+msgstr "Sissejuhatav t&ekst esimesel leheküljel:"
+
+#: doclocaledialog.cpp:45
+msgid "Document Locale Settings"
+msgstr "Dokumendi lokaadi seadistused"
+
+#: doclocaledialog.cpp:54
+#, fuzzy
+#| msgid "<h2>Document Localisation</h2>"
+msgid "<h2>Document Localization</h2>"
+msgstr "<h2>Dokumendi lokalisatsioon</h2>"
+
+#: doclocaledialog.cpp:57
+msgid ""
+"Select country and language for the document.\n"
+"That influences the formatting of numbers, dates etc."
+msgstr ""
+"Vali dokumendi riik ja keel.\n"
+"See mõjutab arvude vormingut, kuupäevi jms."
+
+#: doclocaledialog.cpp:65
+msgid "Country: "
+msgstr "Riik: "
+
+#: doclocaledialog.cpp:74
+msgid "Language:"
+msgstr "Keel:"
+
+#: doclocaledialog.cpp:118
+#, kde-format
+msgid ""
+"Money: %1\n"
+"Date: %2\n"
+"Date (short): %3"
+msgstr ""
+"Valuuta: %1\n"
+"Kuupäev: %2\n"
+"Kuupäev (lühivorm): %3"
+
+#: docpostcard.cpp:36
+msgid "Document Overview"
+msgstr "Dokumendi ülevaade"
+
+#: docpostcard.cpp:121
+msgid "Netto:"
+msgstr "Netohind:"
+
+#: docpostcard.cpp:132 docpostcard.cpp:139
+#, kde-format
+msgid "+ %1% Tax:"
+msgstr "+ %1% maks:"
+
+#: docpostcard.cpp:145
+msgid "Sum Tax:"
+msgstr "Kogumaks:"
+
+#: docpostcard.cpp:150
+msgid "Total:"
+msgstr "Kokku:"
+
+#: docpostcard.cpp:191 docpostcard.cpp:241 kraftdoc.cpp:359
+msgid "Header"
+msgstr "Päis"
+
+#: docpostcard.cpp:220 docpostcard.cpp:261 kraftdoc.cpp:361
+msgid "Footer"
+msgstr "Jalus"
+
+#: docpostcard.cpp:249
+#, fuzzy, kde-format
+#| msgid "1 Item"
+msgid "%1 Items"
+msgstr "1 element"
+
+#: docpostcard.cpp:251
+#, fuzzy, kde-format
+#| msgid " %1 Positions, netto %2"
+msgid "%1 Items, netto %2"
+msgstr " %1 positsiooni, neto %2"
+
+#: docpostcard.cpp:253 doctext.cpp:87
+msgid "Positions"
+msgstr "Positsioonid"
+
+#: doctext.cpp:61
+msgid "Standard"
+msgstr "Standardne"
+
+#: doctext.cpp:85
+msgid "Header Text"
+msgstr "Päise tekst"
+
+#: doctext.cpp:86
+msgid "Footer Text"
+msgstr "Jaluse tekst"
+
+#: doctypeedit.cpp:130 doctypeedit.cpp:155
+msgid "Add Document Type"
+msgstr "Dokumenditüübi lisamine"
+
+#: doctypeedit.cpp:131
+msgid "Enter the name of a new document type"
+msgstr "Kirjuta uue dokumenditüübi nimi"
+
+#: doctypeedit.cpp:156
+msgid "Edit the name of a document type"
+msgstr "Muuda dokumenditüübi nime"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:43 numbercycleseditbase.ui:168
+msgid "Click to add a new document type to the list."
+msgstr "Klõpsa uue dokumenditüübi lisamiseks loendisse."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:46 prefsdialog.cpp:129 prefsunits.cpp:77
+#: prefswages.cpp:88
+msgid "Add"
+msgstr "Lisa"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:53
+msgid "click to edit the selected document type name"
+msgstr "Klõpsa valitud dokumenditüübi nime muutmiseks"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:56 prefsunits.cpp:81 prefswages.cpp:92
+msgid "Edit"
+msgstr "Muuda"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:63 numbercycleseditbase.ui:178
+msgid "click to remove the current document type"
+msgstr "Klõpsa dokumenditüübi eemaldamiseks"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:66 portalview.cpp:154 prefsdialog.cpp:133
+#: prefsunits.cpp:86 prefswages.cpp:97
+msgid "Remove"
+msgstr "Eemalda"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: doctypeeditbase.ui:77
+msgid "Unique Document Number"
+msgstr "Dokumendi unikaalne number"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: doctypeeditbase.ui:85
+msgid "Number &Cycle:"
+msgstr "Nummer&dus:"
+
+#. i18n: ectx: property (text), widget (QLabel, mExampleId)
+#. i18n: ectx: property (text), widget (QLabel, mCounter)
+#. i18n: ectx: property (text), widget (QLabel, mIdent)
+#: doctypeeditbase.ui:105 doctypeeditbase.ui:138 doctypeeditbase.ui:151
+#: numbercycleseditbase.ui:108
+msgid "example"
+msgstr "Näide"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: doctypeeditbase.ui:118
+msgid "ident Template:"
+msgstr "ID mall:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3_2)
+#: doctypeeditbase.ui:128 numbercycleseditbase.ui:75
+msgid "Example Id:"
+msgstr "Näidis-ID:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: doctypeeditbase.ui:164
+msgid "Counter:"
+msgstr "Loendur:"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEditCycles)
+#: doctypeeditbase.ui:194
+msgid "&Edit Number Cycles..."
+msgstr "&Muuda nummerdusi..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2_2)
+#: doctypeeditbase.ui:222
+msgid "Template for PDF Creation"
+msgstr "PDF-i loomise mall"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: doctypeeditbase.ui:228
+msgid "&Template File"
+msgstr "Malli&fail"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: doctypeeditbase.ui:257
+msgid "W&atermark:"
+msgstr "V&esimärk:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:271
+msgid "no watermark"
+msgstr "vesimärk puudub"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:276
+msgid "on first page"
+msgstr "esimesel leheküljel"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:281
+msgid "on all pages"
+msgstr "kõigil lehekülgedel"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: doctypeeditbase.ui:289
+msgid "&Watermark File"
+msgstr "&Vesimärgifail"
+
+#: external/ktreeviewsearchline.cpp:530
+msgid "Search Options"
+msgstr "Otsimisvalikud"
+
+#: external/ktreeviewsearchline.cpp:531
+msgctxt "Enable case sensitive search in the side navigation panels"
+msgid "Case Sensitive"
+msgstr "Tõstutundlik"
+
+#: external/ktreeviewsearchline.cpp:534
+msgctxt "Enable regular expression search in the side navigation panels"
+msgid "Regular Expression"
+msgstr "Regulaaravaldis"
+
+#: external/ktreeviewsearchline.cpp:540
+msgid "Search Columns"
+msgstr "Otsinguveerud"
+
+#: external/ktreeviewsearchline.cpp:542
+msgid "All Visible Columns"
+msgstr "Kõik nähtavad veerud"
+
+#: external/ktreeviewsearchline.cpp:708
+msgid "S&earch:"
+msgstr "&Otsing:"
+
+#: filterheader.cpp:61 filterheader.cpp:90
+msgid "No Items"
+msgstr "Elemendid puuduvad"
+
+#: filterheader.cpp:62 filterheader.cpp:91
+msgid "1 Item"
+msgstr "1 element"
+
+#: filterheader.cpp:63 filterheader.cpp:92
+#, kde-format
+msgid "%1 of %2 Items"
+msgstr "%1 element (kokku %2)"
+
+#: filterheader.cpp:75 filterheader.cpp:104
+msgid "Search:"
+msgstr "Otsing:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailFix)
+#: fixpartui.ui:14
+msgid "Calculation Parts Fix"
+msgstr "Püsikulude arvutamine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: fixpartui.ui:20
+msgid "<h1>Fix Cost Parts</h1>"
+msgstr "<h1>Püsikulu komponent</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: fixpartui.ui:30
+msgid "Add a fix cost for one unit of the template:"
+msgstr "Malli ühiku püsikulu lisamine:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: fixpartui.ui:45 timepart.ui:48
+msgid "&Label:"
+msgstr "Pea&ldis:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:58
+msgid "describing text"
+msgstr "Kirjeldav tekst"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:61
+msgid "amortisation"
+msgstr "amortisatsioon"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: fixpartui.ui:72 matpartui.ui:77
+msgid "&Amount:"
+msgstr "Ko&gus:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#: fixpartui.ui:85
+msgid "amount multiplier"
+msgstr "Koguse kordaja"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: fixpartui.ui:98
+msgid "at &Price:"
+msgstr "&hinnaga:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:114 matpartui.ui:90
+msgid "Price for one piece"
+msgstr "Ühe ühiku hind"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:123
+msgid "€"
+msgstr "€"
+
+#: flostempldialog.cpp:70
+msgid "Create or Edit Template Items"
+msgstr "Malli elementide loomine või muutmine"
+
+#: flostempldialog.cpp:208 flostempldialog.cpp:562
+msgid "No"
+msgstr "Ei"
+
+#: flostempldialog.cpp:209 flostempldialog.cpp:562
+msgid "Yes"
+msgstr "Jah"
+
+#: flostempldialog.cpp:246
+msgid "Calculated Price: "
+msgstr "Arvutatud hind: "
+
+#: flostempldialog.cpp:251
+msgid "Manual Price: "
+msgstr "Käsitsi hind: "
+
+#: flostempldialog.cpp:256
+#, kde-format
+msgid "(+%1%)"
+msgstr "(+%1%)"
+
+#: flostempldialog.cpp:260
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: flostempldialog.cpp:262
+msgid ": "
+msgstr ": "
+
+#: flostempldialog.cpp:369
+msgid "Saving of this template failed, sorry"
+msgstr "Vabandust, selle malli salvestamine nurjus"
+
+#: flostempldialog.cpp:370
+msgid "Template Save Error"
+msgstr "Malli salvestamise tõrge"
+
+#: flostempldialog.cpp:398
+msgid "The template was modified. Do you really want to discard all changes?"
+msgstr "Malli on muudetud. Kas tõesti unustada kõik muudatused?"
+
+#: flostempldialog.cpp:400 kraftview.cpp:1387
+msgid "Discard"
+msgstr "Unusta"
+
+#: flostempldialog.cpp:400
+msgid "Template Modified"
+msgstr "Malli on muudetud"
+
+#: flostempldialog.cpp:425
+msgid ""
+"The catalog chapter was changed for this template.\n"
+"Do you really want to move the template to the new chapter?"
+msgstr ""
+"Selle malli kataloogijaotist on muudetud.\n"
+"Kas tõesti liigutada mall uude jaotisse?"
+
+#: flostempldialog.cpp:426
+msgid "Changed Chapter"
+msgstr "Jaotise muutmine"
+
+#: flostempldialog.cpp:560
+#, kde-format
+msgid "%1 Min."
+msgstr "%1 min."
+
+#: flostempldialog.h:101
+msgid "Calculated material"
+msgstr "Arvestatud materjal"
+
+#: imporst.cpp:29
+msgid "Kraft Import Test App"
+msgstr "Krafti impordi testrakendus"
+
+#: imporst.cpp:42
+msgid "Kraft import test app"
+msgstr "Krafti impordi testrakendus"
+
+#: importfilter.cpp:51
+#, kde-format
+msgid "Unable to find filter called %1"
+msgstr "Filtrit nimega %1 ei leitud"
+
+#: importfilter.cpp:59
+msgid "Could not open the definition file!"
+msgstr "Definitsioonifaili avamine nurjus!"
+
+#: importfilter.cpp:143
+msgid "Unknown tags: "
+msgstr "Tundmatud sildid: "
+
+#: importfilter.cpp:184
+msgid "Could not recode input file!"
+msgstr "Sisendfaili ümberkodeerimine nurjus!"
+
+#: importfilter.cpp:192
+msgid "Unable to open temp file "
+msgstr "Ajutise faili avamine nurjus "
+
+#: importfilter.cpp:198
+msgid "Could not open the import source file!"
+msgstr "Impordi allikafaili avamine nurjus!"
+
+#: importitemdialog.cpp:47
+msgid "Import Items From File"
+msgstr "Elementide import failist"
+
+#: importitemdialog.cpp:109
+msgid "the Header of the Document"
+msgstr "dokumendi päis"
+
+#: importitemdialog.cpp:118 templtopositiondialogbase.cpp:57
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: importtodocbase.ui:32
+msgid "Import Document Items"
+msgstr "Dokumendi elementide import"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: importtodocbase.ui:47
+msgid "Import information"
+msgstr "Impordiandmed"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: importtodocbase.ui:53
+msgid "Select a &File to import from:"
+msgstr "&Fail, millest importida:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: importtodocbase.ui:71
+msgid "Import &Schema:"
+msgstr "Import&skeem:"
+
+#. i18n: ectx: property (text), widget (QLabel, mSchemaInfo)
+#: importtodocbase.ui:95
+msgid "this is interesting information about the selected schema"
+msgstr "Vajalik teave valitud skeemi kohta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: importtodocbase.ui:116
+msgid "Insert all Items &after"
+msgstr "Kõik &elemendid lisatakse pärast elementi"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mTagGroup)
+#: importtodocbase.ui:137 inserttmplbase.ui:204
+msgid "Tags"
+msgstr "Sildid"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: insertplantbase.ui:32
+msgid "Create Plant Item"
+msgstr "Taimeelemendi loomine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: insertplantbase.ui:51
+msgid "Select a plant size:"
+msgstr "Taime suurus:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: insertplantbase.ui:94 inserttmplbase.ui:56
+msgid "insert"
+msgstr "Lisatakse"
+
+#. i18n: ectx: property (text), widget (QLabel, dmUnitText)
+#: insertplantbase.ui:107
+msgid "pieces at a single price of"
+msgstr "tükki ühikuhinnaga"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: insertplantbase.ui:157
+msgid "&after"
+msgstr "&pärast"
+
+#: insertplantdialog.cpp:58
+msgid "Growth"
+msgstr "Kasv"
+
+#: insertplantdialog.cpp:90
+#, kde-format
+msgid "(price entered in %1/%2)"
+msgstr "(hind sisestatud %1/%2)"
+
+#: inserttempldialog.cpp:103
+msgid "Create a new Item"
+msgstr "Uue elemendi loomine"
+
+#: inserttempldialog.cpp:105
+msgid "Create a new Item from Template"
+msgstr "Uue elemendi loomine malli põhjal"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: inserttmplbase.ui:30
+msgid "Create Item from Template"
+msgstr "Elemendi loomine malli põhjal"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: inserttmplbase.ui:45
+msgid "Edit New Template"
+msgstr "Uue malli muutmine"
+
+#. i18n: ectx: property (text), widget (QLabel, priceBoxTextLabel)
+#: inserttmplbase.ui:76
+msgid "à"
+msgstr "à"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: inserttmplbase.ui:113
+msgid "&after position"
+msgstr "&pärast positsiooni"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mKeepGroup)
+#: inserttmplbase.ui:150
+msgid "Keep Template"
+msgstr "Malli säilitamine"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCbSave)
+#: inserttmplbase.ui:158
+msgid "&save this as a template"
+msgstr "&Salvestatakse mallina"
+
+#. i18n: ectx: property (text), widget (QLabel, mChapterText)
+#: inserttmplbase.ui:165
+msgid "in &chapter"
+msgstr "&jaotises"
+
+#: katalog.cpp:137 models/documentmodel.cpp:133
+msgid "not found"
+msgstr "ei leitud"
+
+#: kataloglistview.cpp:338
+msgid "A catalog chapter can not be deleted as long it has children."
+msgstr ""
+
+#: kataloglistview.cpp:339
+msgid "Chapter can not be deleted"
+msgstr ""
+
+#: katalogview.cpp:164
+msgid "Edit Sub chapter"
+msgstr "Muuda alljaotist"
+
+#: katalogview.cpp:166
+msgid "Edit a catalog sub chapter"
+msgstr "Kataloogi alljaotise muutmine"
+
+#: katalogview.cpp:170
+msgid "Add a sub chapter"
+msgstr "Lisa alljaotis"
+
+#: katalogview.cpp:172
+msgid "Add a sub chapter below the selected one"
+msgstr "Alljaotise lisamine valitud jaotise alla"
+
+#: katalogview.cpp:176 katalogview.cpp:178
+msgid "Remove a sub chapter"
+msgstr "Eemalda alljaotis"
+
+#: katalogview.cpp:182
+msgid "Edit template"
+msgstr "Muuda malli"
+
+#: katalogview.cpp:184
+msgid "Opens the editor window for templates to edit the selected one"
+msgstr "Malliredaktori akna avaine valitud malli muutmiseks"
+
+#: katalogview.cpp:188
+msgid "New template"
+msgstr "Uus mall"
+
+#: katalogview.cpp:191
+msgid "Opens the editor window for templates to enter a new template"
+msgstr "Malliredaktori akna avamine uue malli lisamiseks"
+
+#: katalogview.cpp:195
+msgid "Delete template"
+msgstr "Kustuta mall"
+
+#: katalogview.cpp:198
+msgid "Deletes the template"
+msgstr "Malli kustutamine"
+
+#: katalogview.cpp:202
+msgid "Export catalog"
+msgstr "Ekspordi kataloog"
+
+#: katalogview.cpp:203
+msgid "Export the whole catalog as XML encoded file"
+msgstr "Kogu kataloogi eksport XML-failina"
+
+#: katalogview.cpp:207
+msgid "Close the katalog view"
+msgstr "Kataloogivaate sulgemine"
+
+#: katalogview.cpp:210
+msgid "Prints out the current document"
+msgstr "Aktiivse dokumendi trükkimine"
+
+#: katalogview.cpp:214 portal.cpp:164
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "Valitud teksti lõikamine ja asetamine lõikepuhvrisse"
+
+#: katalogview.cpp:218 portal.cpp:165
+msgid "Copies the selected section to the clipboard"
+msgstr "Valitud lõigu kopeerimine lõikepuhvrisse"
+
+#: katalogview.cpp:222 portal.cpp:166
+msgid "Pastes the clipboard contents to current position"
+msgstr "Lõikepuhvri sisu asetamine praegusesse asukohta"
+
+#: katalogview.cpp:239 katalogview.cpp:271
+msgid "Opening file..."
+msgstr "Faili avamine..."
+
+#: katalogview.cpp:241 katalogview.cpp:265 katalogview.cpp:280
+#: katalogview.cpp:290 katalogview.cpp:300 katalogview.cpp:313
+#: katalogview.cpp:321 katalogview.cpp:328 katalogview.cpp:335
+#: katalogview.cpp:382 katalogview.cpp:391 katalogview.cpp:400
+#: katalogview.cpp:409 portal.cpp:205 portal.cpp:334 portal.cpp:395
+#: portal.cpp:479 portal.cpp:520 portal.cpp:547 portal.cpp:688 portal.cpp:872
+#: portal.cpp:879 portal.cpp:886 portal.cpp:903
+msgid "Ready."
+msgstr "Valmis."
+
+#: katalogview.cpp:260
+msgid "Opening a new katalog window..."
+msgstr "Uue kataloogiakna avamine..."
+
+#: katalogview.cpp:274
+msgid "*|All files"
+msgstr "*|Kõik failid"
+
+#: katalogview.cpp:274
+msgid "Open File..."
+msgstr "Faili avamine..."
+
+#: katalogview.cpp:286
+msgid "Saving file..."
+msgstr "Faili salvestamine..."
+
+#: katalogview.cpp:296
+msgid "Closing file..."
+msgstr "Faili sulgemine..."
+
+#: katalogview.cpp:305
+msgid "Printing..."
+msgstr "Trükkimine..."
+
+#: katalogview.cpp:319 portal.cpp:870
+msgid "Cutting selection..."
+msgstr "Valitud teksti lõikamine..."
+
+#: katalogview.cpp:326 portal.cpp:877
+msgid "Copying selection to clipboard..."
+msgstr "Valitud teksti kopeerimine lõikepuhvrisse..."
+
+#: katalogview.cpp:333 portal.cpp:884
+msgid "Inserting clipboard contents..."
+msgstr "Lõikepuhvri sisu sisestamine..."
+
+#: katalogview.cpp:378
+msgid "Exporting file..."
+msgstr "Faili eksport..."
+
+#: katalogview.cpp:387
+msgid "Creating a new sub chapter..."
+msgstr "Uue alljaotise loomine..."
+
+#: katalogview.cpp:396
+msgid "Editing a sub chapter..."
+msgstr "Alljaotise muutmine..."
+
+#: katalogview.cpp:405
+msgid "Removing a sub chapter..."
+msgstr "Alljaotise eemaldamine..."
+
+#: katalogview.cpp:437
+#, kde-format
+msgid "<tr><td>Created at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Loodud:</td><td>%1</td></tr>"
+
+#: katalogview.cpp:440
+#, kde-format
+msgid "<tr><td>Modified at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Muudetud:</td><td>%1</td></tr>"
+
+#. i18n: ectx: Menu (file)
+#: katalogview.rc:4
+msgid "&File"
+msgstr "&Fail"
+
+#. i18n: ectx: Menu (templates)
+#: katalogview.rc:7
+msgid "&Catalog"
+msgstr "&Kataloog"
+
+#: kraftdb.cpp:264
+msgid "Wipe Database..."
+msgstr "Andmebaasi puhastamine"
+
+#: kraftdoc.cpp:363
+msgid "Items"
+msgstr "Elemendid"
+
+#: kraftdoc.cpp:365
+msgid "Unknown document part"
+msgstr "Tundmatu dokumendi komponent"
+
+#: kraftdocfooteredit.cpp:54
+msgid "Document Footer"
+msgstr "Dokumendi jalus"
+
+#: kraftdocheaderedit.cpp:59
+msgid "Document Header"
+msgstr "Dokumendi päis"
+
+#: kraftdocpositionsedit.cpp:92
+msgid "Add Item..."
+msgstr "Lisa element..."
+
+#: kraftdocpositionsedit.cpp:94
+msgid "Add a normal item to the document manually."
+msgstr "Tavalise elemendi lisamine dokumendile käsitsi."
+
+#: kraftdocpositionsedit.cpp:98
+msgid "Add Discount Item"
+msgstr "Lisa hinnaalanduselement"
+
+#: kraftdocpositionsedit.cpp:101
+msgid ""
+"Adds an item to the document that allows discounts on other items in the "
+"document"
+msgstr ""
+"Elemendi lisamine dokumendile, mis võimaldab teiste dokumendi elementide "
+"allahindlust."
+
+#: kraftdocpositionsedit.cpp:103
+msgid "Import Items..."
+msgstr "Impordi elemendid..."
+
+#: kraftdocpositionsedit.cpp:106
+msgid "Opens a dialog where multiple items can be imported from a text file."
+msgstr ""
+"dialoogi avamine, kus saab importida tekstifailist korraga mitmeid elemente."
+
+#: kraftdocpositionsedit.cpp:115
+msgid "Document Items"
+msgstr "Dokumendi elemendid"
+
+#: kraftglobals.h:26
+msgid "all_calculation_parts"
+msgstr "all_calculation_parts"
+
+#: kraftglobals.h:27
+msgid "Time"
+msgstr "Aeg"
+
+#: kraftglobals.h:28
+msgid "Fix"
+msgstr "Püsikulu"
+
+#. i18n: ectx: label, entry (DoInit), group (system)
+#: kraftsettings.kcfg:8
+msgid "Do Database Initialisation"
+msgstr "Andmebaasi initsialiseerimine"
+
+#. i18n: ectx: label, entry (DoXmlArchive), group (system)
+#: kraftsettings.kcfg:12
+msgid "Do XML archiving of documents they're printed?"
+msgstr "Kas arhiveerida trükitud dokumendid XML-failina?"
+
+#. i18n: ectx: label, entry (XmlArchivePath), group (system)
+#: kraftsettings.kcfg:16
+msgid ""
+"Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps "
+"is used."
+msgstr ""
+"Kuhu Kraft salvestab XML-arhiividokumendid. Kui on tühi, kasutatakse KDEHOME/"
+"share/apps."
+
+#. i18n: ectx: label, entry (XmlDocPath), group (system)
+#: kraftsettings.kcfg:19
+msgid "The local xml document storage path"
+msgstr "Kohalik XML-dokumendi salvestamise asukoht"
+
+#. i18n: ectx: label, entry (docViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:25
+msgid "The default size of the document view dialog"
+msgstr "Dokumendivaate dialoogi vaikimisi suurus"
+
+#. i18n: ectx: label, entry (RODocViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:28
+msgid "The default size of the read only document view dialog"
+msgstr "Lugemisõigusega dokumendi vaate dialoogi vaikimisi suurus"
+
+#. i18n: ectx: label, entry (docViewPosition), group (WindowSizes)
+#: kraftsettings.kcfg:31
+msgid "The default position of the document view dialog"
+msgstr "Dokumendivaate dialoogi vaikimisi asukoht"
+
+#. i18n: ectx: label, entry (docViewSplitter), group (WindowSizes)
+#: kraftsettings.kcfg:34
+msgid "The splitter position of the document view dialog"
+msgstr "Dokumendivaate dialoogi eraldaja asukoht"
+
+#. i18n: ectx: label, entry (materialCatalogSize), group (WindowSizes)
+#: kraftsettings.kcfg:37
+msgid "The default size of the material catalog view"
+msgstr "Materjalikataloogi vaate vaikimisi suurus"
+
+#. i18n: ectx: label, entry (assistantSplitterSetting), group (WindowSizes)
+#: kraftsettings.kcfg:40
+msgid "The splitter setting for the doc assistant"
+msgstr "Dokumendinõustaja eraldaja seadistus"
+
+#. i18n: ectx: label, entry (plantTemplateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:43
+msgid "The window size of the template to document dialog for plants"
+msgstr "Taimede dokumendidialoogi malli akna suurus"
+
+#. i18n: ectx: label, entry (templateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:46
+#, fuzzy
+#| msgid "The window size of the template  to document dialog"
+msgid "The window size of the template to document dialog"
+msgstr "Dokumendidialoogi malli akna suurus"
+
+#. i18n: ectx: label, entry (digestListColumnsLatest), group (WindowSizes)
+#: kraftsettings.kcfg:49
+msgid "The digest list column arrangement for the Latest-list"
+msgstr "Uusimate loendi kokkuvõtteveeru paigutus"
+
+#. i18n: ectx: label, entry (digestListColumnsAll), group (WindowSizes)
+#: kraftsettings.kcfg:52
+msgid "The digest list column arrangement for the all-list"
+msgstr "Kogu loendi kokkuvõtteveeru paigutus"
+
+#. i18n: ectx: label, entry (digestListColumnsTime), group (WindowSizes)
+#: kraftsettings.kcfg:55
+msgid "The digest list column arrangement for timeline"
+msgstr "Ajatelje kokkuvõtteveeru paigutus"
+
+#. i18n: ectx: label, entry (addressPickerSplitterSize), group (WindowSizes)
+#: kraftsettings.kcfg:58
+msgid "The sizes of the slider in the address picker Widget"
+msgstr "Aadressi valimise vidina liuguri suurused"
+
+#. i18n: ectx: label, entry (materialAddOnPercent), group (material)
+#: kraftsettings.kcfg:64
+msgid ""
+"Default percentage the sale price for a material should be higher than its "
+"purchase price"
+msgstr ""
+"Materjali müügihinna vaikimisi protsent peab olema suurem kui otsuhinnal."
+
+#. i18n: ectx: label, entry (lastMaterialChapter), group (material)
+#: kraftsettings.kcfg:68
+msgid "The name of the last selected chapter in the catalog"
+msgstr "Kataloogis viimati valitud jaotise nimi"
+
+#. i18n: ectx: label, entry (Trml2PdfBinary), group (reporting)
+#: kraftsettings.kcfg:74
+msgid "The complete filename of the trml2pdf binary"
+msgstr "trml2pdf binaarfaili täielik failinimi"
+
+#. i18n: ectx: label, entry (PdfOutputDir), group (reporting)
+#: kraftsettings.kcfg:78
+msgid "The path to the output directory for document pdfs"
+msgstr "Dokumendi PDF-ide väljundkataloogi asukoht"
+
+#. i18n: ectx: label, entry (doctype), group (userdefaults)
+#: kraftsettings.kcfg:84
+msgid "The last created doc type."
+msgstr "Viimati loodud dokumendi tüüp"
+
+#. i18n: ectx: label, entry (greeting), group (userdefaults)
+#: kraftsettings.kcfg:87
+msgid "The greeting below on the document footer."
+msgstr "Lõputervitus dokumendi jaluses."
+
+#. i18n: ectx: label, entry (salut), group (userdefaults)
+#: kraftsettings.kcfg:90
+msgid "The salut message on the document header."
+msgstr "Pöördumine dokumendi päises."
+
+#. i18n: ectx: label, entry (InsertTemplChapterName), group (userdefaults)
+#: kraftsettings.kcfg:93
+msgid ""
+"The name of the catalog chapter where to store new templates in by default"
+msgstr "Kataloogi jaotise nimi, kuhu vaikimisi salvestatakse uued mallid."
+
+#. i18n: ectx: label, entry (ImportItemsSchemaName), group (userdefaults)
+#: kraftsettings.kcfg:96
+msgid "The name of the last used import schema for items."
+msgstr "Viimati kasutatud elementide importimisskeemi nimi."
+
+#. i18n: ectx: label, entry (ImportItemsFileName), group (userdefaults)
+#: kraftsettings.kcfg:99
+msgid "The name of the last used input file for items."
+msgstr "Viimati kasutatud elementide sisendfaili nimi."
+
+#. i18n: ectx: label, entry (UserName), group (userdefaults)
+#: kraftsettings.kcfg:102
+msgid ""
+"User name as reference to the KAddressbook to identify 'my' address "
+"(DEPRECATED)."
+msgstr ""
+"Kasutajanimi viitena KDE aadressiraamatule \"minu\" aadressi määramiseks "
+"(IGANENUD)"
+
+#. i18n: ectx: label, entry (UserUid), group (userdefaults)
+#: kraftsettings.kcfg:105
+msgid ""
+"UID of the user as reference to the KAddressbook to identify 'my' address."
+msgstr ""
+"Kasutaja UID viitena KDE aadressiraamatule \"minu\" aadressi määramiseks."
+
+#. i18n: ectx: label, entry (DocIdent), group (document)
+#: kraftsettings.kcfg:111
+msgid "The doc id template"
+msgstr "Dokumendi ID mall"
+
+#. i18n: ectx: label, entry (ShowDocumentLocale), group (document)
+#: kraftsettings.kcfg:115
+#, fuzzy
+#| msgid "Localisation on document level"
+msgid "Localization on document level"
+msgstr "Lokaliseerimine dokumenditasandil"
+
+#. i18n: ectx: label, entry (DefaultTaxType), group (document)
+#: kraftsettings.kcfg:120
+msgid "The tax default for new documents."
+msgstr "Vaikimisi maks uutes dokumentides"
+
+#. i18n: ectx: label, entry (AlternativeLabel), group (document)
+#: kraftsettings.kcfg:125
+msgid "The label for alternative positions"
+msgstr "Alternatiivse positsioonide pealdis"
+
+#. i18n: ectx: label, entry (DemandLabel), group (document)
+#. i18n: ectx: label, entry (NormalLabel), group (document)
+#: kraftsettings.kcfg:128 kraftsettings.kcfg:131
+msgid "The label for demand positions"
+msgstr "Nõutavate positsioonide pealdis"
+
+#. i18n: ectx: Menu (document)
+#: kraftui.rc:4
+msgid "&Document"
+msgstr "&Dokument"
+
+#. i18n: ectx: Menu (settings)
+#: kraftui.rc:15
+msgid "Settings"
+msgstr "Seadistused"
+
+#: kraftview.cpp:93 kraftview_ro.cpp:84
+msgid "Document"
+msgstr "Dokument"
+
+#: kraftview.cpp:369
+#, fuzzy, kde-format
+#| msgid ""
+#| "<qt><h2>The Document Items List is still empty, but Items can be added "
+#| "now.</h2>To add items to the document either <ul><li>Press the 'Add' "
+#| "button.</li><li>Open the template catalog clicking on the '%1' button on "
+#| "the right and select from available templates.</li></ul></qt>"
+msgid ""
+"<qt><h2>The Document Items List is still empty, but Items can be added now.</"
+"h2>To add items to the document either <ul><li>Press the 'Add item' button "
+"above.</li><li>Open the template catalog by clicking on the '%1' button on "
+"the right and pick one of the available templates.</li></ul></qt>"
+msgstr ""
+"<qt><h2>Dokumendi elementide loend on veel tühi, aga nüüd võib sinna "
+"elemente lisada.</h2>Elemendi lisamiseks dokumenti <ul><li>Vajuta nupule "
+"\"Lisa</li><li>Ava mallikataloog klõpsuga nupule \"%1\" ja vali saadaolevate "
+"mallide seast sobiv</li></ul></qt>"
+
+#: kraftview.cpp:376
+msgid "show Template"
+msgstr "Näita malle"
+
+#: kraftview.cpp:553 prefsdialog.cpp:291
+msgid "Display no tax at all"
+msgstr "Maksu ei näidata üldse"
+
+#: kraftview.cpp:554 prefsdialog.cpp:292
+msgid "Calculate reduced tax for all items"
+msgstr "Arvutatakse soodusmäär kõigile elementidele"
+
+#: kraftview.cpp:555 prefsdialog.cpp:293
+msgid "Calculate full tax for all items"
+msgstr "Arvutatakse normaalmäär kõigile elementidele"
+
+#: kraftview.cpp:556
+msgid "Calculate individual tax for each item"
+msgstr "Arvutatakse maks eraldi igale elemendile"
+
+#: kraftview.cpp:617
+msgid "Really overwrite all individual tax settings of the items?"
+msgstr ""
+"Kas tõesti kirjutada üle kõigi elementide individuaalsed maksumääratlused?"
+
+#: kraftview.cpp:618
+msgid "Tax Settings Overwrite"
+msgstr "Maksumääratluste ülekirjutamine"
+
+#: kraftview.cpp:787
+#, kde-format
+msgid ""
+"The address label is not empty and different from the selected one.<br/>Do "
+"you really want to replace it with the text shown below?<pre>%1</pre>"
+msgstr ""
+"Aadressipealdis ei ole tühi ja erineb valitust.<br/>Kas tõesti asendada see "
+"allpool näidatava tekstiga?<pre>%1</pre>"
+
+#: kraftview.cpp:789
+msgid "Address Overwrite"
+msgstr "Aadressi ülekirjutamine"
+
+#: kraftview.cpp:1080
+msgid "Discount"
+msgstr "Hinnaalandus"
+
+#: kraftview.cpp:1385
+msgid "The document was modified. Do you really want to discard all changes?"
+msgstr "Dokumenti on muudetud. Kas tõesti unustada kõik muudatused?"
+
+#: kraftview.cpp:1387
+msgid "Document Modified"
+msgstr "Dokumenti on muudetud"
+
+#: kraftview_ro.cpp:221
+msgid "Reduced TAX"
+msgstr "Soodusmääraga maks"
+
+#: kraftview_ro.cpp:248 reportgenerator.cpp:325
+msgid "reduced VAT"
+msgstr "Soodusmääraga käibemaks"
+
+#: main.cpp:34
+msgid "Kraft"
+msgstr "Kraft"
+
+#: main.cpp:36
+msgid "Business documents for the small enterprise"
+msgstr "Väikeettevõtte äridokumentide haldur"
+
+#: main.cpp:38
+#, fuzzy
+#| msgid "Copyright © 2004–2012 Klaas Freitag"
+msgid "Copyright © 2004–2014 Klaas Freitag"
+msgstr "Autoriõigus © 2004–2012: Klaas Freitag"
+
+#: main.cpp:40
+msgid "Klaas Freitag"
+msgstr "Klaas Freitag"
+
+#: main.cpp:40 main.cpp:43
+msgid "Developer"
+msgstr "Arendaja"
+
+#: main.cpp:41
+msgid "Johannes Spielhagen"
+msgstr "Johannes Spielhagen"
+
+#: main.cpp:41
+msgid "Graphics and Artwork"
+msgstr "Graafika ja välimus"
+
+#: main.cpp:43
+msgid "Thomas Richard"
+msgstr "Thomas Richard"
+
+#: main.cpp:52
+msgid ""
+"Kraft is free software for persons in small businesses\n"
+"writing correspondence like offers and invoices to their customers"
+msgstr ""
+"Kraft on vaba tarkvara väikeettevõtjate tarbeks,\n"
+"mis aitab neil koostada äridokumente, näiteks tellimusi ja arveid"
+
+#: main.cpp:62
+#, fuzzy
+#| msgid "Open Document Number"
+msgid "Open document with doc number <number>"
+msgstr "Määratud numbriga dokumendi avamine"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, MaterialDialogBase)
+#: materialdialog.ui:14
+msgid "Edit Material"
+msgstr "Materjali muutmine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: materialdialog.ui:47
+msgid "Store in C&hapter"
+msgstr "Salvestatakse &jaotises"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: materialdialog.ui:95
+msgid "Pac&kaged:"
+msgstr "Pa&kend:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: materialdialog.ui:124
+msgid "per P&ackage"
+msgstr "&pakis"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: materialdialog.ui:142
+msgid "Prices"
+msgstr "Hinnad"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: materialdialog.ui:166
+msgid "= Price of &Sale:"
+msgstr "= &müügihind:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: materialdialog.ui:207
+msgid "pl&us"
+msgstr "pl&uss"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mInSaleAdd)
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mDiscountPercent)
+#: materialdialog.ui:223 positionwidget.ui:226
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: materialdialog.ui:235
+msgid "&Purchase Price:"
+msgstr "O&stuhind:"
+
+#: materialkataloglistview.cpp:38
+msgid "Pack"
+msgstr "Pakk"
+
+#: materialkataloglistview.cpp:40
+msgid "Purchase"
+msgstr "Ost"
+
+#: materialkataloglistview.cpp:41
+msgid "Sale"
+msgstr "Müük"
+
+#: materialkataloglistview.cpp:42
+msgid "Last Modified"
+msgstr "Viimati muudetud"
+
+#: materialkataloglistview.cpp:46
+msgid "Material Catalog"
+msgstr "Materjalikataloog"
+
+#: materialkatalogview.cpp:103
+msgid "<new material>"
+msgstr "<uus materjal>"
+
+#: materialkatalogview.cpp:132 templkatalogview.cpp:148
+msgid "Do you really want to delete the template from the catalog?"
+msgstr "Kas tõesti kustutada mall kataloogist?"
+
+#: materialkatalogview.cpp:133 templkatalogview.cpp:149
+msgid "Delete Template"
+msgstr "Malli kustutamine"
+
+#: materialselectdialog.cpp:38 materialselectdialog.cpp:43
+msgid "Select Material for Calculation"
+msgstr "Materjali valimine arvestusse"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailMat)
+#: matpartui.ui:14
+msgid "Calculation Item Material"
+msgstr "Materjali arvutamine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: matpartui.ui:20
+msgid "<h1>Calculation Part  'Material'</h1>"
+msgstr "<h1>Materjalikomponendi arvutamine</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: matpartui.ui:30
+msgid "Add Material to the template calculation."
+msgstr "Materjali lisamine malli arvestusse."
+
+#. i18n: ectx: property (text), widget (QLabel, matLabel)
+#: matpartui.ui:60
+msgid "material"
+msgstr "materjal"
+
+#. i18n: ectx: property (text), widget (QLabel, einheitLabel)
+#: matpartui.ui:106
+msgid "unit"
+msgstr "ühik"
+
+#: models/documentmodel.cpp:62
+msgid "Id"
+msgstr "ID"
+
+#: models/documentmodel.cpp:63
+msgid "Doc. Number"
+msgstr "Dok. nr"
+
+#: models/documentmodel.cpp:64
+msgid "Doc. Type"
+msgstr "Dok. tüüp"
+
+#: models/documentmodel.cpp:66
+msgid "Client Id"
+msgstr "Kliendi ID"
+
+#: models/documentmodel.cpp:67
+msgid "Last modified"
+msgstr "Viimati muudetud"
+
+#: models/documentmodel.cpp:68
+msgid "Creation date"
+msgstr "Loomise kuupäev"
+
+#: models/documentmodel.cpp:70
+msgid "Client Address"
+msgstr "Kliendi aadress"
+
+#: models/documentmodel.cpp:71
+msgid "Client"
+msgstr "Klient"
+
+#: models/documentmodel.cpp:142
+msgid "retrieving..."
+msgstr "tõmmatakse..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mysqldetails.ui:19
+msgid ""
+"Please enter the MySQL Database server settings. \n"
+"\n"
+"For detailed setup instructions for the MySQL to use with Kraft please check "
+"the Kraft website."
+msgstr ""
+"Palun sisesta MySQL-i andmebaasiserveri seadistused.\n"
+"\n"
+"Üksikasjalikke MySQL-i häälestamise juhiseid kasutamiseks Kraftiga leiab "
+"Krafti veebileheküljelt."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: mysqldetails.ui:31
+msgid "Database Host:"
+msgstr "Andmebaasi masin:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: mysqldetails.ui:41
+msgid "Database Name:"
+msgstr "Andmebaasi nimi:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: mysqldetails.ui:65
+msgid "Password:"
+msgstr "Parool:"
+
+#: newdocassistant.cpp:53
+msgid ""
+"Please select a customer as addressee for the document. If there is no entry "
+"for the customer in the addressbook yet, it can be opened by clicking on the "
+"button below."
+msgstr ""
+"Palun vali dokumendi klient adressaadina. Kui kliendi kohta pole "
+"aadressiraamatus veel kirjet, võib selle luua allolevale nupule klõpsates."
+
+#: newdocassistant.cpp:97
+msgid ""
+"Select a document type and a date. A comment on the whiteboard helps to "
+"classify the document."
+msgstr ""
+"Vali dokumendi tüüp ja kuupäev. Kirjelduse alla lisatud kommentaar aitab "
+"dokumenti liigitada."
+
+#: newdocassistant.cpp:105
+msgid "Customer: Not yet selected!"
+msgstr "Klient: pole veel valitud!"
+
+#: newdocassistant.cpp:118
+msgid "Document &Type:"
+msgstr "Dokumendi &tüüp:"
+
+#: newdocassistant.cpp:122
+msgid "Document Date: "
+msgstr "Dokumendi kuupäev: "
+
+#: newdocassistant.cpp:125
+msgid "Whiteboard Content:"
+msgstr "Kirjeldus:"
+
+#: newdocassistant.cpp:159
+msgid "<h2>Document Details</h2>"
+msgstr "<h2>Dokumendi üksikasjad</h2>"
+
+#: newdocassistant.cpp:163
+msgid "<h2>Select an Addressee</h2>"
+msgstr "<h2>Adressaadi valimine</h2>"
+
+#: newdocassistant.cpp:165
+msgid "Document Creation Wizard"
+msgstr "Dokumendi loomise nõustaja"
+
+#: numbercycledialog.cpp:52
+msgid "Edit Number Cycles"
+msgstr "Nummerduste muutmine"
+
+#: numbercycledialog.cpp:68
+#, fuzzy
+#| msgid ""
+#| "The template may contain the following tags:<ul><li>%y or %yyyy - the "
+#| "year of the documents date.</li><li>%yy - the year of the document (two "
+#| "digits).</li><li>%w - the week number of the documents date.</li><li>%ww "
+#| "- the week number of the documents date with leading zero.</li><li>%d - "
+#| "the day number of the documents date.</li><li>%dd - the day number of the "
+#| "documents date with leading zero.</li><li>%m or %M - the month number of "
+#| "the documents date.</li><li>%MM - the month number with leading zero.</"
+#| "li><li>%c - the customer id from kaddressbook</li><li>%i - the unique "
+#| "counter</li><li>%type - the localised doc type (offer, invoice etc.)</"
+#| "li></ul>%i needs to be part of the template."
+msgid ""
+"The template may contain the following tags:<ul><li>%y or %yyyy - the year "
+"of the documents date.</li><li>%yy - the year of the document (two digits).</"
+"li><li>%w - the week number of the documents date.</li><li>%ww - the week "
+"number of the documents date with leading zero.</li><li>%d - the day number "
+"of the documents date.</li><li>%dd - the day number of the documents date "
+"with leading zero.</li><li>%m or %M - the month number of the documents date."
+"</li><li>%MM - the month number with leading zero.</li><li>%c - the customer "
+"id from kaddressbook</li><li>%i - the unique counter</li><li>%type - the "
+"localised doc type (offer, invoice etc.)</li><li>%uid - the contact id of "
+"the client.</li></ul>%i needs to be part of the template."
+msgstr ""
+"Mall võib sisaldada järgmisi silte:<ul><li>%y või %yyyy - dokumentide "
+"kuupäeva aasta.</li><li>%yy - dokumendi aasta (kahe arvuga).</li><li>%w - "
+"dokumentide kuupäeva nädalanumber.</li><li>%ww - dokumentide kuupäeva "
+"nädalanumber alustava nulliga.</li><li>%d - dokumentide kuupäeva päevanumber."
+"</li><li>%dd - dokumentide kuupäeva päevanumber alustava nulliga.</li><li>%m "
+"või %M - dokumentide kuupäeva kuunumber.</li><li>%MM - kuunumber alustava "
+"nulliga.</li><li>%c - kliendi ID KDE aadressiraamatust</li><li>%i - "
+"unikaalne loendur</li><li>%type - lokaliseeritud dokumenditüüp (pakkumine, "
+"arve jms.)</li></ul>%i peab kindlasti mallis olemas olema."
+
+#: numbercycledialog.cpp:131
+msgid "Doc-Type"
+msgstr "Dokumenditüüp"
+
+#: numbercycledialog.cpp:203
+msgid "Add Number Cycle"
+msgstr "Nummerduse lisamine"
+
+#: numbercycledialog.cpp:204
+msgid "Enter the name of a new number cycle."
+msgstr "Sisesta uue nummerduse nimi."
+
+#: numbercycledialog.cpp:261
+#, kde-format
+msgid ""
+"The numbercycle %1 is still assigned to a document type.The number cycle can "
+"not be deleted as long as it is assigned to a document type."
+msgstr ""
+"Nummerdus %1 on endiselt seotud dokumenditüübiga. Nummerdust ei saa "
+"kustutada, kuni ta on mõnele dokumenditüübile omistatud."
+
+#: numbercycledialog.cpp:264
+msgid "Numbercycle Deletion"
+msgstr "Nummerduse kustutamine"
+
+#: numbercycledialog.cpp:321
+msgid ""
+"The new counter is lower than the old one. That has potential to create "
+"duplicate document numbers. Do you really want to decrease it?"
+msgstr ""
+"Uus loendur on väiksem kui vana. See võib kaasa tuua ühesuguseid "
+"dokumendinumbreid. Kas tõesti vähendada loendurit?"
+
+#: numbercycledialog.cpp:323
+msgid "Dangerous Counter Change"
+msgstr "Ohtlik loenduri muutmine"
+
+#. i18n: ectx: property (text), widget (QLabel, mHeader)
+#: numbercycleseditbase.ui:17
+msgid "<h3>Edit Number Cycles</h3>"
+msgstr "<h3>Nummerduse muutmine</h3>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: numbercycleseditbase.ui:27
+msgid "Number Cycle Details"
+msgstr "Nummerduse üksikasjad"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: numbercycleseditbase.ui:39
+msgid "&Number Cycle:"
+msgstr "&Nummerdus:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: numbercycleseditbase.ui:52
+msgid "&Counter:"
+msgstr "Loen&dur:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: numbercycleseditbase.ui:85
+msgid "ident &Template:"
+msgstr "ID &mall:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: numbercycleseditbase.ui:123
+msgid "&Select a number cycle and edit the details on the right:"
+msgstr "&Vali nummerdus ja muuda paremal selle üksikasju:"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, mCycleListBox)
+#: numbercycleseditbase.ui:142
+msgid "New Item"
+msgstr "Uus element"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: numbercycleseditbase.ui:171
+msgid "add"
+msgstr "Lisa"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: numbercycleseditbase.ui:181
+msgid "remove"
+msgstr "Eemalda"
+
+#: portal.cpp:117
+msgid "Create Document"
+msgstr "Loo dokument"
+
+#: portal.cpp:122
+msgid "Copy Document"
+msgstr "Kopeeri dokument"
+
+#: portal.cpp:127
+msgid "Follow Document"
+msgstr "Jätkudokument"
+
+#: portal.cpp:132
+msgid "Print Document"
+msgstr "Trüki dokument"
+
+#: portal.cpp:137
+msgid "Open Archived Document"
+msgstr "Ava arhiveeritud dokument"
+
+#: portal.cpp:141
+msgid "Show Document"
+msgstr "Näita dokumenti"
+
+#: portal.cpp:146
+msgid "Edit Document"
+msgstr "Muuda dokumenti"
+
+#: portal.cpp:151
+msgid "&Mail Document"
+msgstr "&Saada dokument e-kirjaga"
+
+#: portal.cpp:163
+msgid "Quits the application"
+msgstr "Rakendusest väljumine"
+
+#: portal.cpp:167
+msgid "Enables/disables the statusbar"
+msgstr "Olekuriba näitamise sisse- või väljalülitamine"
+
+#: portal.cpp:169
+msgid "Creates a new Document"
+msgstr "Uue dokumendi loomine"
+
+#: portal.cpp:170
+msgid "Print and archive this Document"
+msgstr "Dokumendi trükkimine ja arhiveerimine"
+
+#: portal.cpp:171
+msgid "Creates a new document which is a copy of the selected document"
+msgstr "Uue dokumendi loomine, mis on valitud dokumendi koopia"
+
+#: portal.cpp:172
+msgid "Create a followup document for the current document"
+msgstr "Aktiivse dokumendi jätkudokumendi loomine"
+
+#: portal.cpp:173
+msgid "Opens the document for editing"
+msgstr "Dokumendi avamine muutmiseks"
+
+#: portal.cpp:174
+msgid "Opens a read only view on the document."
+msgstr "Dokumendi avamine ainult vaatamiseks"
+
+#: portal.cpp:175
+msgid "Send document per mail"
+msgstr "Dokumendi saatmine e-kirjaga"
+
+#: portal.cpp:176
+msgid ""
+"Edit the available tag templates which can be assigned to document items."
+msgstr ""
+"Saadaolevate sildimallide muutmine, mida saab omistada dokumendi elementidele"
+
+#: portal.cpp:177
+msgid "Configure the Database Kraft is working on."
+msgstr "Krafti kasutatava andmebaasi seadistamine"
+
+#: portal.cpp:179
+msgid "Open a viewer on an archived document"
+msgstr "Näitaja avamine arhiveeritud dokumendiga"
+
+#: portal.cpp:279
+#, kde-format
+msgid ""
+"Kraft can not connect to the specified MySQL server. Please check the Kraft "
+"database settings, check if the server is running and verify if a database "
+"with the name %1 exits!"
+msgstr ""
+"Kraft ei suuda ühenduda määratud MySQL-i serveriga. Palun kontrolli Krafti "
+"andmebaasiseadistusi, kas server töötab ja kas andmebaas nimega %1 on ikka "
+"olemas!"
+
+#: portal.cpp:283
+#, kde-format
+msgid ""
+"The database with the name %1 does not exist on the database server. Please "
+"make sure the database exists and is accessible by the user running Kraft."
+msgstr ""
+"Andmebaasi nimega %1 andmebaasiserveris ei ole. Palun kontrolli, kas "
+"andmebaas on ikka olemas ja kas Krafti kasutaja pääseb sellele ligi."
+
+#: portal.cpp:287
+msgid ""
+"The Qt database driver could not be loaded. That probably means, that they "
+"are not installed. Please make sure the Qt database packages are installed "
+"and try again."
+msgstr ""
+"Qt andmebaasidraiveri laadimine nurjus. See tähendab, et arvatavasti pole "
+"seda paigaldatud. Palun kontrolli, kas Qt andmebaasipaketid on ikka "
+"paigaldatud, ja proovi uuesti."
+
+#: portal.cpp:291
+#, kde-format
+msgid "There is a database problem: %1"
+msgstr "Andmebaasiga tekkis probleem: %1"
+
+#: portal.cpp:308
+msgid "Database Problem."
+msgstr "Andmebaasi probleem"
+
+#: portal.cpp:315
+msgid "Check commandline actions"
+msgstr "Käsureatoimingute kontroll"
+
+#: portal.cpp:381
+msgid "Creating new document..."
+msgstr "Uue dokumendi loomine..."
+
+#: portal.cpp:471
+msgid "Opening document to view..."
+msgstr "Dokumendi avamine vaatamiseks..."
+
+#: portal.cpp:506 portal.cpp:529
+msgid "Generating PDF..."
+msgstr "PDF-i genereerimine..."
+
+#: portal.cpp:632
+msgid "Printing archived document..."
+msgstr "Arhiveeritud dokumendi trükkimine..."
+
+#: portal.cpp:680
+#, kde-format
+msgid "Opening document %1"
+msgstr "Dokumendi %1 avamine"
+
+#: portal.cpp:843
+msgid "Exiting..."
+msgstr "Väljumine..."
+
+#: portal.cpp:891
+msgid "Toggle the statusbar..."
+msgstr "Olekuriba lülitamine..."
+
+#: portalview.cpp:63
+msgid "Catalogs"
+msgstr "Kataloogid"
+
+#: portalview.cpp:69
+msgid "Kraft Document Overview"
+msgstr "Krafti dokumendi ülevaade"
+
+#: portalview.cpp:78 portalview.cpp:95
+msgid "Available Catalogs"
+msgstr "Saadaolevad kataloogid"
+
+#: portalview.cpp:80
+msgid "No catalogs available."
+msgstr "Katalooge pole."
+
+#: portalview.cpp:128
+msgid "Open"
+msgstr "Ava"
+
+#: portalview.cpp:149
+msgid "XML Export"
+msgstr "XML-eksport"
+
+#: portalview.cpp:177
+msgid "System Details"
+msgstr "Süsteemi üksikasjad"
+
+#: portalview.cpp:196
+msgid "<h2>Welcome to Kraft</h2>"
+msgstr "<h2>Krafti teave</h2>"
+
+#: portalview.cpp:198
+#, kde-format
+msgid "Kraft Version: %1</td>"
+msgstr "Krafti versioon: %1</td>"
+
+#: portalview.cpp:208
+msgid "Country Setting: "
+msgstr "Riigi määratlus: "
+
+#: portalview.cpp:212
+msgid "Language Setting: "
+msgstr "Keele määratlus: "
+
+#: portalview.cpp:226
+msgid "Database Information"
+msgstr "Andmebaasi teave"
+
+#: portalview.cpp:228
+msgid "Kraft database name:"
+msgstr "Krafti andmebaasi nimi:"
+
+#: portalview.cpp:231
+msgid "Database schema version:"
+msgstr "Andmebaasi skeemi versioon:"
+
+#: portalview.cpp:239
+msgid "Qt database driver:"
+msgstr "Qt andmebaasidraiver"
+
+#: portalview.cpp:242
+msgid "Database connection:"
+msgstr "Andmebaasiühendus:"
+
+#: portalview.cpp:248
+msgid "established"
+msgstr "loodud"
+
+#: portalview.cpp:250
+msgid "<font color=\"red\">NOT AVAILABLE!</font>"
+msgstr "<font color=\"red\">POLE SAADAVAL!</font>"
+
+#: portalview.cpp:259
+msgid "Database Version:"
+msgstr "Andmebaasi versioon:"
+
+#: portalview.cpp:265
+msgid "External Tools"
+msgstr "Välised tööriistad"
+
+#: portalview.cpp:267
+msgid "RML to PDF conversion tool:"
+msgstr "RML->PDF teisenduse tööriist:"
+
+#: portalview.cpp:272
+msgid "not found!"
+msgstr "ei leitud!"
+
+#: portalview.cpp:274
+msgid "iconv tool for text import:"
+msgstr "Iconv tööriist teksti impordiks:"
+
+#: portalview.cpp:288
+msgid ""
+"There is a initialisation error on your system. Kraft will not work that way."
+msgstr ""
+"Süsteemis tekkis initsialiseerimistõrge. Kraft ei saa niimoodi töötada."
+
+#: portalview.cpp:304
+msgid "Documents"
+msgstr "Dokumendid"
+
+#: positiontagdialog.cpp:82
+msgid "Edit Item Tags"
+msgstr "Elemendi siltide muutmine"
+
+#: positiontagdialog.cpp:91
+msgid "<h2>Item Tags</h2>"
+msgstr "<h2>Elemendi sildid</h2>"
+
+#: positiontagdialog.cpp:92
+msgid "Select all tags for the item should be tagged with."
+msgstr "Vali kõik sildid, mida elemendile tuleks rakendada."
+
+#: positiontagdialog.cpp:107 tagtemplatesdialog.cpp:124
+msgid "Tag"
+msgstr "Silt"
+
+#: positiontagdialog.cpp:108 tagtemplatesdialog.cpp:125
+msgid "Color"
+msgstr "Värv"
+
+#: positiontagdialog.cpp:109 tagtemplatesdialog.cpp:126
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: positionviewwidget.cpp:91
+msgid "Item Actions"
+msgstr "Elemendi toimingud"
+
+#: positionviewwidget.cpp:94
+#, fuzzy
+#| msgid "Item Actions"
+msgid "Item Kind"
+msgstr "Elemendi toimingud"
+
+#: positionviewwidget.cpp:95 positionviewwidget.cpp:671
+msgid "Normal"
+msgstr "Tavaline"
+
+#: positionviewwidget.cpp:97 positionviewwidget.cpp:679
+msgid "Alternative"
+msgstr "Alternatiiv"
+
+#: positionviewwidget.cpp:99
+msgid "On Demand"
+msgstr "Nõudmisel"
+
+#: positionviewwidget.cpp:107
+msgid "Taxfree Item"
+msgstr "Maksuvaba"
+
+#: positionviewwidget.cpp:113
+msgid "Reduced Tax"
+msgstr "Soodusmääraga"
+
+#: positionviewwidget.cpp:119
+msgid "Full Tax"
+msgstr "Normaalmääraga"
+
+#: positionviewwidget.cpp:128
+msgid "Move Up"
+msgstr "Liiguta üles"
+
+#: positionviewwidget.cpp:130
+msgid "Move Down"
+msgstr "Liiguta alla"
+
+#: positionviewwidget.cpp:132
+#, fuzzy
+#| msgid "No Items"
+msgid "Lock Item"
+msgstr "Elemendid puuduvad"
+
+#: positionviewwidget.cpp:134
+#, fuzzy
+#| msgid "No Items"
+msgid "Unlock Item"
+msgstr "Elemendid puuduvad"
+
+#: positionviewwidget.cpp:136
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Item"
+msgstr "Kustuta mall"
+
+#: positionviewwidget.cpp:220
+msgid "All items"
+msgstr "Kõigil elementidel"
+
+#: positionviewwidget.cpp:230
+#, kde-format
+msgid "%1-tagged items"
+msgstr "Sildiga %1 elementidel"
+
+#: positionviewwidget.cpp:262
+#, kde-format
+msgid "Tag: %1"
+msgstr "Silt: %1"
+
+#: positionviewwidget.cpp:264
+msgid "Tags:<ul>"
+msgstr "Sildid:<ul>"
+
+#: positionviewwidget.cpp:275
+msgid "No tags assigned yet."
+msgstr "Silte pole veel omistatud"
+
+#: positionviewwidget.cpp:412
+msgid "Active"
+msgstr "Aktiivne"
+
+#: positionviewwidget.cpp:414
+msgid "New"
+msgstr "Uus"
+
+#: positionviewwidget.cpp:416
+msgid "Deleted"
+msgstr "Kustutatud"
+
+#: positionviewwidget.cpp:418
+msgid "Locked"
+msgstr "Lukustatud"
+
+#: positionviewwidget.cpp:618
+#, fuzzy
+#| msgid "This is an alternative position. Use the position toolbox to change."
+msgid ""
+"This is an alternative item.<br/><br/> Use the position toolbox to change "
+"the item type."
+msgstr ""
+"See on alternatiivne positsioon. Muutmiseks kasuta positsiooni "
+"tööriistakasti."
+
+#: positionviewwidget.cpp:634
+msgid ""
+"This item is either completely optional or its amount varies depending on "
+"the needs.<br/><br/>Use the item toolbox to change the item type."
+msgstr ""
+
+#: positionviewwidget.cpp:675
+msgid "Demand"
+msgstr "Nõudmisel"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPosition)
+#: positionwidget.ui:46
+msgid "1."
+msgstr "1."
+
+#. i18n: ectx: property (text), widget (QLabel, lStatus)
+#. i18n: ectx: property (text), widget (QLabel, lKind)
+#: positionwidget.ui:103 positionwidget.ui:132
+msgid "D"
+msgstr "N"
+
+#. i18n: ectx: property (text), widget (QLabel, mDiscountLabel)
+#: positionwidget.ui:233
+msgid "of the sum of"
+msgstr "summast"
+
+#: prefsdialog.cpp:72
+msgid "Configure Kraft"
+msgstr "Krafti seadistamine"
+
+#: prefsdialog.cpp:91
+msgid "Taxes"
+msgstr "Maksud"
+
+#: prefsdialog.cpp:99
+msgid "Tax rates beginning at date:"
+msgstr "Maksumäär alates:"
+
+#: prefsdialog.cpp:146
+msgid "Wages"
+msgstr "Palgad"
+
+#: prefsdialog.cpp:155
+msgid "Units"
+msgstr "Ühikud"
+
+#: prefsdialog.cpp:164
+msgid "Own Identity"
+msgstr ""
+
+#: prefsdialog.cpp:172
+msgid ""
+"Select the identity of the sending entity of documents. That's <b>your "
+"companies</b> address."
+msgstr ""
+
+#: prefsdialog.cpp:192
+msgid "Select Identity..."
+msgstr ""
+
+#: prefsdialog.cpp:246
+msgid "Document Defaults"
+msgstr "Dokumendi vaikeväärtused"
+
+#: prefsdialog.cpp:257
+msgid "&Default document type on creation:"
+msgstr "Vaikimisi &dokumenditüüp loomisel:"
+
+#: prefsdialog.cpp:262
+msgid "New documents default to the selected type."
+msgstr "Uued dokumendid on vaikimisi valitud tüüpi."
+
+#: prefsdialog.cpp:271
+#, fuzzy
+#| msgid "Enable &Localisation on Document Level"
+msgid "Enable &Localization on Document Level"
+msgstr "&Lokaliseerimine dokumenditasandil"
+
+#: prefsdialog.cpp:272
+msgid ""
+"Checking this enables language settings for each document.<br>Leave it "
+"unchecked to use the KDE Workspace default settings for the document "
+"localisation."
+msgstr ""
+"Märkimise korral saab keeleseadistusi määrata iga dokumendi puhul eraldi."
+"<br>Märkimata jätmisel kasutatakse dokumentide puhul KDE töötsooni vaikimisi "
+"seadistusi."
+
+#: prefsdialog.cpp:284
+msgid "Default &Tax for Documents:"
+msgstr "Vaikimisi maks dokumen&tides:"
+
+#: prefsdialog.cpp:290
+msgid "The default tax setting for all documents."
+msgstr "Vaikimisi maks kõigis dokumentides."
+
+#: prefsdialog.cpp:306
+msgid "Document Types"
+msgstr "Dokumenditüübid"
+
+#: prefsdialog.cpp:327
+msgid ""
+"The old default doc type for new documents was just deleted.Please check the "
+"setting in the Document Defaults in the Kraft preferences Dialog."
+msgstr ""
+"Senine uute dokumentide vaikimisi dokumenditüüp kustutati. Palun kontrolli "
+"dokumendi vaikeväärtuste seadistusi Krafti seadistustedialoogis."
+
+#: prefsdialog.cpp:330
+msgid "Document Default Change"
+msgstr "Dokumendi vaikeväärtuste muutus"
+
+#: prefsdialog.cpp:402
+#, fuzzy
+#| msgid "The address is not listed in an address book."
+msgid "The identity is not listed in an address book."
+msgstr "Aadress puudub aadressiraamatus"
+
+#: prefsdialog.cpp:404
+msgid ""
+"<p><b>Kraft does not know your identity.</b></p><p>Please pick one from the "
+"address books by clicking on the Button below.</p><p>Not having an identity "
+"selected can make your documents look incomplete.</p>"
+msgstr ""
+
+#: prefsdialog.cpp:408
+#, fuzzy
+#| msgid "The client can be found in our address books."
+msgid "Your identity can be found in the address books."
+msgstr "Klient leidub meie aadressiraamatutes."
+
+#: prefsdialog.cpp:419
+msgid "Work Phone"
+msgstr ""
+
+#: prefsdialog.cpp:420
+#, fuzzy
+#| msgid "Tax"
+msgid "Fax"
+msgstr "Maks"
+
+#: prefsdialog.cpp:421
+msgid "Cell Phone"
+msgstr ""
+
+#: prefsunits.cpp:150
+msgid "Edit a unit"
+msgstr "Ühiku muutmine"
+
+#: prefsunits.cpp:184
+msgid "<h1>Edit unit</h1>"
+msgstr "<h1>Ühiku muutmine</h1>"
+
+#: prefswages.cpp:78
+msgid "Up"
+msgstr "Üles"
+
+#: prefswages.cpp:83
+msgid "Down"
+msgstr "Alla"
+
+#: prefswages.cpp:199
+msgid "Edit a wage group"
+msgstr "Palgagrupi muutmine"
+
+#: prefswages.cpp:233
+msgid "<h1>Edit wage group</h1>"
+msgstr "<h1>Palgagrupi muutmine</h1>"
+
+#: quicksearchwidget.cpp:38
+msgctxt "Search contacts in list"
+msgid "Search"
+msgstr "Otsing"
+
+#: reportgenerator.cpp:137
+#, kde-format
+msgid ""
+"A document template named %1 could not be loaded. Please check the "
+"installation."
+msgstr "Dokumendimalli nimega %1 ei saa laadida. Palun kontrolli paigaldust."
+
+#: reportgenerator.cpp:139
+msgid "Template not found"
+msgstr "Malli ei leitud"
+
+#: reportgenerator.cpp:191
+#, fuzzy, kde-format
+#| msgid ""
+#| "A document template named %1 could not be loaded. Please check the "
+#| "installation."
+msgid ""
+"The template file could not be opened: %1\n"
+"Please check the setup and the doc type configuration."
+msgstr "Dokumendimalli nimega %1 ei saa laadida. Palun kontrolli paigaldust."
+
+#: reportgenerator.cpp:193
+#, fuzzy
+#| msgid "Template Save Error"
+msgid "Template Error"
+msgstr "Malli salvestamise tõrge"
+
+#: reportgenerator.cpp:503
+msgid ""
+"The utility to create PDF from the rml file could not be found, but is "
+"required to create documents.Please make sure the package is installed "
+"accordingly."
+msgstr ""
+"Tööriista PDF-faili loomiseks rml-failist ei leitud, kuid seda on "
+"dokumentide loomiseks vaja. Palun kontrolli, kas see tarkvarapakett on ikka "
+"korralikult paigaldatud."
+
+#: reportgenerator.cpp:506
+msgid "Document Generation Error"
+msgstr "Dokumendi loomise tõrge"
+
+#: reportgenerator.cpp:514
+msgid ""
+"The Watermark file to merge with the document could not be found. Merge is "
+"going to be disabled."
+msgstr ""
+"Dokumendiga ühendatavat vesimärgifaili ei leitud. Ühendamisest loobutakse."
+
+#: reportgenerator.cpp:516
+msgid "Watermark Error"
+msgstr "Vesimärgi tõrge"
+
+#: reportgenerator.cpp:581
+#, kde-format
+msgid "Program ended with status %1"
+msgstr "Programm lõpetas töö staatusega %1"
+
+#: reportgenerator.cpp:595
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>ReportLab</b> "
+"which can not be found.<br/>Please make sure the package is installed on "
+"your computer."
+msgstr ""
+"PDF-väljundi genereerimiseks vaja Kraft Pythoni moodulit <b>ReportLab</b>, "
+"mida ei leitud.<br/>Palun kontrolli, kas see tarkvarapakett on arvutisse "
+"paigaldatud."
+
+#: reportgenerator.cpp:599
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>pyPdf</b> which "
+"can not be found.<br/>Please make sure the package is installed on your "
+"computer."
+msgstr ""
+"PDF-väljundi genereerimiseks vaja Kraft Pythoni moodulit <b>pyPdf</b>, mida "
+"ei leitud.<br/>Palun kontrolli, kas see tarkvarapakett on arvutisse "
+"paigaldatud."
+
+#: reportgenerator.cpp:603
+msgid "Unknown problem."
+msgstr "Tundmatu probleem."
+
+#: reportgenerator.cpp:606
+msgid "Could not generate the pdf file. The pdf creation script failed."
+msgstr "PDF-faili genereerimine nurjus. PDF-i loomise skripti töö nurjus."
+
+#: reportgenerator.cpp:608
+msgid "PDF Generation Error"
+msgstr "PDF-i genereerimise tõrge"
+
+#: setupassistant.cpp:184 setupassistant.cpp:197
+#, kde-format
+msgid "0/%1"
+msgstr "0/%1"
+
+#: setupassistant.cpp:216 setupassistant.cpp:225 setupassistant.cpp:260
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: setupassistant.cpp:284
+msgid ""
+"Select your own address from the address book. It is set as a consigner on "
+"the documents."
+msgstr ""
+"Vali aadressiraamatust enda aadress. See omistatakse dokumendi koostajale."
+
+#: setupassistant.cpp:347
+msgid "Welcome to the Kraft Setup Assistant"
+msgstr "Tere tulemast kasutama Krafti häälestamise nõustajat"
+
+#: setupassistant.cpp:351
+msgid "Select the Database Backend"
+msgstr "Andmebaasi taustaprogrammi valimine"
+
+#: setupassistant.cpp:355
+msgid "Enter MySQL Database Setup Details"
+msgstr "MySQl-i andmebaasi häälestamise üksikasjad"
+
+#: setupassistant.cpp:359
+msgid "Enter SQLite Filename"
+msgstr "SQLite'i failinime määramine"
+
+#: setupassistant.cpp:363
+msgid "Creating the Database..."
+msgstr "Andmebaasi loomine..."
+
+#: setupassistant.cpp:367
+msgid "Upgrade the Database Schema"
+msgstr "Andmebaasiskeemi uuendamine"
+
+#: setupassistant.cpp:371
+msgid "My Own Address Data"
+msgstr "Minu aadressiandmed"
+
+#: setupassistant.cpp:375
+msgid "Setup Finished."
+msgstr "Häälestamine on lõpetatud."
+
+#: setupassistant.cpp:420
+msgid ""
+"<p>Can't connect to your database. Are you sure your credentials are correct "
+"and the database exists?</p>"
+msgstr ""
+"<p>Ühendumine andmebaasiga nurjus. Kas oled kindel, et sinu kasutajaandmed "
+"on õiged ja andmebaas on olemas?</p>"
+
+#: setupassistant.cpp:425
+msgid "<p>Can't open your database file, check the permissions and such."
+msgstr ""
+"<p>Andmebaasifaili avamine nurjus, palun kontrolli õigusi ja muud sellist."
+
+#: setupassistant.cpp:434
+msgid ""
+"<p>The database is already existing, no action needs to be taken here.</"
+"p><p>Please hit <b>next</b> to proceed.</p>"
+msgstr ""
+"<p>Andmebaas on juba olemas, siin ei ole vaja midagi rohkem teha.</"
+"p><p>Palun vajuta jätkamiseks <b>Edasi</b>.</p>"
+
+#: setupassistant.cpp:477
+msgid "<p>The database setup was successfully completed.</p>"
+msgstr "<p>Andmebaasi häälestamine lõpetati edukalt.</p>"
+
+#: setupassistant.cpp:478
+msgid "<p>You can start to work with Kraft now. Please do not forget to</p>"
+msgstr "<p>Oled nüüd valmis alustama Krafti kasutamist. Palun ära unusta</p>"
+
+#: setupassistant.cpp:480
+msgid "<li>adjust various settings in the Kraft Preferences dialog.</li>"
+msgstr "<li>kohandamast vajalikke asju Krafti seadistustedialoogis</li>"
+
+#: setupassistant.cpp:481
+msgid "<li>Check the Catalog chapter list.</li>"
+msgstr "<li>kontrollimast kataloogijaotiste loendit</li>"
+
+#: setupassistant.cpp:482
+msgid "<li>Make your business and have fun.</li>"
+msgstr "<li>ajamast muretult oma äri</li>"
+
+#: setupassistant.cpp:484
+msgid ""
+"<p>If you press <i>Finish</i> now, the new database configuration is stored "
+"in Krafts configuration.</p>"
+msgstr ""
+"<p>Kui klõpsad nupule <i>Lõpeta</i>, salvestatakse uus andmebaasiseadistus "
+"Krafti seadistusse.</p>"
+
+#: setupassistant.cpp:497
+msgid ""
+"The Database can not be connected. Please check the database credentials."
+msgstr "Andmebaasiga ei saa ühendust. Palun kontrolli kasutajaandmeid."
+
+#: setupassistant.cpp:503
+msgid "The database core tables do not exist. Please check initial setup."
+msgstr "Andmebaasi tuumtabeleid ei ole. Palun kontrolli algset häälestust."
+
+#: setupassistant.cpp:510
+msgid "Database is up to date. No upgrade is required."
+msgstr "Andmebaas on täiesti värske. Uuendamist pole vaja."
+
+#: setupassistant.cpp:515
+msgid "Parse Update Commands..."
+msgstr "Uuendamiskäskude parsimine..."
+
+#: setupassistant.cpp:526
+#, kde-format
+msgid "Reading upgrade command file %1"
+msgstr "Uuendamiskäsu faili %1 lugemine"
+
+#: setupassistant.cpp:559
+msgid "The Upgrade failed!"
+msgstr "Uuendamine nurjus!"
+
+#: setupassistant.cpp:561
+#, kde-format
+msgid "The Upgrade succeeded, the current schema version is %1!"
+msgstr "Uuendamine õnnestus, skeemi nüüdne versioon on %1!"
+
+#: setupassistant.cpp:572
+msgid ""
+"The Database can not be connected. Please check the database credentials!"
+msgstr "Andmebaasiga ei saa ühendust. Palun kontrolli kasutajaandmeid!"
+
+#: setupassistant.cpp:578
+msgid "Parse Create Commands..."
+msgstr "Loomisekäskude parsimine..."
+
+#: setupassistant.cpp:586
+msgid "Parse database fillup commands..."
+msgstr "Andmebaasi täitmise käskude parsimine..."
+
+#: setupassistant.cpp:599
+msgid "Processing database creation commands..."
+msgstr "Andmebaasi loomise käskude töötlemine..."
+
+#: setupassistant.cpp:616
+msgid "Process database fillup commands..."
+msgstr "Andmebaasi täitmise käskude töötlemine..."
+
+#: setupassistant.cpp:621
+msgid "Successfully finished commands."
+msgstr "Käskude täitmine on edukalt lõpetatud."
+
+#: setupassistant.cpp:623
+msgid "Failed to perform all commands."
+msgstr "Kõiki käske ei õnnestunud täita."
+
+#: setupassistant.cpp:696
+msgid ""
+"This assistant guides you through the basic settings of your Kraft "
+"installation."
+msgstr "Nõustaja juhendab sind Krafti põhiliste seadistuste määramisel."
+
+#: setupassistant.cpp:709
+msgid ""
+"The database configuration was converted from a former configuration file."
+msgstr "Andmebaasiseadistus teisendati varasemast seadistusfailist."
+
+#: setupassistant.cpp:712
+msgid "There was no database configuration found."
+msgstr "Andmebaasiseadistust ei leitud."
+
+#: setupassistant.cpp:715
+msgid "A valid current database configuration file was found."
+msgstr "Leiti korrektne andmebaasi seadistusfail."
+
+#: setupassistant.cpp:734
+msgid ""
+"<p>The database can be opened, but does not contain valid content.</p><p>A "
+"new database can be created automatically from scratch.</p>"
+msgstr ""
+"<p>Andmebaasi saab küll avada, aga see ei sisalda korrektset sisu</"
+"p><p>Luuakse automaatselt täiesti uus andmebaas.</p>"
+
+#: setupassistant.cpp:741
+msgid "<p>Kraft could not connect to the configured database.<p>"
+msgstr "<p>Kraft ei suuda ühenduda seadistatud andmebaasiga.<p>"
+
+#: setupassistant.cpp:743
+msgid "<p>Please check the database server setup and restart Kraft to connect."
+msgstr ""
+"<p>Palun kontrolli andmebaasiserveri häälestust ja käivita ühendumiseks "
+"Kraft uuesti."
+
+#: setupassistant.cpp:745
+msgid "<p>Please check the database file."
+msgstr "<p>Palun kontrolli andmebaasifaili."
+
+#: setupassistant.cpp:747
+msgid "or create a new database by hitting <b>next</b>.</p>"
+msgstr "või loo uus andmebaas klõpsuga nupule <b>Edasi</b>.</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sqlitedetails.ui:21
+msgid ""
+"Please enter the SQLite Database Settings.\n"
+"\n"
+"Pick a filename to name the SQLite database file or leave the default "
+"setting."
+msgstr ""
+"Palun sisesta SQLite-i andmebaasi seadistused.\n"
+"\n"
+"Vali SQLite'i andmebaasifaili nimi või jäta tühjaks, et kasutataks vaikimisi "
+"nime."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbDefault)
+#: sqlitedetails.ui:31
+msgid "store the database file at default place."
+msgstr "Andmebaasifaili salvestamine vaikimisi asukohta"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbCustom)
+#: sqlitedetails.ui:43
+msgid "select a file name:"
+msgstr "Failinimi:"
+
+#: tagtemplatesdialog.cpp:46
+msgid "Edit Tag Template"
+msgstr "Sildimalli muutmine"
+
+#: tagtemplatesdialog.cpp:54
+msgid "<h2>Edit a Tag Template</h2>"
+msgstr "<h2>Sildimalli muutmine</h2>"
+
+#: tagtemplatesdialog.cpp:55
+msgid "Adjust settings for name, color and description."
+msgstr "Nime, värvi ja kirjelduse kohandamine."
+
+#: tagtemplatesdialog.cpp:59
+msgid "Name:"
+msgstr "Nimi:"
+
+#: tagtemplatesdialog.cpp:63
+msgid "Description:"
+msgstr "Kirjeldus:"
+
+#: tagtemplatesdialog.cpp:70
+msgid "Associated Color:"
+msgstr "Omistatud värv:"
+
+#: tagtemplatesdialog.cpp:106 tagtemplatesdialog.cpp:114
+msgid "Edit Tag Templates"
+msgstr "Sildimallide muutmine"
+
+#: tagtemplatesdialog.cpp:115
+msgid "Add, edit and remove tag templates for use in the documents."
+msgstr ""
+"Dokumentides kasutatavate sildimallide lisamine, muutmine ja eemaldamine."
+
+#: tagtemplatesdialog.cpp:139
+msgid "Add..."
+msgstr "Lisa..."
+
+#: tagtemplatesdialog.cpp:140
+#, fuzzy
+#| msgid "Edit.."
+msgid "Edit..."
+msgstr "Muuda.."
+
+#: tagtemplatesdialog.cpp:142
+msgid "Delete..."
+msgstr "Kustuta..."
+
+#: tagtemplatesdialog.cpp:184
+msgid "Do you really want to delete the template?"
+msgstr "Kas tõesti mall kustutada?"
+
+#: tagtemplatesdialog.cpp:185
+msgid "Delete Tag Template"
+msgstr "Sildimalli kustutamine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: taxeditbase.ui:20
+msgid "<h2>Add a Tax Rate</h2>"
+msgstr "<h2>Maksumäära lisamine</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: taxeditbase.ui:32
+msgid "Start-Date:"
+msgstr "Alguskuupäev:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: taxeditbase.ui:68
+msgid "&Reduced Tax Rate:"
+msgstr "&Soodusmäär:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2a)
+#: taxeditbase.ui:84
+msgid "&Full Tax Rate:"
+msgstr "&Normaalmäär:"
+
+#: taxeditdialog.cpp:35
+msgid "Edit Tax Rates"
+msgstr "Maksumäära muutmine"
+
+#: templkatalog.cpp:344
+msgid "Export XML Katalog"
+msgstr "XML-kataloogi eksport"
+
+#: templkataloglistview.cpp:46
+msgid "Calc. Type"
+msgstr "Arvutustüüp"
+
+#: templkataloglistview.cpp:50
+msgid "Template Catalog"
+msgstr "Mallikataloog"
+
+#: templkatalogview.cpp:110
+msgid "<new template>"
+msgstr "<uus mall>"
+
+#: templtopositiondialogbase.cpp:32
+msgid "Create Position from Template"
+msgstr "Positsiooni loomine malli põhjal"
+
+#: templtopositiondialogbase.cpp:50
+msgid "the Header of the Document as first position"
+msgstr "dokumendi päist kui esimest positsiooni"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: texteditbase.ui:32
+msgid "Edit Document Text Template"
+msgstr "Dokumendi tekstimalli muutmine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditbase.ui:57
+msgid "&Name:"
+msgstr "&Nimi:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: texteditbase.ui:91
+msgid "displayed as"
+msgstr "näidatakse kui "
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_44)
+#: texteditbase.ui:129
+msgid "in doc type"
+msgstr "dokumenditüübis"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: texteditbase.ui:179
+msgid "&Text:"
+msgstr "&Tekst:"
+
+#: texteditdialog.cpp:41
+msgid "Edit Text Templates"
+msgstr "Tekstimallide muutmine"
+
+#: texteditdialog.cpp:52
+#, kde-format
+msgid "Edit %1 Template"
+msgstr "%1 malli muutmine"
+
+#: textselection.cpp:105
+msgid "Template Actions"
+msgstr "Malli toimingud"
+
+#: textselection.cpp:134
+msgid "This is the standard text used in new documents."
+msgstr "Standardne uutes dokumentides kasutatav tekst."
+
+#: textselection.cpp:143
+#, kde-format
+msgid "%1 Templates for %2"
+msgstr "%2 - %1emallid"
+
+#: textselection.cpp:151
+#, kde-format
+msgid ""
+"There is no %1 template text available for document type %2.<br/>Click the "
+"add-button below to create one."
+msgstr ""
+"Dokumenditüübile %2 ei ole saada %1 malli teksti.<br/>Selle loomiseks klõpsa "
+"allpool lisamise nupule."
+
+#: textselection.cpp:209
+msgid "&Use in Document"
+msgstr "Kas&utatakse dokumendis"
+
+#: texttemplate.cpp:130
+msgid "No file name given for template"
+msgstr "Mallile pole failinime antud"
+
+#: texttemplate.cpp:138
+#, kde-format
+msgid "Could not find template file %1"
+msgstr "Mallifaili %1 ei leitud"
+
+#: texttemplate.cpp:147
+msgid "Failed to open template source"
+msgstr "Malli allika avamine nurjus"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailTime)
+#: timepart.ui:14
+msgid "Calculation Item Time"
+msgstr "Ajakomponendi arvutamine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: timepart.ui:20
+msgid "<h1>Calculation Part 'Time'</h1>"
+msgstr "<h1>Ajaarvestuse komponent</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: timepart.ui:30
+msgid ""
+"Calculate time efforts here for one unit of the template. <br/>Note that the "
+"costs may depend on a global hourly rate."
+msgstr ""
+"Siin saab arvutada malli ühiku ajakulu. <br/>Pane tähele, et kulu võib "
+"sõltuda globaalsest tunnitasust."
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: timepart.ui:61
+msgid "Work"
+msgstr "Töö"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: timepart.ui:68
+msgid "&Time Effort:"
+msgstr "A&jakulu:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: timepart.ui:96
+msgid "Minutes"
+msgstr "minutit"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: timepart.ui:108
+msgid "&Hourly Rate:"
+msgstr "&Tunnitasu:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_stdGlobal)
+#: timepart.ui:130
+msgid "Apply the &global hourly rate."
+msgstr "&Globaalse tunnitasu rakendamine"
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: unitseditbase.ui:20
+msgid "<h1>Add a unit</h1>"
+msgstr "<h1>Ühiku lisamine</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: unitseditbase.ui:32
+msgid "Unit short"
+msgstr "Ühik lühidalt"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: unitseditbase.ui:42
+msgid "Unit long"
+msgstr "Ühik pikalt"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: unitseditbase.ui:58
+msgid "Unit plural short"
+msgstr "Ühiku mitmus lühidalt"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: unitseditbase.ui:68
+msgid "Unit plural long"
+msgstr "Ühiku mitmus pikalt"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeInfo)
+#: upgradedb.ui:20
+msgid ""
+"This step checks if the database schema version is sufficient for this "
+"version of Kraft. \n"
+"\n"
+"In case it is not, the schema is updated automatically.\n"
+msgstr ""
+"Sel sammul kontrollitakse, kas andmebaasi skeemi versioon on piisavalt uus "
+"Krafti käesoleva versiooni vajadusteks.\n"
+"\n"
+"Kui see nii pole, uuendatakse skeemi automaatselt.\n"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeStatus)
+#: upgradedb.ui:79
+msgid "Upgrade not yet started"
+msgstr "Uuendus pole veel alanud"
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: wageseditbase.ui:20
+msgid "<h1>Add a Wage group</h1>"
+msgstr "<h1>Palgagrupi lisamine</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wageseditbase.ui:32
+msgid "Group name"
+msgstr "Grupi nimi"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: wageseditbase.ui:39
+msgid "Wage"
+msgstr "Palk"
+
+#~ msgid "Position Kind"
+#~ msgstr "Positsiooni liik"
+
+#~ msgid "Lock Position"
+#~ msgstr "Lukusta positsioon"
+
+#~ msgid "Unlock Position"
+#~ msgstr "Eemalda positsiooni lukustus"
+
+#~ msgid "Delete Position"
+#~ msgstr "Kustuta positsioon"
+
+#~ msgid "This is a as required position. Use the position toolbox to change."
+#~ msgstr ""
+#~ "See on nõutav positsioon. Muutmiseks kasuta positsiooni tööriistakasti."
+
+#~ msgid "Plant Catalog"
+#~ msgstr "Taimekataloog"
+
+#~ msgid "KDE Plant Catalog Viewer"
+#~ msgstr "KDE taimekataloogi näitaja"
+
+#~ msgid "The KDE Plant Catalog Viewer"
+#~ msgstr "KDE taimekataloogi näitaja"
+
+#~ msgid "Copyright © 2005–2010 Klaas Freitag"
+#~ msgstr "Autoriõigus © 2005–2010: Klaas Freitag"

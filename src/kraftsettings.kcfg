@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE kcfg SYSTEM "http://www.kde.org/standards/kcfg/1.0/kcfg.dtd">
+<kcfg> 
+  <kcfgfile name="kraftrc"/> 
+
+  <group name="system">
+    <entry name="DoInit" type="Bool">
+      <label>Do Database Initialisation</label>
+      <default>true</default>
+    </entry>
+    <entry name="DoXmlArchive" type="Bool">
+      <label>Do XML archiving of documents they're printed?</label>
+      <default>true</default>
+    </entry>
+    <entry name="XmlArchivePath" type="String">
+      <label>Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps is used.</label>
+    </entry>
+    <entry name="XmlDocPath" type="String">
+      <label>The local xml document storage path</label>
+    </entry>
+  </group>
+
+  <group name="WindowSizes">
+    <entry name="docViewSize" type="Size">
+      <label>The default size of the document view dialog</label>
+    </entry>
+    <entry name="RODocViewSize" type="Size">
+      <label>The default size of the read only document view dialog</label>
+    </entry>
+    <entry name="docViewPosition" type="Point">
+      <label>The default position of the document view dialog</label>
+    </entry>
+    <entry name="docViewSplitter" type="IntList">
+      <label>The splitter position of the document view dialog</label>
+    </entry>
+    <entry name="materialCatalogSize" type="Size">
+      <label>The default size of the material catalog view</label>
+    </entry>
+    <entry name="assistantSplitterSetting" type="IntList">
+      <label>The splitter setting for the doc assistant</label>
+    </entry>
+    <entry name="plantTemplateToPosDialogSize" type="Size">
+      <label>The window size of the template to document dialog for plants</label>
+    </entry>
+    <entry name="templateToPosDialogSize" type="Size">
+      <label>The window size of the template to document dialog</label>
+    </entry>
+    <entry name="digestListColumnsLatest" type="String">
+      <label>The digest list column arrangement for the Latest-list</label>
+    </entry>
+   <entry name="digestListColumnsAll" type="String">
+      <label>The digest list column arrangement for the all-list</label>
+    </entry>
+     <entry name="digestListColumnsTime" type="String">
+      <label>The digest list column arrangement for timeline</label>
+    </entry>
+    <entry name="addressPickerSplitterSize" type="IntList">
+      <label>The sizes of the slider in the address picker Widget</label>
+    </entry>
+  </group>
+
+  <group name="material">
+    <entry name="materialAddOnPercent" type="Double">
+      <label>Default percentage the sale price for a material should be higher than its purchase price</label>
+      <default>10.0</default>
+    </entry>
+    <entry name="lastMaterialChapter" type="String">
+      <label>The name of the last selected chapter in the catalog</label>
+    </entry>
+  </group>
+
+  <group name="reporting">
+    <entry name="Trml2PdfBinary" type="String">
+      <label>The complete filename of the trml2pdf binary</label>
+      <default>trml2pdf</default>
+    </entry>
+    <entry name="PdfOutputDir" type="Path">
+      <label>The path to the output directory for document pdfs</label>
+    </entry>    
+  </group>
+
+  <group name="userdefaults">
+    <entry name="doctype" type="String">
+      <label>The last created doc type.</label>
+    </entry>
+    <entry name="greeting" type="String">
+      <label>The greeting below on the document footer.</label>
+    </entry>
+    <entry name="salut" type="Int">
+      <label>The salut message on the document header.</label>
+    </entry>
+    <entry name="InsertTemplChapterName" type="String">
+      <label>The name of the catalog chapter where to store new templates in by default</label>
+    </entry>  
+    <entry name="ImportItemsSchemaName" type="String">
+      <label>The name of the last used import schema for items.</label>
+    </entry>  
+    <entry name="ImportItemsFileName" type="String">
+      <label>The name of the last used input file for items.</label>
+    </entry>
+    <entry name="UserName" type="String">
+      <label>User name as reference to the KAddressbook to identify 'my' address (DEPRECATED).</label>
+    </entry>
+    <entry name="UserUid" type="String">
+      <label>UID of the user as reference to the KAddressbook to identify 'my' address.</label>
+    </entry>
+  </group>
+
+  <group name="document">
+     <entry name="DocIdent" type="String">
+        <label>The doc id template</label>
+        <default>%y%w-%i</default>
+     </entry>
+     <entry name="ShowDocumentLocale" type="Bool">
+        <label>Localization on document level</label>
+        <default>false</default>
+     </entry>
+
+     <entry name="DefaultTaxType" type="Int">
+        <label>The tax default for new documents.</label>
+        <default>3</default>
+     </entry>
+
+     <entry name="AlternativeLabel" type="String">
+        <label>The label for alternative positions</label>
+     </entry>
+     <entry name="DemandLabel" type="String">
+        <label>The label for demand positions</label>
+     </entry>
+     <entry name="NormalLabel" type="String">
+        <label>The label for demand positions</label>
+     </entry>
+  </group>
+</kcfg>
+

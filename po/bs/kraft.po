@@ -1,0 +1,3354 @@
+# Bosnian translations for kde package.
+# Copyright (C) 2012 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kde package.
+# Samir Ribic <megaribi@epn.ba>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kde 49i410\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-16 02:15+0000\n"
+"PO-Revision-Date: 2015-02-24 23:35+0100\n"
+"Last-Translator: Samir Ribić <megaribi@epn.ba>\n"
+"Language-Team: Bosnian\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17341)\n"
+"X-Launchpad-Export-Date: 2015-02-15 06:20+0000\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Samir Ribić,Adna Čolpa,Nermin Demir"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Samir.ribic@etf.unsa.ba,acolpa1@etf.unsa.ba,nermin.demir95@gmail.com"
+
+#: addeditchapterdialog.cpp:31
+msgid "Add/Edit Catalog Chapter"
+msgstr "Dodaj/Izmjeni Poglavlje Kataloga"
+
+#: addeditchapterdialog.cpp:45
+msgid "Create a new Catalog Chapter"
+msgstr "Kreiraj novo Poglavlje Kataloga"
+
+#: addeditchapterdialog.cpp:49
+msgid "Chapter Name:"
+msgstr "Ime Poglavlja:"
+
+#: addeditchapterdialog.cpp:53
+msgid "Chapter Description:"
+msgstr "Opis Poglavlja:"
+
+#: addeditchapterdialog.cpp:71
+#, kde-format
+msgid "Create new Catalog Chapter below chapter %1"
+msgstr "Kreiraj novo Poglavlje Kataloga ispod %1 poglavlja"
+
+#: addeditchapterdialog.cpp:78
+#, kde-format
+msgid "Edit name and description of chapter %1"
+msgstr "Izmjeni ime i opis poglavlja %1"
+
+#: addressselection.cpp:59
+msgid "Please select a contact from the list below: "
+msgstr "Molimo odaberite kontakt sa liste ispod "
+
+#: addressselection.cpp:71 akonadiaddressselector.cpp:172 docdigestview.cpp:68
+msgid "&Search: "
+msgstr "&Traži: "
+
+#: addressselection.cpp:125 akonadiaddressselector.cpp:215
+msgid "New Contact..."
+msgstr "Novi kontakt.."
+
+#: akonadiaddressselector.cpp:206
+msgid "Display address book selection list and hide address details."
+msgstr "Prikažite selektnu listu imenika i sakrijte detalje adrese."
+
+#: akonadiaddressselector.cpp:211
+msgid "Edit Contact..."
+msgstr "Izmijeni kontakt..."
+
+#: akonadiaddressselector.cpp:212
+msgid "Edit the currently selected contact"
+msgstr "Izmijeni trenutačno izabran kontakt"
+
+#: akonadiaddressselector.cpp:216
+msgid "Create a new Contact"
+msgstr "Kreiraj novi kontakt"
+
+#: archdoc.cpp:60 kraftdoc.cpp:196
+#, kde-format
+msgid "%1 for %2 (Id %3)"
+msgstr "%1 za %2 (ld %3)"
+
+#: brunskatalog.cpp:43
+msgid "Select Bruns Catalog Data File"
+msgstr "Izaberite iz Brunsovog kataloga fajl sa podacima"
+
+#: brunskatalog.cpp:55
+msgid "Select Bruns Catalog Key File"
+msgstr "Odaberite ključnu datoteku Bruns kataloga"
+
+#: brunskataloglistview.cpp:36
+msgctxt "Abbrev. for botanical name"
+msgid "Bot. Name"
+msgstr "Bot. ime"
+
+#: brunskataloglistview.cpp:37
+msgctxt "Abbrev. for localized name"
+msgid "Name"
+msgstr "Ime"
+
+#: brunskataloglistview.cpp:38
+msgctxt "Abbrev. for article identification number"
+msgid "Art. Id."
+msgstr "Art. Id."
+
+#: brunskataloglistview.cpp:39
+msgctxt "Abbrev. for article Matchcode"
+msgid "Art. Match."
+msgstr "Art. Match."
+
+#: brunskataloglistview.cpp:42
+msgid "Catalog"
+msgstr "Katalog"
+
+#: brunskataloglistview.cpp:110
+msgid "Fruits"
+msgstr "Voće"
+
+#: brunskataloglistview.cpp:114
+msgid "Azalea and Rhododendrons"
+msgstr "Azalea i Rododendroni"
+
+#: brunskataloglistview.cpp:118
+msgid "Roses"
+msgstr "Ruže"
+
+#: brunskataloglistview.cpp:122
+msgctxt "botanical"
+msgid "Bushes"
+msgstr "Grmlje"
+
+#: brunskataloglistview.cpp:126
+msgctxt "Various plants (bot.)"
+msgid "Others"
+msgstr "Ostalo"
+
+#: brunskatalogview.cpp:61
+msgid "Plant Details (Sizes, Root Forms etc.):"
+msgstr "Detalji biljke (veličine, oblici korjena i td.):"
+
+#: brunskatalogview.cpp:67 insertplantdialog.cpp:55
+msgid "Matchcode"
+msgstr "Podudarnikod"
+
+#: brunskatalogview.cpp:68 insertplantdialog.cpp:56
+msgid "Form"
+msgstr "Obrazac"
+
+#: brunskatalogview.cpp:69 insertplantdialog.cpp:57
+msgid "Form Add"
+msgstr "Dodaj obrazac"
+
+#: brunskatalogview.cpp:70
+msgid "Wuchs"
+msgstr "Wuchs"
+
+#: brunskatalogview.cpp:71 insertplantdialog.cpp:59
+msgid "Root"
+msgstr "Korijen"
+
+#: brunskatalogview.cpp:72 insertplantdialog.cpp:60
+msgid "Quality"
+msgstr "Kvalitet"
+
+#: brunskatalogview.cpp:73 insertplantdialog.cpp:61
+msgid "Group"
+msgstr "Grupa"
+
+#: calcpart.cpp:117
+msgid "Base"
+msgstr "Osnova"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, d_calcTempl)
+#: calctemplate.ui:14
+msgid "Edit Template"
+msgstr "Uredi šablon"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget8)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:27 calctemplate.ui:75 templkataloglistview.cpp:44
+#: texteditdialog.cpp:64
+msgid "Template"
+msgstr "Šablon"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: calctemplate.ui:53
+msgid "&Store in Chapter"
+msgstr "&Pohrani u poglavlje"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: calctemplate.ui:96
+msgid "&Unit"
+msgstr "&Jedinka"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_addTime)
+#: calctemplate.ui:128
+msgid "&Count Time for Overalltime"
+msgstr "&Broji vrijeme za ukupno vrijeme"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: calctemplate.ui:142
+msgid "Margin"
+msgstr "Margina"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, spBenefit)
+#: calctemplate.ui:161
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (KPushButton, pbRundPreis)
+#: calctemplate.ui:177
+msgid "round"
+msgstr "krug"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: calctemplate.ui:203 kraftview_ro.cpp:220 kraftview_ro.cpp:257
+#: reportgenerator.cpp:333
+msgid "VAT"
+msgstr "PDV"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:214
+msgid "full"
+msgstr "puno"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:219
+msgid "half"
+msgstr "pola"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget9)
+#: calctemplate.ui:235
+msgid "Time Calculation"
+msgstr "Računica vrmena"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: calctemplate.ui:246
+msgid "Time measureable effort for this template:"
+msgstr "Vremenski uložen napor za ovaj obrazac:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:271 calctemplate.ui:390 calctemplate.ui:499
+msgid "Label"
+msgstr "Oznaka"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:276
+msgid "Duration"
+msgstr "Trajanje"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:281
+msgid "Hourly Rate"
+msgstr "Stopa na sat"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:286
+msgid "Glob. Rate"
+msgstr "Glob. stopa"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddTime)
+#: calctemplate.ui:296
+msgid "Adds a new time calculation part to the template"
+msgstr "Dodaje novi dio vremenske računice u obrazac"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:299 calctemplate.ui:413 calctemplate.ui:527
+msgid "new..."
+msgstr "novo..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditTime)
+#: calctemplate.ui:306
+msgid "Edits the current time calculation part"
+msgstr "Uređuje trenutačni dio vremenske računice"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:309 calctemplate.ui:423 calctemplate.ui:537
+msgid "edit..."
+msgstr "izmijeni..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveTime)
+#: calctemplate.ui:316
+msgid "Deletes the current time calculation part"
+msgstr "Briše trenutačni dio vremenske računice"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:319 calctemplate.ui:433 calctemplate.ui:547
+msgid "delete"
+msgstr "brisanje"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: calctemplate.ui:349
+msgid "Fix Costs"
+msgstr "Popravi troškove"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: calctemplate.ui:360
+msgid "Fix costs for this template per one unit:"
+msgstr "Popravi troškove obrasca po jednoj jedinki:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:385 calctemplate.ui:504
+msgid "Amount"
+msgstr "Iznos"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:395
+msgid "Single Price"
+msgstr "Jedna cijena"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:400
+msgid "Overall Price"
+msgstr "Ukupna cijena"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddFix)
+#: calctemplate.ui:410
+msgid "adds a new fix calculation part"
+msgstr "dodaje novi dio popravljanja računice"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditFix)
+#: calctemplate.ui:420
+msgid "edits the current fix calculation part"
+msgstr "uređuje trenutačni dio popravljanja računice"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveFix)
+#: calctemplate.ui:430
+msgid "deletes the current fix calculation part"
+msgstr "briše trenutačni dio popravljanja računice"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage_2)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:463 kraftglobals.h:29 materialdialog.ui:68
+#: materialkataloglistview.cpp:37
+msgid "Material"
+msgstr "Materijal"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: calctemplate.ui:474
+msgid "Needed materials for one unit of this template:"
+msgstr "Potrebni materijali za jednu jedinku obrasca:"
+
+# >> @title:column
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:509 materialkataloglistview.cpp:39
+msgid "Unit"
+msgstr "Jedinica"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: calctemplate.ui:514 calctemplate.ui:580 templkataloglistview.cpp:45
+msgid "Price"
+msgstr "Cijena"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:524
+msgid "adds a new material calculation part"
+msgstr "dodaje novi računski dio materijala"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:534
+msgid "edits the current material part"
+msgstr "uređuje trenutačni dio materijala"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:544
+msgid "deletes the current material calculation part"
+msgstr "briše trenutačni računski dio materijala"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbManual)
+#: calctemplate.ui:586
+msgid "&manual:"
+msgstr "&priručnik:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: calctemplate.ui:603
+msgid "Euro"
+msgstr "Euro"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbCalculation)
+#: calctemplate.ui:629
+msgid "Calculated Price"
+msgstr "Izračunata cijena"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: calctemplate.ui:642
+msgid "Overall Price per Unit"
+msgstr "Ukupna cijena po jedinki"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelTime)
+#: calctemplate.ui:648
+msgid "Time Calculation Part:"
+msgstr "Dio vremenske računice:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelFix)
+#: calctemplate.ui:671
+msgid "Fix Costs Part:"
+msgstr "Dio s fiksnim troškovima:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelMat)
+#: calctemplate.ui:694
+msgid "Material Part:"
+msgstr "Materijalni Dio:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resPreisName)
+#: calctemplate.ui:717
+msgid "Calculated Price:"
+msgstr "Izračunata cijena:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resultPrice)
+#: calctemplate.ui:733
+msgid "88.888,88 €"
+msgstr "88.888,88 €"
+
+#: catalogselection.cpp:56
+msgid "Selected &Catalog: "
+msgstr "Izabrani &Katalog: "
+
+#: catalogselection.cpp:149 catalogselection.cpp:164 catalogselection.cpp:173
+msgid "Append to Document"
+msgstr "Dodaj u dokument"
+
+#: catalogtemplate.cpp:50
+msgid "Manual Price"
+msgstr "Cijena priručnika"
+
+#: catalogtemplate.cpp:52
+msgid "Calculated"
+msgstr "Izračunato"
+
+#: catalogtemplate.cpp:54
+msgid "AutoCalc"
+msgstr "Automatsko računanje"
+
+#: catalogtemplate.cpp:55
+#, c-format
+msgid "Err: Unknown type %d"
+msgstr "Gr: Nepoznati tip %d"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: createdb.ui:17
+msgid "Database creation and initial schema setup:"
+msgstr "Postava kreacije baze podataka i početne sheme:"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateCounter)
+#. i18n: ectx: property (text), widget (QLabel, mFillCounter)
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeCounter)
+#: createdb.ui:36 createdb.ui:80 upgradedb.ui:39
+msgid "0 / 129"
+msgstr "0 / 129"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateIcon)
+#. i18n: ectx: property (text), widget (QLabel, mFillIcon)
+#: createdb.ui:49 createdb.ui:93 upgradedb.ui:52
+msgid "X"
+msgstr "X"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: createdb.ui:61
+msgid "Filling the database with initial values:"
+msgstr "Popunjavanje baze podataka  početnim vrijednostima:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: createdb.ui:113 upgradedb.ui:72
+msgid "Status: "
+msgstr "Status: "
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateStatus)
+#: createdb.ui:123
+msgid "Database setup status..."
+msgstr "Stastus podešavanja databaze..."
+
+#. i18n: ectx: label, entry (BrunsDataFile), group (bruns)
+#: databasesettings.kcfg:7
+msgid "Bruns Data File:"
+msgstr "Bruns datoteka podataka:"
+
+#. i18n: ectx: label, entry (BrunsKeyFile), group (bruns)
+#: databasesettings.kcfg:10
+msgid "Bruns Key File:"
+msgstr "Bruns ključna datoteka:"
+
+#. i18n: ectx: label, entry (DbDriver), group (database selection)
+#: databasesettings.kcfg:15
+msgid "Qt Database Driver:"
+msgstr "Drajver Qt baze podataka:"
+
+#. i18n: ectx: label, entry (DbServerName), group (mysql settings)
+#: databasesettings.kcfg:20
+msgid "Database Server:"
+msgstr "Server baze podataka:"
+
+#. i18n: ectx: label, entry (DbDatabaseName), group (mysql settings)
+#: databasesettings.kcfg:24
+msgid "Database Name"
+msgstr "Ime baze podataka"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: label, entry (DbUser), group (mysql settings)
+#: databasesettings.kcfg:27 mysqldetails.ui:51
+msgid "Database User:"
+msgstr "Korisnik baze podataka:"
+
+#. i18n: ectx: label, entry (DbPassword), group (mysql settings)
+#: databasesettings.kcfg:31
+msgid "Database Password:"
+msgstr "Lozinka baze podataka:"
+
+#. i18n: ectx: label, entry (DefaultDbName), group (mysql settings)
+#: databasesettings.kcfg:34
+msgid "The default database name when creating new databases"
+msgstr "Zadano ime baze podataka kad se kreiraju nove baze podataka"
+
+#. i18n: ectx: label, entry (DbFile), group (Sqlite settings)
+#: databasesettings.kcfg:39
+msgid "File Name"
+msgstr "Ime datoteke"
+
+#. i18n: ectx: label, entry (DbPath), group (Sqlite settings)
+#: databasesettings.kcfg:42
+msgid "The path where database file are stored. Leave empty!"
+msgstr "Put gdje su spremljene datoteke baze podataka. Ostavite prazno!"
+
+#. i18n: ectx: property (text), widget (QLabel, mInfoText)
+#: dbinit.ui:19
+msgid "Database Update:"
+msgstr "Ažuriranje baze podataka:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: dbinit.ui:34
+msgid "Overall Progress:"
+msgstr "Ukupan progres:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: dbinit.ui:55
+msgid "Detail Progress:"
+msgstr "Detalji napretka:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: dbinit.ui:76
+msgid "Status:"
+msgstr "Status:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dbselect.ui:21
+msgid ""
+"Kraft uses a database backend to store values. By default it uses a file "
+"based database with easy setup targeted to single user mode.\n"
+"\n"
+"Please select the database backend you want to use:"
+msgstr ""
+"Kraft koristi backend baze podataka da pohrani vrijednosti. Po standardu "
+"koristi bazu podataka baziranu na datotekama sa laganom postavkom ciljanom "
+"na jedan korisnik način.\n"
+"\n"
+"Molimo odaberite backend baze podataka koji želite da koristite:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbSqlite3)
+#: dbselect.ui:31
+msgid "SQLite 3 - file based database (default)"
+msgstr "SQLite 3 - baza podataka bazirana na datotekama (zadana)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbMySQL)
+#: dbselect.ui:41
+msgid "MySQL Serverbased Database for advanced Setups"
+msgstr "MySQL baza podataka serveski bazirana za napredne postavke"
+
+#: defaultprovider.cpp:51 doctext.cpp:89 positionviewwidget.cpp:420
+msgid "Unknown"
+msgstr "Nepoznat"
+
+#: docassistant.cpp:60
+msgid "Show Templates"
+msgstr "Prikaži predloške"
+
+#: docassistant.cpp:65
+msgid "Show mask to create or select templates to be used in the document"
+msgstr ""
+"Prikaži masku za kreiranje ili biranje šablona koji bi bili korišteni u "
+"dokumentu"
+
+#: docassistant.cpp:128
+msgid "Add a template to the document"
+msgstr "Dodaj šablon dokumentu"
+
+#: docassistant.cpp:134
+msgid "Create a new template"
+msgstr "Kreiraj novi šablon"
+
+#: docassistant.cpp:141
+msgid "Edit the current template"
+msgstr "Uredi trenutačni šablon"
+
+#: docassistant.cpp:148
+msgid "Delete the current template"
+msgstr "Izbriši trenutačni šablon"
+
+#: docassistant.cpp:299
+msgid ""
+"Do you really want to delete the template permanently? There is no way to "
+"recover!"
+msgstr ""
+"Da li stvarno želite da trajno izbrišete šablon? Ne postoji način da se "
+"vrati šablon!"
+
+#: docdigestdetailview.cpp:123
+msgid "Date"
+msgstr "Datum"
+
+#: docdigestdetailview.cpp:126 models/documentmodel.cpp:65
+msgid "Whiteboard"
+msgstr "Ploča"
+
+#: docdigestdetailview.cpp:131 models/documentmodel.cpp:69
+msgid "Project"
+msgstr "Projekat"
+
+#: docdigestdetailview.cpp:135
+msgid "Customer"
+msgstr "Mušterija"
+
+#: docdigestdetailview.cpp:146
+msgid "The address is not listed in an address book."
+msgstr "Adresa nije nabrojana u imeniku."
+
+#: docdigestdetailview.cpp:148
+#, kde-format
+msgid ""
+"The client has the address book id %1 but can not found in our address books."
+msgstr ""
+"Klijent ima u imeniku id %1 ali ne može biti pronađen u  našem imeniku."
+
+#: docdigestdetailview.cpp:151
+msgid "The client can be found in our address books."
+msgstr "Klijent može biti nađen u našim adresarima."
+
+#: docdigestdetailview.cpp:162 prefsdialog.cpp:424
+msgid "preferred address"
+msgstr "željena adresa"
+
+#: docdigestdetailview.cpp:166 prefsdialog.cpp:428
+msgid "home address"
+msgstr "kućna adresa"
+
+#: docdigestdetailview.cpp:170 prefsdialog.cpp:432
+msgid "work address"
+msgstr "radna adresa"
+
+#: docdigestdetailview.cpp:174 prefsdialog.cpp:436
+msgid "postal address"
+msgstr "adresa pošte"
+
+#: docdigestdetailview.cpp:178 prefsdialog.cpp:440
+msgid "international address"
+msgstr "internacionalna adresa"
+
+#: docdigestdetailview.cpp:182 prefsdialog.cpp:444
+msgid "domestic address"
+msgstr "domaća adresa"
+
+#: docdigestdetailview.cpp:186 prefsdialog.cpp:448
+msgid "unknown"
+msgstr "nepoznat"
+
+#: docdigestdetailview.cpp:209
+msgid "This document was never printed."
+msgstr "Ovaj dokument nikad nije isprintan."
+
+#. i18n: ectx: ToolBar (documentToolBar)
+#: docdigestview.cpp:114 docdigestview.cpp:116 docdigestview.cpp:118
+#: kraftui.rc:21 portal.cpp:220
+msgid "Document Actions"
+msgstr "Akcije dokumenta"
+
+#: docdigestview.cpp:135
+msgid "Latest Documents"
+msgstr "Posljednji dokumenti"
+
+#: docdigestview.cpp:137
+msgid "Shows the latest ten documents"
+msgstr "Prikazuje posljednjih deset dokumenata"
+
+#: docdigestview.cpp:155
+msgid "All Documents"
+msgstr "Svi Dokumenti"
+
+#: docdigestview.cpp:157
+msgid "Shows a complete list of all documents"
+msgstr "Prikazuje kompletnu listu svih dokumenata"
+
+#: docdigestview.cpp:175
+msgid "Timelined Documents"
+msgstr "Dokumenti vremenske linije"
+
+#: docdigestview.cpp:177
+msgid "Shows all documents along a timeline"
+msgstr "Pokazuje sve dokumente uz vremensku liniju"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: docfooter.ui:36
+msgid "Footer Texts"
+msgstr "Tekst u podnožju"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: docfooter.ui:42
+msgid "&Summary Text on Last Page:"
+msgstr "Rezime teksta na posljednjoj stranici:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docfooter.ui:66
+msgid "&Greeting:"
+msgstr "&Pozdrav:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, _taxGroup)
+#: docfooter.ui:94 positionviewwidget.cpp:104
+msgid "Tax"
+msgstr "Porez"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docfooter.ui:100
+msgid "Document &Tax:"
+msgstr "Dokument &Porez:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docheader.ui:64
+msgid "&Project:"
+msgstr "&Projekat:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docheader.ui:80
+msgid "&Whiteboard:"
+msgstr "&Ploča:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mProjectLabelEdit)
+#: docheader.ui:104
+msgid ""
+"Enter a label that describes the project. This may appear on the customer "
+"document."
+msgstr ""
+"Unesite oznaku koja opisuje projekat. Ovo se može pojaviti na dokumentu "
+"kupca."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: docheader.ui:160
+msgid "Postal &Address:"
+msgstr "&Adresa pošte:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labName)
+#: docheader.ui:178
+msgid "not selected"
+msgstr "nije odabrano"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:204
+msgid "Select an addressee from the address books."
+msgstr "Odaberite primaoca iz imenika."
+
+#. i18n: ectx: property (text), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:207
+msgid "select..."
+msgstr "odaberite..."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: docheader.ui:232
+msgid "&Salutatory Address:"
+msgstr "&Pozdravna adresa:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: docheader.ui:245
+msgid "Customer:"
+msgstr "Mušterija:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: docheader.ui:273
+msgid "&Entry Text on First Page:"
+msgstr "&Unos teksta na prvu stranicu:"
+
+#: doclocaledialog.cpp:45
+msgid "Document Locale Settings"
+msgstr "Postavke mjesta dokumenta"
+
+#: doclocaledialog.cpp:54
+msgid "<h2>Document Localization</h2>"
+msgstr "<h2>Lokalizacija dokumenta</h2>"
+
+#: doclocaledialog.cpp:57
+msgid ""
+"Select country and language for the document.\n"
+"That influences the formatting of numbers, dates etc."
+msgstr "Odaberite državu i jezik za dokument."
+
+#: doclocaledialog.cpp:65
+msgid "Country: "
+msgstr "Država: "
+
+#: doclocaledialog.cpp:74
+msgid "Language:"
+msgstr "Jezik:"
+
+#: doclocaledialog.cpp:118
+#, kde-format
+msgid ""
+"Money: %1\n"
+"Date: %2\n"
+"Date (short): %3"
+msgstr ""
+"Novac: %1\n"
+"Datum: %2\n"
+"Datum (kraći): %3"
+
+#: docpostcard.cpp:36
+msgid "Document Overview"
+msgstr "Pregled dokumenta"
+
+#: docpostcard.cpp:121
+msgid "Netto:"
+msgstr "Neto:"
+
+#: docpostcard.cpp:132 docpostcard.cpp:139
+#, kde-format
+msgid "+ %1% Tax:"
+msgstr "+ %1% Porez:"
+
+#: docpostcard.cpp:145
+msgid "Sum Tax:"
+msgstr "Suma poreza:"
+
+#: docpostcard.cpp:150
+msgid "Total:"
+msgstr "Ukupan:"
+
+#: docpostcard.cpp:191 docpostcard.cpp:241 kraftdoc.cpp:359
+msgid "Header"
+msgstr "Zaglavlje"
+
+#: docpostcard.cpp:220 docpostcard.cpp:261 kraftdoc.cpp:361
+msgid "Footer"
+msgstr "Tekst u dnu"
+
+#: docpostcard.cpp:249
+#, kde-format
+msgid "%1 Items"
+msgstr "%1 predmeta"
+
+#: docpostcard.cpp:251
+#, kde-format
+msgid "%1 Items, netto %2"
+msgstr "%1 predmeta, netto %2"
+
+#: docpostcard.cpp:253 doctext.cpp:87
+msgid "Positions"
+msgstr "Mjesta"
+
+#: doctext.cpp:61
+msgid "Standard"
+msgstr "Tipski"
+
+#: doctext.cpp:85
+msgid "Header Text"
+msgstr "Tekst u zaglavlju"
+
+#: doctext.cpp:86
+msgid "Footer Text"
+msgstr "Tekst u podnožju"
+
+#: doctypeedit.cpp:130 doctypeedit.cpp:155
+msgid "Add Document Type"
+msgstr "Dodaj tip dokumenta"
+
+#: doctypeedit.cpp:131
+msgid "Enter the name of a new document type"
+msgstr "Unesite ime novog tipa dokumenta"
+
+#: doctypeedit.cpp:156
+msgid "Edit the name of a document type"
+msgstr "Uredite ime tipa dokumenta"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:43 numbercycleseditbase.ui:168
+msgid "Click to add a new document type to the list."
+msgstr "Pritisnite da dodate novi tip dokumenta na listu."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:46 prefsdialog.cpp:129 prefsunits.cpp:77
+#: prefswages.cpp:88
+msgid "Add"
+msgstr "Dodaj"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:53
+msgid "click to edit the selected document type name"
+msgstr "pritisnite da uredite ime odabranog tipa dokumenta"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:56 prefsunits.cpp:81 prefswages.cpp:92
+msgid "Edit"
+msgstr "Uredite"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:63 numbercycleseditbase.ui:178
+msgid "click to remove the current document type"
+msgstr "pritisnite da uklonite trenutačni tip dokumenta"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:66 portalview.cpp:154 prefsdialog.cpp:133
+#: prefsunits.cpp:86 prefswages.cpp:97
+msgid "Remove"
+msgstr "Smakni"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: doctypeeditbase.ui:77
+msgid "Unique Document Number"
+msgstr "Jedinstveni broj dokumenta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: doctypeeditbase.ui:85
+msgid "Number &Cycle:"
+msgstr "&Ciklus broja:"
+
+#. i18n: ectx: property (text), widget (QLabel, mExampleId)
+#. i18n: ectx: property (text), widget (QLabel, mCounter)
+#. i18n: ectx: property (text), widget (QLabel, mIdent)
+#: doctypeeditbase.ui:105 doctypeeditbase.ui:138 doctypeeditbase.ui:151
+#: numbercycleseditbase.ui:108
+msgid "example"
+msgstr "primjer"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: doctypeeditbase.ui:118
+msgid "ident Template:"
+msgstr "identifikacijski obrazac:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3_2)
+#: doctypeeditbase.ui:128 numbercycleseditbase.ui:75
+msgid "Example Id:"
+msgstr "Id primjer:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: doctypeeditbase.ui:164
+msgid "Counter:"
+msgstr "Brojač:"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEditCycles)
+#: doctypeeditbase.ui:194
+msgid "&Edit Number Cycles..."
+msgstr "&Uredi ciklus broja..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2_2)
+#: doctypeeditbase.ui:222
+msgid "Template for PDF Creation"
+msgstr "Obrazac za kreaciju PDF-a"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: doctypeeditbase.ui:228
+msgid "&Template File"
+msgstr "&Obrazac datoteke"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: doctypeeditbase.ui:257
+msgid "W&atermark:"
+msgstr "O&znaka:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:271
+msgid "no watermark"
+msgstr "nema oznake"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:276
+msgid "on first page"
+msgstr "na prvoj stranici"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:281
+msgid "on all pages"
+msgstr "na svim stranicama"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: doctypeeditbase.ui:289
+msgid "&Watermark File"
+msgstr "&Oznaka datoteka"
+
+#: external/ktreeviewsearchline.cpp:530
+msgid "Search Options"
+msgstr "Opcije pretraživanja"
+
+#: external/ktreeviewsearchline.cpp:531
+msgctxt "Enable case sensitive search in the side navigation panels"
+msgid "Case Sensitive"
+msgstr "Velika i mala slova"
+
+#: external/ktreeviewsearchline.cpp:534
+msgctxt "Enable regular expression search in the side navigation panels"
+msgid "Regular Expression"
+msgstr "Uobičajen izraz"
+
+#: external/ktreeviewsearchline.cpp:540
+msgid "Search Columns"
+msgstr "Kolone za pretraživanje"
+
+#: external/ktreeviewsearchline.cpp:542
+msgid "All Visible Columns"
+msgstr "Sve vidljive kolone"
+
+#: external/ktreeviewsearchline.cpp:708
+msgid "S&earch:"
+msgstr "T&raži:"
+
+#: filterheader.cpp:61 filterheader.cpp:90
+msgid "No Items"
+msgstr "Nema stavki"
+
+#: filterheader.cpp:62 filterheader.cpp:91
+msgid "1 Item"
+msgstr "1 stavka"
+
+#: filterheader.cpp:63 filterheader.cpp:92
+#, kde-format
+msgid "%1 of %2 Items"
+msgstr "%1 od %2 stavki"
+
+#: filterheader.cpp:75 filterheader.cpp:104
+msgid "Search:"
+msgstr "Pretraži:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailFix)
+#: fixpartui.ui:14
+msgid "Calculation Parts Fix"
+msgstr "Popravka izračunatih dijelova"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: fixpartui.ui:20
+msgid "<h1>Fix Cost Parts</h1>"
+msgstr "<h1>Dijelovi popravnog troška</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: fixpartui.ui:30
+msgid "Add a fix cost for one unit of the template:"
+msgstr "Dodaj popravni trošak za jednu jedinicu obrasca:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: fixpartui.ui:45 timepart.ui:48
+msgid "&Label:"
+msgstr "&Oznaka:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:58
+msgid "describing text"
+msgstr "opisivanje teksta"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:61
+msgid "amortisation"
+msgstr "amortizacija"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: fixpartui.ui:72 matpartui.ui:77
+msgid "&Amount:"
+msgstr "&Iznos:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#: fixpartui.ui:85
+msgid "amount multiplier"
+msgstr "multiplikator količine"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: fixpartui.ui:98
+msgid "at &Price:"
+msgstr "na &Cijeni:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:114 matpartui.ui:90
+msgid "Price for one piece"
+msgstr "Cijena jednog komada"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:123
+msgid "€"
+msgstr "€"
+
+#: flostempldialog.cpp:70
+msgid "Create or Edit Template Items"
+msgstr "Kreiraj ili uredi stavke obrasca"
+
+#: flostempldialog.cpp:208 flostempldialog.cpp:562
+msgid "No"
+msgstr "Ne"
+
+#: flostempldialog.cpp:209 flostempldialog.cpp:562
+msgid "Yes"
+msgstr "Da"
+
+#: flostempldialog.cpp:246
+msgid "Calculated Price: "
+msgstr "Izračunata cijena: "
+
+#: flostempldialog.cpp:251
+msgid "Manual Price: "
+msgstr "Ručna cijena: "
+
+#: flostempldialog.cpp:256
+#, kde-format
+msgid "(+%1%)"
+msgstr "(+%1%)"
+
+#: flostempldialog.cpp:260
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: flostempldialog.cpp:262
+msgid ": "
+msgstr ": "
+
+#: flostempldialog.cpp:369
+msgid "Saving of this template failed, sorry"
+msgstr "Spašavanje ovog obrasca nije uspjelo, izvinite"
+
+#: flostempldialog.cpp:370
+msgid "Template Save Error"
+msgstr "Greška u spašavanju obrasca"
+
+#: flostempldialog.cpp:398
+msgid "The template was modified. Do you really want to discard all changes?"
+msgstr "Obrazac je promijenjen. Da li stvarno želite da odbacite sve promjene?"
+
+#: flostempldialog.cpp:400 kraftview.cpp:1387
+msgid "Discard"
+msgstr "Odbaci"
+
+#: flostempldialog.cpp:400
+msgid "Template Modified"
+msgstr "Obrazac promijenjen"
+
+#: flostempldialog.cpp:425
+msgid ""
+"The catalog chapter was changed for this template.\n"
+"Do you really want to move the template to the new chapter?"
+msgstr ""
+"Poglavlje kataloga je promijenjeno za ovaj obrazac.\n"
+"Da li stvarno želite da prebacite obrazac u novo poglavlje?"
+
+#: flostempldialog.cpp:426
+msgid "Changed Chapter"
+msgstr "Promijenjeno poglavlje"
+
+#: flostempldialog.cpp:560
+#, kde-format
+msgid "%1 Min."
+msgstr "%1 Min."
+
+#: flostempldialog.h:101
+msgid "Calculated material"
+msgstr "Izračunati materijal"
+
+#: imporst.cpp:29
+msgid "Kraft Import Test App"
+msgstr "Kraft uvoz testna aplikacija"
+
+#: imporst.cpp:42
+msgid "Kraft import test app"
+msgstr "Kraft uvoz testna aplikacija"
+
+#: importfilter.cpp:51
+#, kde-format
+msgid "Unable to find filter called %1"
+msgstr "Nije u mogućnosti da nađe filter nazvan %1"
+
+#: importfilter.cpp:59
+msgid "Could not open the definition file!"
+msgstr "Ne može otvoriti datoteku definicije!"
+
+#: importfilter.cpp:143
+msgid "Unknown tags: "
+msgstr "Nepoznate oznake: "
+
+#: importfilter.cpp:184
+msgid "Could not recode input file!"
+msgstr "Ne može rekodirati ulaznu datoteku!"
+
+#: importfilter.cpp:192
+msgid "Unable to open temp file "
+msgstr "Nije u mogućnosti da otvori obr. datoteku: "
+
+#: importfilter.cpp:198
+msgid "Could not open the import source file!"
+msgstr "Ne može otvoriti izvornu datoteku uvoza!"
+
+#: importitemdialog.cpp:47
+msgid "Import Items From File"
+msgstr "Uvezi stavke iz datoteke"
+
+#: importitemdialog.cpp:109
+msgid "the Header of the Document"
+msgstr "zaglavlje dokumenta"
+
+#: importitemdialog.cpp:118 templtopositiondialogbase.cpp:57
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: importtodocbase.ui:32
+msgid "Import Document Items"
+msgstr "Uvezi stavke dokumenta"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: importtodocbase.ui:47
+msgid "Import information"
+msgstr "Informacija uvoza"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: importtodocbase.ui:53
+msgid "Select a &File to import from:"
+msgstr "Odaberite &Datoteku iz koje uvozite:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: importtodocbase.ui:71
+msgid "Import &Schema:"
+msgstr "Uvezi &Shema:"
+
+#. i18n: ectx: property (text), widget (QLabel, mSchemaInfo)
+#: importtodocbase.ui:95
+msgid "this is interesting information about the selected schema"
+msgstr "ovo je interesantna informacija o odabranoj shemi"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: importtodocbase.ui:116
+msgid "Insert all Items &after"
+msgstr "Umetni sve stavke &nakon"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mTagGroup)
+#: importtodocbase.ui:137 inserttmplbase.ui:204
+msgid "Tags"
+msgstr "Nadimci"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: insertplantbase.ui:32
+msgid "Create Plant Item"
+msgstr "Napravi stavku biljke"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: insertplantbase.ui:51
+msgid "Select a plant size:"
+msgstr "Odaberi veličinu biljke:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: insertplantbase.ui:94 inserttmplbase.ui:56
+msgid "insert"
+msgstr "umetni"
+
+#. i18n: ectx: property (text), widget (QLabel, dmUnitText)
+#: insertplantbase.ui:107
+msgid "pieces at a single price of"
+msgstr "komadi jedinstvene cijene od"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: insertplantbase.ui:157
+msgid "&after"
+msgstr "&nakon"
+
+#: insertplantdialog.cpp:58
+msgid "Growth"
+msgstr "Rast"
+
+#: insertplantdialog.cpp:90
+#, kde-format
+msgid "(price entered in %1/%2)"
+msgstr "(cijena unesena u %1/%2)"
+
+#: inserttempldialog.cpp:103
+msgid "Create a new Item"
+msgstr "Kreiraj novu stavku"
+
+#: inserttempldialog.cpp:105
+msgid "Create a new Item from Template"
+msgstr "Kreiraj novu stavku iz obrasca"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: inserttmplbase.ui:30
+msgid "Create Item from Template"
+msgstr "Kreiraj stavku iz obrasca"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: inserttmplbase.ui:45
+msgid "Edit New Template"
+msgstr "Uredi novi obrazac"
+
+#. i18n: ectx: property (text), widget (QLabel, priceBoxTextLabel)
+#: inserttmplbase.ui:76
+msgid "à"
+msgstr "à"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: inserttmplbase.ui:113
+msgid "&after position"
+msgstr "&nakon pozicija"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mKeepGroup)
+#: inserttmplbase.ui:150
+msgid "Keep Template"
+msgstr "Zadrži šablon"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCbSave)
+#: inserttmplbase.ui:158
+msgid "&save this as a template"
+msgstr "&spasi ovo kao šablon"
+
+#. i18n: ectx: property (text), widget (QLabel, mChapterText)
+#: inserttmplbase.ui:165
+msgid "in &chapter"
+msgstr "u &poglavlju"
+
+#: katalog.cpp:137 models/documentmodel.cpp:133
+msgid "not found"
+msgstr "nije pronađeno"
+
+#: kataloglistview.cpp:338
+msgid "A catalog chapter can not be deleted as long it has children."
+msgstr "Poglavlje kataloga ne može biti izbrisano sve dok ima djecu."
+
+#: kataloglistview.cpp:339
+msgid "Chapter can not be deleted"
+msgstr "Poglavlje ne može biti izbrisano"
+
+#: katalogview.cpp:164
+msgid "Edit Sub chapter"
+msgstr "Uredi potpoglavlje"
+
+#: katalogview.cpp:166
+msgid "Edit a catalog sub chapter"
+msgstr "Uredi potpoglavlje kataloga"
+
+#: katalogview.cpp:170
+msgid "Add a sub chapter"
+msgstr "Dodaj potpoglavlje"
+
+#: katalogview.cpp:172
+msgid "Add a sub chapter below the selected one"
+msgstr "Dodaj potpoglavlje ispod odabranog"
+
+#: katalogview.cpp:176 katalogview.cpp:178
+msgid "Remove a sub chapter"
+msgstr "Ukloni potpoglavlje"
+
+#: katalogview.cpp:182
+msgid "Edit template"
+msgstr "Uredi obrazac"
+
+#: katalogview.cpp:184
+msgid "Opens the editor window for templates to edit the selected one"
+msgstr "Otvara prozor urednika za šablone da uredi odabrani šablon"
+
+#: katalogview.cpp:188
+msgid "New template"
+msgstr "Novi obrazac"
+
+#: katalogview.cpp:191
+msgid "Opens the editor window for templates to enter a new template"
+msgstr "Otvara prozor urednika za šablone da unese novi šablon"
+
+#: katalogview.cpp:195
+msgid "Delete template"
+msgstr "Obriši obrazac"
+
+#: katalogview.cpp:198
+msgid "Deletes the template"
+msgstr "Briše šablon"
+
+#: katalogview.cpp:202
+msgid "Export catalog"
+msgstr "Izvezi katalog"
+
+#: katalogview.cpp:203
+msgid "Export the whole catalog as XML encoded file"
+msgstr "Izvezi cijeli katalog kao XML šifrovan fajl"
+
+#: katalogview.cpp:207
+msgid "Close the katalog view"
+msgstr "Zatvori pregled kataloga"
+
+#: katalogview.cpp:210
+msgid "Prints out the current document"
+msgstr "Štampa trenutačni dokument"
+
+#: katalogview.cpp:214 portal.cpp:164
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "Isjeca odabranu sekciju i stavlja je u clipboard"
+
+#: katalogview.cpp:218 portal.cpp:165
+msgid "Copies the selected section to the clipboard"
+msgstr "Kopira odabranu sekciju u clipboard"
+
+#: katalogview.cpp:222 portal.cpp:166
+msgid "Pastes the clipboard contents to current position"
+msgstr "Lijepi sadržaj clipboard-a na trenutačnu poziciju"
+
+#: katalogview.cpp:239 katalogview.cpp:271
+msgid "Opening file..."
+msgstr "Otvaram fajl..."
+
+#: katalogview.cpp:241 katalogview.cpp:265 katalogview.cpp:280
+#: katalogview.cpp:290 katalogview.cpp:300 katalogview.cpp:313
+#: katalogview.cpp:321 katalogview.cpp:328 katalogview.cpp:335
+#: katalogview.cpp:382 katalogview.cpp:391 katalogview.cpp:400
+#: katalogview.cpp:409 portal.cpp:205 portal.cpp:334 portal.cpp:395
+#: portal.cpp:479 portal.cpp:520 portal.cpp:547 portal.cpp:688 portal.cpp:872
+#: portal.cpp:879 portal.cpp:886 portal.cpp:903
+msgid "Ready."
+msgstr "Gotovo."
+
+#: katalogview.cpp:260
+msgid "Opening a new katalog window..."
+msgstr "Otvara novi prozor kataloga..."
+
+#: katalogview.cpp:274
+msgid "*|All files"
+msgstr "*|Svi fajlovi"
+
+#: katalogview.cpp:274
+msgid "Open File..."
+msgstr "Otvori fajl..."
+
+#: katalogview.cpp:286
+msgid "Saving file..."
+msgstr "Spremam datoteku..."
+
+#: katalogview.cpp:296
+msgid "Closing file..."
+msgstr "Zatvaram fajl..."
+
+#: katalogview.cpp:305
+msgid "Printing..."
+msgstr "Štampam..."
+
+#: katalogview.cpp:319 portal.cpp:870
+msgid "Cutting selection..."
+msgstr "Odvajam izabrano..."
+
+#: katalogview.cpp:326 portal.cpp:877
+msgid "Copying selection to clipboard..."
+msgstr "Kopiram selekciju u clipboard..."
+
+#: katalogview.cpp:333 portal.cpp:884
+msgid "Inserting clipboard contents..."
+msgstr "Ubacujem sadržaj clipboarda..."
+
+#: katalogview.cpp:378
+msgid "Exporting file..."
+msgstr "Izvozim datoteku..."
+
+#: katalogview.cpp:387
+msgid "Creating a new sub chapter..."
+msgstr "Kreiram novo potpoglavlje..."
+
+#: katalogview.cpp:396
+msgid "Editing a sub chapter..."
+msgstr "Uređujem potpoglavlje..."
+
+#: katalogview.cpp:405
+msgid "Removing a sub chapter..."
+msgstr "Uklanjam potpoglavlje..."
+
+#: katalogview.cpp:437
+#, kde-format
+msgid "<tr><td>Created at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Kreirano u:</td><td>%1</td></tr>"
+
+#: katalogview.cpp:440
+#, kde-format
+msgid "<tr><td>Modified at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Promijenjeno u:</td><td>%1</td></tr>"
+
+#. i18n: ectx: Menu (file)
+#: katalogview.rc:4
+msgid "&File"
+msgstr "&Fajl"
+
+#. i18n: ectx: Menu (templates)
+#: katalogview.rc:7
+msgid "&Catalog"
+msgstr "&Katalog"
+
+#: kraftdb.cpp:264
+msgid "Wipe Database..."
+msgstr "Obriši bazu podataka..."
+
+#: kraftdoc.cpp:363
+msgid "Items"
+msgstr "Stavke"
+
+#: kraftdoc.cpp:365
+msgid "Unknown document part"
+msgstr "Nepoznati dio dokumenta"
+
+#: kraftdocfooteredit.cpp:54
+msgid "Document Footer"
+msgstr "Podnožje dokumenta"
+
+#: kraftdocheaderedit.cpp:59
+msgid "Document Header"
+msgstr "Zaglavlje dokumenta"
+
+#: kraftdocpositionsedit.cpp:92
+msgid "Add Item..."
+msgstr "Dodaj stavku..."
+
+#: kraftdocpositionsedit.cpp:94
+msgid "Add a normal item to the document manually."
+msgstr "Dodaj normalnu stavku ručno u dokument."
+
+#: kraftdocpositionsedit.cpp:98
+msgid "Add Discount Item"
+msgstr "Dodaj olakšanu stavku"
+
+#: kraftdocpositionsedit.cpp:101
+msgid ""
+"Adds an item to the document that allows discounts on other items in the "
+"document"
+msgstr ""
+"Dodaje stavku u dokument koja dozvoljava popust na druge stavke u dokumentu."
+
+#: kraftdocpositionsedit.cpp:103
+msgid "Import Items..."
+msgstr "Uvezi stavke..."
+
+#: kraftdocpositionsedit.cpp:106
+msgid "Opens a dialog where multiple items can be imported from a text file."
+msgstr ""
+"Otvara dialog gdje više stavki može biti uvezeno iz tekstualne datoteke."
+
+#: kraftdocpositionsedit.cpp:115
+msgid "Document Items"
+msgstr "Stavke dokumenta"
+
+#: kraftglobals.h:26
+msgid "all_calculation_parts"
+msgstr "svi_računski_dijelovi"
+
+#: kraftglobals.h:27
+msgid "Time"
+msgstr "Vrijeme"
+
+#: kraftglobals.h:28
+msgid "Fix"
+msgstr "Opravi"
+
+#. i18n: ectx: label, entry (DoInit), group (system)
+#: kraftsettings.kcfg:8
+msgid "Do Database Initialisation"
+msgstr "Uradi inicijalizaciju baze podataka"
+
+#. i18n: ectx: label, entry (DoXmlArchive), group (system)
+#: kraftsettings.kcfg:12
+msgid "Do XML archiving of documents they're printed?"
+msgstr "Uradi XML arhiviranje dokumenata koju su odštampani?"
+
+#. i18n: ectx: label, entry (XmlArchivePath), group (system)
+#: kraftsettings.kcfg:16
+msgid ""
+"Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps "
+"is used."
+msgstr ""
+"Gdje Kraft pohranjuje XML arhivirane dokumente. Ako je prazno, KDEHOME/"
+"podijeli/aplikacije je korišteno."
+
+#. i18n: ectx: label, entry (XmlDocPath), group (system)
+#: kraftsettings.kcfg:19
+msgid "The local xml document storage path"
+msgstr "Put čuvanja lokalnog xml dokumenta"
+
+#. i18n: ectx: label, entry (docViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:25
+msgid "The default size of the document view dialog"
+msgstr "Zadana veličina pregleda dialoga dokumenta"
+
+#. i18n: ectx: label, entry (RODocViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:28
+msgid "The default size of the read only document view dialog"
+msgstr "Zadana veličina pregleda dijaloga dokumenta kojeg je moguće samo čitat"
+
+#. i18n: ectx: label, entry (docViewPosition), group (WindowSizes)
+#: kraftsettings.kcfg:31
+msgid "The default position of the document view dialog"
+msgstr "Zadana pozicija pregleda dijaloga dokumenta"
+
+#. i18n: ectx: label, entry (docViewSplitter), group (WindowSizes)
+#: kraftsettings.kcfg:34
+msgid "The splitter position of the document view dialog"
+msgstr "Pozicija splitter-a pregleda dijaloga dokumenta"
+
+#. i18n: ectx: label, entry (materialCatalogSize), group (WindowSizes)
+#: kraftsettings.kcfg:37
+msgid "The default size of the material catalog view"
+msgstr "Zadana veličina pregleda materijala kataloga"
+
+#. i18n: ectx: label, entry (assistantSplitterSetting), group (WindowSizes)
+#: kraftsettings.kcfg:40
+msgid "The splitter setting for the doc assistant"
+msgstr "Postavke splitter-a za doc asistenta"
+
+#. i18n: ectx: label, entry (plantTemplateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:43
+msgid "The window size of the template to document dialog for plants"
+msgstr "Veličina prozora šablona dijaloga dokumenta za biljke"
+
+#. i18n: ectx: label, entry (templateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:46
+msgid "The window size of the template to document dialog"
+msgstr "Veličina prozora od predloška do dijaloga dokumenta"
+
+#. i18n: ectx: label, entry (digestListColumnsLatest), group (WindowSizes)
+#: kraftsettings.kcfg:49
+msgid "The digest list column arrangement for the Latest-list"
+msgstr "Kratka lista kolona aranžmana za krajnju listu"
+
+#. i18n: ectx: label, entry (digestListColumnsAll), group (WindowSizes)
+#: kraftsettings.kcfg:52
+msgid "The digest list column arrangement for the all-list"
+msgstr "Kratka lista kolona aranžmana za cijelu listu"
+
+#. i18n: ectx: label, entry (digestListColumnsTime), group (WindowSizes)
+#: kraftsettings.kcfg:55
+msgid "The digest list column arrangement for timeline"
+msgstr "Kratka lista kolona aranžmana za vremensku liniju"
+
+#. i18n: ectx: label, entry (addressPickerSplitterSize), group (WindowSizes)
+#: kraftsettings.kcfg:58
+msgid "The sizes of the slider in the address picker Widget"
+msgstr "Veličine klizača u adresnombiraču WIdget-a"
+
+#. i18n: ectx: label, entry (materialAddOnPercent), group (material)
+#: kraftsettings.kcfg:64
+msgid ""
+"Default percentage the sale price for a material should be higher than its "
+"purchase price"
+msgstr ""
+"Zadani procenat prodajne cijene za materijal bi trebao biti veći nego "
+"njegova nabavna cijena"
+
+#. i18n: ectx: label, entry (lastMaterialChapter), group (material)
+#: kraftsettings.kcfg:68
+msgid "The name of the last selected chapter in the catalog"
+msgstr "Ime zadnjeg odabranog poglavlja u katalogu"
+
+#. i18n: ectx: label, entry (Trml2PdfBinary), group (reporting)
+#: kraftsettings.kcfg:74
+msgid "The complete filename of the trml2pdf binary"
+msgstr "Kompletno ime datoteke od trml2pdf binarno"
+
+#. i18n: ectx: label, entry (PdfOutputDir), group (reporting)
+#: kraftsettings.kcfg:78
+msgid "The path to the output directory for document pdfs"
+msgstr "Put do izlaznog direktorija za dokumente pdfs"
+
+#. i18n: ectx: label, entry (doctype), group (userdefaults)
+#: kraftsettings.kcfg:84
+msgid "The last created doc type."
+msgstr "Zadnji kreirani doc tip."
+
+#. i18n: ectx: label, entry (greeting), group (userdefaults)
+#: kraftsettings.kcfg:87
+msgid "The greeting below on the document footer."
+msgstr "Pozdrav ispod u podnožju dokumenta."
+
+#. i18n: ectx: label, entry (salut), group (userdefaults)
+#: kraftsettings.kcfg:90
+msgid "The salut message on the document header."
+msgstr "Pozdravna poruka u zaglavlju dokumenta."
+
+#. i18n: ectx: label, entry (InsertTemplChapterName), group (userdefaults)
+#: kraftsettings.kcfg:93
+msgid ""
+"The name of the catalog chapter where to store new templates in by default"
+msgstr "Ime poglavlja kataloga gdje se pohranjuju novi šabloni po zadanom"
+
+#. i18n: ectx: label, entry (ImportItemsSchemaName), group (userdefaults)
+#: kraftsettings.kcfg:96
+msgid "The name of the last used import schema for items."
+msgstr "Ime zadnje korištene uvozne sheme za stavke."
+
+#. i18n: ectx: label, entry (ImportItemsFileName), group (userdefaults)
+#: kraftsettings.kcfg:99
+msgid "The name of the last used input file for items."
+msgstr "Ime zadnje korištene uvozne datoteke za stavke."
+
+#. i18n: ectx: label, entry (UserName), group (userdefaults)
+#: kraftsettings.kcfg:102
+msgid ""
+"User name as reference to the KAddressbook to identify 'my' address "
+"(DEPRECATED)."
+msgstr ""
+"Korisničko ime kao referenca na KAddressbook da identificira 'moju' adresu "
+"(ZASTARJELO)."
+
+#. i18n: ectx: label, entry (UserUid), group (userdefaults)
+#: kraftsettings.kcfg:105
+msgid ""
+"UID of the user as reference to the KAddressbook to identify 'my' address."
+msgstr ""
+"UID korisnika kao referenca na KAddressbook  da identificira 'moju' adresu."
+
+#. i18n: ectx: label, entry (DocIdent), group (document)
+#: kraftsettings.kcfg:111
+msgid "The doc id template"
+msgstr "Doc id šablon"
+
+#. i18n: ectx: label, entry (ShowDocumentLocale), group (document)
+#: kraftsettings.kcfg:115
+msgid "Localization on document level"
+msgstr "Lokalizacija na nivou dokumenta"
+
+#. i18n: ectx: label, entry (DefaultTaxType), group (document)
+#: kraftsettings.kcfg:120
+msgid "The tax default for new documents."
+msgstr "Šablon poreza za nove dokumente."
+
+#. i18n: ectx: label, entry (AlternativeLabel), group (document)
+#: kraftsettings.kcfg:125
+msgid "The label for alternative positions"
+msgstr "Oznaka za alternativne pozicije"
+
+#. i18n: ectx: label, entry (DemandLabel), group (document)
+#. i18n: ectx: label, entry (NormalLabel), group (document)
+#: kraftsettings.kcfg:128 kraftsettings.kcfg:131
+msgid "The label for demand positions"
+msgstr "Oznaka za zahtjevanu poziciju"
+
+#. i18n: ectx: Menu (document)
+#: kraftui.rc:4
+msgid "&Document"
+msgstr "&Dokument"
+
+#. i18n: ectx: Menu (settings)
+#: kraftui.rc:15
+msgid "Settings"
+msgstr "Postavke"
+
+#: kraftview.cpp:93 kraftview_ro.cpp:84
+msgid "Document"
+msgstr "Dokument"
+
+#: kraftview.cpp:369
+#, kde-format
+msgid ""
+"<qt><h2>The Document Items List is still empty, but Items can be added now.</"
+"h2>To add items to the document either <ul><li>Press the 'Add item' button "
+"above.</li><li>Open the template catalog by clicking on the '%1' button on "
+"the right and pick one of the available templates.</li></ul></qt>"
+msgstr ""
+"<qt><h2>Lista stavki dokumenta je još uvijek prazna, ali se stavke mogu sada "
+"dodati.</h2>Da dodate stavki uradite jedno od <ul><li>Pritisnite dugme iznad "
+"'Dodaj stavku' .</li><li>Otvori katalog predložaka klikom na '%1' dugme s "
+"desne strane i dobavite jedan od raspoloživih predložaka.</li></ul></qt>"
+
+#: kraftview.cpp:376
+msgid "show Template"
+msgstr "pikaži šablon"
+
+#: kraftview.cpp:553 prefsdialog.cpp:291
+msgid "Display no tax at all"
+msgstr "Ne prikazuj porez nikako"
+
+#: kraftview.cpp:554 prefsdialog.cpp:292
+msgid "Calculate reduced tax for all items"
+msgstr "Izračunaj umanjen porez za sve stavke"
+
+#: kraftview.cpp:555 prefsdialog.cpp:293
+msgid "Calculate full tax for all items"
+msgstr "Izračunaj ukupan porez za sve stavke"
+
+#: kraftview.cpp:556
+msgid "Calculate individual tax for each item"
+msgstr "Izračunaj pojedinačni porez za svaku stavku"
+
+#: kraftview.cpp:617
+msgid "Really overwrite all individual tax settings of the items?"
+msgstr "Stvarno prepisati sve postavke stavi pojedinačnih poreza?"
+
+#: kraftview.cpp:618
+msgid "Tax Settings Overwrite"
+msgstr "Prepiši postavke poreza"
+
+#: kraftview.cpp:787
+#, kde-format
+msgid ""
+"The address label is not empty and different from the selected one.<br/>Do "
+"you really want to replace it with the text shown below?<pre>%1</pre>"
+msgstr ""
+"Oznaka adrese nije prazna i drugačija od odabrane.<br/> Da li stvarno želite "
+"da ovo zamjenite sa tekstom prikazanim ispod?<pre>%1</pre>"
+
+#: kraftview.cpp:789
+msgid "Address Overwrite"
+msgstr "Prepiši adresu"
+
+#: kraftview.cpp:1080
+msgid "Discount"
+msgstr "Popust"
+
+#: kraftview.cpp:1385
+msgid "The document was modified. Do you really want to discard all changes?"
+msgstr "Dokument je izmjenjen. Da li stvarno želite da odbacite sve promjene?"
+
+#: kraftview.cpp:1387
+msgid "Document Modified"
+msgstr "Dokument izmjenjen"
+
+#: kraftview_ro.cpp:221
+msgid "Reduced TAX"
+msgstr "Umanjen porez"
+
+#: kraftview_ro.cpp:248 reportgenerator.cpp:325
+msgid "reduced VAT"
+msgstr "umanjen VAT"
+
+#: main.cpp:34
+msgid "Kraft"
+msgstr "Kraft"
+
+#: main.cpp:36
+msgid "Business documents for the small enterprise"
+msgstr "Biznis dokumenti za mala poduzeća"
+
+#: main.cpp:38
+msgid "Copyright © 2004–2014 Klaas Freitag"
+msgstr "Autorska prava © 2004–2014 Klaas Freitag"
+
+#: main.cpp:40
+msgid "Klaas Freitag"
+msgstr "Klaas Freitag"
+
+#: main.cpp:40 main.cpp:43
+msgid "Developer"
+msgstr "Programer"
+
+#: main.cpp:41
+msgid "Johannes Spielhagen"
+msgstr "Johannes Spielhagen"
+
+#: main.cpp:41
+msgid "Graphics and Artwork"
+msgstr "Grafika i crteži"
+
+#: main.cpp:43
+msgid "Thomas Richard"
+msgstr "Thomas Richard"
+
+#: main.cpp:52
+msgid ""
+"Kraft is free software for persons in small businesses\n"
+"writing correspondence like offers and invoices to their customers"
+msgstr ""
+"Kraft je besplatan softver za osobe u malim biznisima\n"
+"pisanje odgovora kao ponuda i fraktura njihovim mušterijama"
+
+#: main.cpp:62
+msgid "Open document with doc number <number>"
+msgstr "Otvori dokument sa doc brojem <broj>"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, MaterialDialogBase)
+#: materialdialog.ui:14
+msgid "Edit Material"
+msgstr "Uredni materijal"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: materialdialog.ui:47
+msgid "Store in C&hapter"
+msgstr "Pohrani u K&atalog"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: materialdialog.ui:95
+msgid "Pac&kaged:"
+msgstr "Zap&akovano:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: materialdialog.ui:124
+msgid "per P&ackage"
+msgstr "po p&aketu"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: materialdialog.ui:142
+msgid "Prices"
+msgstr "Cijene"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: materialdialog.ui:166
+msgid "= Price of &Sale:"
+msgstr "= CIjena od &Prodaje:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: materialdialog.ui:207
+msgid "pl&us"
+msgstr "pl&us"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mInSaleAdd)
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mDiscountPercent)
+#: materialdialog.ui:223 positionwidget.ui:226
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: materialdialog.ui:235
+msgid "&Purchase Price:"
+msgstr "&Nabavna cijena:"
+
+#: materialkataloglistview.cpp:38
+msgid "Pack"
+msgstr "Zapakuj"
+
+#: materialkataloglistview.cpp:40
+msgid "Purchase"
+msgstr "Nabavi"
+
+#: materialkataloglistview.cpp:41
+msgid "Sale"
+msgstr "Sale"
+
+#: materialkataloglistview.cpp:42
+msgid "Last Modified"
+msgstr "Posljednja izmjena"
+
+#: materialkataloglistview.cpp:46
+msgid "Material Catalog"
+msgstr "Materijal kataloga"
+
+#: materialkatalogview.cpp:103
+msgid "<new material>"
+msgstr "<novi materijal>"
+
+#: materialkatalogview.cpp:132 templkatalogview.cpp:148
+msgid "Do you really want to delete the template from the catalog?"
+msgstr "Da li stvarno želite da izbrišete šablon iz kataloga?"
+
+#: materialkatalogview.cpp:133 templkatalogview.cpp:149
+msgid "Delete Template"
+msgstr "Obriši šablon"
+
+#: materialselectdialog.cpp:38 materialselectdialog.cpp:43
+msgid "Select Material for Calculation"
+msgstr "Odaberite materijal za proračun"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailMat)
+#: matpartui.ui:14
+msgid "Calculation Item Material"
+msgstr "Materijal izračunate stavke"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: matpartui.ui:20
+msgid "<h1>Calculation Part  'Material'</h1>"
+msgstr "<h1>Računski dio  'Materijal'</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: matpartui.ui:30
+msgid "Add Material to the template calculation."
+msgstr "Dodaj materijal u proračun šablona."
+
+#. i18n: ectx: property (text), widget (QLabel, matLabel)
+#: matpartui.ui:60
+msgid "material"
+msgstr "materijal"
+
+#. i18n: ectx: property (text), widget (QLabel, einheitLabel)
+#: matpartui.ui:106
+msgid "unit"
+msgstr "jedinica"
+
+#: models/documentmodel.cpp:62
+msgid "Id"
+msgstr "Id"
+
+#: models/documentmodel.cpp:63
+msgid "Doc. Number"
+msgstr "Broj dok."
+
+#: models/documentmodel.cpp:64
+msgid "Doc. Type"
+msgstr "Tip dok."
+
+#: models/documentmodel.cpp:66
+msgid "Client Id"
+msgstr "Id klijenta"
+
+#: models/documentmodel.cpp:67
+msgid "Last modified"
+msgstr "Posljednja izmjena"
+
+#: models/documentmodel.cpp:68
+msgid "Creation date"
+msgstr "Datum kreiranja"
+
+#: models/documentmodel.cpp:70
+msgid "Client Address"
+msgstr "Adresa klijenta"
+
+#: models/documentmodel.cpp:71
+msgid "Client"
+msgstr "Mušterija"
+
+#: models/documentmodel.cpp:142
+msgid "retrieving..."
+msgstr "vraćajući..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mysqldetails.ui:19
+msgid ""
+"Please enter the MySQL Database server settings. \n"
+"\n"
+"For detailed setup instructions for the MySQL to use with Kraft please check "
+"the Kraft website."
+msgstr ""
+"Molimo unesite postavke servera MySQL baze podataka.  \n"
+" \n"
+"Za detaljne instrukcije postavki za MySQL za korištenje sa Kraft-om molimo "
+"provjerite Kraft web stranicu."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: mysqldetails.ui:31
+msgid "Database Host:"
+msgstr "Računar baze podataka:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: mysqldetails.ui:41
+msgid "Database Name:"
+msgstr "Ime baze podataka:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: mysqldetails.ui:65
+msgid "Password:"
+msgstr "Šifra:"
+
+#: newdocassistant.cpp:53
+msgid ""
+"Please select a customer as addressee for the document. If there is no entry "
+"for the customer in the addressbook yet, it can be opened by clicking on the "
+"button below."
+msgstr ""
+"Molimo odaberite mušteriju kao primaoca za dokument. Ako nema ulaza za "
+"mušteriju u imeniku još, može biti otvoren pritiskom na dugme ispod."
+
+#: newdocassistant.cpp:97
+msgid ""
+"Select a document type and a date. A comment on the whiteboard helps to "
+"classify the document."
+msgstr ""
+"Odaberite tip dokumenta i datum. Komentar na ploči pomaže da klasificira "
+"dokument."
+
+#: newdocassistant.cpp:105
+msgid "Customer: Not yet selected!"
+msgstr "Mušterija: Nije još odabrana!"
+
+#: newdocassistant.cpp:118
+msgid "Document &Type:"
+msgstr "&Tip dokumenta:"
+
+#: newdocassistant.cpp:122
+msgid "Document Date: "
+msgstr "Datum dokumenta: "
+
+#: newdocassistant.cpp:125
+msgid "Whiteboard Content:"
+msgstr "Sadržaj ploče:"
+
+#: newdocassistant.cpp:159
+msgid "<h2>Document Details</h2>"
+msgstr "<h2>Detalji dokumenta</h2>"
+
+#: newdocassistant.cpp:163
+msgid "<h2>Select an Addressee</h2>"
+msgstr "<h2>Odaberite primaoca</h2>"
+
+#: newdocassistant.cpp:165
+msgid "Document Creation Wizard"
+msgstr "Čarobnjak za kreiranje dokumenata"
+
+#: numbercycledialog.cpp:52
+msgid "Edit Number Cycles"
+msgstr "Uredite cikluse brojeva"
+
+#: numbercycledialog.cpp:68
+msgid ""
+"The template may contain the following tags:<ul><li>%y or %yyyy - the year "
+"of the documents date.</li><li>%yy - the year of the document (two digits).</"
+"li><li>%w - the week number of the documents date.</li><li>%ww - the week "
+"number of the documents date with leading zero.</li><li>%d - the day number "
+"of the documents date.</li><li>%dd - the day number of the documents date "
+"with leading zero.</li><li>%m or %M - the month number of the documents date."
+"</li><li>%MM - the month number with leading zero.</li><li>%c - the customer "
+"id from kaddressbook</li><li>%i - the unique counter</li><li>%type - the "
+"localised doc type (offer, invoice etc.)</li><li>%uid - the contact id of "
+"the client.</li></ul>%i needs to be part of the template."
+msgstr ""
+"Predložak može sadržavati jednu od sljedećih oznaka:<ul><li>%y ili %yyyy - "
+"godina datuma dokumenta.</li><li>%yy - godina dokumenta (dvije cifre).</"
+"li><li>%w - broj sedmice datuma dokumenta.</li><li>%ww - broj sedmice datuma "
+"dokumenta s vodećom nulom.</li><li>%d - dan datuma dokumenta.</li><li>%dd - "
+"dan datuma dokumenta s vodećom nulom.</li><li>%m ili %M - broj mjeseca "
+"datuma dokumenta.</li><li>%MM - broj mjeseca s vodećom nulom.</li><li>%c - "
+"oznaka naručioca iz kaddressbook</li><li>%i - jedinstveni brojač</li><li>"
+"%type - lokalizovani tip dokumenta (ponuda, faktura itd.)</li><li>%uid - "
+"oznaka kontakta klijenta.</li></ul>%i treba biti dio predloška."
+
+#: numbercycledialog.cpp:131
+msgid "Doc-Type"
+msgstr "Dok-tip"
+
+#: numbercycledialog.cpp:203
+msgid "Add Number Cycle"
+msgstr "Dodaj ciklus broja"
+
+#: numbercycledialog.cpp:204
+msgid "Enter the name of a new number cycle."
+msgstr "Unesi ime novog ciklusabroja."
+
+#: numbercycledialog.cpp:261
+#, kde-format
+msgid ""
+"The numbercycle %1 is still assigned to a document type.The number cycle can "
+"not be deleted as long as it is assigned to a document type."
+msgstr ""
+"Numbercycle %1 je i dalje dodjeljen tipu dokumenta. Ciklus broja ne može "
+"biti izbrisan sve dok je dodjeljen tipu dokumenta."
+
+#: numbercycledialog.cpp:264
+msgid "Numbercycle Deletion"
+msgstr "Numbercycle brisanje"
+
+#: numbercycledialog.cpp:321
+msgid ""
+"The new counter is lower than the old one. That has potential to create "
+"duplicate document numbers. Do you really want to decrease it?"
+msgstr ""
+"Novi brojač je manji od prethodnog. Ovo imapotencijal da kreira duple "
+"brojeve dokumenta. Da li stvarno želite da smanjite ovo?"
+
+#: numbercycledialog.cpp:323
+msgid "Dangerous Counter Change"
+msgstr "Opasna promjena brojača"
+
+#. i18n: ectx: property (text), widget (QLabel, mHeader)
+#: numbercycleseditbase.ui:17
+msgid "<h3>Edit Number Cycles</h3>"
+msgstr "<h3>Uredi cikluse broja</h3>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: numbercycleseditbase.ui:27
+msgid "Number Cycle Details"
+msgstr "Detalji ciklusabroja"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: numbercycleseditbase.ui:39
+msgid "&Number Cycle:"
+msgstr "Ciklus &broja:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: numbercycleseditbase.ui:52
+msgid "&Counter:"
+msgstr "&Brojač:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: numbercycleseditbase.ui:85
+msgid "ident &Template:"
+msgstr "ident &Šablon:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: numbercycleseditbase.ui:123
+msgid "&Select a number cycle and edit the details on the right:"
+msgstr "&Odaberi ciklus broja i uredi detalje na desno:"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, mCycleListBox)
+#: numbercycleseditbase.ui:142
+msgid "New Item"
+msgstr "Nova stavka"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: numbercycleseditbase.ui:171
+msgid "add"
+msgstr "dodaj"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: numbercycleseditbase.ui:181
+msgid "remove"
+msgstr "ukloni"
+
+#: portal.cpp:117
+msgid "Create Document"
+msgstr "Kreiraj dokument"
+
+#: portal.cpp:122
+msgid "Copy Document"
+msgstr "Kopiraj dokument"
+
+#: portal.cpp:127
+msgid "Follow Document"
+msgstr "Slijedi dokument"
+
+#: portal.cpp:132
+msgid "Print Document"
+msgstr "Štampaj dokument"
+
+#: portal.cpp:137
+msgid "Open Archived Document"
+msgstr "Otvori pohranjeni dokument"
+
+#: portal.cpp:141
+msgid "Show Document"
+msgstr "Prikaži dokument"
+
+#: portal.cpp:146
+msgid "Edit Document"
+msgstr "Uredi dokument"
+
+#: portal.cpp:151
+msgid "&Mail Document"
+msgstr "&Pošalji dokument"
+
+#: portal.cpp:163
+msgid "Quits the application"
+msgstr "Izlazi iz aplikacije"
+
+#: portal.cpp:167
+msgid "Enables/disables the statusbar"
+msgstr "Uključuje/isključuje traku stanja"
+
+#: portal.cpp:169
+msgid "Creates a new Document"
+msgstr "Kreira novi dokument"
+
+#: portal.cpp:170
+msgid "Print and archive this Document"
+msgstr "Štampaj i pohrani ovaj dokument"
+
+#: portal.cpp:171
+msgid "Creates a new document which is a copy of the selected document"
+msgstr "Kreira novi dokument koji je kopija odabranog dokumenta"
+
+#: portal.cpp:172
+msgid "Create a followup document for the current document"
+msgstr "Kreirajte sljedeći dokument za trenutačni dokument."
+
+#: portal.cpp:173
+msgid "Opens the document for editing"
+msgstr "Otvara dokument za uređivanje"
+
+#: portal.cpp:174
+msgid "Opens a read only view on the document."
+msgstr "Otvara dokument sa pregledom samo za čitanje."
+
+#: portal.cpp:175
+msgid "Send document per mail"
+msgstr "Pošaljite dokument po pošti"
+
+#: portal.cpp:176
+msgid ""
+"Edit the available tag templates which can be assigned to document items."
+msgstr ""
+"Uredi dostupne oznake šablona koji mogu biti dodjeljeni stavkama dokumenta."
+
+#: portal.cpp:177
+msgid "Configure the Database Kraft is working on."
+msgstr "Podesite bazu podataka na kojoj Kraft radi."
+
+#: portal.cpp:179
+msgid "Open a viewer on an archived document"
+msgstr "Otvori preglednik na pohranjenom dokumentu"
+
+#: portal.cpp:279
+#, kde-format
+msgid ""
+"Kraft can not connect to the specified MySQL server. Please check the Kraft "
+"database settings, check if the server is running and verify if a database "
+"with the name %1 exits!"
+msgstr ""
+"Kraft se ne može povezati sa specifikovanim MySQL serverom. Molimo "
+"provjerite postavke Kraft baze podataka, provjerite da li je server upaljen "
+"i potvrdite ako baza podataka sa imenom %1 postoji!"
+
+#: portal.cpp:283
+#, kde-format
+msgid ""
+"The database with the name %1 does not exist on the database server. Please "
+"make sure the database exists and is accessible by the user running Kraft."
+msgstr ""
+"Baza podataka sa imenom %1 ne postoji na serveru baze podataka. Molimo "
+"uvjerite se da baza podataka postoji i da je dostupna korisniku koji koristi "
+"Kraft."
+
+#: portal.cpp:287
+msgid ""
+"The Qt database driver could not be loaded. That probably means, that they "
+"are not installed. Please make sure the Qt database packages are installed "
+"and try again."
+msgstr ""
+"Drajver Qt baze podataka nije mogao biti učitan. To vjerovatno znači, da "
+"nisu instalirani. Molimo uvjerite se da su paketi Qt baze podataka "
+"instalirani i pokušajte ponovo."
+
+#: portal.cpp:291
+#, kde-format
+msgid "There is a database problem: %1"
+msgstr "Postoji problem u bazi podataka: %1"
+
+#: portal.cpp:308
+msgid "Database Problem."
+msgstr "Problem baze podataka."
+
+#: portal.cpp:315
+msgid "Check commandline actions"
+msgstr "Provjerite akcije komandne linije"
+
+#: portal.cpp:381
+msgid "Creating new document..."
+msgstr "Kreiranje novog dokumenta.."
+
+#: portal.cpp:471
+msgid "Opening document to view..."
+msgstr "Otvaranje dokumenta za pregled..."
+
+#: portal.cpp:506 portal.cpp:529
+msgid "Generating PDF..."
+msgstr "Generiranje PDF-a..."
+
+#: portal.cpp:632
+msgid "Printing archived document..."
+msgstr "Štampanje pohranjenog dokumenta..."
+
+#: portal.cpp:680
+#, kde-format
+msgid "Opening document %1"
+msgstr "Otvori dokument %1"
+
+#: portal.cpp:843
+msgid "Exiting..."
+msgstr "Izlazi..."
+
+#: portal.cpp:891
+msgid "Toggle the statusbar..."
+msgstr "Uključuje/isključuje traku stanja..."
+
+#: portalview.cpp:63
+msgid "Catalogs"
+msgstr "Katalozi"
+
+#: portalview.cpp:69
+msgid "Kraft Document Overview"
+msgstr "Kraft pregled dokumenta"
+
+#: portalview.cpp:78 portalview.cpp:95
+msgid "Available Catalogs"
+msgstr "Dostupni katalozi"
+
+#: portalview.cpp:80
+msgid "No catalogs available."
+msgstr "Nema dostupnih kataloga."
+
+#: portalview.cpp:128
+msgid "Open"
+msgstr "Otvori"
+
+#: portalview.cpp:149
+msgid "XML Export"
+msgstr "XML Izvoz"
+
+#: portalview.cpp:177
+msgid "System Details"
+msgstr "Detalji sistema"
+
+#: portalview.cpp:196
+msgid "<h2>Welcome to Kraft</h2>"
+msgstr "<h2>Dobrodošli u Kraft</h2>"
+
+#: portalview.cpp:198
+#, kde-format
+msgid "Kraft Version: %1</td>"
+msgstr "Kraft verzija: %1</td>"
+
+#: portalview.cpp:208
+msgid "Country Setting: "
+msgstr "Postavke države: "
+
+#: portalview.cpp:212
+msgid "Language Setting: "
+msgstr "Postavke jezika: "
+
+#: portalview.cpp:226
+msgid "Database Information"
+msgstr "Informacija baze podataka"
+
+#: portalview.cpp:228
+msgid "Kraft database name:"
+msgstr "Ime Kraft baze podataka:"
+
+#: portalview.cpp:231
+msgid "Database schema version:"
+msgstr "Verzija sheme baze podataka:"
+
+#: portalview.cpp:239
+msgid "Qt database driver:"
+msgstr "Drajver Qt baze podataka:"
+
+#: portalview.cpp:242
+msgid "Database connection:"
+msgstr "Konekcija baze podataka:"
+
+#: portalview.cpp:248
+msgid "established"
+msgstr "uspostavljeno"
+
+#: portalview.cpp:250
+msgid "<font color=\"red\">NOT AVAILABLE!</font>"
+msgstr "<font color=\"red\">NIJE DOSTUPNO!</font>"
+
+#: portalview.cpp:259
+msgid "Database Version:"
+msgstr "Verzija baze podataka:"
+
+#: portalview.cpp:265
+msgid "External Tools"
+msgstr "Spoljašnji alati"
+
+#: portalview.cpp:267
+msgid "RML to PDF conversion tool:"
+msgstr "RML u PDF alat za pretvorbu:"
+
+#: portalview.cpp:272
+msgid "not found!"
+msgstr "nije pronađeno!"
+
+#: portalview.cpp:274
+msgid "iconv tool for text import:"
+msgstr "iconv alat za tekst uvoz:"
+
+#: portalview.cpp:288
+msgid ""
+"There is a initialisation error on your system. Kraft will not work that way."
+msgstr ""
+"Postoji inicijalizaijska greška na vašem sistemu. Kraft neće tako raditi."
+
+#: portalview.cpp:304
+msgid "Documents"
+msgstr "Dokumenti"
+
+#: positiontagdialog.cpp:82
+msgid "Edit Item Tags"
+msgstr "Uredi oznake stavke"
+
+#: positiontagdialog.cpp:91
+msgid "<h2>Item Tags</h2>"
+msgstr "<h2>Oznake stavke</h2>"
+
+#: positiontagdialog.cpp:92
+msgid "Select all tags for the item should be tagged with."
+msgstr "Odaberite sve oznake sa kojima bi stavka trebala biti označena."
+
+#: positiontagdialog.cpp:107 tagtemplatesdialog.cpp:124
+msgid "Tag"
+msgstr "Oznaka"
+
+#: positiontagdialog.cpp:108 tagtemplatesdialog.cpp:125
+msgid "Color"
+msgstr "Boja"
+
+#: positiontagdialog.cpp:109 tagtemplatesdialog.cpp:126
+msgid "Description"
+msgstr "Opis"
+
+#: positionviewwidget.cpp:91
+msgid "Item Actions"
+msgstr "Akcije stavke"
+
+#: positionviewwidget.cpp:94
+msgid "Item Kind"
+msgstr "Vrsta predmeta"
+
+#: positionviewwidget.cpp:95 positionviewwidget.cpp:671
+msgid "Normal"
+msgstr "Normalan"
+
+#: positionviewwidget.cpp:97 positionviewwidget.cpp:679
+msgid "Alternative"
+msgstr "Alternativno"
+
+#: positionviewwidget.cpp:99
+msgid "On Demand"
+msgstr "Na zahtjev"
+
+#: positionviewwidget.cpp:107
+msgid "Taxfree Item"
+msgstr "Stavka bez poreza"
+
+#: positionviewwidget.cpp:113
+msgid "Reduced Tax"
+msgstr "Umanjen porez"
+
+#: positionviewwidget.cpp:119
+msgid "Full Tax"
+msgstr "Ukupan porez"
+
+#: positionviewwidget.cpp:128
+msgid "Move Up"
+msgstr "Pomjeri nagore"
+
+#: positionviewwidget.cpp:130
+msgid "Move Down"
+msgstr "Pomjeri naniže"
+
+#: positionviewwidget.cpp:132
+msgid "Lock Item"
+msgstr "Zaključaj predmet"
+
+#: positionviewwidget.cpp:134
+msgid "Unlock Item"
+msgstr "Odključaj predmet"
+
+#: positionviewwidget.cpp:136
+msgid "Delete Item"
+msgstr "Obriši predmet"
+
+#: positionviewwidget.cpp:220
+msgid "All items"
+msgstr "Sve stavke"
+
+#: positionviewwidget.cpp:230
+#, kde-format
+msgid "%1-tagged items"
+msgstr "%1-označene stavke"
+
+#: positionviewwidget.cpp:262
+#, kde-format
+msgid "Tag: %1"
+msgstr "Oznaka: %1"
+
+#: positionviewwidget.cpp:264
+msgid "Tags:<ul>"
+msgstr "Oznake:<ul>"
+
+#: positionviewwidget.cpp:275
+msgid "No tags assigned yet."
+msgstr "Oznake još uvijek nisu dodjeljenje."
+
+#: positionviewwidget.cpp:412
+msgid "Active"
+msgstr "Aktivno"
+
+#: positionviewwidget.cpp:414
+msgid "New"
+msgstr "Novo"
+
+#: positionviewwidget.cpp:416
+msgid "Deleted"
+msgstr "Obrisano"
+
+#: positionviewwidget.cpp:418
+msgid "Locked"
+msgstr "Zaključan"
+
+#: positionviewwidget.cpp:618
+msgid ""
+"This is an alternative item.<br/><br/> Use the position toolbox to change "
+"the item type."
+msgstr ""
+"Ovo je alternativni predmet. <br/> <br/> Koristite poziciju Toolbox da bi "
+"promijenili tip predmeta."
+
+#: positionviewwidget.cpp:634
+msgid ""
+"This item is either completely optional or its amount varies depending on "
+"the needs.<br/><br/>Use the item toolbox to change the item type."
+msgstr ""
+"Ovaj predmet ili potpuno opcionalno ili njenih iznos varira ovisno o "
+"potrebama. <br/> <br/> Koristite predmet Toolbox da bi promijenili tip "
+"predmeta."
+
+#: positionviewwidget.cpp:675
+msgid "Demand"
+msgstr "Zahtijevati"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPosition)
+#: positionwidget.ui:46
+msgid "1."
+msgstr "1."
+
+#. i18n: ectx: property (text), widget (QLabel, lStatus)
+#. i18n: ectx: property (text), widget (QLabel, lKind)
+#: positionwidget.ui:103 positionwidget.ui:132
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (QLabel, mDiscountLabel)
+#: positionwidget.ui:233
+msgid "of the sum of"
+msgstr "od sume od"
+
+#: prefsdialog.cpp:72
+msgid "Configure Kraft"
+msgstr "Podesi Kraft"
+
+#: prefsdialog.cpp:91
+msgid "Taxes"
+msgstr "Porezi"
+
+#: prefsdialog.cpp:99
+msgid "Tax rates beginning at date:"
+msgstr "Porezna stope počinju na datum:"
+
+#: prefsdialog.cpp:146
+msgid "Wages"
+msgstr "Plate"
+
+#: prefsdialog.cpp:155
+msgid "Units"
+msgstr "Jedinice"
+
+#: prefsdialog.cpp:164
+msgid "Own Identity"
+msgstr "Vlastiti identitet"
+
+#: prefsdialog.cpp:172
+msgid ""
+"Select the identity of the sending entity of documents. That's <b>your "
+"companies</b> address."
+msgstr ""
+"Odaberite identitet od entiteta za slanje od dokumenta. To je <b>vaše "
+"kompanije</b> adresa."
+
+#: prefsdialog.cpp:192
+msgid "Select Identity..."
+msgstr "Odaberite identitet..."
+
+#: prefsdialog.cpp:246
+msgid "Document Defaults"
+msgstr "Zadanosti dokumenta"
+
+#: prefsdialog.cpp:257
+msgid "&Default document type on creation:"
+msgstr "&Zadani tip dokumenta na kreaciji:"
+
+#: prefsdialog.cpp:262
+msgid "New documents default to the selected type."
+msgstr "Novi zadani dokumenti na odabrani tip."
+
+#: prefsdialog.cpp:271
+msgid "Enable &Localization on Document Level"
+msgstr "Omogućite &Lokalizaciju na nivou dokumenta"
+
+#: prefsdialog.cpp:272
+msgid ""
+"Checking this enables language settings for each document.<br>Leave it "
+"unchecked to use the KDE Workspace default settings for the document "
+"localisation."
+msgstr ""
+"Provjera ovoga omogućava postavke jezika za svaki dokument.<br>Ostavite "
+"nprovjereno da koristite KDE zadane postavke radnog prostora za lokalizaciju "
+"dokumenta."
+
+#: prefsdialog.cpp:284
+msgid "Default &Tax for Documents:"
+msgstr "Zadani &porez za dokumente:"
+
+#: prefsdialog.cpp:290
+msgid "The default tax setting for all documents."
+msgstr "Postavke zadanog poreza za sve dokumente."
+
+#: prefsdialog.cpp:306
+msgid "Document Types"
+msgstr "Tipovi dokumenata"
+
+#: prefsdialog.cpp:327
+msgid ""
+"The old default doc type for new documents was just deleted.Please check the "
+"setting in the Document Defaults in the Kraft preferences Dialog."
+msgstr ""
+"Stari zadani doc tip za nove dokumente je izbrisan. Molimo provjerite "
+"postavke u zadanim dokumentima u Kraft dijalogu preferenci."
+
+#: prefsdialog.cpp:330
+msgid "Document Default Change"
+msgstr "Zadana promjena dokumenta"
+
+#: prefsdialog.cpp:402
+msgid "The identity is not listed in an address book."
+msgstr "Identitet nije izlistan u imeniku."
+
+#: prefsdialog.cpp:404
+msgid ""
+"<p><b>Kraft does not know your identity.</b></p><p>Please pick one from the "
+"address books by clicking on the Button below.</p><p>Not having an identity "
+"selected can make your documents look incomplete.</p>"
+msgstr ""
+"<p><b>Kraft ne zna vaš identitet.</b></p><p>Molimo izaberite jedan iz "
+"imenika pritiskom na dugme ispod.</p><p>Bez identiteta vaš dokument ne "
+"izgleda kompletno.</p>"
+
+#: prefsdialog.cpp:408
+msgid "Your identity can be found in the address books."
+msgstr "Vaš identitet može biti pronađen u imeniku."
+
+#: prefsdialog.cpp:419
+msgid "Work Phone"
+msgstr "Telefon posla"
+
+#: prefsdialog.cpp:420
+msgid "Fax"
+msgstr "Fax"
+
+#: prefsdialog.cpp:421
+msgid "Cell Phone"
+msgstr "Mobitel"
+
+#: prefsunits.cpp:150
+msgid "Edit a unit"
+msgstr "Uredi jedinku"
+
+#: prefsunits.cpp:184
+msgid "<h1>Edit unit</h1>"
+msgstr "<h1>Uredi jedinku</h1>"
+
+#: prefswages.cpp:78
+msgid "Up"
+msgstr "Gore"
+
+#: prefswages.cpp:83
+msgid "Down"
+msgstr "Dolje"
+
+#: prefswages.cpp:199
+msgid "Edit a wage group"
+msgstr "Uredi grupu plata"
+
+#: prefswages.cpp:233
+msgid "<h1>Edit wage group</h1>"
+msgstr "<h1>Uredi grupu plata</h1>"
+
+#: quicksearchwidget.cpp:38
+msgctxt "Search contacts in list"
+msgid "Search"
+msgstr "Traži"
+
+#: reportgenerator.cpp:137
+#, kde-format
+msgid ""
+"A document template named %1 could not be loaded. Please check the "
+"installation."
+msgstr ""
+"Šablon dokumenta imenovan %1 se ne može učitati. Molimo provjerite "
+"instalaciju."
+
+#: reportgenerator.cpp:139
+msgid "Template not found"
+msgstr "Šablon nije pronađen"
+
+#: reportgenerator.cpp:191
+#, kde-format
+msgid ""
+"The template file could not be opened: %1\n"
+"Please check the setup and the doc type configuration."
+msgstr ""
+"Datoteku predloška  nije moguće otvoriti:%1\n"
+"Molim provjerite postavku i konfiguraciju tipa dokumenta."
+
+#: reportgenerator.cpp:193
+msgid "Template Error"
+msgstr "Greška predloška"
+
+#: reportgenerator.cpp:503
+msgid ""
+"The utility to create PDF from the rml file could not be found, but is "
+"required to create documents.Please make sure the package is installed "
+"accordingly."
+msgstr ""
+"Korisnost kreiranja PDF-a iz rml datoteke nije pronađena, ali je zahtjevano "
+"kreiranje dokumenata. Molimo uvjerite se da je paket instaliran prema tome."
+
+#: reportgenerator.cpp:506
+msgid "Document Generation Error"
+msgstr "Greška pri generiranju dokumenta"
+
+#: reportgenerator.cpp:514
+msgid ""
+"The Watermark file to merge with the document could not be found. Merge is "
+"going to be disabled."
+msgstr ""
+"Watermark datoteka za spojanje sa dokumentom nije pronađena. Spajanje neće "
+"uspjeti."
+
+#: reportgenerator.cpp:516
+msgid "Watermark Error"
+msgstr "Watermark greška"
+
+#: reportgenerator.cpp:581
+#, kde-format
+msgid "Program ended with status %1"
+msgstr "Program se završio sa statuson %1"
+
+#: reportgenerator.cpp:595
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>ReportLab</b> "
+"which can not be found.<br/>Please make sure the package is installed on "
+"your computer."
+msgstr ""
+"Da generirate PDF ispis, Kraft zahtjeva python modul <b>ReportLab</b> koji "
+"ne može biti pronađen.<br/>Molimo uvjerite se da je paket instaliran na "
+"vašem kompjuteru."
+
+#: reportgenerator.cpp:599
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>pyPdf</b> which "
+"can not be found.<br/>Please make sure the package is installed on your "
+"computer."
+msgstr ""
+"Da generirate PDF ispis, Kraft zahtjeva python modul <b>pyPdf</b> koji ne "
+"može biti pronađen.<br/>Molimo uvjerite se da je paket instaliran na vašem "
+"kompjuteru."
+
+#: reportgenerator.cpp:603
+msgid "Unknown problem."
+msgstr "Nepoznati problem."
+
+#: reportgenerator.cpp:606
+msgid "Could not generate the pdf file. The pdf creation script failed."
+msgstr ""
+"Nije moglo generisati pdf datoteku. Pdf skripta za kreaciju nije uspjela."
+
+#: reportgenerator.cpp:608
+msgid "PDF Generation Error"
+msgstr "Greška pri generisanju PDF-a"
+
+#: setupassistant.cpp:184 setupassistant.cpp:197
+#, kde-format
+msgid "0/%1"
+msgstr "0/%1"
+
+#: setupassistant.cpp:216 setupassistant.cpp:225 setupassistant.cpp:260
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: setupassistant.cpp:284
+msgid ""
+"Select your own address from the address book. It is set as a consigner on "
+"the documents."
+msgstr ""
+"Odaberite vašu vlastitu adresu iz imenika. Postavljena je kao rekord "
+"dokumenta."
+
+#: setupassistant.cpp:347
+msgid "Welcome to the Kraft Setup Assistant"
+msgstr "Dobrodošli u asistent postavki Kraft-a"
+
+#: setupassistant.cpp:351
+msgid "Select the Database Backend"
+msgstr "Odaberite posljednji dio baze podataka"
+
+#: setupassistant.cpp:355
+msgid "Enter MySQL Database Setup Details"
+msgstr "Unesite detalje postavki MySQL baze podataka"
+
+#: setupassistant.cpp:359
+msgid "Enter SQLite Filename"
+msgstr "Unesite SQLite ime datoteke"
+
+#: setupassistant.cpp:363
+msgid "Creating the Database..."
+msgstr "Kreiranje baze podataka..."
+
+#: setupassistant.cpp:367
+msgid "Upgrade the Database Schema"
+msgstr "Poboljšajte shemu baze podataka"
+
+#: setupassistant.cpp:371
+msgid "My Own Address Data"
+msgstr "Moji vlastiti adresni podaci"
+
+#: setupassistant.cpp:375
+msgid "Setup Finished."
+msgstr "Postavke završene."
+
+#: setupassistant.cpp:420
+msgid ""
+"<p>Can't connect to your database. Are you sure your credentials are correct "
+"and the database exists?</p>"
+msgstr ""
+"<p>Ne može uspostaviti vezu sa vašom bazom podataka. Da li ste sigurni da su "
+"vaše svjedodžbe tačne i da baze podataka postoji? </p>"
+
+#: setupassistant.cpp:425
+msgid "<p>Can't open your database file, check the permissions and such."
+msgstr ""
+"<p>Ne može otvoriti vašu datoteku baze podataka, provjerite dozvole i slično."
+
+#: setupassistant.cpp:434
+msgid ""
+"<p>The database is already existing, no action needs to be taken here.</"
+"p><p>Please hit <b>next</b> to proceed.</p>"
+msgstr ""
+"<p>Baza podataka već postoji, dodatne akcije nisu potrebne.</p><p>Molimo "
+"pritisnite <b>dalje</b> da nastavite.</p>"
+
+#: setupassistant.cpp:477
+msgid "<p>The database setup was successfully completed.</p>"
+msgstr "<p>Postavke baze podataka su uspješno završene. </p>"
+
+#: setupassistant.cpp:478
+msgid "<p>You can start to work with Kraft now. Please do not forget to</p>"
+msgstr "<p>Možete početi rad sa Kraft-om sada. Molimo ne zaboravite da</p>"
+
+#: setupassistant.cpp:480
+msgid "<li>adjust various settings in the Kraft Preferences dialog.</li>"
+msgstr "<li>podesite razne postavke u Kraft dijalogu sklonosti.</li>"
+
+#: setupassistant.cpp:481
+msgid "<li>Check the Catalog chapter list.</li>"
+msgstr "<li>Provjerite listu poglavlja kataloga.</li>"
+
+#: setupassistant.cpp:482
+msgid "<li>Make your business and have fun.</li>"
+msgstr "<li>Uradite svoj posao i zabavite se.</li>"
+
+#: setupassistant.cpp:484
+msgid ""
+"<p>If you press <i>Finish</i> now, the new database configuration is stored "
+"in Krafts configuration.</p>"
+msgstr ""
+"<p>ako pritisnete <i>završi</i> sada, nova konfiguracija baze podataka je "
+"pohranjena u konfiguraciji Kraft-a.</p>"
+
+#: setupassistant.cpp:497
+msgid ""
+"The Database can not be connected. Please check the database credentials."
+msgstr ""
+"Baza podataka ne može uspostaviti vezu. Molimo provjerite svjedodžbe baze "
+"podataka."
+
+#: setupassistant.cpp:503
+msgid "The database core tables do not exist. Please check initial setup."
+msgstr ""
+"Standardne bazne tabele nepostoje. Molimo provjerite inicijalne postavke."
+
+#: setupassistant.cpp:510
+msgid "Database is up to date. No upgrade is required."
+msgstr "Verzija baze podataka je najnovija. Poboljšanje nije potrebno."
+
+#: setupassistant.cpp:515
+msgid "Parse Update Commands..."
+msgstr "Parsira komande ažuriranja..."
+
+#: setupassistant.cpp:526
+#, kde-format
+msgid "Reading upgrade command file %1"
+msgstr "Čita datoteku komande poboljšanja %1"
+
+#: setupassistant.cpp:559
+msgid "The Upgrade failed!"
+msgstr "Poboljšanje nije uspjelo!"
+
+#: setupassistant.cpp:561
+#, kde-format
+msgid "The Upgrade succeeded, the current schema version is %1!"
+msgstr "Poboljšanje je uspjelo, trenutačna verzija sheme je %1!"
+
+#: setupassistant.cpp:572
+msgid ""
+"The Database can not be connected. Please check the database credentials!"
+msgstr ""
+"Baza podataka ne može uspostaviti vezu. Molimo provjerite svedodžbe baze "
+"podataka!"
+
+#: setupassistant.cpp:578
+msgid "Parse Create Commands..."
+msgstr "Parsira komande kreiranja..."
+
+#: setupassistant.cpp:586
+msgid "Parse database fillup commands..."
+msgstr "Parsira komande popunjavanja baze podataka..."
+
+#: setupassistant.cpp:599
+msgid "Processing database creation commands..."
+msgstr "Obrađuje komande kreiranja baze podataka..."
+
+#: setupassistant.cpp:616
+msgid "Process database fillup commands..."
+msgstr "Obradi komande popunjavanja baze podataka..."
+
+#: setupassistant.cpp:621
+msgid "Successfully finished commands."
+msgstr "Uspješno završene komande."
+
+#: setupassistant.cpp:623
+msgid "Failed to perform all commands."
+msgstr "Nije uspjelo da izvrši sve komande."
+
+#: setupassistant.cpp:696
+msgid ""
+"This assistant guides you through the basic settings of your Kraft "
+"installation."
+msgstr "Ovaj pomoćnik vas vodi kroz osnovne postavke vaše Kraft instalacije."
+
+#: setupassistant.cpp:709
+msgid ""
+"The database configuration was converted from a former configuration file."
+msgstr ""
+"Konfiguracija baze podataka je konvertovan od prošle konfiguracijske "
+"datoteke."
+
+#: setupassistant.cpp:712
+msgid "There was no database configuration found."
+msgstr "Nije pronađena konfiguracija baze podataka."
+
+#: setupassistant.cpp:715
+msgid "A valid current database configuration file was found."
+msgstr "Nije pronađena važeća konfiguracijska datoteka baze podataka."
+
+#: setupassistant.cpp:734
+msgid ""
+"<p>The database can be opened, but does not contain valid content.</p><p>A "
+"new database can be created automatically from scratch.</p>"
+msgstr ""
+"<p>Baza podataka se može otvoriti, ali ne sadrži važeći sadržaj.</"
+"p><p>Moguće je kreirati novu bazu podataka ispočetka.</p>"
+
+#: setupassistant.cpp:741
+msgid "<p>Kraft could not connect to the configured database.<p>"
+msgstr ""
+"<p>Kraft nije uspio uspostaviti vezu sa konfigurisanom bazom podataka.<p>"
+
+#: setupassistant.cpp:743
+msgid "<p>Please check the database server setup and restart Kraft to connect."
+msgstr ""
+"<p>Molimo provjerite serverske postavke baze podataka i ponovo pokrenite "
+"Kraft da uspostavite vezu."
+
+#: setupassistant.cpp:745
+msgid "<p>Please check the database file."
+msgstr "<p>Molimo provjerite datoteku baze podataka."
+
+#: setupassistant.cpp:747
+msgid "or create a new database by hitting <b>next</b>.</p>"
+msgstr "ili kreirajte novu bazu podataka pritiskom na <b>dalje</b>.</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sqlitedetails.ui:21
+msgid ""
+"Please enter the SQLite Database Settings.\n"
+"\n"
+"Pick a filename to name the SQLite database file or leave the default "
+"setting."
+msgstr ""
+"Molimo unesite postavke za SQLite bazu podataka.\n"
+"\n"
+"Izaberite ime datoteke za SQLite bazu podataka ili ostavite na zadanim "
+"postavkama."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbDefault)
+#: sqlitedetails.ui:31
+msgid "store the database file at default place."
+msgstr "pohranite datoteku baze podataka na zadano mjesto."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbCustom)
+#: sqlitedetails.ui:43
+msgid "select a file name:"
+msgstr "odaberite ime datoteke:"
+
+#: tagtemplatesdialog.cpp:46
+msgid "Edit Tag Template"
+msgstr "Uredi šablon oznake:"
+
+#: tagtemplatesdialog.cpp:54
+msgid "<h2>Edit a Tag Template</h2>"
+msgstr "<h2>Uredi šablon oznake</h2>"
+
+#: tagtemplatesdialog.cpp:55
+msgid "Adjust settings for name, color and description."
+msgstr "Podesite postavke za ime, boju i opis."
+
+#: tagtemplatesdialog.cpp:59
+msgid "Name:"
+msgstr "Ime:"
+
+#: tagtemplatesdialog.cpp:63
+msgid "Description:"
+msgstr "Opis:"
+
+#: tagtemplatesdialog.cpp:70
+msgid "Associated Color:"
+msgstr "Dodjeljena boja:"
+
+#: tagtemplatesdialog.cpp:106 tagtemplatesdialog.cpp:114
+msgid "Edit Tag Templates"
+msgstr "Uredi šablone oznake:"
+
+#: tagtemplatesdialog.cpp:115
+msgid "Add, edit and remove tag templates for use in the documents."
+msgstr "Dodaj, uredi i ukloni šablone oznake za korištenje u dokumentu."
+
+#: tagtemplatesdialog.cpp:139
+msgid "Add..."
+msgstr "Dodaj..."
+
+#: tagtemplatesdialog.cpp:140
+msgid "Edit..."
+msgstr "Uredi ..."
+
+#: tagtemplatesdialog.cpp:142
+msgid "Delete..."
+msgstr "Briši..."
+
+#: tagtemplatesdialog.cpp:184
+msgid "Do you really want to delete the template?"
+msgstr "Da li stvarno želite da obrišete ovaj šablon?"
+
+#: tagtemplatesdialog.cpp:185
+msgid "Delete Tag Template"
+msgstr "Obriši šablon oznake"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: taxeditbase.ui:20
+msgid "<h2>Add a Tax Rate</h2>"
+msgstr "<h2>Dodaj stopu poreza</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: taxeditbase.ui:32
+msgid "Start-Date:"
+msgstr "Početni-datum:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: taxeditbase.ui:68
+msgid "&Reduced Tax Rate:"
+msgstr "&Umanjena stopa poreza:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2a)
+#: taxeditbase.ui:84
+msgid "&Full Tax Rate:"
+msgstr "&Ukupna stopa poreza:"
+
+#: taxeditdialog.cpp:35
+msgid "Edit Tax Rates"
+msgstr "Uredi stope poreza"
+
+#: templkatalog.cpp:344
+msgid "Export XML Katalog"
+msgstr "Izvezi XML katalog"
+
+#: templkataloglistview.cpp:46
+msgid "Calc. Type"
+msgstr "Calc. Tip"
+
+#: templkataloglistview.cpp:50
+msgid "Template Catalog"
+msgstr "Šablonski katalog"
+
+#: templkatalogview.cpp:110
+msgid "<new template>"
+msgstr "<novi šablon<"
+
+#: templtopositiondialogbase.cpp:32
+msgid "Create Position from Template"
+msgstr "Kreirajte poziciju iz šablona"
+
+#: templtopositiondialogbase.cpp:50
+msgid "the Header of the Document as first position"
+msgstr "zaglavlje dokumenta kao prva pozicija"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: texteditbase.ui:32
+msgid "Edit Document Text Template"
+msgstr "Izmjeni šablon teksta dokumenta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditbase.ui:57
+msgid "&Name:"
+msgstr "&Ime:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: texteditbase.ui:91
+msgid "displayed as"
+msgstr "prikazano kao"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_44)
+#: texteditbase.ui:129
+msgid "in doc type"
+msgstr "u tipu dokumenta"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: texteditbase.ui:179
+msgid "&Text:"
+msgstr "&Tekst:"
+
+#: texteditdialog.cpp:41
+msgid "Edit Text Templates"
+msgstr "Uredite šablon teksta"
+
+#: texteditdialog.cpp:52
+#, kde-format
+msgid "Edit %1 Template"
+msgstr "Uredite %1 Šablon"
+
+#: textselection.cpp:105
+msgid "Template Actions"
+msgstr "Šablonske akcije"
+
+#: textselection.cpp:134
+msgid "This is the standard text used in new documents."
+msgstr "Ovo je standardni tekst korišten u novim dokumentima."
+
+#: textselection.cpp:143
+#, kde-format
+msgid "%1 Templates for %2"
+msgstr "%1 Šablon za %2"
+
+#: textselection.cpp:151
+#, kde-format
+msgid ""
+"There is no %1 template text available for document type %2.<br/>Click the "
+"add-button below to create one."
+msgstr ""
+"Trenutno nema %1 šablona teksta dostupnog za dokument tipa %2.<br/> "
+"Pritisnite dodaj-dugme da bi ste kreirali jedan."
+
+#: textselection.cpp:209
+msgid "&Use in Document"
+msgstr "&Korišten u dokumentu"
+
+#: texttemplate.cpp:130
+msgid "No file name given for template"
+msgstr "Ime nije zadano za šablon"
+
+#: texttemplate.cpp:138
+#, kde-format
+msgid "Could not find template file %1"
+msgstr "Nije pronađen šablonski dokument %1"
+
+#: texttemplate.cpp:147
+msgid "Failed to open template source"
+msgstr "Neuspiješno otvaranje izvora šablona"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailTime)
+#: timepart.ui:14
+msgid "Calculation Item Time"
+msgstr "Izračun vremena stavke"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: timepart.ui:20
+msgid "<h1>Calculation Part 'Time'</h1>"
+msgstr "<h1>Dio izračuna 'Vrijeme' </h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: timepart.ui:30
+msgid ""
+"Calculate time efforts here for one unit of the template. <br/>Note that the "
+"costs may depend on a global hourly rate."
+msgstr ""
+"Izračunaj vrijeme potrebno za jedan šablon. <br/> Pazite da troškovi mogu "
+"zavisiti od globalne satnice."
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: timepart.ui:61
+msgid "Work"
+msgstr "Posao"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: timepart.ui:68
+msgid "&Time Effort:"
+msgstr "&Vremesnki trud:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: timepart.ui:96
+msgid "Minutes"
+msgstr "Minute"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: timepart.ui:108
+msgid "&Hourly Rate:"
+msgstr "&Satnica:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_stdGlobal)
+#: timepart.ui:130
+msgid "Apply the &global hourly rate."
+msgstr "Potvrdite globalnu stanicu."
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: unitseditbase.ui:20
+msgid "<h1>Add a unit</h1>"
+msgstr "<h1>Dodaj jedinicu</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: unitseditbase.ui:32
+msgid "Unit short"
+msgstr "Kratka jedinica"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: unitseditbase.ui:42
+msgid "Unit long"
+msgstr "Duga jedinica"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: unitseditbase.ui:58
+msgid "Unit plural short"
+msgstr "Kratka jedinica množine"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: unitseditbase.ui:68
+msgid "Unit plural long"
+msgstr "Duga jedinica množine"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeInfo)
+#: upgradedb.ui:20
+msgid ""
+"This step checks if the database schema version is sufficient for this "
+"version of Kraft. \n"
+"\n"
+"In case it is not, the schema is updated automatically.\n"
+msgstr ""
+"Ovaj korak provjerava da li je verzija šeme baze podataka dovoljna za ovu "
+"verziju Kraft. \n"
+"\n"
+"U slučaju da nije, šema će biti ažurirana automatski.\n"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeStatus)
+#: upgradedb.ui:79
+msgid "Upgrade not yet started"
+msgstr "Unaprijeđenje još nije pokrenuto"
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: wageseditbase.ui:20
+msgid "<h1>Add a Wage group</h1>"
+msgstr "<h1> Dodaj platnu grupu </h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wageseditbase.ui:32
+msgid "Group name"
+msgstr "Naziv grupe"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: wageseditbase.ui:39
+msgid "Wage"
+msgstr "PLata"

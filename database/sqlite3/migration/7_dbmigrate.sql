@@ -1,0 +1,2 @@
+-- Columns already added in create_schema.sql   *sqlite workaround*
+-- ALTER TABLE archdoc ADD clientUid VARCHAR(32);-- AFTER clientAddress;

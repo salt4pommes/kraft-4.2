@@ -1,0 +1,35 @@
+body { margin:15px; 
+       background-image:url({{CSS_IMG_PATH}}/docoverviewbg.png);
+       color: #4e4e4e;
+       font-size:x-small;
+}
+
+td { 
+  vertical-align:top;
+}
+
+div {
+  border-style:none;
+  border-width:0px;
+  border-color:#00008B;
+  margin: 1px 0px 1px 0px;
+  padding: 1px;
+}
+
+.negative {
+  color: #800040;
+}
+
+.positive {
+
+}
+
+div.header {
+  height:54px;
+  
+  background-image:url({{CSS_IMG_PATH}}/kraftapp_logo_trans.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  image-repeat: none;
+  vertical-align:bottom;
+}

@@ -1,0 +1,272 @@
+Changes since version 0.57: #########################################
+ - Fix handling of slashes in the doc id template
+ - Fix a bug in calculation of the VAT sum
+ - Removed kraftcat library as it was unused. Easier building now. 
+
+    => release v. 0.58 (Mar x, 2015)
+
+Changes since version 0.56: #########################################
+ - No code changes. Just version bump because of a bogus tarball.
+
+    => release v. 0.57 (Nov 7, 2014)
+
+Changes since version 0.55: #########################################
+ - Fix handling of custom greetings in combobox.
+ - Handle document type changes correctly: Set a new ident number
+   depending on the new document id
+ - Fix behaviour of the greeting combobox: Do not loose custom entries
+   any more
+ - Add receipient email address if document is emailed
+ - Fix document emailing for thunderbird
+ - Fix removing of alternative- and on-demand state of items
+ - Wording fixes
+ - Fix Ok/Cancel for doc editor
+ - Better error messages if template can not be read
+ - A couple of crash fixes and memory management cleanups
+
+    => release v. 0.56 (oct 30, 2014)
+
+Changes since version 0.54: #########################################
+- Fix a bug with the PDF generation, regression in 0.54
+- Fix compiling with latest version of ctemplate
+
+    => release v. 0.55 (may 29, 2014)
+
+Changes since version 0.53: #########################################
+- Use new address fetch job implementation that works independant
+  from Nepomuk- or Baloo indexing of contacts. (KDE >= 4.12)
+- Support note-of-delivery documents (Lieferscheine) without prices.
+- Added findcontact utility
+- Generate a customer sorted document storage structure on disk
+- Improve stylesheet handling in templates, introduce CSS_IMG_PATH
+- Use environment variable KRAFT_HOME more consquentely
+- Fix tax sum calculation
+- Add customer address UID variable to number circle tags
+- Some memleak fixes
+- Add "followup document" to main menu
+- Fix installation of identity.trml
+- Allow the tags USERNAME, DATE and TIME in item templates.
+- Lots of other cleanups and fixes
+
+    => release v. 0.54 (may 13, 2014)
+
+Changes since version 0.50: #########################################
+- Fixes drag and drop handling in catalog window.
+- Fixes with units, do not confuse units any more
+- Utf8 fixes
+- other minor fixes
+- Releases 0.51 and 0.52 screwed.
+
+    => release v. 0.53 (oct 11, 2013)
+
+Changes since version 0.50: #########################################
+- Fix drag and drop in catalogues.
+- Implemented removal of sub chapters.
+- Add the content of an entire template catalog chapter to the document
+  if the chapter item is selected.
+- Added a new setting "Own Identity" to allow to pick the own identity
+  from the address books in an installed system.
+- Make text template loading utf8 save.
+- Reworked image-in-template example in invoice report template.
+- Fixed unit handling, no more startsWith coparison of text.
+
+    => release v. 0.51 (sep 22, 2013)
+
+Changes since version 0.45: #########################################
+- Handling of individual tax rates for each document item
+- bugfix: escape texts in reports correctly (reported by Lars Diel).
+- bugfix: if akonadi address was not found, display proper msg.
+- Proper error message if a python module is not installed but needed
+  by the pdf generator.
+- added button to assign an address book entry as document receiver 
+  for existing documents (Bug #3477467)
+- bugfix: Display of number of processed sql commands in setup 
+  assistant (Bug #3560611)
+- started to optimize database save of documents for more performant
+  saves.
+- bugfix: Fixed import of document items from csv lists.
+- added page number on default document from page two to end.
+- bugfix: Fixed mysql database setup.
+- Rearragned doc type setup dialog to better display path names of 
+  template file and watermark file.
+- bugfix: If a manual entered template has checkbox "store in template
+  catalog, the template is immediately written to and catalog is
+  reloaded.
+- bugfix: Focus on the last added item on document edit.
+
+    => release v. 0.50 (dec 17, 2012)
+
+Changes since version 0.44: #########################################
+- bugfix release: Fixed the display of decimal places in the PDF 
+  document which caused broken documents.
+
+    => release v. 0.45 (nov 08,2011)
+
+Changes since version 0.43: #########################################
+- Completely reworked the addressbook widget in Kraft, used in new doc
+  assistant and in the "who am i" dialog: Fully Akonadi-based, works
+  with various addressbooks and loads addresses way more fast.
+- Completely reworked text template widget used in the document editor:
+  Less bugs, more obvious gui, help texts where needed
+- Fixed bug that crashed Kraft when clicking on empty catalog chapters.
+- Add ability to add localized report template files, added german
+  localization
+- Fixed bug that numbers in the doc are not localized correctly
+- Fixed bug that the doc type is not taken correctly from the new doc
+  wizard
+- No need any more to checkbox single item templates to move them into
+  the document. Selecting is sufficient.
+- Added a search line in the "who am i"-dialog
+
+    => release v. 0.44 (nov 03,2011)
+
+Changes since version 0.41: #########################################
+- Added search box in digest lists again, for that enhanced the search
+  field class.
+- cleaned up the digest models
+- optimized the digest model
+- changed from treeview to tableview for latest- and all view
+
+   => release v. 0.43 (may 25, 2011)
+
+Changes since version 0.40: #########################################
+- More changes to the Akonadi based addressbook integration
+- switched to a python only version of trml2pdf called erml2pdf, 
+  makes porting to other platforms easier plus dropped dependency on 
+  java with pdftk
+- used Qt Model/View for the document lists. Way faster startup. 
+- New document digest view
+- Catalogs: Implemented nested catalog structure
+- Catalogs: Moving templates around per d&d
+- Catalogs: user defined sorting in catalogs 
+- Catalogs: dropping of templates
+
+   => released v. 0.41 (april 18th, 2011)
+
+Changes since version 0.32: #########################################
+- Ported to the KDE 4 Platform. In particular, to KDE 4.4
+- Use Akonadi based addressbook
+- Edit dialog for Wages and Units
+- SQLite-Support 
+- Setup Assistant for SQLite and MySQL Databases
+
+   => released v. 0.40
+
+Changes since version 0.31: #########################################
+- Tax: Added more flexible tax calculation. Kraft now has the tax in 
+  a table for easy changing, supports no, reduced and full tax on 
+  document level for this release, on item level later.
+- Numbercycles: All Kraft documents need an unique document number. 
+  These are taken from numbercycles now which can be edited and shared
+  between document types.
+- Watermark: Kraft documents can now be merged with an existing pdf file
+  with the company logo. Configuration through the Kraft settings on
+  a per document type basis
+- Templates: Kraft now supports different templates for each document 
+  type. Templates can be configured through the Kraft settings.
+- Project-String: There is a project label at the document. It is 
+  exported to the document template.
+- System-Tab: Display of some interesting setup information
+- Templates for PDF and HTML output are reloaded if modified
+
+   => released v. 0.32 
+
+Changes since version 0.30: #########################################
+- added a read only view on documents, customizable with ctemplate 
+  as html page
+- added importing items from text files with configurable import 
+  filters, to enable usage of special software which is able to 
+  export text files
+- added document number cycles: The unique id of a document depends
+  on a unique number. Now there can be multiple number cycles which 
+  can be used by document types. Multiple doc types can use the same
+  number cycle, that means that for example all types of invoices 
+  count the same number cycle while offers are in another.
+
+   => released v. 0.31
+
+Changes since version 0.25: #########################################
+- introduced the extended combo box with explanation line for units.
+- added document item tagging
+- added discount item system, based on tagging 
+- tag templates with tag template edit dialog
+- fixed a bunch of bugs with text templates (header- and footer text)
+- tag selection in ordinary add-item-to-document dialog
+
+   => released v. 0.30
+
+Changes since version 0.24: #########################################
+- Added a Wizard for document creation
+- Improved the document overview widget for more intuitive use.
+- Copying of complete documents added.
+- Followup documents (eg. Invoice follows Offer) added
+- Litte marker for new documents added to doc overview list.
+- Help text added to positions canvas
+- Client address bits added to the available template variables
+
+Changes since version 0.23: #########################################
+- internationalisation: Ability to do documents in a different location
+  than the desktop is running under.
+  
+  => released BETA v. 0.24
+
+Changes since version 0.22: #########################################
+
+- fixed: database migration 5: added IF EXISTS 
+- fixed: encoding in the report file
+- improved: The document digest overview is not longer always redrawed
+            and looses its selected item.
+
+  => released v. 0.23
+
+Changes since version 0.20: #########################################
+
+- fixed: select from catalogs with doubleclick
+- fixed: allow prices for positions larger than 10k
+- fixed: openArchivedDocument printed again instead of opening
+         archived doc from the archive path
+- fixed: template texts in the catalog view where not shown if they
+         were exactly 60 chars long.
+- feature: Alternative positions
+- feature: Demand positions
+- feature: Switched to google template system, see
+           http://code.google.com/p/google-ctemplate/
+- bugfix: Catalog changes show up directly in opened catalogs, also
+          if open as a template catalog in the doc window.
+
+  => released v. 0.22
+
+Changes since version 0.14: #########################################
+
+- fixed bug with manual price field that needs to be left by
+  TAB to get a change recognised.
+- increased precision to 2 digits for position amounts
+- allow euro-sign in texts and in the whiteboard. Due to a lack
+  in the qt3 mysql driver the char needs to be en- and decoded.
+- reduced the amount of toolbar buttons to only show the important
+  ones.
+- more beautifull and working navigation block in the document dialog
+- mailing documents added
+- Completely changed header- and footer text template system: 
+  * now there is more than one text available per text- and doc type
+  * direct adding, editing and removing of texts from the dialog
+  * selecting template texts in the same way as selecting position 
+    templates, more intuitive GUI
+- Addresses also selectable from an address catalog
+- persist the selection of the greeting and salut text 
+- Document ID now configurable in the settings file, key DocIdent:
+  [document]
+  DocIdent=T-%y%w%i
+- database upgrade code more robust
+- now additionally save archived xml documents
+
+Bugs fixed:
+- fixed time lined doc overview, now displaying all documents of
+  all months of a year.
+- fixed modification indication: Now also adding a position counts
+  as modification
+- encoding bugs fixed
+- allow to leave text edit fields using the tab key
+- deletion of positions: Fixed an iteration over the list issue
+- smarter template-to-doc-position dialog
+- others

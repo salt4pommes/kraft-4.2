@@ -1,0 +1,3248 @@
+# Uyghur translation for kraft.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sahran <sahran.ug@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kraft\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-16 02:15+0000\n"
+"PO-Revision-Date: 2013-09-08 07:05+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ئابدۇقادىر ئابلىز, غەيرەت كەنجى"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sahran.ug@gmail.com,  gheyret@gmail.com"
+
+#: addeditchapterdialog.cpp:31
+msgid "Add/Edit Catalog Chapter"
+msgstr ""
+
+#: addeditchapterdialog.cpp:45
+msgid "Create a new Catalog Chapter"
+msgstr ""
+
+#: addeditchapterdialog.cpp:49
+msgid "Chapter Name:"
+msgstr ""
+
+#: addeditchapterdialog.cpp:53
+msgid "Chapter Description:"
+msgstr ""
+
+#: addeditchapterdialog.cpp:71
+#, kde-format
+msgid "Create new Catalog Chapter below chapter %1"
+msgstr ""
+
+#: addeditchapterdialog.cpp:78
+#, kde-format
+msgid "Edit name and description of chapter %1"
+msgstr ""
+
+#: addressselection.cpp:59
+msgid "Please select a contact from the list below: "
+msgstr ""
+
+#: addressselection.cpp:71 akonadiaddressselector.cpp:172 docdigestview.cpp:68
+msgid "&Search: "
+msgstr "ئىزدە(&S): "
+
+#: addressselection.cpp:125 akonadiaddressselector.cpp:215
+msgid "New Contact..."
+msgstr ""
+
+#: akonadiaddressselector.cpp:206
+msgid "Display address book selection list and hide address details."
+msgstr ""
+
+#: akonadiaddressselector.cpp:211
+msgid "Edit Contact..."
+msgstr "ئالاقەداش تەھرىرلەش…"
+
+#: akonadiaddressselector.cpp:212
+msgid "Edit the currently selected contact"
+msgstr ""
+
+#: akonadiaddressselector.cpp:216
+msgid "Create a new Contact"
+msgstr ""
+
+#: archdoc.cpp:60 kraftdoc.cpp:196
+#, kde-format
+msgid "%1 for %2 (Id %3)"
+msgstr ""
+
+#: brunskatalog.cpp:43
+msgid "Select Bruns Catalog Data File"
+msgstr ""
+
+#: brunskatalog.cpp:55
+msgid "Select Bruns Catalog Key File"
+msgstr ""
+
+#: brunskataloglistview.cpp:36
+msgctxt "Abbrev. for botanical name"
+msgid "Bot. Name"
+msgstr ""
+
+#: brunskataloglistview.cpp:37
+msgctxt "Abbrev. for localized name"
+msgid "Name"
+msgstr "ئاتى"
+
+#: brunskataloglistview.cpp:38
+msgctxt "Abbrev. for article identification number"
+msgid "Art. Id."
+msgstr ""
+
+#: brunskataloglistview.cpp:39
+msgctxt "Abbrev. for article Matchcode"
+msgid "Art. Match."
+msgstr ""
+
+#: brunskataloglistview.cpp:42
+msgid "Catalog"
+msgstr "كاتالوگ"
+
+#: brunskataloglistview.cpp:110
+msgid "Fruits"
+msgstr ""
+
+#: brunskataloglistview.cpp:114
+msgid "Azalea and Rhododendrons"
+msgstr ""
+
+#: brunskataloglistview.cpp:118
+msgid "Roses"
+msgstr "قىزىلگۈل"
+
+#: brunskataloglistview.cpp:122
+msgctxt "botanical"
+msgid "Bushes"
+msgstr ""
+
+#: brunskataloglistview.cpp:126
+msgctxt "Various plants (bot.)"
+msgid "Others"
+msgstr "باشقىلار"
+
+#: brunskatalogview.cpp:61
+msgid "Plant Details (Sizes, Root Forms etc.):"
+msgstr ""
+
+#: brunskatalogview.cpp:67 insertplantdialog.cpp:55
+msgid "Matchcode"
+msgstr ""
+
+#: brunskatalogview.cpp:68 insertplantdialog.cpp:56
+msgid "Form"
+msgstr "كۆزنەك"
+
+#: brunskatalogview.cpp:69 insertplantdialog.cpp:57
+msgid "Form Add"
+msgstr ""
+
+#: brunskatalogview.cpp:70
+msgid "Wuchs"
+msgstr ""
+
+#: brunskatalogview.cpp:71 insertplantdialog.cpp:59
+msgid "Root"
+msgstr "غول مۇندەرىجە"
+
+#: brunskatalogview.cpp:72 insertplantdialog.cpp:60
+msgid "Quality"
+msgstr "سۈپەت"
+
+#: brunskatalogview.cpp:73 insertplantdialog.cpp:61
+msgid "Group"
+msgstr "گۇرۇپپا"
+
+#: calcpart.cpp:117
+msgid "Base"
+msgstr "ئاساسى"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, d_calcTempl)
+#: calctemplate.ui:14
+msgid "Edit Template"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget8)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:27 calctemplate.ui:75 templkataloglistview.cpp:44
+#: texteditdialog.cpp:64
+msgid "Template"
+msgstr "قېلىپ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: calctemplate.ui:53
+msgid "&Store in Chapter"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: calctemplate.ui:96
+msgid "&Unit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_addTime)
+#: calctemplate.ui:128
+msgid "&Count Time for Overalltime"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: calctemplate.ui:142
+msgid "Margin"
+msgstr "گىرۋەك بوشلۇقى"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, spBenefit)
+#: calctemplate.ui:161
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (KPushButton, pbRundPreis)
+#: calctemplate.ui:177
+msgid "round"
+msgstr "پۈتۈن سان"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: calctemplate.ui:203 kraftview_ro.cpp:220 kraftview_ro.cpp:257
+#: reportgenerator.cpp:333
+msgid "VAT"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:214
+msgid "full"
+msgstr "تامامەن"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:219
+msgid "half"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget9)
+#: calctemplate.ui:235
+msgid "Time Calculation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: calctemplate.ui:246
+msgid "Time measureable effort for this template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:271 calctemplate.ui:390 calctemplate.ui:499
+msgid "Label"
+msgstr "ئەن"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:276
+msgid "Duration"
+msgstr "ۋاقتى"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:281
+msgid "Hourly Rate"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:286
+msgid "Glob. Rate"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddTime)
+#: calctemplate.ui:296
+msgid "Adds a new time calculation part to the template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:299 calctemplate.ui:413 calctemplate.ui:527
+msgid "new..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditTime)
+#: calctemplate.ui:306
+msgid "Edits the current time calculation part"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:309 calctemplate.ui:423 calctemplate.ui:537
+msgid "edit..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveTime)
+#: calctemplate.ui:316
+msgid "Deletes the current time calculation part"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:319 calctemplate.ui:433 calctemplate.ui:547
+msgid "delete"
+msgstr "ئۆچۈر"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: calctemplate.ui:349
+msgid "Fix Costs"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: calctemplate.ui:360
+msgid "Fix costs for this template per one unit:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:385 calctemplate.ui:504
+msgid "Amount"
+msgstr "مىقدارى"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:395
+msgid "Single Price"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:400
+msgid "Overall Price"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddFix)
+#: calctemplate.ui:410
+msgid "adds a new fix calculation part"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditFix)
+#: calctemplate.ui:420
+msgid "edits the current fix calculation part"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveFix)
+#: calctemplate.ui:430
+msgid "deletes the current fix calculation part"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage_2)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:463 kraftglobals.h:29 materialdialog.ui:68
+#: materialkataloglistview.cpp:37
+msgid "Material"
+msgstr "خام ئەشيا"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: calctemplate.ui:474
+msgid "Needed materials for one unit of this template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:509 materialkataloglistview.cpp:39
+msgid "Unit"
+msgstr "بىرلىك"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: calctemplate.ui:514 calctemplate.ui:580 templkataloglistview.cpp:45
+msgid "Price"
+msgstr "باھاسى"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:524
+msgid "adds a new material calculation part"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:534
+msgid "edits the current material part"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:544
+msgid "deletes the current material calculation part"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbManual)
+#: calctemplate.ui:586
+msgid "&manual:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: calctemplate.ui:603
+msgid "Euro"
+msgstr "ياۋرو"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbCalculation)
+#: calctemplate.ui:629
+msgid "Calculated Price"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: calctemplate.ui:642
+msgid "Overall Price per Unit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelTime)
+#: calctemplate.ui:648
+msgid "Time Calculation Part:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelFix)
+#: calctemplate.ui:671
+msgid "Fix Costs Part:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelMat)
+#: calctemplate.ui:694
+msgid "Material Part:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_resPreisName)
+#: calctemplate.ui:717
+msgid "Calculated Price:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_resultPrice)
+#: calctemplate.ui:733
+msgid "88.888,88 €"
+msgstr ""
+
+#: catalogselection.cpp:56
+msgid "Selected &Catalog: "
+msgstr ""
+
+#: catalogselection.cpp:149 catalogselection.cpp:164 catalogselection.cpp:173
+msgid "Append to Document"
+msgstr ""
+
+#: catalogtemplate.cpp:50
+msgid "Manual Price"
+msgstr ""
+
+#: catalogtemplate.cpp:52
+msgid "Calculated"
+msgstr ""
+
+#: catalogtemplate.cpp:54
+msgid "AutoCalc"
+msgstr ""
+
+#: catalogtemplate.cpp:55
+#, c-format
+msgid "Err: Unknown type %d"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: createdb.ui:17
+msgid "Database creation and initial schema setup:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateCounter)
+#. i18n: ectx: property (text), widget (QLabel, mFillCounter)
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeCounter)
+#: createdb.ui:36 createdb.ui:80 upgradedb.ui:39
+msgid "0 / 129"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateIcon)
+#. i18n: ectx: property (text), widget (QLabel, mFillIcon)
+#: createdb.ui:49 createdb.ui:93 upgradedb.ui:52
+msgid "X"
+msgstr "X"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: createdb.ui:61
+msgid "Filling the database with initial values:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: createdb.ui:113 upgradedb.ui:72
+msgid "Status: "
+msgstr "ھالىتى: "
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateStatus)
+#: createdb.ui:123
+msgid "Database setup status..."
+msgstr ""
+
+#. i18n: ectx: label, entry (BrunsDataFile), group (bruns)
+#: databasesettings.kcfg:7
+msgid "Bruns Data File:"
+msgstr ""
+
+#. i18n: ectx: label, entry (BrunsKeyFile), group (bruns)
+#: databasesettings.kcfg:10
+msgid "Bruns Key File:"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbDriver), group (database selection)
+#: databasesettings.kcfg:15
+msgid "Qt Database Driver:"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbServerName), group (mysql settings)
+#: databasesettings.kcfg:20
+msgid "Database Server:"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbDatabaseName), group (mysql settings)
+#: databasesettings.kcfg:24
+msgid "Database Name"
+msgstr "ساندان ئاتى"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: label, entry (DbUser), group (mysql settings)
+#: databasesettings.kcfg:27 mysqldetails.ui:51
+msgid "Database User:"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbPassword), group (mysql settings)
+#: databasesettings.kcfg:31
+msgid "Database Password:"
+msgstr ""
+
+#. i18n: ectx: label, entry (DefaultDbName), group (mysql settings)
+#: databasesettings.kcfg:34
+msgid "The default database name when creating new databases"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbFile), group (Sqlite settings)
+#: databasesettings.kcfg:39
+msgid "File Name"
+msgstr "ھۆججەت ئاتى"
+
+#. i18n: ectx: label, entry (DbPath), group (Sqlite settings)
+#: databasesettings.kcfg:42
+msgid "The path where database file are stored. Leave empty!"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mInfoText)
+#: dbinit.ui:19
+msgid "Database Update:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: dbinit.ui:34
+msgid "Overall Progress:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: dbinit.ui:55
+msgid "Detail Progress:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: dbinit.ui:76
+msgid "Status:"
+msgstr "ھالىتى:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dbselect.ui:21
+msgid ""
+"Kraft uses a database backend to store values. By default it uses a file "
+"based database with easy setup targeted to single user mode.\n"
+"\n"
+"Please select the database backend you want to use:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbSqlite3)
+#: dbselect.ui:31
+msgid "SQLite 3 - file based database (default)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbMySQL)
+#: dbselect.ui:41
+msgid "MySQL Serverbased Database for advanced Setups"
+msgstr ""
+
+#: defaultprovider.cpp:51 doctext.cpp:89 positionviewwidget.cpp:420
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+#: docassistant.cpp:60
+msgid "Show Templates"
+msgstr "قېلىپلارنى كۆرسەت"
+
+#: docassistant.cpp:65
+msgid "Show mask to create or select templates to be used in the document"
+msgstr ""
+
+#: docassistant.cpp:128
+msgid "Add a template to the document"
+msgstr ""
+
+#: docassistant.cpp:134
+msgid "Create a new template"
+msgstr ""
+
+#: docassistant.cpp:141
+msgid "Edit the current template"
+msgstr ""
+
+#: docassistant.cpp:148
+msgid "Delete the current template"
+msgstr ""
+
+#: docassistant.cpp:299
+msgid ""
+"Do you really want to delete the template permanently? There is no way to "
+"recover!"
+msgstr ""
+
+#: docdigestdetailview.cpp:123
+msgid "Date"
+msgstr "چېسلا"
+
+#: docdigestdetailview.cpp:126 models/documentmodel.cpp:65
+msgid "Whiteboard"
+msgstr "ئاق تاختا"
+
+#: docdigestdetailview.cpp:131 models/documentmodel.cpp:69
+msgid "Project"
+msgstr "قۇرۇلۇش"
+
+#: docdigestdetailview.cpp:135
+msgid "Customer"
+msgstr ""
+
+#: docdigestdetailview.cpp:146
+msgid "The address is not listed in an address book."
+msgstr ""
+
+#: docdigestdetailview.cpp:148
+#, kde-format
+msgid ""
+"The client has the address book id %1 but can not found in our address books."
+msgstr ""
+
+#: docdigestdetailview.cpp:151
+msgid "The client can be found in our address books."
+msgstr ""
+
+#: docdigestdetailview.cpp:162 prefsdialog.cpp:424
+msgid "preferred address"
+msgstr ""
+
+#: docdigestdetailview.cpp:166 prefsdialog.cpp:428
+msgid "home address"
+msgstr ""
+
+#: docdigestdetailview.cpp:170 prefsdialog.cpp:432
+msgid "work address"
+msgstr ""
+
+#: docdigestdetailview.cpp:174 prefsdialog.cpp:436
+msgid "postal address"
+msgstr ""
+
+#: docdigestdetailview.cpp:178 prefsdialog.cpp:440
+msgid "international address"
+msgstr ""
+
+#: docdigestdetailview.cpp:182 prefsdialog.cpp:444
+msgid "domestic address"
+msgstr ""
+
+#: docdigestdetailview.cpp:186 prefsdialog.cpp:448
+msgid "unknown"
+msgstr "نامەلۇم"
+
+#: docdigestdetailview.cpp:209
+msgid "This document was never printed."
+msgstr ""
+
+#. i18n: ectx: ToolBar (documentToolBar)
+#: docdigestview.cpp:114 docdigestview.cpp:116 docdigestview.cpp:118
+#: kraftui.rc:21 portal.cpp:220
+msgid "Document Actions"
+msgstr ""
+
+#: docdigestview.cpp:135
+msgid "Latest Documents"
+msgstr ""
+
+#: docdigestview.cpp:137
+msgid "Shows the latest ten documents"
+msgstr ""
+
+#: docdigestview.cpp:155
+msgid "All Documents"
+msgstr "بارلىق پۈتۈك"
+
+#: docdigestview.cpp:157
+msgid "Shows a complete list of all documents"
+msgstr ""
+
+#: docdigestview.cpp:175
+msgid "Timelined Documents"
+msgstr ""
+
+#: docdigestview.cpp:177
+msgid "Shows all documents along a timeline"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: docfooter.ui:36
+msgid "Footer Texts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: docfooter.ui:42
+msgid "&Summary Text on Last Page:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docfooter.ui:66
+msgid "&Greeting:"
+msgstr "سالاملىشىش(&G):"
+
+#. i18n: ectx: property (title), widget (QGroupBox, _taxGroup)
+#: docfooter.ui:94 positionviewwidget.cpp:104
+msgid "Tax"
+msgstr "باج"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docfooter.ui:100
+msgid "Document &Tax:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docheader.ui:64
+msgid "&Project:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docheader.ui:80
+msgid "&Whiteboard:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mProjectLabelEdit)
+#: docheader.ui:104
+msgid ""
+"Enter a label that describes the project. This may appear on the customer "
+"document."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: docheader.ui:160
+msgid "Postal &Address:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_labName)
+#: docheader.ui:178
+msgid "not selected"
+msgstr "تاللانمىدى"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:204
+msgid "Select an addressee from the address books."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:207
+msgid "select..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: docheader.ui:232
+msgid "&Salutatory Address:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: docheader.ui:245
+msgid "Customer:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: docheader.ui:273
+msgid "&Entry Text on First Page:"
+msgstr ""
+
+#: doclocaledialog.cpp:45
+msgid "Document Locale Settings"
+msgstr ""
+
+#: doclocaledialog.cpp:54
+msgid "<h2>Document Localization</h2>"
+msgstr ""
+
+#: doclocaledialog.cpp:57
+msgid ""
+"Select country and language for the document.\n"
+"That influences the formatting of numbers, dates etc."
+msgstr ""
+
+#: doclocaledialog.cpp:65
+msgid "Country: "
+msgstr "دۆلەت: "
+
+#: doclocaledialog.cpp:74
+msgid "Language:"
+msgstr "تىل:"
+
+#: doclocaledialog.cpp:118
+#, kde-format
+msgid ""
+"Money: %1\n"
+"Date: %2\n"
+"Date (short): %3"
+msgstr ""
+
+#: docpostcard.cpp:36
+msgid "Document Overview"
+msgstr ""
+
+#: docpostcard.cpp:121
+msgid "Netto:"
+msgstr ""
+
+#: docpostcard.cpp:132 docpostcard.cpp:139
+#, kde-format
+msgid "+ %1% Tax:"
+msgstr ""
+
+#: docpostcard.cpp:145
+msgid "Sum Tax:"
+msgstr ""
+
+#: docpostcard.cpp:150
+msgid "Total:"
+msgstr "جەمئىي:"
+
+#: docpostcard.cpp:191 docpostcard.cpp:241 kraftdoc.cpp:359
+msgid "Header"
+msgstr "بەت قېشى"
+
+#: docpostcard.cpp:220 docpostcard.cpp:261 kraftdoc.cpp:361
+msgid "Footer"
+msgstr "بەت ئاستى"
+
+#: docpostcard.cpp:249
+#, fuzzy, kde-format
+#| msgid "1 Item"
+msgid "%1 Items"
+msgstr "%1 تۈر"
+
+#: docpostcard.cpp:251
+#, fuzzy, kde-format
+#| msgid "1 Item"
+msgid "%1 Items, netto %2"
+msgstr "%1 تۈر"
+
+#: docpostcard.cpp:253 doctext.cpp:87
+msgid "Positions"
+msgstr ""
+
+#: doctext.cpp:61
+msgid "Standard"
+msgstr "ئۆلچەملىك"
+
+#: doctext.cpp:85
+msgid "Header Text"
+msgstr ""
+
+#: doctext.cpp:86
+msgid "Footer Text"
+msgstr ""
+
+#: doctypeedit.cpp:130 doctypeedit.cpp:155
+msgid "Add Document Type"
+msgstr ""
+
+#: doctypeedit.cpp:131
+msgid "Enter the name of a new document type"
+msgstr ""
+
+#: doctypeedit.cpp:156
+msgid "Edit the name of a document type"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:43 numbercycleseditbase.ui:168
+msgid "Click to add a new document type to the list."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:46 prefsdialog.cpp:129 prefsunits.cpp:77
+#: prefswages.cpp:88
+msgid "Add"
+msgstr "قوش"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:53
+msgid "click to edit the selected document type name"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:56 prefsunits.cpp:81 prefswages.cpp:92
+msgid "Edit"
+msgstr "تەھرىرلەش"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:63 numbercycleseditbase.ui:178
+msgid "click to remove the current document type"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:66 portalview.cpp:154 prefsdialog.cpp:133
+#: prefsunits.cpp:86 prefswages.cpp:97
+msgid "Remove"
+msgstr "چىقىرىۋەت"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: doctypeeditbase.ui:77
+msgid "Unique Document Number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: doctypeeditbase.ui:85
+msgid "Number &Cycle:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mExampleId)
+#. i18n: ectx: property (text), widget (QLabel, mCounter)
+#. i18n: ectx: property (text), widget (QLabel, mIdent)
+#: doctypeeditbase.ui:105 doctypeeditbase.ui:138 doctypeeditbase.ui:151
+#: numbercycleseditbase.ui:108
+msgid "example"
+msgstr "مەسىلەن"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: doctypeeditbase.ui:118
+msgid "ident Template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3_2)
+#: doctypeeditbase.ui:128 numbercycleseditbase.ui:75
+msgid "Example Id:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: doctypeeditbase.ui:164
+msgid "Counter:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEditCycles)
+#: doctypeeditbase.ui:194
+msgid "&Edit Number Cycles..."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2_2)
+#: doctypeeditbase.ui:222
+msgid "Template for PDF Creation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: doctypeeditbase.ui:228
+msgid "&Template File"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: doctypeeditbase.ui:257
+msgid "W&atermark:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:271
+msgid "no watermark"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:276
+msgid "on first page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:281
+msgid "on all pages"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: doctypeeditbase.ui:289
+msgid "&Watermark File"
+msgstr ""
+
+#: external/ktreeviewsearchline.cpp:530
+msgid "Search Options"
+msgstr "ئىزدەش تاللانما"
+
+#: external/ktreeviewsearchline.cpp:531
+msgctxt "Enable case sensitive search in the side navigation panels"
+msgid "Case Sensitive"
+msgstr "چوڭ-كىچىك يېزىلىشى پەرقلەندۈر"
+
+#: external/ktreeviewsearchline.cpp:534
+msgctxt "Enable regular expression search in the side navigation panels"
+msgid "Regular Expression"
+msgstr "مۇنتىزىم ئىپادە"
+
+#: external/ktreeviewsearchline.cpp:540
+msgid "Search Columns"
+msgstr "ئىزدەش ئىستونى"
+
+#: external/ktreeviewsearchline.cpp:542
+msgid "All Visible Columns"
+msgstr "كۆرۈنگەن بارلىق ئىستونلار"
+
+#: external/ktreeviewsearchline.cpp:708
+msgid "S&earch:"
+msgstr "ئىزدە(&E):"
+
+#: filterheader.cpp:61 filterheader.cpp:90
+msgid "No Items"
+msgstr "تۈرلەر يوق"
+
+#: filterheader.cpp:62 filterheader.cpp:91
+msgid "1 Item"
+msgstr "%1 تۈر"
+
+#: filterheader.cpp:63 filterheader.cpp:92
+#, kde-format
+msgid "%1 of %2 Items"
+msgstr ""
+
+#: filterheader.cpp:75 filterheader.cpp:104
+msgid "Search:"
+msgstr "ئىزدە:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailFix)
+#: fixpartui.ui:14
+msgid "Calculation Parts Fix"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: fixpartui.ui:20
+msgid "<h1>Fix Cost Parts</h1>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: fixpartui.ui:30
+msgid "Add a fix cost for one unit of the template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: fixpartui.ui:45 timepart.ui:48
+msgid "&Label:"
+msgstr "ئەن(&L):"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:58
+msgid "describing text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:61
+msgid "amortisation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: fixpartui.ui:72 matpartui.ui:77
+msgid "&Amount:"
+msgstr "مىقدارى(&A):"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#: fixpartui.ui:85
+msgid "amount multiplier"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: fixpartui.ui:98
+msgid "at &Price:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:114 matpartui.ui:90
+msgid "Price for one piece"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:123
+msgid "€"
+msgstr ""
+
+#: flostempldialog.cpp:70
+msgid "Create or Edit Template Items"
+msgstr ""
+
+#: flostempldialog.cpp:208 flostempldialog.cpp:562
+msgid "No"
+msgstr "ياق"
+
+#: flostempldialog.cpp:209 flostempldialog.cpp:562
+msgid "Yes"
+msgstr "ھەئە"
+
+#: flostempldialog.cpp:246
+msgid "Calculated Price: "
+msgstr ""
+
+#: flostempldialog.cpp:251
+msgid "Manual Price: "
+msgstr ""
+
+#: flostempldialog.cpp:256
+#, kde-format
+msgid "(+%1%)"
+msgstr ""
+
+#: flostempldialog.cpp:260
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: flostempldialog.cpp:262
+msgid ": "
+msgstr ": "
+
+#: flostempldialog.cpp:369
+msgid "Saving of this template failed, sorry"
+msgstr ""
+
+#: flostempldialog.cpp:370
+msgid "Template Save Error"
+msgstr ""
+
+#: flostempldialog.cpp:398
+msgid "The template was modified. Do you really want to discard all changes?"
+msgstr ""
+
+#: flostempldialog.cpp:400 kraftview.cpp:1387
+msgid "Discard"
+msgstr "تاشلىۋەت"
+
+#: flostempldialog.cpp:400
+msgid "Template Modified"
+msgstr ""
+
+#: flostempldialog.cpp:425
+msgid ""
+"The catalog chapter was changed for this template.\n"
+"Do you really want to move the template to the new chapter?"
+msgstr ""
+
+#: flostempldialog.cpp:426
+msgid "Changed Chapter"
+msgstr ""
+
+#: flostempldialog.cpp:560
+#, kde-format
+msgid "%1 Min."
+msgstr ""
+
+#: flostempldialog.h:101
+msgid "Calculated material"
+msgstr ""
+
+#: imporst.cpp:29
+msgid "Kraft Import Test App"
+msgstr ""
+
+#: imporst.cpp:42
+msgid "Kraft import test app"
+msgstr ""
+
+#: importfilter.cpp:51
+#, kde-format
+msgid "Unable to find filter called %1"
+msgstr ""
+
+#: importfilter.cpp:59
+msgid "Could not open the definition file!"
+msgstr ""
+
+#: importfilter.cpp:143
+msgid "Unknown tags: "
+msgstr ""
+
+#: importfilter.cpp:184
+msgid "Could not recode input file!"
+msgstr ""
+
+#: importfilter.cpp:192
+msgid "Unable to open temp file "
+msgstr ""
+
+#: importfilter.cpp:198
+msgid "Could not open the import source file!"
+msgstr ""
+
+#: importitemdialog.cpp:47
+msgid "Import Items From File"
+msgstr ""
+
+#: importitemdialog.cpp:109
+msgid "the Header of the Document"
+msgstr ""
+
+#: importitemdialog.cpp:118 templtopositiondialogbase.cpp:57
+msgid "..."
+msgstr "…"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: importtodocbase.ui:32
+msgid "Import Document Items"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: importtodocbase.ui:47
+msgid "Import information"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: importtodocbase.ui:53
+msgid "Select a &File to import from:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: importtodocbase.ui:71
+msgid "Import &Schema:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mSchemaInfo)
+#: importtodocbase.ui:95
+msgid "this is interesting information about the selected schema"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: importtodocbase.ui:116
+msgid "Insert all Items &after"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, mTagGroup)
+#: importtodocbase.ui:137 inserttmplbase.ui:204
+msgid "Tags"
+msgstr "خەتكۈشلەر"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: insertplantbase.ui:32
+msgid "Create Plant Item"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: insertplantbase.ui:51
+msgid "Select a plant size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: insertplantbase.ui:94 inserttmplbase.ui:56
+msgid "insert"
+msgstr "قىستۇر"
+
+#. i18n: ectx: property (text), widget (QLabel, dmUnitText)
+#: insertplantbase.ui:107
+msgid "pieces at a single price of"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: insertplantbase.ui:157
+msgid "&after"
+msgstr ""
+
+#: insertplantdialog.cpp:58
+msgid "Growth"
+msgstr ""
+
+#: insertplantdialog.cpp:90
+#, kde-format
+msgid "(price entered in %1/%2)"
+msgstr ""
+
+#: inserttempldialog.cpp:103
+msgid "Create a new Item"
+msgstr ""
+
+#: inserttempldialog.cpp:105
+msgid "Create a new Item from Template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: inserttmplbase.ui:30
+msgid "Create Item from Template"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: inserttmplbase.ui:45
+msgid "Edit New Template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, priceBoxTextLabel)
+#: inserttmplbase.ui:76
+msgid "à"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: inserttmplbase.ui:113
+msgid "&after position"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, mKeepGroup)
+#: inserttmplbase.ui:150
+msgid "Keep Template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCbSave)
+#: inserttmplbase.ui:158
+msgid "&save this as a template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mChapterText)
+#: inserttmplbase.ui:165
+msgid "in &chapter"
+msgstr ""
+
+#: katalog.cpp:137 models/documentmodel.cpp:133
+msgid "not found"
+msgstr ""
+
+#: kataloglistview.cpp:338
+msgid "A catalog chapter can not be deleted as long it has children."
+msgstr ""
+
+#: kataloglistview.cpp:339
+msgid "Chapter can not be deleted"
+msgstr ""
+
+#: katalogview.cpp:164
+msgid "Edit Sub chapter"
+msgstr ""
+
+#: katalogview.cpp:166
+msgid "Edit a catalog sub chapter"
+msgstr ""
+
+#: katalogview.cpp:170
+msgid "Add a sub chapter"
+msgstr ""
+
+#: katalogview.cpp:172
+msgid "Add a sub chapter below the selected one"
+msgstr ""
+
+#: katalogview.cpp:176 katalogview.cpp:178
+msgid "Remove a sub chapter"
+msgstr ""
+
+#: katalogview.cpp:182
+msgid "Edit template"
+msgstr ""
+
+#: katalogview.cpp:184
+msgid "Opens the editor window for templates to edit the selected one"
+msgstr ""
+
+#: katalogview.cpp:188
+msgid "New template"
+msgstr "يېڭى قېلىپ"
+
+#: katalogview.cpp:191
+msgid "Opens the editor window for templates to enter a new template"
+msgstr ""
+
+#: katalogview.cpp:195
+msgid "Delete template"
+msgstr "قېلىپ ئۆچۈر"
+
+#: katalogview.cpp:198
+msgid "Deletes the template"
+msgstr ""
+
+#: katalogview.cpp:202
+msgid "Export catalog"
+msgstr ""
+
+#: katalogview.cpp:203
+msgid "Export the whole catalog as XML encoded file"
+msgstr ""
+
+#: katalogview.cpp:207
+msgid "Close the katalog view"
+msgstr ""
+
+#: katalogview.cpp:210
+msgid "Prints out the current document"
+msgstr ""
+
+#: katalogview.cpp:214 portal.cpp:164
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "تاللانغان بۆلەكنى كېسىپ چاپلاش تاختىسىغا كۆچۈرىدۇ"
+
+#: katalogview.cpp:218 portal.cpp:165
+msgid "Copies the selected section to the clipboard"
+msgstr "تاللانغان بۆلەكنى چاپلاش تاختىسىغا كۆچۈرىدۇ"
+
+#: katalogview.cpp:222 portal.cpp:166
+msgid "Pastes the clipboard contents to current position"
+msgstr "چاپلاش تاختىسىنىڭ مەزمۇنىنى نۆۋەتتىكى ئورۇنغا چاپلايدۇ"
+
+#: katalogview.cpp:239 katalogview.cpp:271
+msgid "Opening file..."
+msgstr "ھۆججەتلەرنى ئېچىۋاتىدۇ…"
+
+#: katalogview.cpp:241 katalogview.cpp:265 katalogview.cpp:280
+#: katalogview.cpp:290 katalogview.cpp:300 katalogview.cpp:313
+#: katalogview.cpp:321 katalogview.cpp:328 katalogview.cpp:335
+#: katalogview.cpp:382 katalogview.cpp:391 katalogview.cpp:400
+#: katalogview.cpp:409 portal.cpp:205 portal.cpp:334 portal.cpp:395
+#: portal.cpp:479 portal.cpp:520 portal.cpp:547 portal.cpp:688 portal.cpp:872
+#: portal.cpp:879 portal.cpp:886 portal.cpp:903
+msgid "Ready."
+msgstr "تەييار."
+
+#: katalogview.cpp:260
+msgid "Opening a new katalog window..."
+msgstr ""
+
+#: katalogview.cpp:274
+msgid "*|All files"
+msgstr "*|بارلىق ھۆججەتلەر"
+
+#: katalogview.cpp:274
+msgid "Open File..."
+msgstr "ھۆججەت ئاچ…"
+
+#: katalogview.cpp:286
+msgid "Saving file..."
+msgstr "ھۆججەت ساقلاۋاتىدۇ…"
+
+#: katalogview.cpp:296
+msgid "Closing file..."
+msgstr "ھۆججەتنى يېپىۋاتىدۇ…"
+
+#: katalogview.cpp:305
+msgid "Printing..."
+msgstr "بېسىۋاتىدۇ…"
+
+#: katalogview.cpp:319 portal.cpp:870
+msgid "Cutting selection..."
+msgstr "تاللانغاننى كېسىۋاتىدۇ…"
+
+#: katalogview.cpp:326 portal.cpp:877
+msgid "Copying selection to clipboard..."
+msgstr "تاللانغاننى چاپلاش تاختىسىغا كۆچۈرۈۋاتىدۇ"
+
+#: katalogview.cpp:333 portal.cpp:884
+msgid "Inserting clipboard contents..."
+msgstr "چاپلاش تاختىسى مەزمۇنلىرىنى قىستۇرۇۋاتىدۇ…"
+
+#: katalogview.cpp:378
+msgid "Exporting file..."
+msgstr ""
+
+#: katalogview.cpp:387
+msgid "Creating a new sub chapter..."
+msgstr ""
+
+#: katalogview.cpp:396
+msgid "Editing a sub chapter..."
+msgstr ""
+
+#: katalogview.cpp:405
+msgid "Removing a sub chapter..."
+msgstr ""
+
+#: katalogview.cpp:437
+#, kde-format
+msgid "<tr><td>Created at:</td><td>%1</td></tr>"
+msgstr ""
+
+#: katalogview.cpp:440
+#, kde-format
+msgid "<tr><td>Modified at:</td><td>%1</td></tr>"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#: katalogview.rc:4
+msgid "&File"
+msgstr "ھۆججەت(&F)"
+
+#. i18n: ectx: Menu (templates)
+#: katalogview.rc:7
+msgid "&Catalog"
+msgstr ""
+
+#: kraftdb.cpp:264
+msgid "Wipe Database..."
+msgstr ""
+
+#: kraftdoc.cpp:363
+msgid "Items"
+msgstr "تۈرلەر"
+
+#: kraftdoc.cpp:365
+msgid "Unknown document part"
+msgstr ""
+
+#: kraftdocfooteredit.cpp:54
+msgid "Document Footer"
+msgstr ""
+
+#: kraftdocheaderedit.cpp:59
+msgid "Document Header"
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:92
+msgid "Add Item..."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:94
+msgid "Add a normal item to the document manually."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:98
+msgid "Add Discount Item"
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:101
+msgid ""
+"Adds an item to the document that allows discounts on other items in the "
+"document"
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:103
+msgid "Import Items..."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:106
+msgid "Opens a dialog where multiple items can be imported from a text file."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:115
+msgid "Document Items"
+msgstr ""
+
+#: kraftglobals.h:26
+msgid "all_calculation_parts"
+msgstr ""
+
+#: kraftglobals.h:27
+msgid "Time"
+msgstr "ۋاقىت"
+
+#: kraftglobals.h:28
+msgid "Fix"
+msgstr ""
+
+#. i18n: ectx: label, entry (DoInit), group (system)
+#: kraftsettings.kcfg:8
+msgid "Do Database Initialisation"
+msgstr ""
+
+#. i18n: ectx: label, entry (DoXmlArchive), group (system)
+#: kraftsettings.kcfg:12
+msgid "Do XML archiving of documents they're printed?"
+msgstr ""
+
+#. i18n: ectx: label, entry (XmlArchivePath), group (system)
+#: kraftsettings.kcfg:16
+msgid ""
+"Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps "
+"is used."
+msgstr ""
+
+#. i18n: ectx: label, entry (XmlDocPath), group (system)
+#: kraftsettings.kcfg:19
+msgid "The local xml document storage path"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:25
+msgid "The default size of the document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (RODocViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:28
+msgid "The default size of the read only document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewPosition), group (WindowSizes)
+#: kraftsettings.kcfg:31
+msgid "The default position of the document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewSplitter), group (WindowSizes)
+#: kraftsettings.kcfg:34
+msgid "The splitter position of the document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (materialCatalogSize), group (WindowSizes)
+#: kraftsettings.kcfg:37
+msgid "The default size of the material catalog view"
+msgstr ""
+
+#. i18n: ectx: label, entry (assistantSplitterSetting), group (WindowSizes)
+#: kraftsettings.kcfg:40
+msgid "The splitter setting for the doc assistant"
+msgstr ""
+
+#. i18n: ectx: label, entry (plantTemplateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:43
+msgid "The window size of the template to document dialog for plants"
+msgstr ""
+
+#. i18n: ectx: label, entry (templateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:46
+msgid "The window size of the template to document dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (digestListColumnsLatest), group (WindowSizes)
+#: kraftsettings.kcfg:49
+msgid "The digest list column arrangement for the Latest-list"
+msgstr ""
+
+#. i18n: ectx: label, entry (digestListColumnsAll), group (WindowSizes)
+#: kraftsettings.kcfg:52
+msgid "The digest list column arrangement for the all-list"
+msgstr ""
+
+#. i18n: ectx: label, entry (digestListColumnsTime), group (WindowSizes)
+#: kraftsettings.kcfg:55
+msgid "The digest list column arrangement for timeline"
+msgstr ""
+
+#. i18n: ectx: label, entry (addressPickerSplitterSize), group (WindowSizes)
+#: kraftsettings.kcfg:58
+msgid "The sizes of the slider in the address picker Widget"
+msgstr ""
+
+#. i18n: ectx: label, entry (materialAddOnPercent), group (material)
+#: kraftsettings.kcfg:64
+msgid ""
+"Default percentage the sale price for a material should be higher than its "
+"purchase price"
+msgstr ""
+
+#. i18n: ectx: label, entry (lastMaterialChapter), group (material)
+#: kraftsettings.kcfg:68
+msgid "The name of the last selected chapter in the catalog"
+msgstr ""
+
+#. i18n: ectx: label, entry (Trml2PdfBinary), group (reporting)
+#: kraftsettings.kcfg:74
+msgid "The complete filename of the trml2pdf binary"
+msgstr ""
+
+#. i18n: ectx: label, entry (PdfOutputDir), group (reporting)
+#: kraftsettings.kcfg:78
+msgid "The path to the output directory for document pdfs"
+msgstr ""
+
+#. i18n: ectx: label, entry (doctype), group (userdefaults)
+#: kraftsettings.kcfg:84
+msgid "The last created doc type."
+msgstr ""
+
+#. i18n: ectx: label, entry (greeting), group (userdefaults)
+#: kraftsettings.kcfg:87
+msgid "The greeting below on the document footer."
+msgstr ""
+
+#. i18n: ectx: label, entry (salut), group (userdefaults)
+#: kraftsettings.kcfg:90
+msgid "The salut message on the document header."
+msgstr ""
+
+#. i18n: ectx: label, entry (InsertTemplChapterName), group (userdefaults)
+#: kraftsettings.kcfg:93
+msgid ""
+"The name of the catalog chapter where to store new templates in by default"
+msgstr ""
+
+#. i18n: ectx: label, entry (ImportItemsSchemaName), group (userdefaults)
+#: kraftsettings.kcfg:96
+msgid "The name of the last used import schema for items."
+msgstr ""
+
+#. i18n: ectx: label, entry (ImportItemsFileName), group (userdefaults)
+#: kraftsettings.kcfg:99
+msgid "The name of the last used input file for items."
+msgstr ""
+
+#. i18n: ectx: label, entry (UserName), group (userdefaults)
+#: kraftsettings.kcfg:102
+msgid ""
+"User name as reference to the KAddressbook to identify 'my' address "
+"(DEPRECATED)."
+msgstr ""
+
+#. i18n: ectx: label, entry (UserUid), group (userdefaults)
+#: kraftsettings.kcfg:105
+msgid ""
+"UID of the user as reference to the KAddressbook to identify 'my' address."
+msgstr ""
+
+#. i18n: ectx: label, entry (DocIdent), group (document)
+#: kraftsettings.kcfg:111
+msgid "The doc id template"
+msgstr ""
+
+#. i18n: ectx: label, entry (ShowDocumentLocale), group (document)
+#: kraftsettings.kcfg:115
+msgid "Localization on document level"
+msgstr ""
+
+#. i18n: ectx: label, entry (DefaultTaxType), group (document)
+#: kraftsettings.kcfg:120
+msgid "The tax default for new documents."
+msgstr ""
+
+#. i18n: ectx: label, entry (AlternativeLabel), group (document)
+#: kraftsettings.kcfg:125
+msgid "The label for alternative positions"
+msgstr ""
+
+#. i18n: ectx: label, entry (DemandLabel), group (document)
+#. i18n: ectx: label, entry (NormalLabel), group (document)
+#: kraftsettings.kcfg:128 kraftsettings.kcfg:131
+msgid "The label for demand positions"
+msgstr ""
+
+#. i18n: ectx: Menu (document)
+#: kraftui.rc:4
+msgid "&Document"
+msgstr "پۈتۈك(&D)"
+
+#. i18n: ectx: Menu (settings)
+#: kraftui.rc:15
+msgid "Settings"
+msgstr "تەڭشەكلەر"
+
+#: kraftview.cpp:93 kraftview_ro.cpp:84
+msgid "Document"
+msgstr "پۈتۈك"
+
+#: kraftview.cpp:369
+#, kde-format
+msgid ""
+"<qt><h2>The Document Items List is still empty, but Items can be added now.</"
+"h2>To add items to the document either <ul><li>Press the 'Add item' button "
+"above.</li><li>Open the template catalog by clicking on the '%1' button on "
+"the right and pick one of the available templates.</li></ul></qt>"
+msgstr ""
+
+#: kraftview.cpp:376
+msgid "show Template"
+msgstr ""
+
+#: kraftview.cpp:553 prefsdialog.cpp:291
+msgid "Display no tax at all"
+msgstr ""
+
+#: kraftview.cpp:554 prefsdialog.cpp:292
+msgid "Calculate reduced tax for all items"
+msgstr ""
+
+#: kraftview.cpp:555 prefsdialog.cpp:293
+msgid "Calculate full tax for all items"
+msgstr ""
+
+#: kraftview.cpp:556
+msgid "Calculate individual tax for each item"
+msgstr ""
+
+#: kraftview.cpp:617
+msgid "Really overwrite all individual tax settings of the items?"
+msgstr ""
+
+#: kraftview.cpp:618
+msgid "Tax Settings Overwrite"
+msgstr ""
+
+#: kraftview.cpp:787
+#, kde-format
+msgid ""
+"The address label is not empty and different from the selected one.<br/>Do "
+"you really want to replace it with the text shown below?<pre>%1</pre>"
+msgstr ""
+
+#: kraftview.cpp:789
+msgid "Address Overwrite"
+msgstr ""
+
+#: kraftview.cpp:1080
+msgid "Discount"
+msgstr "باھانى چۈشۈرۈش"
+
+#: kraftview.cpp:1385
+msgid "The document was modified. Do you really want to discard all changes?"
+msgstr ""
+
+#: kraftview.cpp:1387
+msgid "Document Modified"
+msgstr "پۈتۈك ئۆزگەرتىلدى"
+
+#: kraftview_ro.cpp:221
+msgid "Reduced TAX"
+msgstr ""
+
+#: kraftview_ro.cpp:248 reportgenerator.cpp:325
+msgid "reduced VAT"
+msgstr ""
+
+#: main.cpp:34
+msgid "Kraft"
+msgstr "Kraft"
+
+#: main.cpp:36
+msgid "Business documents for the small enterprise"
+msgstr ""
+
+#: main.cpp:38
+msgid "Copyright © 2004–2014 Klaas Freitag"
+msgstr ""
+
+#: main.cpp:40
+msgid "Klaas Freitag"
+msgstr ""
+
+#: main.cpp:40 main.cpp:43
+msgid "Developer"
+msgstr "ئىجادىيەتچى"
+
+#: main.cpp:41
+msgid "Johannes Spielhagen"
+msgstr ""
+
+#: main.cpp:41
+msgid "Graphics and Artwork"
+msgstr ""
+
+#: main.cpp:43
+msgid "Thomas Richard"
+msgstr ""
+
+#: main.cpp:52
+msgid ""
+"Kraft is free software for persons in small businesses\n"
+"writing correspondence like offers and invoices to their customers"
+msgstr ""
+
+#: main.cpp:62
+msgid "Open document with doc number <number>"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, MaterialDialogBase)
+#: materialdialog.ui:14
+msgid "Edit Material"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: materialdialog.ui:47
+msgid "Store in C&hapter"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: materialdialog.ui:95
+msgid "Pac&kaged:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: materialdialog.ui:124
+msgid "per P&ackage"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: materialdialog.ui:142
+msgid "Prices"
+msgstr "باھالار"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: materialdialog.ui:166
+msgid "= Price of &Sale:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: materialdialog.ui:207
+msgid "pl&us"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mInSaleAdd)
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mDiscountPercent)
+#: materialdialog.ui:223 positionwidget.ui:226
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: materialdialog.ui:235
+msgid "&Purchase Price:"
+msgstr ""
+
+#: materialkataloglistview.cpp:38
+msgid "Pack"
+msgstr "بوغچا"
+
+#: materialkataloglistview.cpp:40
+msgid "Purchase"
+msgstr ""
+
+#: materialkataloglistview.cpp:41
+msgid "Sale"
+msgstr ""
+
+#: materialkataloglistview.cpp:42
+msgid "Last Modified"
+msgstr "ئاخىرقى ئۆزگەرتىش"
+
+#: materialkataloglistview.cpp:46
+msgid "Material Catalog"
+msgstr ""
+
+#: materialkatalogview.cpp:103
+msgid "<new material>"
+msgstr ""
+
+#: materialkatalogview.cpp:132 templkatalogview.cpp:148
+msgid "Do you really want to delete the template from the catalog?"
+msgstr ""
+
+#: materialkatalogview.cpp:133 templkatalogview.cpp:149
+msgid "Delete Template"
+msgstr "قېلىپنى ئۆچۈرۈش"
+
+#: materialselectdialog.cpp:38 materialselectdialog.cpp:43
+msgid "Select Material for Calculation"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailMat)
+#: matpartui.ui:14
+msgid "Calculation Item Material"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: matpartui.ui:20
+msgid "<h1>Calculation Part  'Material'</h1>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: matpartui.ui:30
+msgid "Add Material to the template calculation."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, matLabel)
+#: matpartui.ui:60
+msgid "material"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, einheitLabel)
+#: matpartui.ui:106
+msgid "unit"
+msgstr ""
+
+#: models/documentmodel.cpp:62
+msgid "Id"
+msgstr "Id"
+
+#: models/documentmodel.cpp:63
+msgid "Doc. Number"
+msgstr ""
+
+#: models/documentmodel.cpp:64
+msgid "Doc. Type"
+msgstr ""
+
+#: models/documentmodel.cpp:66
+msgid "Client Id"
+msgstr ""
+
+#: models/documentmodel.cpp:67
+msgid "Last modified"
+msgstr "ئاخىرقى ئۆزگەرتىلگىنى"
+
+#: models/documentmodel.cpp:68
+msgid "Creation date"
+msgstr "قۇرغان ۋاقىت :"
+
+#: models/documentmodel.cpp:70
+msgid "Client Address"
+msgstr ""
+
+#: models/documentmodel.cpp:71
+msgid "Client"
+msgstr "خېرىدار"
+
+#: models/documentmodel.cpp:142
+msgid "retrieving..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mysqldetails.ui:19
+msgid ""
+"Please enter the MySQL Database server settings. \n"
+"\n"
+"For detailed setup instructions for the MySQL to use with Kraft please check "
+"the Kraft website."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: mysqldetails.ui:31
+msgid "Database Host:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: mysqldetails.ui:41
+msgid "Database Name:"
+msgstr "ساندان ئاتى"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: mysqldetails.ui:65
+msgid "Password:"
+msgstr "ئىم:"
+
+#: newdocassistant.cpp:53
+msgid ""
+"Please select a customer as addressee for the document. If there is no entry "
+"for the customer in the addressbook yet, it can be opened by clicking on the "
+"button below."
+msgstr ""
+
+#: newdocassistant.cpp:97
+msgid ""
+"Select a document type and a date. A comment on the whiteboard helps to "
+"classify the document."
+msgstr ""
+
+#: newdocassistant.cpp:105
+msgid "Customer: Not yet selected!"
+msgstr ""
+
+#: newdocassistant.cpp:118
+msgid "Document &Type:"
+msgstr ""
+
+#: newdocassistant.cpp:122
+msgid "Document Date: "
+msgstr ""
+
+#: newdocassistant.cpp:125
+msgid "Whiteboard Content:"
+msgstr ""
+
+#: newdocassistant.cpp:159
+msgid "<h2>Document Details</h2>"
+msgstr ""
+
+#: newdocassistant.cpp:163
+msgid "<h2>Select an Addressee</h2>"
+msgstr ""
+
+#: newdocassistant.cpp:165
+msgid "Document Creation Wizard"
+msgstr ""
+
+#: numbercycledialog.cpp:52
+msgid "Edit Number Cycles"
+msgstr ""
+
+#: numbercycledialog.cpp:68
+msgid ""
+"The template may contain the following tags:<ul><li>%y or %yyyy - the year "
+"of the documents date.</li><li>%yy - the year of the document (two digits).</"
+"li><li>%w - the week number of the documents date.</li><li>%ww - the week "
+"number of the documents date with leading zero.</li><li>%d - the day number "
+"of the documents date.</li><li>%dd - the day number of the documents date "
+"with leading zero.</li><li>%m or %M - the month number of the documents date."
+"</li><li>%MM - the month number with leading zero.</li><li>%c - the customer "
+"id from kaddressbook</li><li>%i - the unique counter</li><li>%type - the "
+"localised doc type (offer, invoice etc.)</li><li>%uid - the contact id of "
+"the client.</li></ul>%i needs to be part of the template."
+msgstr ""
+
+#: numbercycledialog.cpp:131
+msgid "Doc-Type"
+msgstr ""
+
+#: numbercycledialog.cpp:203
+msgid "Add Number Cycle"
+msgstr ""
+
+#: numbercycledialog.cpp:204
+msgid "Enter the name of a new number cycle."
+msgstr ""
+
+#: numbercycledialog.cpp:261
+#, kde-format
+msgid ""
+"The numbercycle %1 is still assigned to a document type.The number cycle can "
+"not be deleted as long as it is assigned to a document type."
+msgstr ""
+
+#: numbercycledialog.cpp:264
+msgid "Numbercycle Deletion"
+msgstr ""
+
+#: numbercycledialog.cpp:321
+msgid ""
+"The new counter is lower than the old one. That has potential to create "
+"duplicate document numbers. Do you really want to decrease it?"
+msgstr ""
+
+#: numbercycledialog.cpp:323
+msgid "Dangerous Counter Change"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mHeader)
+#: numbercycleseditbase.ui:17
+msgid "<h3>Edit Number Cycles</h3>"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: numbercycleseditbase.ui:27
+msgid "Number Cycle Details"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: numbercycleseditbase.ui:39
+msgid "&Number Cycle:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: numbercycleseditbase.ui:52
+msgid "&Counter:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: numbercycleseditbase.ui:85
+msgid "ident &Template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: numbercycleseditbase.ui:123
+msgid "&Select a number cycle and edit the details on the right:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QListWidget, mCycleListBox)
+#: numbercycleseditbase.ui:142
+msgid "New Item"
+msgstr "يېڭى تۈر"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: numbercycleseditbase.ui:171
+msgid "add"
+msgstr "قوش"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: numbercycleseditbase.ui:181
+msgid "remove"
+msgstr "چىقىرىۋېتىش"
+
+#: portal.cpp:117
+msgid "Create Document"
+msgstr "پۈتۈك قۇر"
+
+#: portal.cpp:122
+msgid "Copy Document"
+msgstr ""
+
+#: portal.cpp:127
+msgid "Follow Document"
+msgstr ""
+
+#: portal.cpp:132
+msgid "Print Document"
+msgstr "پۈتۈك باس"
+
+#: portal.cpp:137
+msgid "Open Archived Document"
+msgstr ""
+
+#: portal.cpp:141
+msgid "Show Document"
+msgstr ""
+
+#: portal.cpp:146
+msgid "Edit Document"
+msgstr "پۈتۈك تەھرىر"
+
+#: portal.cpp:151
+msgid "&Mail Document"
+msgstr ""
+
+#: portal.cpp:163
+msgid "Quits the application"
+msgstr "پروگراممىنى ئاخىرلاشتۇرىدۇ"
+
+#: portal.cpp:167
+msgid "Enables/disables the statusbar"
+msgstr "ھالەت بالداقنى ئىناۋەتلىك/ئىناۋەتسىز قىل"
+
+#: portal.cpp:169
+msgid "Creates a new Document"
+msgstr ""
+
+#: portal.cpp:170
+msgid "Print and archive this Document"
+msgstr ""
+
+#: portal.cpp:171
+msgid "Creates a new document which is a copy of the selected document"
+msgstr ""
+
+#: portal.cpp:172
+msgid "Create a followup document for the current document"
+msgstr ""
+
+#: portal.cpp:173
+msgid "Opens the document for editing"
+msgstr ""
+
+#: portal.cpp:174
+msgid "Opens a read only view on the document."
+msgstr ""
+
+#: portal.cpp:175
+msgid "Send document per mail"
+msgstr ""
+
+#: portal.cpp:176
+msgid ""
+"Edit the available tag templates which can be assigned to document items."
+msgstr ""
+
+#: portal.cpp:177
+msgid "Configure the Database Kraft is working on."
+msgstr ""
+
+#: portal.cpp:179
+msgid "Open a viewer on an archived document"
+msgstr ""
+
+#: portal.cpp:279
+#, kde-format
+msgid ""
+"Kraft can not connect to the specified MySQL server. Please check the Kraft "
+"database settings, check if the server is running and verify if a database "
+"with the name %1 exits!"
+msgstr ""
+
+#: portal.cpp:283
+#, kde-format
+msgid ""
+"The database with the name %1 does not exist on the database server. Please "
+"make sure the database exists and is accessible by the user running Kraft."
+msgstr ""
+
+#: portal.cpp:287
+msgid ""
+"The Qt database driver could not be loaded. That probably means, that they "
+"are not installed. Please make sure the Qt database packages are installed "
+"and try again."
+msgstr ""
+
+#: portal.cpp:291
+#, kde-format
+msgid "There is a database problem: %1"
+msgstr ""
+
+#: portal.cpp:308
+msgid "Database Problem."
+msgstr ""
+
+#: portal.cpp:315
+msgid "Check commandline actions"
+msgstr ""
+
+#: portal.cpp:381
+msgid "Creating new document..."
+msgstr "يېڭى پۈتۈك قۇرۇۋاتىدۇ…"
+
+#: portal.cpp:471
+msgid "Opening document to view..."
+msgstr ""
+
+#: portal.cpp:506 portal.cpp:529
+msgid "Generating PDF..."
+msgstr ""
+
+#: portal.cpp:632
+msgid "Printing archived document..."
+msgstr ""
+
+#: portal.cpp:680
+#, kde-format
+msgid "Opening document %1"
+msgstr ""
+
+#: portal.cpp:843
+msgid "Exiting..."
+msgstr "چېكىنىۋاتىدۇ…"
+
+#: portal.cpp:891
+msgid "Toggle the statusbar..."
+msgstr "ھالەت بالداقنى ئالماشتۇرۇش…"
+
+#: portalview.cpp:63
+msgid "Catalogs"
+msgstr ""
+
+#: portalview.cpp:69
+msgid "Kraft Document Overview"
+msgstr ""
+
+#: portalview.cpp:78 portalview.cpp:95
+msgid "Available Catalogs"
+msgstr ""
+
+#: portalview.cpp:80
+msgid "No catalogs available."
+msgstr ""
+
+#: portalview.cpp:128
+msgid "Open"
+msgstr "ئاچ"
+
+#: portalview.cpp:149
+msgid "XML Export"
+msgstr ""
+
+#: portalview.cpp:177
+msgid "System Details"
+msgstr ""
+
+#: portalview.cpp:196
+msgid "<h2>Welcome to Kraft</h2>"
+msgstr ""
+
+#: portalview.cpp:198
+#, kde-format
+msgid "Kraft Version: %1</td>"
+msgstr ""
+
+#: portalview.cpp:208
+msgid "Country Setting: "
+msgstr ""
+
+#: portalview.cpp:212
+msgid "Language Setting: "
+msgstr ""
+
+#: portalview.cpp:226
+msgid "Database Information"
+msgstr ""
+
+#: portalview.cpp:228
+msgid "Kraft database name:"
+msgstr ""
+
+#: portalview.cpp:231
+msgid "Database schema version:"
+msgstr ""
+
+#: portalview.cpp:239
+msgid "Qt database driver:"
+msgstr ""
+
+#: portalview.cpp:242
+msgid "Database connection:"
+msgstr ""
+
+#: portalview.cpp:248
+msgid "established"
+msgstr ""
+
+#: portalview.cpp:250
+msgid "<font color=\"red\">NOT AVAILABLE!</font>"
+msgstr ""
+
+#: portalview.cpp:259
+msgid "Database Version:"
+msgstr ""
+
+#: portalview.cpp:265
+msgid "External Tools"
+msgstr "سىرتقى قوراللار"
+
+#: portalview.cpp:267
+msgid "RML to PDF conversion tool:"
+msgstr ""
+
+#: portalview.cpp:272
+msgid "not found!"
+msgstr ""
+
+#: portalview.cpp:274
+msgid "iconv tool for text import:"
+msgstr ""
+
+#: portalview.cpp:288
+msgid ""
+"There is a initialisation error on your system. Kraft will not work that way."
+msgstr ""
+
+#: portalview.cpp:304
+msgid "Documents"
+msgstr "پۈتۈكلەر"
+
+#: positiontagdialog.cpp:82
+msgid "Edit Item Tags"
+msgstr ""
+
+#: positiontagdialog.cpp:91
+msgid "<h2>Item Tags</h2>"
+msgstr ""
+
+#: positiontagdialog.cpp:92
+msgid "Select all tags for the item should be tagged with."
+msgstr ""
+
+#: positiontagdialog.cpp:107 tagtemplatesdialog.cpp:124
+msgid "Tag"
+msgstr "خەتكۈش"
+
+#: positiontagdialog.cpp:108 tagtemplatesdialog.cpp:125
+msgid "Color"
+msgstr "رەڭ"
+
+#: positiontagdialog.cpp:109 tagtemplatesdialog.cpp:126
+msgid "Description"
+msgstr "چۈشەندۈرۈش"
+
+#: positionviewwidget.cpp:91
+msgid "Item Actions"
+msgstr ""
+
+#: positionviewwidget.cpp:94
+msgid "Item Kind"
+msgstr ""
+
+#: positionviewwidget.cpp:95 positionviewwidget.cpp:671
+msgid "Normal"
+msgstr "نورمال"
+
+#: positionviewwidget.cpp:97 positionviewwidget.cpp:679
+msgid "Alternative"
+msgstr "زاپاس تۈر"
+
+#: positionviewwidget.cpp:99
+msgid "On Demand"
+msgstr ""
+
+#: positionviewwidget.cpp:107
+msgid "Taxfree Item"
+msgstr ""
+
+#: positionviewwidget.cpp:113
+msgid "Reduced Tax"
+msgstr ""
+
+#: positionviewwidget.cpp:119
+msgid "Full Tax"
+msgstr ""
+
+#: positionviewwidget.cpp:128
+msgid "Move Up"
+msgstr "ئۈستىگە"
+
+#: positionviewwidget.cpp:130
+msgid "Move Down"
+msgstr "پەسكە"
+
+#: positionviewwidget.cpp:132
+#, fuzzy
+#| msgid "No Items"
+msgid "Lock Item"
+msgstr "تۈرلەر يوق"
+
+#: positionviewwidget.cpp:134
+#, fuzzy
+#| msgid "No Items"
+msgid "Unlock Item"
+msgstr "تۈرلەر يوق"
+
+#: positionviewwidget.cpp:136
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Item"
+msgstr "قېلىپ ئۆچۈر"
+
+#: positionviewwidget.cpp:220
+msgid "All items"
+msgstr "بارلىق تۈرلەر"
+
+#: positionviewwidget.cpp:230
+#, kde-format
+msgid "%1-tagged items"
+msgstr ""
+
+#: positionviewwidget.cpp:262
+#, kde-format
+msgid "Tag: %1"
+msgstr ""
+
+#: positionviewwidget.cpp:264
+msgid "Tags:<ul>"
+msgstr ""
+
+#: positionviewwidget.cpp:275
+msgid "No tags assigned yet."
+msgstr ""
+
+#: positionviewwidget.cpp:412
+msgid "Active"
+msgstr "ئاكتىپ"
+
+#: positionviewwidget.cpp:414
+msgid "New"
+msgstr "يېڭى"
+
+#: positionviewwidget.cpp:416
+msgid "Deleted"
+msgstr "ئۆچۈرۈلدى"
+
+#: positionviewwidget.cpp:418
+msgid "Locked"
+msgstr "قۇلۇپلانغان"
+
+#: positionviewwidget.cpp:618
+msgid ""
+"This is an alternative item.<br/><br/> Use the position toolbox to change "
+"the item type."
+msgstr ""
+
+#: positionviewwidget.cpp:634
+msgid ""
+"This item is either completely optional or its amount varies depending on "
+"the needs.<br/><br/>Use the item toolbox to change the item type."
+msgstr ""
+
+#: positionviewwidget.cpp:675
+msgid "Demand"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPosition)
+#: positionwidget.ui:46
+msgid "1."
+msgstr "1."
+
+#. i18n: ectx: property (text), widget (QLabel, lStatus)
+#. i18n: ectx: property (text), widget (QLabel, lKind)
+#: positionwidget.ui:103 positionwidget.ui:132
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (QLabel, mDiscountLabel)
+#: positionwidget.ui:233
+msgid "of the sum of"
+msgstr ""
+
+#: prefsdialog.cpp:72
+msgid "Configure Kraft"
+msgstr ""
+
+#: prefsdialog.cpp:91
+msgid "Taxes"
+msgstr ""
+
+#: prefsdialog.cpp:99
+msgid "Tax rates beginning at date:"
+msgstr ""
+
+#: prefsdialog.cpp:146
+msgid "Wages"
+msgstr ""
+
+#: prefsdialog.cpp:155
+msgid "Units"
+msgstr "بىرلىكى"
+
+#: prefsdialog.cpp:164
+msgid "Own Identity"
+msgstr ""
+
+#: prefsdialog.cpp:172
+msgid ""
+"Select the identity of the sending entity of documents. That's <b>your "
+"companies</b> address."
+msgstr ""
+
+#: prefsdialog.cpp:192
+msgid "Select Identity..."
+msgstr ""
+
+#: prefsdialog.cpp:246
+msgid "Document Defaults"
+msgstr ""
+
+#: prefsdialog.cpp:257
+msgid "&Default document type on creation:"
+msgstr ""
+
+#: prefsdialog.cpp:262
+msgid "New documents default to the selected type."
+msgstr ""
+
+#: prefsdialog.cpp:271
+msgid "Enable &Localization on Document Level"
+msgstr ""
+
+#: prefsdialog.cpp:272
+msgid ""
+"Checking this enables language settings for each document.<br>Leave it "
+"unchecked to use the KDE Workspace default settings for the document "
+"localisation."
+msgstr ""
+
+#: prefsdialog.cpp:284
+msgid "Default &Tax for Documents:"
+msgstr ""
+
+#: prefsdialog.cpp:290
+msgid "The default tax setting for all documents."
+msgstr ""
+
+#: prefsdialog.cpp:306
+msgid "Document Types"
+msgstr ""
+
+#: prefsdialog.cpp:327
+msgid ""
+"The old default doc type for new documents was just deleted.Please check the "
+"setting in the Document Defaults in the Kraft preferences Dialog."
+msgstr ""
+
+#: prefsdialog.cpp:330
+msgid "Document Default Change"
+msgstr ""
+
+#: prefsdialog.cpp:402
+msgid "The identity is not listed in an address book."
+msgstr ""
+
+#: prefsdialog.cpp:404
+msgid ""
+"<p><b>Kraft does not know your identity.</b></p><p>Please pick one from the "
+"address books by clicking on the Button below.</p><p>Not having an identity "
+"selected can make your documents look incomplete.</p>"
+msgstr ""
+
+#: prefsdialog.cpp:408
+msgid "Your identity can be found in the address books."
+msgstr ""
+
+#: prefsdialog.cpp:419
+msgid "Work Phone"
+msgstr "خىزمەت تېلېفون"
+
+#: prefsdialog.cpp:420
+msgid "Fax"
+msgstr "فاكىس"
+
+#: prefsdialog.cpp:421
+msgid "Cell Phone"
+msgstr "يانفون"
+
+#: prefsunits.cpp:150
+msgid "Edit a unit"
+msgstr ""
+
+#: prefsunits.cpp:184
+msgid "<h1>Edit unit</h1>"
+msgstr ""
+
+#: prefswages.cpp:78
+msgid "Up"
+msgstr "ئۈستى"
+
+#: prefswages.cpp:83
+msgid "Down"
+msgstr "ئاستى"
+
+#: prefswages.cpp:199
+msgid "Edit a wage group"
+msgstr ""
+
+#: prefswages.cpp:233
+msgid "<h1>Edit wage group</h1>"
+msgstr ""
+
+#: quicksearchwidget.cpp:38
+msgctxt "Search contacts in list"
+msgid "Search"
+msgstr "ئىزدە"
+
+#: reportgenerator.cpp:137
+#, kde-format
+msgid ""
+"A document template named %1 could not be loaded. Please check the "
+"installation."
+msgstr ""
+
+#: reportgenerator.cpp:139
+msgid "Template not found"
+msgstr ""
+
+#: reportgenerator.cpp:191
+#, kde-format
+msgid ""
+"The template file could not be opened: %1\n"
+"Please check the setup and the doc type configuration."
+msgstr ""
+
+#: reportgenerator.cpp:193
+#, fuzzy
+#| msgid "Template"
+msgid "Template Error"
+msgstr "قېلىپ"
+
+#: reportgenerator.cpp:503
+msgid ""
+"The utility to create PDF from the rml file could not be found, but is "
+"required to create documents.Please make sure the package is installed "
+"accordingly."
+msgstr ""
+
+#: reportgenerator.cpp:506
+msgid "Document Generation Error"
+msgstr ""
+
+#: reportgenerator.cpp:514
+msgid ""
+"The Watermark file to merge with the document could not be found. Merge is "
+"going to be disabled."
+msgstr ""
+
+#: reportgenerator.cpp:516
+msgid "Watermark Error"
+msgstr ""
+
+#: reportgenerator.cpp:581
+#, kde-format
+msgid "Program ended with status %1"
+msgstr ""
+
+#: reportgenerator.cpp:595
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>ReportLab</b> "
+"which can not be found.<br/>Please make sure the package is installed on "
+"your computer."
+msgstr ""
+
+#: reportgenerator.cpp:599
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>pyPdf</b> which "
+"can not be found.<br/>Please make sure the package is installed on your "
+"computer."
+msgstr ""
+
+#: reportgenerator.cpp:603
+msgid "Unknown problem."
+msgstr ""
+
+#: reportgenerator.cpp:606
+msgid "Could not generate the pdf file. The pdf creation script failed."
+msgstr ""
+
+#: reportgenerator.cpp:608
+msgid "PDF Generation Error"
+msgstr ""
+
+#: setupassistant.cpp:184 setupassistant.cpp:197
+#, kde-format
+msgid "0/%1"
+msgstr ""
+
+#: setupassistant.cpp:216 setupassistant.cpp:225 setupassistant.cpp:260
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: setupassistant.cpp:284
+msgid ""
+"Select your own address from the address book. It is set as a consigner on "
+"the documents."
+msgstr ""
+
+#: setupassistant.cpp:347
+msgid "Welcome to the Kraft Setup Assistant"
+msgstr ""
+
+#: setupassistant.cpp:351
+msgid "Select the Database Backend"
+msgstr ""
+
+#: setupassistant.cpp:355
+msgid "Enter MySQL Database Setup Details"
+msgstr ""
+
+#: setupassistant.cpp:359
+msgid "Enter SQLite Filename"
+msgstr ""
+
+#: setupassistant.cpp:363
+msgid "Creating the Database..."
+msgstr ""
+
+#: setupassistant.cpp:367
+msgid "Upgrade the Database Schema"
+msgstr ""
+
+#: setupassistant.cpp:371
+msgid "My Own Address Data"
+msgstr ""
+
+#: setupassistant.cpp:375
+msgid "Setup Finished."
+msgstr ""
+
+#: setupassistant.cpp:420
+msgid ""
+"<p>Can't connect to your database. Are you sure your credentials are correct "
+"and the database exists?</p>"
+msgstr ""
+
+#: setupassistant.cpp:425
+msgid "<p>Can't open your database file, check the permissions and such."
+msgstr ""
+
+#: setupassistant.cpp:434
+msgid ""
+"<p>The database is already existing, no action needs to be taken here.</"
+"p><p>Please hit <b>next</b> to proceed.</p>"
+msgstr ""
+
+#: setupassistant.cpp:477
+msgid "<p>The database setup was successfully completed.</p>"
+msgstr ""
+
+#: setupassistant.cpp:478
+msgid "<p>You can start to work with Kraft now. Please do not forget to</p>"
+msgstr ""
+
+#: setupassistant.cpp:480
+msgid "<li>adjust various settings in the Kraft Preferences dialog.</li>"
+msgstr ""
+
+#: setupassistant.cpp:481
+msgid "<li>Check the Catalog chapter list.</li>"
+msgstr ""
+
+#: setupassistant.cpp:482
+msgid "<li>Make your business and have fun.</li>"
+msgstr ""
+
+#: setupassistant.cpp:484
+msgid ""
+"<p>If you press <i>Finish</i> now, the new database configuration is stored "
+"in Krafts configuration.</p>"
+msgstr ""
+
+#: setupassistant.cpp:497
+msgid ""
+"The Database can not be connected. Please check the database credentials."
+msgstr ""
+
+#: setupassistant.cpp:503
+msgid "The database core tables do not exist. Please check initial setup."
+msgstr ""
+
+#: setupassistant.cpp:510
+msgid "Database is up to date. No upgrade is required."
+msgstr ""
+
+#: setupassistant.cpp:515
+msgid "Parse Update Commands..."
+msgstr ""
+
+#: setupassistant.cpp:526
+#, kde-format
+msgid "Reading upgrade command file %1"
+msgstr ""
+
+#: setupassistant.cpp:559
+msgid "The Upgrade failed!"
+msgstr ""
+
+#: setupassistant.cpp:561
+#, kde-format
+msgid "The Upgrade succeeded, the current schema version is %1!"
+msgstr ""
+
+#: setupassistant.cpp:572
+msgid ""
+"The Database can not be connected. Please check the database credentials!"
+msgstr ""
+
+#: setupassistant.cpp:578
+msgid "Parse Create Commands..."
+msgstr ""
+
+#: setupassistant.cpp:586
+msgid "Parse database fillup commands..."
+msgstr ""
+
+#: setupassistant.cpp:599
+msgid "Processing database creation commands..."
+msgstr ""
+
+#: setupassistant.cpp:616
+msgid "Process database fillup commands..."
+msgstr ""
+
+#: setupassistant.cpp:621
+msgid "Successfully finished commands."
+msgstr ""
+
+#: setupassistant.cpp:623
+msgid "Failed to perform all commands."
+msgstr ""
+
+#: setupassistant.cpp:696
+msgid ""
+"This assistant guides you through the basic settings of your Kraft "
+"installation."
+msgstr ""
+
+#: setupassistant.cpp:709
+msgid ""
+"The database configuration was converted from a former configuration file."
+msgstr ""
+
+#: setupassistant.cpp:712
+msgid "There was no database configuration found."
+msgstr ""
+
+#: setupassistant.cpp:715
+msgid "A valid current database configuration file was found."
+msgstr ""
+
+#: setupassistant.cpp:734
+msgid ""
+"<p>The database can be opened, but does not contain valid content.</p><p>A "
+"new database can be created automatically from scratch.</p>"
+msgstr ""
+
+#: setupassistant.cpp:741
+msgid "<p>Kraft could not connect to the configured database.<p>"
+msgstr ""
+
+#: setupassistant.cpp:743
+msgid "<p>Please check the database server setup and restart Kraft to connect."
+msgstr ""
+
+#: setupassistant.cpp:745
+msgid "<p>Please check the database file."
+msgstr ""
+
+#: setupassistant.cpp:747
+msgid "or create a new database by hitting <b>next</b>.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sqlitedetails.ui:21
+msgid ""
+"Please enter the SQLite Database Settings.\n"
+"\n"
+"Pick a filename to name the SQLite database file or leave the default "
+"setting."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbDefault)
+#: sqlitedetails.ui:31
+msgid "store the database file at default place."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbCustom)
+#: sqlitedetails.ui:43
+msgid "select a file name:"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:46
+msgid "Edit Tag Template"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:54
+msgid "<h2>Edit a Tag Template</h2>"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:55
+msgid "Adjust settings for name, color and description."
+msgstr ""
+
+#: tagtemplatesdialog.cpp:59
+msgid "Name:"
+msgstr "ئاتى:"
+
+#: tagtemplatesdialog.cpp:63
+msgid "Description:"
+msgstr "چۈشەندۈرۈش:"
+
+#: tagtemplatesdialog.cpp:70
+msgid "Associated Color:"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:106 tagtemplatesdialog.cpp:114
+msgid "Edit Tag Templates"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:115
+msgid "Add, edit and remove tag templates for use in the documents."
+msgstr ""
+
+#: tagtemplatesdialog.cpp:139
+msgid "Add..."
+msgstr "قوش…"
+
+#: tagtemplatesdialog.cpp:140
+#, fuzzy
+#| msgid "Edit"
+msgid "Edit..."
+msgstr "تەھرىرلەش"
+
+#: tagtemplatesdialog.cpp:142
+msgid "Delete..."
+msgstr "ئۆچۈر…"
+
+#: tagtemplatesdialog.cpp:184
+msgid "Do you really want to delete the template?"
+msgstr ""
+
+#: tagtemplatesdialog.cpp:185
+msgid "Delete Tag Template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: taxeditbase.ui:20
+msgid "<h2>Add a Tax Rate</h2>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: taxeditbase.ui:32
+msgid "Start-Date:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: taxeditbase.ui:68
+msgid "&Reduced Tax Rate:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2a)
+#: taxeditbase.ui:84
+msgid "&Full Tax Rate:"
+msgstr ""
+
+#: taxeditdialog.cpp:35
+msgid "Edit Tax Rates"
+msgstr ""
+
+#: templkatalog.cpp:344
+msgid "Export XML Katalog"
+msgstr ""
+
+#: templkataloglistview.cpp:46
+msgid "Calc. Type"
+msgstr ""
+
+#: templkataloglistview.cpp:50
+msgid "Template Catalog"
+msgstr ""
+
+#: templkatalogview.cpp:110
+msgid "<new template>"
+msgstr ""
+
+#: templtopositiondialogbase.cpp:32
+msgid "Create Position from Template"
+msgstr ""
+
+#: templtopositiondialogbase.cpp:50
+msgid "the Header of the Document as first position"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: texteditbase.ui:32
+msgid "Edit Document Text Template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditbase.ui:57
+msgid "&Name:"
+msgstr "ئاتى(&N):"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: texteditbase.ui:91
+msgid "displayed as"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_44)
+#: texteditbase.ui:129
+msgid "in doc type"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: texteditbase.ui:179
+msgid "&Text:"
+msgstr "تېكىست(&T):"
+
+#: texteditdialog.cpp:41
+msgid "Edit Text Templates"
+msgstr ""
+
+#: texteditdialog.cpp:52
+#, kde-format
+msgid "Edit %1 Template"
+msgstr ""
+
+#: textselection.cpp:105
+msgid "Template Actions"
+msgstr ""
+
+#: textselection.cpp:134
+msgid "This is the standard text used in new documents."
+msgstr ""
+
+#: textselection.cpp:143
+#, kde-format
+msgid "%1 Templates for %2"
+msgstr ""
+
+#: textselection.cpp:151
+#, kde-format
+msgid ""
+"There is no %1 template text available for document type %2.<br/>Click the "
+"add-button below to create one."
+msgstr ""
+
+#: textselection.cpp:209
+msgid "&Use in Document"
+msgstr ""
+
+#: texttemplate.cpp:130
+msgid "No file name given for template"
+msgstr ""
+
+#: texttemplate.cpp:138
+#, kde-format
+msgid "Could not find template file %1"
+msgstr ""
+
+#: texttemplate.cpp:147
+msgid "Failed to open template source"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailTime)
+#: timepart.ui:14
+msgid "Calculation Item Time"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: timepart.ui:20
+msgid "<h1>Calculation Part 'Time'</h1>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: timepart.ui:30
+msgid ""
+"Calculate time efforts here for one unit of the template. <br/>Note that the "
+"costs may depend on a global hourly rate."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: timepart.ui:61
+msgid "Work"
+msgstr "ئىش"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: timepart.ui:68
+msgid "&Time Effort:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: timepart.ui:96
+msgid "Minutes"
+msgstr "مىنۇت"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: timepart.ui:108
+msgid "&Hourly Rate:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_stdGlobal)
+#: timepart.ui:130
+msgid "Apply the &global hourly rate."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: unitseditbase.ui:20
+msgid "<h1>Add a unit</h1>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: unitseditbase.ui:32
+msgid "Unit short"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: unitseditbase.ui:42
+msgid "Unit long"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: unitseditbase.ui:58
+msgid "Unit plural short"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: unitseditbase.ui:68
+msgid "Unit plural long"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeInfo)
+#: upgradedb.ui:20
+msgid ""
+"This step checks if the database schema version is sufficient for this "
+"version of Kraft. \n"
+"\n"
+"In case it is not, the schema is updated automatically.\n"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeStatus)
+#: upgradedb.ui:79
+msgid "Upgrade not yet started"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: wageseditbase.ui:20
+msgid "<h1>Add a Wage group</h1>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wageseditbase.ui:32
+msgid "Group name"
+msgstr "گۇرۇپپا ئاتى"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: wageseditbase.ui:39
+msgid "Wage"
+msgstr ""
+
+#~ msgid "Lock Position"
+#~ msgstr "ئورنىنى مۇقىملاش"
+
+#~| msgid "Template"
+#~ msgid "%1 Templates"
+#~ msgstr "قېلىپ"
+
+#~ msgid "Text"
+#~ msgstr "تېكىست"
+
+#~ msgid "Locality"
+#~ msgstr "ئورۇن"

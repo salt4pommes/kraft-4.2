@@ -1,0 +1,3501 @@
+# translation of kraft.po to Slovak
+# Roman Paholik <wizzardsk@gmail.com>, 2008, 2012, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kraft\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-16 02:15+0000\n"
+"PO-Revision-Date: 2014-06-19 09:38+0200\n"
+"Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Roman Paholík"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "wizzardsk@gmail.com"
+
+#: addeditchapterdialog.cpp:31
+#, fuzzy
+msgid "Add/Edit Catalog Chapter"
+msgstr "Pridanie, úprava a odstránenie sieťových pripojení"
+
+#: addeditchapterdialog.cpp:45
+#, fuzzy
+msgid "Create a new Catalog Chapter"
+msgstr "Nový všeobecný katalóg (NVK)"
+
+#: addeditchapterdialog.cpp:49
+msgid "Chapter Name:"
+msgstr "Názov kapitoly:"
+
+#: addeditchapterdialog.cpp:53
+#, fuzzy
+msgid "Chapter Description:"
+msgstr "<b>Popis:</b> %1<br /><br />"
+
+#: addeditchapterdialog.cpp:71
+#, kde-format
+msgid "Create new Catalog Chapter below chapter %1"
+msgstr ""
+
+#: addeditchapterdialog.cpp:78
+#, kde-format
+msgid "Edit name and description of chapter %1"
+msgstr ""
+
+#: addressselection.cpp:59
+#, fuzzy
+msgid "Please select a contact from the list below: "
+msgstr "Zo zoznamu nižšie vyberte typ widgetu, ktorý chcete nainštalovať."
+
+#: addressselection.cpp:71 akonadiaddressselector.cpp:172 docdigestview.cpp:68
+msgid "&Search: "
+msgstr "Hľadať:"
+
+#: addressselection.cpp:125 akonadiaddressselector.cpp:215
+msgid "New Contact..."
+msgstr "Nový kontakt..."
+
+#: akonadiaddressselector.cpp:206
+msgid "Display address book selection list and hide address details."
+msgstr ""
+
+#: akonadiaddressselector.cpp:211
+msgid "Edit Contact..."
+msgstr "Upraviť kontakt..."
+
+#: akonadiaddressselector.cpp:212
+#, fuzzy
+msgid "Edit the currently selected contact"
+msgstr "Editovať aktuálne označený prvok"
+
+#: akonadiaddressselector.cpp:216
+msgid "Create a new Contact"
+msgstr "Vytvoríiťnový kontakt"
+
+#: archdoc.cpp:60 kraftdoc.cpp:196
+#, kde-format
+msgid "%1 for %2 (Id %3)"
+msgstr "%1 pre %2 (Id %3)"
+
+#: brunskatalog.cpp:43
+msgid "Select Bruns Catalog Data File"
+msgstr ""
+
+#: brunskatalog.cpp:55
+msgid "Select Bruns Catalog Key File"
+msgstr ""
+
+#: brunskataloglistview.cpp:36
+#, fuzzy
+msgctxt "Abbrev. for botanical name"
+msgid "Bot. Name"
+msgstr "Názov priečinku:"
+
+#: brunskataloglistview.cpp:37
+msgctxt "Abbrev. for localized name"
+msgid "Name"
+msgstr "Názov"
+
+#: brunskataloglistview.cpp:38
+#, fuzzy
+msgctxt "Abbrev. for article identification number"
+msgid "Art. Id."
+msgstr "ID chyby"
+
+#: brunskataloglistview.cpp:39
+#, fuzzy
+msgctxt "Abbrev. for article Matchcode"
+msgid "Art. Match."
+msgstr "Zhoda malý&ch a veľkých písmen"
+
+#: brunskataloglistview.cpp:42
+msgid "Catalog"
+msgstr "Katalóg"
+
+#: brunskataloglistview.cpp:110
+#, fuzzy
+msgid "Fruits"
+msgstr "Citrusové plody"
+
+#: brunskataloglistview.cpp:114
+#, fuzzy
+msgid "Azalea and Rhododendrons"
+msgstr "Čierna a červená"
+
+#: brunskataloglistview.cpp:118
+msgid "Roses"
+msgstr "Ruže"
+
+#: brunskataloglistview.cpp:122
+msgctxt "botanical"
+msgid "Bushes"
+msgstr ""
+
+#: brunskataloglistview.cpp:126
+msgctxt "Various plants (bot.)"
+msgid "Others"
+msgstr "Ostatné"
+
+#: brunskatalogview.cpp:61
+msgid "Plant Details (Sizes, Root Forms etc.):"
+msgstr ""
+
+#: brunskatalogview.cpp:67 insertplantdialog.cpp:55
+msgid "Matchcode"
+msgstr ""
+
+#: brunskatalogview.cpp:68 insertplantdialog.cpp:56
+msgid "Form"
+msgstr "Formulár"
+
+#: brunskatalogview.cpp:69 insertplantdialog.cpp:57
+#, fuzzy
+msgid "Form Add"
+msgstr "Pridať filter"
+
+#: brunskatalogview.cpp:70
+msgid "Wuchs"
+msgstr ""
+
+#: brunskatalogview.cpp:71 insertplantdialog.cpp:59
+msgid "Root"
+msgstr "Koreň"
+
+#: brunskatalogview.cpp:72 insertplantdialog.cpp:60
+msgid "Quality"
+msgstr "Kvalita"
+
+#: brunskatalogview.cpp:73 insertplantdialog.cpp:61
+msgid "Group"
+msgstr "Skupina"
+
+#: calcpart.cpp:117
+msgid "Base"
+msgstr "Základ"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, d_calcTempl)
+#: calctemplate.ui:14
+msgid "Edit Template"
+msgstr "Upraviť šablónu"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget8)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:27 calctemplate.ui:75 templkataloglistview.cpp:44
+#: texteditdialog.cpp:64
+msgid "Template"
+msgstr "Šablóna"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: calctemplate.ui:53
+#, fuzzy
+msgid "&Store in Chapter"
+msgstr "Uložiť heslá vo wallete"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: calctemplate.ui:96
+msgid "&Unit"
+msgstr "Jednotka"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_addTime)
+#: calctemplate.ui:128
+#, fuzzy
+msgid "&Count Time for Overalltime"
+msgstr "Pozdržať na časový interval:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: calctemplate.ui:142
+msgid "Margin"
+msgstr "Okraj"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, spBenefit)
+#: calctemplate.ui:161
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (KPushButton, pbRundPreis)
+#: calctemplate.ui:177
+msgid "round"
+msgstr "round"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: calctemplate.ui:203 kraftview_ro.cpp:220 kraftview_ro.cpp:257
+#: reportgenerator.cpp:333
+msgid "VAT"
+msgstr "DPH"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:214
+msgid "full"
+msgstr "plné"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:219
+msgid "half"
+msgstr "polovica"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget9)
+#: calctemplate.ui:235
+#, fuzzy
+msgid "Time Calculation"
+msgstr "Výpočet prerušený"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: calctemplate.ui:246
+msgid "Time measureable effort for this template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:271 calctemplate.ui:390 calctemplate.ui:499
+msgid "Label"
+msgstr "Štítok"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:276
+msgid "Duration"
+msgstr "Trvanie"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:281
+msgid "Hourly Rate"
+msgstr "Hodinová frekvencia"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:286
+#, fuzzy
+msgid "Glob. Rate"
+msgstr "Vzorkovacia frekvencia: %1 %2\n"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddTime)
+#: calctemplate.ui:296
+msgid "Adds a new time calculation part to the template"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:299 calctemplate.ui:413 calctemplate.ui:527
+msgid "new..."
+msgstr "nové..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditTime)
+#: calctemplate.ui:306
+#, fuzzy
+msgid "Edits the current time calculation part"
+msgstr "POUŽITIE: /part - Zatvorí aktuálny pohľad."
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:309 calctemplate.ui:423 calctemplate.ui:537
+msgid "edit..."
+msgstr "upraviť..."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveTime)
+#: calctemplate.ui:316
+#, fuzzy
+msgid "Deletes the current time calculation part"
+msgstr "Vymazať šablónu alarmov"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:319 calctemplate.ui:433 calctemplate.ui:547
+msgid "delete"
+msgstr "odstrániť"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: calctemplate.ui:349
+#, fuzzy
+msgid "Fix Costs"
+msgstr "Telefónne náklady:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: calctemplate.ui:360
+msgid "Fix costs for this template per one unit:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:385 calctemplate.ui:504
+msgid "Amount"
+msgstr "Množstvo"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:395
+#, fuzzy
+msgid "Single Price"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:400
+#, fuzzy
+msgid "Overall Price"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddFix)
+#: calctemplate.ui:410
+#, fuzzy
+msgid "adds a new fix calculation part"
+msgstr "Vývojár (framework, komponenty)"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditFix)
+#: calctemplate.ui:420
+#, fuzzy
+msgid "edits the current fix calculation part"
+msgstr "POUŽITIE: /part - Zatvorí aktuálny pohľad."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveFix)
+#: calctemplate.ui:430
+#, fuzzy
+msgid "deletes the current fix calculation part"
+msgstr "POUŽITIE: /part - Zatvorí aktuálny pohľad."
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage_2)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:463 kraftglobals.h:29 materialdialog.ui:68
+#: materialkataloglistview.cpp:37
+msgid "Material"
+msgstr "Materiál"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: calctemplate.ui:474
+msgid "Needed materials for one unit of this template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:509 materialkataloglistview.cpp:39
+msgid "Unit"
+msgstr "Jednotka"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: calctemplate.ui:514 calctemplate.ui:580 templkataloglistview.cpp:45
+msgid "Price"
+msgstr "Cena"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:524
+msgid "adds a new material calculation part"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:534
+#, fuzzy
+msgid "edits the current material part"
+msgstr "POUŽITIE: /part - Zatvorí aktuálny pohľad."
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:544
+#, fuzzy
+msgid "deletes the current material calculation part"
+msgstr "POUŽITIE: /part - Zatvorí aktuálny pohľad."
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbManual)
+#: calctemplate.ui:586
+msgid "&manual:"
+msgstr "ručne:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: calctemplate.ui:603
+msgid "Euro"
+msgstr "Euro"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbCalculation)
+#: calctemplate.ui:629
+#, fuzzy
+msgid "Calculated Price"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: calctemplate.ui:642
+#, fuzzy
+msgid "Overall Price per Unit"
+msgstr "Cena za $100 akciu"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelTime)
+#: calctemplate.ui:648
+#, fuzzy
+msgid "Time Calculation Part:"
+msgstr "Komponent prehrávača Dragon"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelFix)
+#: calctemplate.ui:671
+#, fuzzy
+msgid "Fix Costs Part:"
+msgstr "Komponent prehrávača Dragon"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelMat)
+#: calctemplate.ui:694
+#, fuzzy
+msgid "Material Part:"
+msgstr "Part Cervisia"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resPreisName)
+#: calctemplate.ui:717
+#, fuzzy
+msgid "Calculated Price:"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resultPrice)
+#: calctemplate.ui:733
+msgid "88.888,88 €"
+msgstr "88.888,88 €"
+
+#: catalogselection.cpp:56
+#, fuzzy
+msgid "Selected &Catalog: "
+msgstr "Katalóg CTAN"
+
+#: catalogselection.cpp:149 catalogselection.cpp:164 catalogselection.cpp:173
+#, fuzzy
+msgid "Append to Document"
+msgstr "Dokument na otvorenie"
+
+#: catalogtemplate.cpp:50
+#, fuzzy
+msgid "Manual Price"
+msgstr "Ceny akcií"
+
+#: catalogtemplate.cpp:52
+#, fuzzy
+msgid "Calculated"
+msgstr "Vypočítaný neskorý koniec: %1"
+
+#: catalogtemplate.cpp:54
+msgid "AutoCalc"
+msgstr "AutoCalc"
+
+#: catalogtemplate.cpp:55
+#, fuzzy, c-format
+msgid "Err: Unknown type %d"
+msgstr "Neznámy typ súboru"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: createdb.ui:17
+msgid "Database creation and initial schema setup:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateCounter)
+#. i18n: ectx: property (text), widget (QLabel, mFillCounter)
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeCounter)
+#: createdb.ui:36 createdb.ui:80 upgradedb.ui:39
+msgid "0 / 129"
+msgstr "0 / 129"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateIcon)
+#. i18n: ectx: property (text), widget (QLabel, mFillIcon)
+#: createdb.ui:49 createdb.ui:93 upgradedb.ui:52
+msgid "X"
+msgstr "X"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: createdb.ui:61
+msgid "Filling the database with initial values:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: createdb.ui:113 upgradedb.ui:72
+msgid "Status: "
+msgstr "Stav:"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateStatus)
+#: createdb.ui:123
+#, fuzzy
+msgid "Database setup status..."
+msgstr "[Ukončené stavom %1]\n"
+
+#. i18n: ectx: label, entry (BrunsDataFile), group (bruns)
+#: databasesettings.kcfg:7
+#, fuzzy
+msgid "Bruns Data File:"
+msgstr "Prenášajú sa dáta súboru."
+
+#. i18n: ectx: label, entry (BrunsKeyFile), group (bruns)
+#: databasesettings.kcfg:10
+#, fuzzy
+msgid "Bruns Key File:"
+msgstr "Otvoriť súbor s DSA kľúčom"
+
+#. i18n: ectx: label, entry (DbDriver), group (database selection)
+#: databasesettings.kcfg:15
+#, fuzzy
+msgid "Qt Database Driver:"
+msgstr "Vybrať databázový ovládač"
+
+#. i18n: ectx: label, entry (DbServerName), group (mysql settings)
+#: databasesettings.kcfg:20
+msgid "Database Server:"
+msgstr "Databázový server:"
+
+#. i18n: ectx: label, entry (DbDatabaseName), group (mysql settings)
+#: databasesettings.kcfg:24
+msgid "Database Name"
+msgstr "Názov databázy"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: label, entry (DbUser), group (mysql settings)
+#: databasesettings.kcfg:27 mysqldetails.ui:51
+#, fuzzy
+msgid "Database User:"
+msgstr "Meno databázového užívateľa"
+
+#. i18n: ectx: label, entry (DbPassword), group (mysql settings)
+#: databasesettings.kcfg:31
+msgid "Database Password:"
+msgstr "Heslo databázy:"
+
+#. i18n: ectx: label, entry (DefaultDbName), group (mysql settings)
+#: databasesettings.kcfg:34
+msgid "The default database name when creating new databases"
+msgstr ""
+
+#. i18n: ectx: label, entry (DbFile), group (Sqlite settings)
+#: databasesettings.kcfg:39
+msgid "File Name"
+msgstr "Meno súboru"
+
+#. i18n: ectx: label, entry (DbPath), group (Sqlite settings)
+#: databasesettings.kcfg:42
+msgid "The path where database file are stored. Leave empty!"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mInfoText)
+#: dbinit.ui:19
+#, fuzzy
+msgid "Database Update:"
+msgstr "Aktualizovať databázu"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: dbinit.ui:34
+msgid "Overall Progress:"
+msgstr "Celkový priebeh:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: dbinit.ui:55
+#, fuzzy
+msgid "Detail Progress:"
+msgstr "prebieha"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: dbinit.ui:76
+msgid "Status:"
+msgstr "Stav:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dbselect.ui:21
+msgid ""
+"Kraft uses a database backend to store values. By default it uses a file "
+"based database with easy setup targeted to single user mode.\n"
+"\n"
+"Please select the database backend you want to use:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbSqlite3)
+#: dbselect.ui:31
+#, fuzzy
+msgid "SQLite 3 - file based database (default)"
+msgstr "MIME typ súborovo orientovanej databázy"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbMySQL)
+#: dbselect.ui:41
+msgid "MySQL Serverbased Database for advanced Setups"
+msgstr ""
+
+#: defaultprovider.cpp:51 doctext.cpp:89 positionviewwidget.cpp:420
+msgid "Unknown"
+msgstr "Neznáme"
+
+#: docassistant.cpp:60
+msgid "Show Templates"
+msgstr "Ukázať šablóny"
+
+#: docassistant.cpp:65
+msgid "Show mask to create or select templates to be used in the document"
+msgstr ""
+
+#: docassistant.cpp:128
+#, fuzzy
+msgid "Add a template to the document"
+msgstr ""
+"Nepodarilo sa odstrániť dokument:\n"
+"%2"
+
+#: docassistant.cpp:134
+msgid "Create a new template"
+msgstr "Vytvoriť novú šablónu"
+
+#: docassistant.cpp:141
+#, fuzzy
+msgid "Edit the current template"
+msgstr "Upraviť vlastnosti šablóny"
+
+#: docassistant.cpp:148
+#, fuzzy
+msgid "Delete the current template"
+msgstr "Vymazať šablónu alarmov"
+
+#: docassistant.cpp:299
+msgid ""
+"Do you really want to delete the template permanently? There is no way to "
+"recover!"
+msgstr ""
+
+#: docdigestdetailview.cpp:123
+msgid "Date"
+msgstr "Dátum"
+
+#: docdigestdetailview.cpp:126 models/documentmodel.cpp:65
+msgid "Whiteboard"
+msgstr "Tabuľa"
+
+#: docdigestdetailview.cpp:131 models/documentmodel.cpp:69
+msgid "Project"
+msgstr "Projekt"
+
+#: docdigestdetailview.cpp:135
+msgid "Customer"
+msgstr "Zákazník"
+
+#: docdigestdetailview.cpp:146
+#, fuzzy
+msgid "The address is not listed in an address book."
+msgstr "&Tajný kanál, kanál nie je uvedený v zozname kanálov"
+
+#: docdigestdetailview.cpp:148
+#, kde-format
+msgid ""
+"The client has the address book id %1 but can not found in our address books."
+msgstr ""
+
+#: docdigestdetailview.cpp:151
+msgid "The client can be found in our address books."
+msgstr ""
+
+#: docdigestdetailview.cpp:162 prefsdialog.cpp:424
+msgid "preferred address"
+msgstr "preferovaná adresa"
+
+#: docdigestdetailview.cpp:166 prefsdialog.cpp:428
+msgid "home address"
+msgstr "adresa domov"
+
+#: docdigestdetailview.cpp:170 prefsdialog.cpp:432
+msgid "work address"
+msgstr "adresa do práce"
+
+#: docdigestdetailview.cpp:174 prefsdialog.cpp:436
+msgid "postal address"
+msgstr "poštová adresa"
+
+#: docdigestdetailview.cpp:178 prefsdialog.cpp:440
+msgid "international address"
+msgstr "medzinárodná adresa"
+
+#: docdigestdetailview.cpp:182 prefsdialog.cpp:444
+msgid "domestic address"
+msgstr "vnútroštátna adresa"
+
+#: docdigestdetailview.cpp:186 prefsdialog.cpp:448
+msgid "unknown"
+msgstr "neznámy"
+
+#: docdigestdetailview.cpp:209
+msgid "This document was never printed."
+msgstr ""
+
+#. i18n: ectx: ToolBar (documentToolBar)
+#: docdigestview.cpp:114 docdigestview.cpp:116 docdigestview.cpp:118
+#: kraftui.rc:21 portal.cpp:220
+#, fuzzy
+msgid "Document Actions"
+msgstr "Vstupné akcie"
+
+#: docdigestview.cpp:135
+#, fuzzy
+msgid "Latest Documents"
+msgstr "Faxové dokumenty"
+
+#: docdigestview.cpp:137
+msgid "Shows the latest ten documents"
+msgstr ""
+
+#: docdigestview.cpp:155
+msgid "All Documents"
+msgstr "Všetky dokumenty"
+
+#: docdigestview.cpp:157
+msgid "Shows a complete list of all documents"
+msgstr ""
+
+#: docdigestview.cpp:175
+#, fuzzy
+msgid "Timelined Documents"
+msgstr "Faxové dokumenty"
+
+#: docdigestview.cpp:177
+msgid "Shows all documents along a timeline"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: docfooter.ui:36
+#, fuzzy
+msgid "Footer Texts"
+msgstr "Vlastnosti päty"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: docfooter.ui:42
+msgid "&Summary Text on Last Page:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docfooter.ui:66
+msgid "&Greeting:"
+msgstr "&Uvítanie:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, _taxGroup)
+#: docfooter.ui:94 positionviewwidget.cpp:104
+msgid "Tax"
+msgstr "Daň"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docfooter.ui:100
+#, fuzzy
+msgid "Document &Tax:"
+msgstr "Vzťahy dokumentu"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docheader.ui:64
+msgid "&Project:"
+msgstr "Projekt:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docheader.ui:80
+msgid "&Whiteboard:"
+msgstr "Tabuľa:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mProjectLabelEdit)
+#: docheader.ui:104
+msgid ""
+"Enter a label that describes the project. This may appear on the customer "
+"document."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: docheader.ui:160
+msgid "Postal &Address:"
+msgstr "Poštová adresa:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labName)
+#: docheader.ui:178
+msgid "not selected"
+msgstr "nevybrané"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:204
+#, fuzzy
+msgid "Select an addressee from the address books."
+msgstr "&Tajný kanál, kanál nie je uvedený v zozname kanálov"
+
+#. i18n: ectx: property (text), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:207
+msgid "select..."
+msgstr "vybrať..."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: docheader.ui:232
+#, fuzzy
+msgid "&Salutatory Address:"
+msgstr "Adresa &servera:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: docheader.ui:245
+msgid "Customer:"
+msgstr "Zákazník:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: docheader.ui:273
+msgid "&Entry Text on First Page:"
+msgstr ""
+
+#: doclocaledialog.cpp:45
+#, fuzzy
+msgid "Document Locale Settings"
+msgstr "Regionálne nastavenia dokumentu"
+
+#: doclocaledialog.cpp:54
+#, fuzzy
+msgid "<h2>Document Localization</h2>"
+msgstr "Zobrazí dokument, vzťahy dokumentu"
+
+#: doclocaledialog.cpp:57
+msgid ""
+"Select country and language for the document.\n"
+"That influences the formatting of numbers, dates etc."
+msgstr ""
+
+#: doclocaledialog.cpp:65
+msgid "Country: "
+msgstr "krajina:"
+
+#: doclocaledialog.cpp:74
+msgid "Language:"
+msgstr "Jazyk:"
+
+#: doclocaledialog.cpp:118
+#, fuzzy, kde-format
+msgid ""
+"Money: %1\n"
+"Date: %2\n"
+"Date (short): %3"
+msgstr "Rozsah pre krátky rok:"
+
+#: docpostcard.cpp:36
+#, fuzzy
+msgid "Document Overview"
+msgstr "Prehľad častí"
+
+#: docpostcard.cpp:121
+msgid "Netto:"
+msgstr "Netto:"
+
+#: docpostcard.cpp:132 docpostcard.cpp:139
+#, kde-format
+msgid "+ %1% Tax:"
+msgstr "+ %1% Daň:"
+
+#: docpostcard.cpp:145
+#, fuzzy
+msgid "Sum Tax:"
+msgstr "Kontrolný súčet MD5:"
+
+#: docpostcard.cpp:150
+msgid "Total:"
+msgstr "Celkom:"
+
+#: docpostcard.cpp:191 docpostcard.cpp:241 kraftdoc.cpp:359
+msgid "Header"
+msgstr "Hlavička"
+
+#: docpostcard.cpp:220 docpostcard.cpp:261 kraftdoc.cpp:361
+msgid "Footer"
+msgstr "Pätička"
+
+#: docpostcard.cpp:249
+#, kde-format
+msgid "%1 Items"
+msgstr "%1 položiek"
+
+#: docpostcard.cpp:251
+#, fuzzy, kde-format
+msgid "%1 Items, netto %2"
+msgstr "Zobraziť pozície"
+
+#: docpostcard.cpp:253 doctext.cpp:87
+msgid "Positions"
+msgstr "Polohy"
+
+#: doctext.cpp:61
+msgid "Standard"
+msgstr "Štandardné"
+
+#: doctext.cpp:85
+msgid "Header Text"
+msgstr "Text hlavičky"
+
+#: doctext.cpp:86
+msgid "Footer Text"
+msgstr "Text päty"
+
+#: doctypeedit.cpp:130 doctypeedit.cpp:155
+#, fuzzy
+msgid "Add Document Type"
+msgstr "Žiadny typ dokumentu."
+
+#: doctypeedit.cpp:131
+#, fuzzy
+msgid "Enter the name of a new document type"
+msgstr "Prosím, zadajte meno nového užívateľa:"
+
+#: doctypeedit.cpp:156
+#, fuzzy
+msgid "Edit the name of a document type"
+msgstr "Zadajte meno prvého hráča:"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:43 numbercycleseditbase.ui:168
+#, fuzzy
+msgid "Click to add a new document type to the list."
+msgstr "Kliknite sem, aby ste pridali nový typ súboru."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:46 prefsdialog.cpp:129 prefsunits.cpp:77
+#: prefswages.cpp:88
+msgid "Add"
+msgstr "Pridať"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:53
+#, fuzzy
+msgid "click to edit the selected document type name"
+msgstr "Kliknite sem, aby ste pridali nový typ súboru."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:56 prefsunits.cpp:81 prefswages.cpp:92
+msgid "Edit"
+msgstr "Upraviť"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:63 numbercycleseditbase.ui:178
+#, fuzzy
+msgid "click to remove the current document type"
+msgstr "Použiť aktuálnu cestu dokumentu."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:66 portalview.cpp:154 prefsdialog.cpp:133
+#: prefsunits.cpp:86 prefswages.cpp:97
+msgid "Remove"
+msgstr "Odstrániť"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: doctypeeditbase.ui:77
+#, fuzzy
+msgid "Unique Document Number"
+msgstr "Obmedziť počet článkov"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: doctypeeditbase.ui:85
+#, fuzzy
+msgid "Number &Cycle:"
+msgstr "Cyklus kalibrácie"
+
+#. i18n: ectx: property (text), widget (QLabel, mExampleId)
+#. i18n: ectx: property (text), widget (QLabel, mCounter)
+#. i18n: ectx: property (text), widget (QLabel, mIdent)
+#: doctypeeditbase.ui:105 doctypeeditbase.ui:138 doctypeeditbase.ui:151
+#: numbercycleseditbase.ui:108
+msgid "example"
+msgstr "príklad"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: doctypeeditbase.ui:118
+#, fuzzy
+msgid "ident Template:"
+msgstr "Manga šablóna"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3_2)
+#: doctypeeditbase.ui:128 numbercycleseditbase.ui:75
+#, fuzzy
+msgid "Example Id:"
+msgstr "ID chyby"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: doctypeeditbase.ui:164
+msgid "Counter:"
+msgstr "Počítadlo:"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEditCycles)
+#: doctypeeditbase.ui:194
+#, fuzzy
+msgid "&Edit Number Cycles..."
+msgstr "Obmedziť počet článkov"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2_2)
+#: doctypeeditbase.ui:222
+#, fuzzy
+msgid "Template for PDF Creation"
+msgstr "Vytváranie databáz pre každého"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: doctypeeditbase.ui:228
+#, fuzzy
+msgid "&Template File"
+msgstr "&Meno súboru šablóny:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: doctypeeditbase.ui:257
+msgid "W&atermark:"
+msgstr "Vodoznak:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:271
+#, fuzzy
+msgid "no watermark"
+msgstr "Pridať vodoznak"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:276
+#, fuzzy
+msgid "on first page"
+msgstr "Hlavička strany (všetky)"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:281
+msgid "on all pages"
+msgstr "na všetkých stranách"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: doctypeeditbase.ui:289
+#, fuzzy
+msgid "&Watermark File"
+msgstr "Odoslať &súbor..."
+
+#: external/ktreeviewsearchline.cpp:530
+msgid "Search Options"
+msgstr "Možnosti hľadania"
+
+#: external/ktreeviewsearchline.cpp:531
+msgctxt "Enable case sensitive search in the side navigation panels"
+msgid "Case Sensitive"
+msgstr "Rozlišovať veľkosť písmen"
+
+#: external/ktreeviewsearchline.cpp:534
+msgctxt "Enable regular expression search in the side navigation panels"
+msgid "Regular Expression"
+msgstr "Regulárny výraz"
+
+#: external/ktreeviewsearchline.cpp:540
+msgid "Search Columns"
+msgstr "Prehľadávané stĺpce"
+
+#: external/ktreeviewsearchline.cpp:542
+msgid "All Visible Columns"
+msgstr "Všetky viditeľné stĺpce"
+
+#: external/ktreeviewsearchline.cpp:708
+msgid "S&earch:"
+msgstr "&Hľadať:"
+
+#: filterheader.cpp:61 filterheader.cpp:90
+msgid "No Items"
+msgstr "Žiadne položky"
+
+#: filterheader.cpp:62 filterheader.cpp:91
+msgid "1 Item"
+msgstr "1 položka"
+
+#: filterheader.cpp:63 filterheader.cpp:92
+#, fuzzy, kde-format
+msgid "%1 of %2 Items"
+msgstr "Položky(&I)"
+
+#: filterheader.cpp:75 filterheader.cpp:104
+msgid "Search:"
+msgstr "Hľadať:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailFix)
+#: fixpartui.ui:14
+#, fuzzy
+msgid "Calculation Parts Fix"
+msgstr "Otestovať opravu"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: fixpartui.ui:20
+#, fuzzy
+msgid "<h1>Fix Cost Parts</h1>"
+msgstr "Komponent prehrávača Dragon"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: fixpartui.ui:30
+msgid "Add a fix cost for one unit of the template:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: fixpartui.ui:45 timepart.ui:48
+msgid "&Label:"
+msgstr "Popis:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:58
+#, fuzzy
+msgid "describing text"
+msgstr "Textový filter"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:61
+#, fuzzy
+msgid "amortisation"
+msgstr "Importovať informáciu zaneprázdnenia"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: fixpartui.ui:72 matpartui.ui:77
+msgid "&Amount:"
+msgstr "Množstvo:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#: fixpartui.ui:85
+#, fuzzy
+msgid "amount multiplier"
+msgstr "Násobok medzier:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: fixpartui.ui:98
+#, fuzzy
+msgid "at &Price:"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:114 matpartui.ui:90
+#, fuzzy
+msgid "Price for one piece"
+msgstr "Registrujte si účet tu."
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:123
+msgid "€"
+msgstr "€"
+
+#: flostempldialog.cpp:70
+msgid "Create or Edit Template Items"
+msgstr ""
+
+#: flostempldialog.cpp:208 flostempldialog.cpp:562
+msgid "No"
+msgstr "Nie"
+
+#: flostempldialog.cpp:209 flostempldialog.cpp:562
+msgid "Yes"
+msgstr "Áno"
+
+#: flostempldialog.cpp:246
+#, fuzzy
+msgid "Calculated Price: "
+msgstr "Ceny akcií"
+
+#: flostempldialog.cpp:251
+#, fuzzy
+msgid "Manual Price: "
+msgstr "Ceny akcií"
+
+#: flostempldialog.cpp:256
+#, kde-format
+msgid "(+%1%)"
+msgstr "(+%1%)"
+
+#: flostempldialog.cpp:260
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: flostempldialog.cpp:262
+msgid ": "
+msgstr ": "
+
+#: flostempldialog.cpp:369
+msgid "Saving of this template failed, sorry"
+msgstr ""
+
+#: flostempldialog.cpp:370
+#, fuzzy
+msgid "Template Save Error"
+msgstr "Uložiť ako ša&blónu"
+
+#: flostempldialog.cpp:398
+msgid "The template was modified. Do you really want to discard all changes?"
+msgstr ""
+
+#: flostempldialog.cpp:400 kraftview.cpp:1387
+msgid "Discard"
+msgstr "Zahodiť"
+
+#: flostempldialog.cpp:400
+#, fuzzy
+msgid "Template Modified"
+msgstr "Lokálne zmenený"
+
+#: flostempldialog.cpp:425
+msgid ""
+"The catalog chapter was changed for this template.\n"
+"Do you really want to move the template to the new chapter?"
+msgstr ""
+
+#: flostempldialog.cpp:426
+#, fuzzy
+msgid "Changed Chapter"
+msgstr "Predchádzajúca kapitola"
+
+#: flostempldialog.cpp:560
+#, kde-format
+msgid "%1 Min."
+msgstr "%1 min."
+
+#: flostempldialog.h:101
+#, fuzzy
+msgid "Calculated material"
+msgstr "Parametere materiálu"
+
+#: imporst.cpp:29
+msgid "Kraft Import Test App"
+msgstr ""
+
+#: imporst.cpp:42
+msgid "Kraft import test app"
+msgstr ""
+
+#: importfilter.cpp:51
+#, fuzzy, kde-format
+msgid "Unable to find filter called %1"
+msgstr "Nepodarilo sa nájsť nasledujúce súbory"
+
+#: importfilter.cpp:59
+#, fuzzy
+msgid "Could not open the definition file!"
+msgstr "kdialog: nepodarilo sa otvoriť súbor %1"
+
+#: importfilter.cpp:143
+#, fuzzy
+msgid "Unknown tags: "
+msgstr "Komentár/tagy:"
+
+#: importfilter.cpp:184
+#, fuzzy
+msgid "Could not recode input file!"
+msgstr "Nepodarilo sa uložiť do súboru %1."
+
+#: importfilter.cpp:192
+msgid "Unable to open temp file "
+msgstr "Nemôžem otvoriť dočasný súbor "
+
+#: importfilter.cpp:198
+#, fuzzy
+msgid "Could not open the import source file!"
+msgstr "Nie je možné otvoriť súbor <filename>%1</filename>pre import: %2"
+
+#: importitemdialog.cpp:47
+#, fuzzy
+msgid "Import Items From File"
+msgstr "Importovať zo súboru vimrc"
+
+#: importitemdialog.cpp:109
+#, fuzzy
+msgid "the Header of the Document"
+msgstr "Vzťahy dokumentu"
+
+#: importitemdialog.cpp:118 templtopositiondialogbase.cpp:57
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: importtodocbase.ui:32
+#, fuzzy
+msgid "Import Document Items"
+msgstr "Vybrať odpovedajúce položky..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: importtodocbase.ui:47
+#, fuzzy
+msgid "Import information"
+msgstr "Importovať informáciu zaneprázdnenia"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: importtodocbase.ui:53
+#, fuzzy
+msgid "Select a &File to import from:"
+msgstr "Vybrať súbor karty pre importovanie"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: importtodocbase.ui:71
+msgid "Import &Schema:"
+msgstr "Importovať schému:"
+
+#. i18n: ectx: property (text), widget (QLabel, mSchemaInfo)
+#: importtodocbase.ui:95
+msgid "this is interesting information about the selected schema"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: importtodocbase.ui:116
+#, fuzzy
+msgid "Insert all Items &after"
+msgstr "Suma všetkých dátových položiek"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mTagGroup)
+#: importtodocbase.ui:137 inserttmplbase.ui:204
+msgid "Tags"
+msgstr "Značky"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: insertplantbase.ui:32
+#, fuzzy
+msgid "Create Plant Item"
+msgstr "Vytvor novú položku v iconview"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: insertplantbase.ui:51
+#, fuzzy
+msgid "Select a plant size:"
+msgstr "Vybrať veľkosť písma"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: insertplantbase.ui:94 inserttmplbase.ui:56
+msgid "insert"
+msgstr "vložiť"
+
+#. i18n: ectx: property (text), widget (QLabel, dmUnitText)
+#: insertplantbase.ui:107
+msgid "pieces at a single price of"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: insertplantbase.ui:157
+msgid "&after"
+msgstr "po"
+
+#: insertplantdialog.cpp:58
+msgid "Growth"
+msgstr "Rast"
+
+#: insertplantdialog.cpp:90
+#, fuzzy, kde-format
+msgid "(price entered in %1/%2)"
+msgstr "Otvoriť v karte"
+
+#: inserttempldialog.cpp:103
+#, fuzzy
+msgid "Create a new Item"
+msgstr "Vytvor novú položku v iconview"
+
+#: inserttempldialog.cpp:105
+#, fuzzy
+msgid "Create a new Item from Template"
+msgstr "Nový databázový projekt založený na šablóne"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: inserttmplbase.ui:30
+#, fuzzy
+msgid "Create Item from Template"
+msgstr "&Vytvoriť šablónu z dokumentu..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: inserttmplbase.ui:45
+#, fuzzy
+msgid "Edit New Template"
+msgstr "Nový zo ša&blóny"
+
+#. i18n: ectx: property (text), widget (QLabel, priceBoxTextLabel)
+#: inserttmplbase.ui:76
+msgid "à"
+msgstr "à"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: inserttmplbase.ui:113
+#, fuzzy
+msgid "&after position"
+msgstr "Pozícia kurzora"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mKeepGroup)
+#: inserttmplbase.ui:150
+#, fuzzy
+msgid "Keep Template"
+msgstr "Manga šablóna"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCbSave)
+#: inserttmplbase.ui:158
+#, fuzzy
+msgid "&save this as a template"
+msgstr "Znova u&ložiť ako šablónu"
+
+#. i18n: ectx: property (text), widget (QLabel, mChapterText)
+#: inserttmplbase.ui:165
+#, fuzzy
+msgid "in &chapter"
+msgstr "Predchádzajúca kapitola"
+
+#: katalog.cpp:137 models/documentmodel.cpp:133
+msgid "not found"
+msgstr "nenájdené"
+
+#: kataloglistview.cpp:338
+msgid "A catalog chapter can not be deleted as long it has children."
+msgstr ""
+
+#: kataloglistview.cpp:339
+msgid "Chapter can not be deleted"
+msgstr ""
+
+#: katalogview.cpp:164
+#, fuzzy
+msgid "Edit Sub chapter"
+msgstr "Nový titulok kapitoly"
+
+#: katalogview.cpp:166
+msgid "Edit a catalog sub chapter"
+msgstr ""
+
+#: katalogview.cpp:170
+#, fuzzy
+msgid "Add a sub chapter"
+msgstr "Pridať podmíľnik"
+
+#: katalogview.cpp:172
+msgid "Add a sub chapter below the selected one"
+msgstr ""
+
+#: katalogview.cpp:176 katalogview.cpp:178
+#, fuzzy
+msgid "Remove a sub chapter"
+msgstr "Odstrániť pod-hranol"
+
+#: katalogview.cpp:182
+msgid "Edit template"
+msgstr "Upraviť šablónu"
+
+#: katalogview.cpp:184
+msgid "Opens the editor window for templates to edit the selected one"
+msgstr ""
+
+#: katalogview.cpp:188
+msgid "New template"
+msgstr "Nová šablóna"
+
+#: katalogview.cpp:191
+msgid "Opens the editor window for templates to enter a new template"
+msgstr ""
+
+#: katalogview.cpp:195
+msgid "Delete template"
+msgstr "Vymazať šablónu"
+
+#: katalogview.cpp:198
+#, fuzzy
+msgid "Deletes the template"
+msgstr "Manga šablóna"
+
+#: katalogview.cpp:202
+#, fuzzy
+msgid "Export catalog"
+msgstr "Katalóg CTAN"
+
+#: katalogview.cpp:203
+msgid "Export the whole catalog as XML encoded file"
+msgstr ""
+
+#: katalogview.cpp:207
+#, fuzzy
+msgid "Close the katalog view"
+msgstr "Zavrieť pravé zobrazenie"
+
+#: katalogview.cpp:210
+#, fuzzy
+msgid "Prints out the current document"
+msgstr "Použiť aktuálnu cestu dokumentu."
+
+#: katalogview.cpp:214 portal.cpp:164
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "Vystrihne vybranú oblasť a uloží ju do schránky"
+
+#: katalogview.cpp:218 portal.cpp:165
+msgid "Copies the selected section to the clipboard"
+msgstr "Kopíruje vybranú oblasť do schránky"
+
+#: katalogview.cpp:222 portal.cpp:166
+msgid "Pastes the clipboard contents to current position"
+msgstr "Vloží obsah schránky na aktuálnu pozíciu"
+
+#: katalogview.cpp:239 katalogview.cpp:271
+msgid "Opening file..."
+msgstr "Otvára sa súbor..."
+
+#: katalogview.cpp:241 katalogview.cpp:265 katalogview.cpp:280
+#: katalogview.cpp:290 katalogview.cpp:300 katalogview.cpp:313
+#: katalogview.cpp:321 katalogview.cpp:328 katalogview.cpp:335
+#: katalogview.cpp:382 katalogview.cpp:391 katalogview.cpp:400
+#: katalogview.cpp:409 portal.cpp:205 portal.cpp:334 portal.cpp:395
+#: portal.cpp:479 portal.cpp:520 portal.cpp:547 portal.cpp:688 portal.cpp:872
+#: portal.cpp:879 portal.cpp:886 portal.cpp:903
+msgid "Ready."
+msgstr "Pripravený."
+
+#: katalogview.cpp:260
+#, fuzzy
+msgid "Opening a new katalog window..."
+msgstr "Otvára sa nové okno dokumentu..."
+
+#: katalogview.cpp:274
+msgid "*|All files"
+msgstr "*|Všetky súbory"
+
+#: katalogview.cpp:274
+msgid "Open File..."
+msgstr "Otvoriť súbor..."
+
+#: katalogview.cpp:286
+msgid "Saving file..."
+msgstr "Ukladá sa súbor..."
+
+#: katalogview.cpp:296
+msgid "Closing file..."
+msgstr "Zatvára sa súbor..."
+
+#: katalogview.cpp:305
+msgid "Printing..."
+msgstr "Tlač..."
+
+#: katalogview.cpp:319 portal.cpp:870
+msgid "Cutting selection..."
+msgstr "Vystrihuje sa výber..."
+
+#: katalogview.cpp:326 portal.cpp:877
+msgid "Copying selection to clipboard..."
+msgstr "Kopíruje sa výber do schránky..."
+
+#: katalogview.cpp:333 portal.cpp:884
+msgid "Inserting clipboard contents..."
+msgstr "Vkladá sa obsah schránky..."
+
+#: katalogview.cpp:378
+msgid "Exporting file..."
+msgstr "Exportovanie súboru..."
+
+#: katalogview.cpp:387
+#, fuzzy
+msgid "Creating a new sub chapter..."
+msgstr "Vytvára sa nový eMovix projekt."
+
+#: katalogview.cpp:396
+#, fuzzy
+msgid "Editing a sub chapter..."
+msgstr "Nový titulok kapitoly"
+
+#: katalogview.cpp:405
+#, fuzzy
+msgid "Removing a sub chapter..."
+msgstr "Nový titulok kapitoly"
+
+#: katalogview.cpp:437
+#, fuzzy, kde-format
+msgid "<tr><td>Created at:</td><td>%1</td></tr>"
+msgstr "Uložiť vytvorený metalink do:"
+
+#: katalogview.cpp:440
+#, fuzzy, kde-format
+msgid "<tr><td>Modified at:</td><td>%1</td></tr>"
+msgstr "<tr><td><i>Verzia USB</i></td><td>%1.%2</td></tr>"
+
+#. i18n: ectx: Menu (file)
+#: katalogview.rc:4
+msgid "&File"
+msgstr "&Súbor"
+
+#. i18n: ectx: Menu (templates)
+#: katalogview.rc:7
+msgid "&Catalog"
+msgstr "Katalóg"
+
+#: kraftdb.cpp:264
+msgid "Wipe Database..."
+msgstr "Vyčistiť databázu"
+
+#: kraftdoc.cpp:363
+msgid "Items"
+msgstr "Položky"
+
+#: kraftdoc.cpp:365
+#, fuzzy
+msgid "Unknown document part"
+msgstr "Komponent prehrávača Dragon"
+
+#: kraftdocfooteredit.cpp:54
+msgid "Document Footer"
+msgstr "Päta dokumentu"
+
+#: kraftdocheaderedit.cpp:59
+msgid "Document Header"
+msgstr "Hlavička dokumentu"
+
+#: kraftdocpositionsedit.cpp:92
+msgid "Add Item..."
+msgstr "Pridať položku..."
+
+#: kraftdocpositionsedit.cpp:94
+msgid "Add a normal item to the document manually."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:98
+#, fuzzy
+msgid "Add Discount Item"
+msgstr "Pridať položku menu"
+
+#: kraftdocpositionsedit.cpp:101
+msgid ""
+"Adds an item to the document that allows discounts on other items in the "
+"document"
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:103
+msgid "Import Items..."
+msgstr "Importovať položky..."
+
+#: kraftdocpositionsedit.cpp:106
+msgid "Opens a dialog where multiple items can be imported from a text file."
+msgstr ""
+
+#: kraftdocpositionsedit.cpp:115
+msgid "Document Items"
+msgstr "Položky dokumentov"
+
+#: kraftglobals.h:26
+#, fuzzy
+msgid "all_calculation_parts"
+msgstr "Vývojár (framework, komponenty)"
+
+#: kraftglobals.h:27
+msgid "Time"
+msgstr "Čas"
+
+#: kraftglobals.h:28
+msgid "Fix"
+msgstr "Opraviť"
+
+#. i18n: ectx: label, entry (DoInit), group (system)
+#: kraftsettings.kcfg:8
+#, fuzzy
+msgid "Do Database Initialisation"
+msgstr "Internetová databáza filmov IMDb"
+
+#. i18n: ectx: label, entry (DoXmlArchive), group (system)
+#: kraftsettings.kcfg:12
+msgid "Do XML archiving of documents they're printed?"
+msgstr ""
+
+#. i18n: ectx: label, entry (XmlArchivePath), group (system)
+#: kraftsettings.kcfg:16
+msgid ""
+"Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps "
+"is used."
+msgstr ""
+
+#. i18n: ectx: label, entry (XmlDocPath), group (system)
+#: kraftsettings.kcfg:19
+msgid "The local xml document storage path"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:25
+#, fuzzy
+msgid "The default size of the document view dialog"
+msgstr "Východzí farebný model pre nové obrázky:"
+
+#. i18n: ectx: label, entry (RODocViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:28
+msgid "The default size of the read only document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewPosition), group (WindowSizes)
+#: kraftsettings.kcfg:31
+msgid "The default position of the document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (docViewSplitter), group (WindowSizes)
+#: kraftsettings.kcfg:34
+msgid "The splitter position of the document view dialog"
+msgstr ""
+
+#. i18n: ectx: label, entry (materialCatalogSize), group (WindowSizes)
+#: kraftsettings.kcfg:37
+msgid "The default size of the material catalog view"
+msgstr ""
+
+#. i18n: ectx: label, entry (assistantSplitterSetting), group (WindowSizes)
+#: kraftsettings.kcfg:40
+msgid "The splitter setting for the doc assistant"
+msgstr ""
+
+#. i18n: ectx: label, entry (plantTemplateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:43
+msgid "The window size of the template to document dialog for plants"
+msgstr ""
+
+#. i18n: ectx: label, entry (templateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:46
+#, fuzzy
+msgid "The window size of the template to document dialog"
+msgstr "Východzí farebný model pre nové obrázky:"
+
+#. i18n: ectx: label, entry (digestListColumnsLatest), group (WindowSizes)
+#: kraftsettings.kcfg:49
+msgid "The digest list column arrangement for the Latest-list"
+msgstr ""
+
+#. i18n: ectx: label, entry (digestListColumnsAll), group (WindowSizes)
+#: kraftsettings.kcfg:52
+msgid "The digest list column arrangement for the all-list"
+msgstr ""
+
+#. i18n: ectx: label, entry (digestListColumnsTime), group (WindowSizes)
+#: kraftsettings.kcfg:55
+msgid "The digest list column arrangement for timeline"
+msgstr ""
+
+#. i18n: ectx: label, entry (addressPickerSplitterSize), group (WindowSizes)
+#: kraftsettings.kcfg:58
+msgid "The sizes of the slider in the address picker Widget"
+msgstr ""
+
+#. i18n: ectx: label, entry (materialAddOnPercent), group (material)
+#: kraftsettings.kcfg:64
+msgid ""
+"Default percentage the sale price for a material should be higher than its "
+"purchase price"
+msgstr ""
+
+#. i18n: ectx: label, entry (lastMaterialChapter), group (material)
+#: kraftsettings.kcfg:68
+msgid "The name of the last selected chapter in the catalog"
+msgstr ""
+
+#. i18n: ectx: label, entry (Trml2PdfBinary), group (reporting)
+#: kraftsettings.kcfg:74
+msgid "The complete filename of the trml2pdf binary"
+msgstr ""
+
+#. i18n: ectx: label, entry (PdfOutputDir), group (reporting)
+#: kraftsettings.kcfg:78
+msgid "The path to the output directory for document pdfs"
+msgstr ""
+
+#. i18n: ectx: label, entry (doctype), group (userdefaults)
+#: kraftsettings.kcfg:84
+#, fuzzy
+msgid "The last created doc type."
+msgstr "alebo DOC&TYPE je:"
+
+#. i18n: ectx: label, entry (greeting), group (userdefaults)
+#: kraftsettings.kcfg:87
+msgid "The greeting below on the document footer."
+msgstr ""
+
+#. i18n: ectx: label, entry (salut), group (userdefaults)
+#: kraftsettings.kcfg:90
+msgid "The salut message on the document header."
+msgstr ""
+
+#. i18n: ectx: label, entry (InsertTemplChapterName), group (userdefaults)
+#: kraftsettings.kcfg:93
+msgid ""
+"The name of the catalog chapter where to store new templates in by default"
+msgstr ""
+
+#. i18n: ectx: label, entry (ImportItemsSchemaName), group (userdefaults)
+#: kraftsettings.kcfg:96
+msgid "The name of the last used import schema for items."
+msgstr ""
+
+#. i18n: ectx: label, entry (ImportItemsFileName), group (userdefaults)
+#: kraftsettings.kcfg:99
+msgid "The name of the last used input file for items."
+msgstr ""
+
+#. i18n: ectx: label, entry (UserName), group (userdefaults)
+#: kraftsettings.kcfg:102
+msgid ""
+"User name as reference to the KAddressbook to identify 'my' address "
+"(DEPRECATED)."
+msgstr ""
+
+#. i18n: ectx: label, entry (UserUid), group (userdefaults)
+#: kraftsettings.kcfg:105
+msgid ""
+"UID of the user as reference to the KAddressbook to identify 'my' address."
+msgstr ""
+
+#. i18n: ectx: label, entry (DocIdent), group (document)
+#: kraftsettings.kcfg:111
+#, fuzzy
+msgid "The doc id template"
+msgstr "Európska BD šablóna"
+
+#. i18n: ectx: label, entry (ShowDocumentLocale), group (document)
+#: kraftsettings.kcfg:115
+#, fuzzy
+msgid "Localization on document level"
+msgstr "Vložiť na najvyššiu úroveň"
+
+#. i18n: ectx: label, entry (DefaultTaxType), group (document)
+#: kraftsettings.kcfg:120
+#, fuzzy
+msgid "The tax default for new documents."
+msgstr "Východzí farebný model pre nové obrázky:"
+
+#. i18n: ectx: label, entry (AlternativeLabel), group (document)
+#: kraftsettings.kcfg:125
+#, fuzzy
+msgid "The label for alternative positions"
+msgstr "Teraz vyberte miesto pre výsledkové pole"
+
+#. i18n: ectx: label, entry (DemandLabel), group (document)
+#. i18n: ectx: label, entry (NormalLabel), group (document)
+#: kraftsettings.kcfg:128 kraftsettings.kcfg:131
+#, fuzzy
+msgid "The label for demand positions"
+msgstr "Teraz vyberte miesto pre výsledkové pole"
+
+#. i18n: ectx: Menu (document)
+#: kraftui.rc:4
+msgid "&Document"
+msgstr "Dokument"
+
+#. i18n: ectx: Menu (settings)
+#: kraftui.rc:15
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: kraftview.cpp:93 kraftview_ro.cpp:84
+msgid "Document"
+msgstr "Dokument"
+
+#: kraftview.cpp:369
+#, kde-format
+msgid ""
+"<qt><h2>The Document Items List is still empty, but Items can be added now.</"
+"h2>To add items to the document either <ul><li>Press the 'Add item' button "
+"above.</li><li>Open the template catalog by clicking on the '%1' button on "
+"the right and pick one of the available templates.</li></ul></qt>"
+msgstr ""
+
+#: kraftview.cpp:376
+#, fuzzy
+msgid "show Template"
+msgstr "Manga šablóna"
+
+#: kraftview.cpp:553 prefsdialog.cpp:291
+msgid "Display no tax at all"
+msgstr ""
+
+#: kraftview.cpp:554 prefsdialog.cpp:292
+msgid "Calculate reduced tax for all items"
+msgstr ""
+
+#: kraftview.cpp:555 prefsdialog.cpp:293
+msgid "Calculate full tax for all items"
+msgstr ""
+
+#: kraftview.cpp:556
+msgid "Calculate individual tax for each item"
+msgstr ""
+
+#: kraftview.cpp:617
+msgid "Really overwrite all individual tax settings of the items?"
+msgstr ""
+
+#: kraftview.cpp:618
+#, fuzzy
+msgid "Tax Settings Overwrite"
+msgstr "Prepísať štandardné priradenie"
+
+#: kraftview.cpp:787
+#, kde-format
+msgid ""
+"The address label is not empty and different from the selected one.<br/>Do "
+"you really want to replace it with the text shown below?<pre>%1</pre>"
+msgstr ""
+
+#: kraftview.cpp:789
+#, fuzzy
+msgid "Address Overwrite"
+msgstr "Prepísať súbor?"
+
+#: kraftview.cpp:1080
+msgid "Discount"
+msgstr "Zľava"
+
+#: kraftview.cpp:1385
+msgid "The document was modified. Do you really want to discard all changes?"
+msgstr ""
+
+#: kraftview.cpp:1387
+msgid "Document Modified"
+msgstr "Dokument zmenený"
+
+#: kraftview_ro.cpp:221
+#, fuzzy
+msgid "Reduced TAX"
+msgstr "Načítať zmenšenú verziu obrázka"
+
+#: kraftview_ro.cpp:248 reportgenerator.cpp:325
+#, fuzzy
+msgid "reduced VAT"
+msgstr "VAT detaily"
+
+#: main.cpp:34
+msgid "Kraft"
+msgstr "Kraft"
+
+#: main.cpp:36
+msgid "Business documents for the small enterprise"
+msgstr ""
+
+#: main.cpp:38
+#, fuzzy
+#| msgid "Copyright © 2004–2013 Klaas Freitag"
+msgid "Copyright © 2004–2014 Klaas Freitag"
+msgstr "Copyright © 2004–2013 Klaas Freitag"
+
+#: main.cpp:40
+msgid "Klaas Freitag"
+msgstr "Klaas Freitag"
+
+#: main.cpp:40 main.cpp:43
+msgid "Developer"
+msgstr "Vývojár"
+
+#: main.cpp:41
+#, fuzzy
+msgid "Johannes Spielhagen"
+msgstr "Johannes E. Schindelin"
+
+#: main.cpp:41
+#, fuzzy
+msgid "Graphics and Artwork"
+msgstr "Pôvodný nápad a grafika"
+
+#: main.cpp:43
+msgid "Thomas Richard"
+msgstr "Thomas Richard"
+
+#: main.cpp:52
+msgid ""
+"Kraft is free software for persons in small businesses\n"
+"writing correspondence like offers and invoices to their customers"
+msgstr ""
+
+#: main.cpp:62
+#, fuzzy
+msgid "Open document with doc number <number>"
+msgstr "Dokument na otvorenie"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, MaterialDialogBase)
+#: materialdialog.ui:14
+#, fuzzy
+msgid "Edit Material"
+msgstr "Parametere materiálu"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: materialdialog.ui:47
+#, fuzzy
+msgid "Store in C&hapter"
+msgstr "Uložiť heslá vo wallete"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: materialdialog.ui:95
+#, fuzzy
+msgid "Pac&kaged:"
+msgstr "&Balík"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: materialdialog.ui:124
+#, fuzzy
+msgid "per P&ackage"
+msgstr "Per Wigren"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: materialdialog.ui:142
+msgid "Prices"
+msgstr "Ceny"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: materialdialog.ui:166
+#, fuzzy
+msgid "= Price of &Sale:"
+msgstr "Ceny akcií"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: materialdialog.ui:207
+msgid "pl&us"
+msgstr "pl&us"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mInSaleAdd)
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mDiscountPercent)
+#: materialdialog.ui:223 positionwidget.ui:226
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: materialdialog.ui:235
+#, fuzzy
+msgid "&Purchase Price:"
+msgstr "Ceny akcií"
+
+#: materialkataloglistview.cpp:38
+msgid "Pack"
+msgstr "Komprimovanie"
+
+#: materialkataloglistview.cpp:40
+msgid "Purchase"
+msgstr "Kúpiť"
+
+#: materialkataloglistview.cpp:41
+msgid "Sale"
+msgstr "Sale"
+
+#: materialkataloglistview.cpp:42
+msgid "Last Modified"
+msgstr "Posledná zmena"
+
+#: materialkataloglistview.cpp:46
+#, fuzzy
+msgid "Material Catalog"
+msgstr "Katalóg CTAN"
+
+#: materialkatalogview.cpp:103
+#, fuzzy
+msgid "<new material>"
+msgstr "Parametere materiálu"
+
+#: materialkatalogview.cpp:132 templkatalogview.cpp:148
+#, fuzzy
+msgid "Do you really want to delete the template from the catalog?"
+msgstr "Naozaj chcete vymazať vybranú šablónu alarmov?"
+
+#: materialkatalogview.cpp:133 templkatalogview.cpp:149
+msgid "Delete Template"
+msgstr "Vymazať šablónu"
+
+#: materialselectdialog.cpp:38 materialselectdialog.cpp:43
+#, fuzzy
+msgid "Select Material for Calculation"
+msgstr "Vyberte teplotnú stupnicu"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailMat)
+#: matpartui.ui:14
+#, fuzzy
+msgid "Calculation Item Material"
+msgstr "Filtrovať túto položku"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: matpartui.ui:20
+#, fuzzy
+msgid "<h1>Calculation Part  'Material'</h1>"
+msgstr "Filtrovať túto položku"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: matpartui.ui:30
+#, fuzzy
+msgid "Add Material to the template calculation."
+msgstr "Vyberte teplotnú stupnicu"
+
+#. i18n: ectx: property (text), widget (QLabel, matLabel)
+#: matpartui.ui:60
+msgid "material"
+msgstr "materiál"
+
+#. i18n: ectx: property (text), widget (QLabel, einheitLabel)
+#: matpartui.ui:106
+msgid "unit"
+msgstr "jednotka"
+
+#: models/documentmodel.cpp:62
+msgid "Id"
+msgstr "Id"
+
+#: models/documentmodel.cpp:63
+#, fuzzy
+msgid "Doc. Number"
+msgstr "Počet riadkov:"
+
+#: models/documentmodel.cpp:64
+#, fuzzy
+msgid "Doc. Type"
+msgstr "alebo DOC&TYPE je:"
+
+#: models/documentmodel.cpp:66
+#, fuzzy
+msgid "Client Id"
+msgstr "Identifiká&cia klienta DHCP:"
+
+#: models/documentmodel.cpp:67
+msgid "Last modified"
+msgstr "Posledná zmena"
+
+#: models/documentmodel.cpp:68
+msgid "Creation date"
+msgstr "Dátum vytvorenia"
+
+#: models/documentmodel.cpp:70
+#, fuzzy
+msgid "Client Address"
+msgstr "Adresa &servera:"
+
+#: models/documentmodel.cpp:71
+msgid "Client"
+msgstr "Klient"
+
+#: models/documentmodel.cpp:142
+msgid "retrieving..."
+msgstr "získavanie..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mysqldetails.ui:19
+msgid ""
+"Please enter the MySQL Database server settings. \n"
+"\n"
+"For detailed setup instructions for the MySQL to use with Kraft please check "
+"the Kraft website."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: mysqldetails.ui:31
+#, fuzzy
+msgid "Database Host:"
+msgstr "Neznámy hostiteľ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: mysqldetails.ui:41
+msgid "Database Name:"
+msgstr "Názov databázy:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: mysqldetails.ui:65
+msgid "Password:"
+msgstr "Heslo:"
+
+#: newdocassistant.cpp:53
+msgid ""
+"Please select a customer as addressee for the document. If there is no entry "
+"for the customer in the addressbook yet, it can be opened by clicking on the "
+"button below."
+msgstr ""
+
+#: newdocassistant.cpp:97
+msgid ""
+"Select a document type and a date. A comment on the whiteboard helps to "
+"classify the document."
+msgstr ""
+
+#: newdocassistant.cpp:105
+#, fuzzy
+msgid "Customer: Not yet selected!"
+msgstr "Nastavenie nie je implementované"
+
+#: newdocassistant.cpp:118
+msgid "Document &Type:"
+msgstr "Typ dokumentu:"
+
+#: newdocassistant.cpp:122
+#, fuzzy
+msgid "Document Date: "
+msgstr "dátum: %1; autor: %2"
+
+#: newdocassistant.cpp:125
+#, fuzzy
+msgid "Whiteboard Content:"
+msgstr "Sťahovač obsahu"
+
+#: newdocassistant.cpp:159
+#, fuzzy
+msgid "<h2>Document Details</h2>"
+msgstr "Režim zobrazenia podrobností"
+
+#: newdocassistant.cpp:163
+#, fuzzy
+msgid "<h2>Select an Addressee</h2>"
+msgstr "Vybrať nasledujúcu kartu"
+
+#: newdocassistant.cpp:165
+#, fuzzy
+msgid "Document Creation Wizard"
+msgstr "Sprievodca vytvorením certifikátu"
+
+#: numbercycledialog.cpp:52
+#, fuzzy
+msgid "Edit Number Cycles"
+msgstr "Obmedziť počet článkov"
+
+#: numbercycledialog.cpp:68
+msgid ""
+"The template may contain the following tags:<ul><li>%y or %yyyy - the year "
+"of the documents date.</li><li>%yy - the year of the document (two digits).</"
+"li><li>%w - the week number of the documents date.</li><li>%ww - the week "
+"number of the documents date with leading zero.</li><li>%d - the day number "
+"of the documents date.</li><li>%dd - the day number of the documents date "
+"with leading zero.</li><li>%m or %M - the month number of the documents date."
+"</li><li>%MM - the month number with leading zero.</li><li>%c - the customer "
+"id from kaddressbook</li><li>%i - the unique counter</li><li>%type - the "
+"localised doc type (offer, invoice etc.)</li><li>%uid - the contact id of "
+"the client.</li></ul>%i needs to be part of the template."
+msgstr ""
+
+#: numbercycledialog.cpp:131
+#, fuzzy
+msgid "Doc-Type"
+msgstr "alebo DOC&TYPE je:"
+
+#: numbercycledialog.cpp:203
+#, fuzzy
+msgid "Add Number Cycle"
+msgstr "Pridať telefónne číslo"
+
+#: numbercycledialog.cpp:204
+#, fuzzy
+msgid "Enter the name of a new number cycle."
+msgstr "Zadajte názov novej témy pre emotikony:"
+
+#: numbercycledialog.cpp:261
+#, kde-format
+msgid ""
+"The numbercycle %1 is still assigned to a document type.The number cycle can "
+"not be deleted as long as it is assigned to a document type."
+msgstr ""
+
+#: numbercycledialog.cpp:264
+#, fuzzy
+msgid "Numbercycle Deletion"
+msgstr "Odstránenie diff:"
+
+#: numbercycledialog.cpp:321
+msgid ""
+"The new counter is lower than the old one. That has potential to create "
+"duplicate document numbers. Do you really want to decrease it?"
+msgstr ""
+
+#: numbercycledialog.cpp:323
+#, fuzzy
+msgid "Dangerous Counter Change"
+msgstr "Prepnúť sa na pracovnú plochu 1"
+
+#. i18n: ectx: property (text), widget (QLabel, mHeader)
+#: numbercycleseditbase.ui:17
+#, fuzzy
+msgid "<h3>Edit Number Cycles</h3>"
+msgstr "Obmedziť počet článkov"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: numbercycleseditbase.ui:27
+#, fuzzy
+msgid "Number Cycle Details"
+msgstr "Režim zobrazenia podrobností"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: numbercycleseditbase.ui:39
+#, fuzzy
+msgid "&Number Cycle:"
+msgstr "Cyklus kalibrácie"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: numbercycleseditbase.ui:52
+msgid "&Counter:"
+msgstr "Počítadlo:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: numbercycleseditbase.ui:85
+#, fuzzy
+msgid "ident &Template:"
+msgstr "Manga šablóna"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: numbercycleseditbase.ui:123
+msgid "&Select a number cycle and edit the details on the right:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QListWidget, mCycleListBox)
+#: numbercycleseditbase.ui:142
+msgid "New Item"
+msgstr "Nová položka"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: numbercycleseditbase.ui:171
+msgid "add"
+msgstr "pridať"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: numbercycleseditbase.ui:181
+msgid "remove"
+msgstr "odstrániť"
+
+#: portal.cpp:117
+msgid "Create Document"
+msgstr "Vytvoriť dokument"
+
+#: portal.cpp:122
+#, fuzzy
+msgid "Copy Document"
+msgstr "Vzťahy dokumentu"
+
+#: portal.cpp:127
+#, fuzzy
+msgid "Follow Document"
+msgstr "Vzťahy dokumentu"
+
+#: portal.cpp:132
+msgid "Print Document"
+msgstr "Tlačiť dokument"
+
+#: portal.cpp:137
+#, fuzzy
+msgid "Open Archived Document"
+msgstr "Dokument na otvorenie"
+
+#: portal.cpp:141
+#, fuzzy
+msgid "Show Document"
+msgstr "Ukázať názov dokumentu"
+
+#: portal.cpp:146
+msgid "Edit Document"
+msgstr "Upraviť dokument"
+
+#: portal.cpp:151
+#, fuzzy
+msgid "&Mail Document"
+msgstr "Vzťahy dokumentu"
+
+#: portal.cpp:163
+msgid "Quits the application"
+msgstr "Ukončí aplikáciu"
+
+#: portal.cpp:167
+msgid "Enables/disables the statusbar"
+msgstr "Zobrazí/skryje stavový riadok"
+
+#: portal.cpp:169
+msgid "Creates a new Document"
+msgstr "Vytvorí nový dokument"
+
+#: portal.cpp:170
+msgid "Print and archive this Document"
+msgstr ""
+
+#: portal.cpp:171
+msgid "Creates a new document which is a copy of the selected document"
+msgstr ""
+
+#: portal.cpp:172
+#, fuzzy
+msgid "Create a followup document for the current document"
+msgstr "Vytvoriť dočasný pracovný súbor pre dokument"
+
+#: portal.cpp:173
+#, fuzzy
+msgid "Opens the document for editing"
+msgstr "Otvoriť už existujúci dokument pre úpravu"
+
+#: portal.cpp:174
+msgid "Opens a read only view on the document."
+msgstr ""
+
+#: portal.cpp:175
+#, fuzzy
+msgid "Send document per mail"
+msgstr "Pošli výber mailom"
+
+#: portal.cpp:176
+msgid ""
+"Edit the available tag templates which can be assigned to document items."
+msgstr ""
+
+#: portal.cpp:177
+msgid "Configure the Database Kraft is working on."
+msgstr ""
+
+#: portal.cpp:179
+msgid "Open a viewer on an archived document"
+msgstr ""
+
+#: portal.cpp:279
+#, kde-format
+msgid ""
+"Kraft can not connect to the specified MySQL server. Please check the Kraft "
+"database settings, check if the server is running and verify if a database "
+"with the name %1 exits!"
+msgstr ""
+
+#: portal.cpp:283
+#, kde-format
+msgid ""
+"The database with the name %1 does not exist on the database server. Please "
+"make sure the database exists and is accessible by the user running Kraft."
+msgstr ""
+
+#: portal.cpp:287
+msgid ""
+"The Qt database driver could not be loaded. That probably means, that they "
+"are not installed. Please make sure the Qt database packages are installed "
+"and try again."
+msgstr ""
+
+#: portal.cpp:291
+#, fuzzy, kde-format
+msgid "There is a database problem: %1"
+msgstr "Na tlačiarni '%1' sa vyskytol problém."
+
+#: portal.cpp:308
+#, fuzzy
+msgid "Database Problem."
+msgstr "[Externý problém]"
+
+#: portal.cpp:315
+#, fuzzy
+msgid "Check commandline actions"
+msgstr "Akcie udalostí prezentácie"
+
+#: portal.cpp:381
+msgid "Creating new document..."
+msgstr "Vytváram nový dokument..."
+
+#: portal.cpp:471
+#, fuzzy
+msgid "Opening document to view..."
+msgstr "Použiť vlastnosti zobrazenia na"
+
+#: portal.cpp:506 portal.cpp:529
+#, fuzzy
+msgid "Generating PDF..."
+msgstr "Zapísať PDF"
+
+#: portal.cpp:632
+#, fuzzy
+msgid "Printing archived document..."
+msgstr "Zobrazí dokument, vzťahy dokumentu"
+
+#: portal.cpp:680
+#, kde-format
+msgid "Opening document %1"
+msgstr "Otváram dokument %1"
+
+#: portal.cpp:843
+msgid "Exiting..."
+msgstr "Ukončujem..."
+
+#: portal.cpp:891
+msgid "Toggle the statusbar..."
+msgstr "Prepnúť stavový riadok..."
+
+#: portalview.cpp:63
+msgid "Catalogs"
+msgstr "Katalógy"
+
+#: portalview.cpp:69
+#, fuzzy
+msgid "Kraft Document Overview"
+msgstr "Vybrať orientačnú mapu"
+
+#: portalview.cpp:78 portalview.cpp:95
+#, fuzzy
+msgid "Available Catalogs"
+msgstr "Dostupné vylepšenia systému"
+
+#: portalview.cpp:80
+#, fuzzy
+msgid "No catalogs available."
+msgstr "Nie je dostupný popis."
+
+#: portalview.cpp:128
+msgid "Open"
+msgstr "Otvoriť"
+
+#: portalview.cpp:149
+msgid "XML Export"
+msgstr "XML export"
+
+#: portalview.cpp:177
+#, fuzzy
+msgid "System Details"
+msgstr "Detaily účtu"
+
+#: portalview.cpp:196
+#, fuzzy
+msgid "<h2>Welcome to Kraft</h2>"
+msgstr "Víta vás asistent pre hlásenie pádu"
+
+#: portalview.cpp:198
+#, fuzzy, kde-format
+msgid "Kraft Version: %1</td>"
+msgstr "<tr><td><i>Verzia USB</i></td><td>%1.%2</td></tr>"
+
+#: portalview.cpp:208
+#, fuzzy
+msgid "Country Setting: "
+msgstr "Východzie nastavenia"
+
+#: portalview.cpp:212
+#, fuzzy
+msgid "Language Setting: "
+msgstr "Východzie nastavenia"
+
+#: portalview.cpp:226
+msgid "Database Information"
+msgstr "Informácie o databáze"
+
+#: portalview.cpp:228
+#, fuzzy
+msgid "Kraft database name:"
+msgstr "Meno databázového ovládača"
+
+#: portalview.cpp:231
+#, fuzzy
+msgid "Database schema version:"
+msgstr "Systémy pre správu verzií"
+
+#: portalview.cpp:239
+#, fuzzy
+msgid "Qt database driver:"
+msgstr "Vybrať databázový ovládač"
+
+#: portalview.cpp:242
+msgid "Database connection:"
+msgstr "Pripojenie k databáze:"
+
+#: portalview.cpp:248
+#, fuzzy
+msgid "established"
+msgstr "Pripojenie nadviazané."
+
+#: portalview.cpp:250
+msgid "<font color=\"red\">NOT AVAILABLE!</font>"
+msgstr "<font color=\"red\">NEDOSTUPNÉ!</font>"
+
+#: portalview.cpp:259
+#, fuzzy
+msgid "Database Version:"
+msgstr "Verzia frameworku"
+
+#: portalview.cpp:265
+msgid "External Tools"
+msgstr "Externé nástroje"
+
+#: portalview.cpp:267
+msgid "RML to PDF conversion tool:"
+msgstr ""
+
+#: portalview.cpp:272
+msgid "not found!"
+msgstr "nenájdené!"
+
+#: portalview.cpp:274
+#, fuzzy
+msgid "iconv tool for text import:"
+msgstr "Plugin textového editora pre textový nástroj KOffice"
+
+#: portalview.cpp:288
+msgid ""
+"There is a initialisation error on your system. Kraft will not work that way."
+msgstr ""
+
+#: portalview.cpp:304
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: positiontagdialog.cpp:82
+#, fuzzy
+msgid "Edit Item Tags"
+msgstr "Editovať aktuálne označený prvok"
+
+#: positiontagdialog.cpp:91
+#, fuzzy
+msgid "<h2>Item Tags</h2>"
+msgstr "Priradiť štítky &tejto položke"
+
+#: positiontagdialog.cpp:92
+msgid "Select all tags for the item should be tagged with."
+msgstr ""
+
+#: positiontagdialog.cpp:107 tagtemplatesdialog.cpp:124
+msgid "Tag"
+msgstr "Značka"
+
+#: positiontagdialog.cpp:108 tagtemplatesdialog.cpp:125
+msgid "Color"
+msgstr "Farba"
+
+#: positiontagdialog.cpp:109 tagtemplatesdialog.cpp:126
+msgid "Description"
+msgstr "Popis"
+
+#: positionviewwidget.cpp:91
+#, fuzzy
+msgid "Item Actions"
+msgstr "Vstupné akcie"
+
+#: positionviewwidget.cpp:94
+#, fuzzy
+msgid "Item Kind"
+msgstr "Vstupné akcie"
+
+#: positionviewwidget.cpp:95 positionviewwidget.cpp:671
+msgid "Normal"
+msgstr "Normálne"
+
+#: positionviewwidget.cpp:97 positionviewwidget.cpp:679
+msgid "Alternative"
+msgstr "Alternatívne"
+
+#: positionviewwidget.cpp:99
+#, fuzzy
+msgid "On Demand"
+msgstr "Aktualizovať na požiadanie"
+
+#: positionviewwidget.cpp:107
+#, fuzzy
+msgid "Taxfree Item"
+msgstr "Zobraziť položku"
+
+#: positionviewwidget.cpp:113
+#, fuzzy
+msgid "Reduced Tax"
+msgstr "Načítať zmenšenú verziu obrázka"
+
+#: positionviewwidget.cpp:119
+#, fuzzy
+msgid "Full Tax"
+msgstr "Celá cache"
+
+#: positionviewwidget.cpp:128
+msgid "Move Up"
+msgstr "Posunúť hore"
+
+#: positionviewwidget.cpp:130
+msgid "Move Down"
+msgstr "Posunúť dole"
+
+#: positionviewwidget.cpp:132
+#, fuzzy
+#| msgid "No Items"
+msgid "Lock Item"
+msgstr "Žiadne položky"
+
+#: positionviewwidget.cpp:134
+#, fuzzy
+#| msgid "No Items"
+msgid "Unlock Item"
+msgstr "Žiadne položky"
+
+#: positionviewwidget.cpp:136
+#, fuzzy
+#| msgid "Delete template"
+msgid "Delete Item"
+msgstr "Vymazať šablónu"
+
+#: positionviewwidget.cpp:220
+msgid "All items"
+msgstr "Všetky položky"
+
+#: positionviewwidget.cpp:230
+#, fuzzy, kde-format
+msgid "%1-tagged items"
+msgstr "Blokovateľné položky:"
+
+#: positionviewwidget.cpp:262
+#, kde-format
+msgid "Tag: %1"
+msgstr "Štítok: %1"
+
+#: positionviewwidget.cpp:264
+msgid "Tags:<ul>"
+msgstr "Značky:<ul>"
+
+#: positionviewwidget.cpp:275
+#, fuzzy
+msgid "No tags assigned yet."
+msgstr "Žiadne nedávno pridelené štítky"
+
+#: positionviewwidget.cpp:412
+msgid "Active"
+msgstr "Aktívne"
+
+#: positionviewwidget.cpp:414
+msgid "New"
+msgstr "Nové"
+
+#: positionviewwidget.cpp:416
+msgid "Deleted"
+msgstr "Odstránené"
+
+#: positionviewwidget.cpp:418
+msgid "Locked"
+msgstr "Zamknuté"
+
+#: positionviewwidget.cpp:618
+msgid ""
+"This is an alternative item.<br/><br/> Use the position toolbox to change "
+"the item type."
+msgstr ""
+
+#: positionviewwidget.cpp:634
+msgid ""
+"This item is either completely optional or its amount varies depending on "
+"the needs.<br/><br/>Use the item toolbox to change the item type."
+msgstr ""
+
+#: positionviewwidget.cpp:675
+#, fuzzy
+msgid "Demand"
+msgstr "Aktualizovať na požiadanie"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPosition)
+#: positionwidget.ui:46
+msgid "1."
+msgstr "1."
+
+#. i18n: ectx: property (text), widget (QLabel, lStatus)
+#. i18n: ectx: property (text), widget (QLabel, lKind)
+#: positionwidget.ui:103 positionwidget.ui:132
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (QLabel, mDiscountLabel)
+#: positionwidget.ui:233
+#, fuzzy
+msgid "of the sum of"
+msgstr "Spolu"
+
+#: prefsdialog.cpp:72
+#, fuzzy
+msgid "Configure Kraft"
+msgstr "Nastavenie &filtrov..."
+
+#: prefsdialog.cpp:91
+msgid "Taxes"
+msgstr "Dane"
+
+#: prefsdialog.cpp:99
+msgid "Tax rates beginning at date:"
+msgstr ""
+
+#: prefsdialog.cpp:146
+msgid "Wages"
+msgstr ""
+
+#: prefsdialog.cpp:155
+msgid "Units"
+msgstr "Jednotky"
+
+#: prefsdialog.cpp:164
+msgid "Own Identity"
+msgstr ""
+
+#: prefsdialog.cpp:172
+msgid ""
+"Select the identity of the sending entity of documents. That's <b>your "
+"companies</b> address."
+msgstr ""
+
+#: prefsdialog.cpp:192
+msgid "Select Identity..."
+msgstr "Vybrať identitu..."
+
+#: prefsdialog.cpp:246
+msgid "Document Defaults"
+msgstr "Predvolené hodnoty dokumentu"
+
+#: prefsdialog.cpp:257
+msgid "&Default document type on creation:"
+msgstr ""
+
+#: prefsdialog.cpp:262
+msgid "New documents default to the selected type."
+msgstr ""
+
+#: prefsdialog.cpp:271
+#, fuzzy
+msgid "Enable &Localization on Document Level"
+msgstr "Vložiť na najvyššiu úroveň"
+
+#: prefsdialog.cpp:272
+msgid ""
+"Checking this enables language settings for each document.<br>Leave it "
+"unchecked to use the KDE Workspace default settings for the document "
+"localisation."
+msgstr ""
+
+#: prefsdialog.cpp:284
+#, fuzzy
+msgid "Default &Tax for Documents:"
+msgstr "Vykresľovanie textových dokumentov OpenOffice"
+
+#: prefsdialog.cpp:290
+msgid "The default tax setting for all documents."
+msgstr ""
+
+#: prefsdialog.cpp:306
+#, fuzzy
+msgid "Document Types"
+msgstr "Známe typy"
+
+#: prefsdialog.cpp:327
+msgid ""
+"The old default doc type for new documents was just deleted.Please check the "
+"setting in the Document Defaults in the Kraft preferences Dialog."
+msgstr ""
+
+#: prefsdialog.cpp:330
+#, fuzzy
+msgid "Document Default Change"
+msgstr "&Znovu načítať dokument pri zmene súboru"
+
+#: prefsdialog.cpp:402
+#, fuzzy
+msgid "The identity is not listed in an address book."
+msgstr "&Tajný kanál, kanál nie je uvedený v zozname kanálov"
+
+#: prefsdialog.cpp:404
+msgid ""
+"<p><b>Kraft does not know your identity.</b></p><p>Please pick one from the "
+"address books by clicking on the Button below.</p><p>Not having an identity "
+"selected can make your documents look incomplete.</p>"
+msgstr ""
+
+#: prefsdialog.cpp:408
+#, fuzzy
+msgid "Your identity can be found in the address books."
+msgstr "&Tajný kanál, kanál nie je uvedený v zozname kanálov"
+
+#: prefsdialog.cpp:419
+msgid "Work Phone"
+msgstr "Telefón do práce"
+
+#: prefsdialog.cpp:420
+msgid "Fax"
+msgstr "Fax"
+
+#: prefsdialog.cpp:421
+msgid "Cell Phone"
+msgstr "Mobilný telefón"
+
+#: prefsunits.cpp:150
+#, fuzzy
+msgid "Edit a unit"
+msgstr "Prevod jednotiek"
+
+#: prefsunits.cpp:184
+#, fuzzy
+msgid "<h1>Edit unit</h1>"
+msgstr "Atómová hmotnostná jednotka"
+
+#: prefswages.cpp:78
+msgid "Up"
+msgstr "Hore"
+
+#: prefswages.cpp:83
+msgid "Down"
+msgstr "Dolu"
+
+#: prefswages.cpp:199
+#, fuzzy
+msgid "Edit a wage group"
+msgstr "Chyba pri načítavaní skupiny: "
+
+#: prefswages.cpp:233
+msgid "<h1>Edit wage group</h1>"
+msgstr ""
+
+#: quicksearchwidget.cpp:38
+msgctxt "Search contacts in list"
+msgid "Search"
+msgstr "Hľadať"
+
+#: reportgenerator.cpp:137
+#, kde-format
+msgid ""
+"A document template named %1 could not be loaded. Please check the "
+"installation."
+msgstr ""
+
+#: reportgenerator.cpp:139
+#, fuzzy
+msgid "Template not found"
+msgstr "Súbor nenájdený"
+
+#: reportgenerator.cpp:191
+#, kde-format
+msgid ""
+"The template file could not be opened: %1\n"
+"Please check the setup and the doc type configuration."
+msgstr ""
+
+#: reportgenerator.cpp:193
+#, fuzzy
+msgid "Template Error"
+msgstr "Uložiť ako ša&blónu"
+
+#: reportgenerator.cpp:503
+msgid ""
+"The utility to create PDF from the rml file could not be found, but is "
+"required to create documents.Please make sure the package is installed "
+"accordingly."
+msgstr ""
+
+#: reportgenerator.cpp:506
+#, fuzzy
+msgid "Document Generation Error"
+msgstr "Chyba vo vloženom dokumente"
+
+#: reportgenerator.cpp:514
+msgid ""
+"The Watermark file to merge with the document could not be found. Merge is "
+"going to be disabled."
+msgstr ""
+
+#: reportgenerator.cpp:516
+#, fuzzy
+msgid "Watermark Error"
+msgstr "Chyba modulu"
+
+#: reportgenerator.cpp:581
+#, fuzzy, kde-format
+msgid "Program ended with status %1"
+msgstr "Program '%1' ukončený so stavom %2."
+
+#: reportgenerator.cpp:595
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>ReportLab</b> "
+"which can not be found.<br/>Please make sure the package is installed on "
+"your computer."
+msgstr ""
+
+#: reportgenerator.cpp:599
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>pyPdf</b> which "
+"can not be found.<br/>Please make sure the package is installed on your "
+"computer."
+msgstr ""
+
+#: reportgenerator.cpp:603
+msgid "Unknown problem."
+msgstr "Neznáma chyba."
+
+#: reportgenerator.cpp:606
+msgid "Could not generate the pdf file. The pdf creation script failed."
+msgstr ""
+
+#: reportgenerator.cpp:608
+#, fuzzy
+msgid "PDF Generation Error"
+msgstr "Chyba analýzy OPML"
+
+#: setupassistant.cpp:184 setupassistant.cpp:197
+#, kde-format
+msgid "0/%1"
+msgstr "0/%1"
+
+#: setupassistant.cpp:216 setupassistant.cpp:225 setupassistant.cpp:260
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: setupassistant.cpp:284
+msgid ""
+"Select your own address from the address book. It is set as a consigner on "
+"the documents."
+msgstr ""
+
+#: setupassistant.cpp:347
+msgid "Welcome to the Kraft Setup Assistant"
+msgstr ""
+
+#: setupassistant.cpp:351
+#, fuzzy
+msgid "Select the Database Backend"
+msgstr "Vybrať databázový ovládač"
+
+#: setupassistant.cpp:355
+msgid "Enter MySQL Database Setup Details"
+msgstr ""
+
+#: setupassistant.cpp:359
+#, fuzzy
+msgid "Enter SQLite Filename"
+msgstr "Zadajte názov súboru HTML:"
+
+#: setupassistant.cpp:363
+#, fuzzy
+msgid "Creating the Database..."
+msgstr "Databáza skratiek"
+
+#: setupassistant.cpp:367
+#, fuzzy
+msgid "Upgrade the Database Schema"
+msgstr "Farebná schéma Kate"
+
+#: setupassistant.cpp:371
+msgid "My Own Address Data"
+msgstr ""
+
+#: setupassistant.cpp:375
+#, fuzzy
+msgid "Setup Finished."
+msgstr "Sťahovanie bolo dokončené"
+
+#: setupassistant.cpp:420
+msgid ""
+"<p>Can't connect to your database. Are you sure your credentials are correct "
+"and the database exists?</p>"
+msgstr ""
+
+#: setupassistant.cpp:425
+msgid "<p>Can't open your database file, check the permissions and such."
+msgstr ""
+
+#: setupassistant.cpp:434
+msgid ""
+"<p>The database is already existing, no action needs to be taken here.</"
+"p><p>Please hit <b>next</b> to proceed.</p>"
+msgstr ""
+
+#: setupassistant.cpp:477
+msgid "<p>The database setup was successfully completed.</p>"
+msgstr ""
+
+#: setupassistant.cpp:478
+msgid "<p>You can start to work with Kraft now. Please do not forget to</p>"
+msgstr ""
+
+#: setupassistant.cpp:480
+msgid "<li>adjust various settings in the Kraft Preferences dialog.</li>"
+msgstr ""
+
+#: setupassistant.cpp:481
+msgid "<li>Check the Catalog chapter list.</li>"
+msgstr ""
+
+#: setupassistant.cpp:482
+msgid "<li>Make your business and have fun.</li>"
+msgstr ""
+
+#: setupassistant.cpp:484
+msgid ""
+"<p>If you press <i>Finish</i> now, the new database configuration is stored "
+"in Krafts configuration.</p>"
+msgstr ""
+
+#: setupassistant.cpp:497
+msgid ""
+"The Database can not be connected. Please check the database credentials."
+msgstr ""
+
+#: setupassistant.cpp:503
+msgid "The database core tables do not exist. Please check initial setup."
+msgstr ""
+
+#: setupassistant.cpp:510
+msgid "Database is up to date. No upgrade is required."
+msgstr ""
+
+#: setupassistant.cpp:515
+#, fuzzy
+msgid "Parse Update Commands..."
+msgstr "Vykonanie príkazov shellu"
+
+#: setupassistant.cpp:526
+#, fuzzy, kde-format
+msgid "Reading upgrade command file %1"
+msgstr "Správa, súbor alebo príkaz"
+
+#: setupassistant.cpp:559
+#, fuzzy
+msgid "The Upgrade failed!"
+msgstr "Prihlásenie zlyhalo."
+
+#: setupassistant.cpp:561
+#, kde-format
+msgid "The Upgrade succeeded, the current schema version is %1!"
+msgstr ""
+
+#: setupassistant.cpp:572
+msgid ""
+"The Database can not be connected. Please check the database credentials!"
+msgstr ""
+
+#: setupassistant.cpp:578
+#, fuzzy
+msgid "Parse Create Commands..."
+msgstr "Upraviť príkazy"
+
+#: setupassistant.cpp:586
+msgid "Parse database fillup commands..."
+msgstr ""
+
+#: setupassistant.cpp:599
+#, fuzzy
+msgid "Processing database creation commands..."
+msgstr "Vytváranie databáz pre každého"
+
+#: setupassistant.cpp:616
+msgid "Process database fillup commands..."
+msgstr ""
+
+#: setupassistant.cpp:621
+#, fuzzy
+msgid "Successfully finished commands."
+msgstr "Proces skončil úspešne"
+
+#: setupassistant.cpp:623
+#, fuzzy
+msgid "Failed to perform all commands."
+msgstr "Nepodarilo sa získať všetky CSS kľúče."
+
+#: setupassistant.cpp:696
+msgid ""
+"This assistant guides you through the basic settings of your Kraft "
+"installation."
+msgstr ""
+
+#: setupassistant.cpp:709
+msgid ""
+"The database configuration was converted from a former configuration file."
+msgstr ""
+
+#: setupassistant.cpp:712
+#, fuzzy
+msgid "There was no database configuration found."
+msgstr "Žiaden XMI súbor nebol nájdený v komprimovanom súbore %1."
+
+#: setupassistant.cpp:715
+msgid "A valid current database configuration file was found."
+msgstr ""
+
+#: setupassistant.cpp:734
+msgid ""
+"<p>The database can be opened, but does not contain valid content.</p><p>A "
+"new database can be created automatically from scratch.</p>"
+msgstr ""
+
+#: setupassistant.cpp:741
+msgid "<p>Kraft could not connect to the configured database.<p>"
+msgstr ""
+
+#: setupassistant.cpp:743
+msgid "<p>Please check the database server setup and restart Kraft to connect."
+msgstr ""
+
+#: setupassistant.cpp:745
+#, fuzzy
+msgid "<p>Please check the database file."
+msgstr "Súborovo orientovaný ovládač databázy"
+
+#: setupassistant.cpp:747
+msgid "or create a new database by hitting <b>next</b>.</p>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sqlitedetails.ui:21
+msgid ""
+"Please enter the SQLite Database Settings.\n"
+"\n"
+"Pick a filename to name the SQLite database file or leave the default "
+"setting."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbDefault)
+#: sqlitedetails.ui:31
+msgid "store the database file at default place."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbCustom)
+#: sqlitedetails.ui:43
+#, fuzzy
+msgid "select a file name:"
+msgstr "Z názvu &súboru"
+
+#: tagtemplatesdialog.cpp:46
+#, fuzzy
+msgid "Edit Tag Template"
+msgstr "Upraviť vlastnosti šablóny"
+
+#: tagtemplatesdialog.cpp:54
+#, fuzzy
+msgid "<h2>Edit a Tag Template</h2>"
+msgstr "Upraviť zobrazenie šablóny alarmu"
+
+#: tagtemplatesdialog.cpp:55
+msgid "Adjust settings for name, color and description."
+msgstr ""
+
+#: tagtemplatesdialog.cpp:59
+msgid "Name:"
+msgstr "Názov:"
+
+#: tagtemplatesdialog.cpp:63
+msgid "Description:"
+msgstr "Popis:"
+
+#: tagtemplatesdialog.cpp:70
+#, fuzzy
+msgid "Associated Color:"
+msgstr "Obyčajná farba"
+
+#: tagtemplatesdialog.cpp:106 tagtemplatesdialog.cpp:114
+#, fuzzy
+msgid "Edit Tag Templates"
+msgstr "Nie je možné upravovať koreňový štítok"
+
+#: tagtemplatesdialog.cpp:115
+msgid "Add, edit and remove tag templates for use in the documents."
+msgstr ""
+
+#: tagtemplatesdialog.cpp:139
+msgid "Add..."
+msgstr "Pridať..."
+
+#: tagtemplatesdialog.cpp:140
+msgid "Edit..."
+msgstr "Upraviť..."
+
+#: tagtemplatesdialog.cpp:142
+msgid "Delete..."
+msgstr "Vymazať..."
+
+#: tagtemplatesdialog.cpp:184
+#, fuzzy
+msgid "Do you really want to delete the template?"
+msgstr "Naozaj chcete vymazať vybranú šablónu alarmov?"
+
+#: tagtemplatesdialog.cpp:185
+#, fuzzy
+msgid "Delete Tag Template"
+msgstr "Vymazať šablónu alarmov"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: taxeditbase.ui:20
+#, fuzzy
+msgid "<h2>Add a Tax Rate</h2>"
+msgstr "Upraviť zobrazenie šablóny alarmu"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: taxeditbase.ui:32
+msgid "Start-Date:"
+msgstr "Počiatočný dátum:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: taxeditbase.ui:68
+#, fuzzy
+msgid "&Reduced Tax Rate:"
+msgstr "Ohodnotiť túto položku"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2a)
+#: taxeditbase.ui:84
+#, fuzzy
+msgid "&Full Tax Rate:"
+msgstr "Ohodnotiť túto položku"
+
+#: taxeditdialog.cpp:35
+#, fuzzy
+msgid "Edit Tax Rates"
+msgstr "Jednoduchý textový editor"
+
+#: templkatalog.cpp:344
+#, fuzzy
+msgid "Export XML Katalog"
+msgstr "OPML osnovy (*.opml, *.xml)"
+
+#: templkataloglistview.cpp:46
+#, fuzzy
+msgid "Calc. Type"
+msgstr "<b>Typ:</b> %1<br/>"
+
+#: templkataloglistview.cpp:50
+#, fuzzy
+msgid "Template Catalog"
+msgstr "Katalóg CTAN"
+
+#: templkatalogview.cpp:110
+#, fuzzy
+msgid "<new template>"
+msgstr "nová_šablóna"
+
+#: templtopositiondialogbase.cpp:32
+#, fuzzy
+msgid "Create Position from Template"
+msgstr "&Vytvoriť šablónu z dokumentu..."
+
+#: templtopositiondialogbase.cpp:50
+msgid "the Header of the Document as first position"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: texteditbase.ui:32
+#, fuzzy
+msgid "Edit Document Text Template"
+msgstr "&Vytvoriť šablónu z dokumentu..."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditbase.ui:57
+msgid "&Name:"
+msgstr "&Názov:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: texteditbase.ui:91
+#, fuzzy
+msgid "displayed as"
+msgstr "&Označiť ako"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_44)
+#: texteditbase.ui:129
+#, fuzzy
+msgid "in doc type"
+msgstr "alebo DOC&TYPE je:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: texteditbase.ui:179
+msgid "&Text:"
+msgstr "&Text:"
+
+#: texteditdialog.cpp:41
+#, fuzzy
+msgid "Edit Text Templates"
+msgstr "Jednoduchý textový editor"
+
+#: texteditdialog.cpp:52
+#, kde-format
+msgid "Edit %1 Template"
+msgstr "Upraviť šablónu %1"
+
+#: textselection.cpp:105
+#, fuzzy
+msgid "Template Actions"
+msgstr "Vstupné akcie"
+
+#: textselection.cpp:134
+msgid "This is the standard text used in new documents."
+msgstr ""
+
+#: textselection.cpp:143
+#, fuzzy, kde-format
+msgid "%1 Templates for %2"
+msgstr "Informácia: Hľadám šablóny.\n"
+
+#: textselection.cpp:151
+#, kde-format
+msgid ""
+"There is no %1 template text available for document type %2.<br/>Click the "
+"add-button below to create one."
+msgstr ""
+
+#: textselection.cpp:209
+#, fuzzy
+msgid "&Use in Document"
+msgstr "Do&zadu v dokumente"
+
+#: texttemplate.cpp:130
+msgid "No file name given for template"
+msgstr ""
+
+#: texttemplate.cpp:138
+#, fuzzy, kde-format
+msgid "Could not find template file %1"
+msgstr "Nepodarilo sa nájsť súbor %1. Preskakuje sa..."
+
+#: texttemplate.cpp:147
+#, fuzzy
+msgid "Failed to open template source"
+msgstr "Nepodarilo sa otvoriť súbor so záznamom."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailTime)
+#: timepart.ui:14
+#, fuzzy
+msgid "Calculation Item Time"
+msgstr "Čas vypršal."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: timepart.ui:20
+#, fuzzy
+msgid "<h1>Calculation Part 'Time'</h1>"
+msgstr "Otestovať opravu"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: timepart.ui:30
+msgid ""
+"Calculate time efforts here for one unit of the template. <br/>Note that the "
+"costs may depend on a global hourly rate."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: timepart.ui:61
+msgid "Work"
+msgstr "Práca"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: timepart.ui:68
+#, fuzzy
+msgid "&Time Effort:"
+msgstr "Najlepší výkon"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: timepart.ui:96
+msgid "Minutes"
+msgstr "Minúty"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: timepart.ui:108
+msgid "&Hourly Rate:"
+msgstr "Hodinová frekvencia:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_stdGlobal)
+#: timepart.ui:130
+msgid "Apply the &global hourly rate."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: unitseditbase.ui:20
+#, fuzzy
+msgid "<h1>Add a unit</h1>"
+msgstr "Atómová hmotnostná jednotka"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: unitseditbase.ui:32
+#, fuzzy
+msgid "Unit short"
+msgstr "Krátky dátum:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: unitseditbase.ui:42
+#, fuzzy
+msgid "Unit long"
+msgstr "Dlhý text"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: unitseditbase.ui:58
+#, fuzzy
+msgid "Unit plural short"
+msgstr "Rozsah pre krátky rok:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: unitseditbase.ui:68
+#, fuzzy
+msgid "Unit plural long"
+msgstr "Dlhý formát dátumu:"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeInfo)
+#: upgradedb.ui:20
+msgid ""
+"This step checks if the database schema version is sufficient for this "
+"version of Kraft. \n"
+"\n"
+"In case it is not, the schema is updated automatically.\n"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeStatus)
+#: upgradedb.ui:79
+#, fuzzy
+msgid "Upgrade not yet started"
+msgstr "Automatické hľadanie ešte nezačalo..."
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: wageseditbase.ui:20
+#, fuzzy
+msgid "<h1>Add a Wage group</h1>"
+msgstr "Pridať tvary do skupiny"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wageseditbase.ui:32
+msgid "Group name"
+msgstr "Názov skupiny"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: wageseditbase.ui:39
+msgid "Wage"
+msgstr ""

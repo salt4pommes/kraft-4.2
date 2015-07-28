@@ -1,0 +1,41 @@
+Kraft - solution for open craft
+===============================
+
+Kraft is a program that supports craftsmen in their daily
+jobs: making offers, invoices and confirmations.
+
+Kraft needs a mysql database running. But setup is easy,
+please try it. 
+
+
+How to setup the database?
+==========================
+First, install the mysql packages of your distribution.
+Create a database user and select a suitable password.
+Please replace the word 'user' in the following code
+examples with the user name you created.
+
+The database can be set up using the creation scripts
+in Krafts database directory. The scripts do create
+the database completely new, even if they exists. 
+
+The standard way however to let Kraft create and maintain
+the database schema for you. All that needs to be done 
+is to 
+ - start MySQL on the system
+ - have a user and password combination that has acces to
+   the database
+ - create an empty database with a suitable name like for 
+   example "kraft".
+ - enter the credentials and the database name in Kraft's
+   config dialog.
+
+Schema creation and maintenance is done by Kraft automatically.
+
+To create the database, perform the following steps:
+
+The database credentials must be entered into the settings
+dialog in kraft after the first start. Please restart after
+you have entered the data.
+
+That's it.

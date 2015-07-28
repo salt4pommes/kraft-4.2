@@ -1,0 +1,3772 @@
+# Translation of kraft.po to Ukrainian
+# Copyright (C) 2009-2014 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2009, 2010, 2011, 2012, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kraft\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-03-16 02:15+0000\n"
+"PO-Revision-Date: 2014-10-31 07:58+0200\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Юрій Чорноіван"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "yurchor@ukr.net"
+
+#: addeditchapterdialog.cpp:31
+msgid "Add/Edit Catalog Chapter"
+msgstr "Додавання або зміна розділу каталогу"
+
+#: addeditchapterdialog.cpp:45
+msgid "Create a new Catalog Chapter"
+msgstr "Створення розділу каталогу"
+
+#: addeditchapterdialog.cpp:49
+msgid "Chapter Name:"
+msgstr "Назва розділу:"
+
+#: addeditchapterdialog.cpp:53
+msgid "Chapter Description:"
+msgstr "Опис розділу:"
+
+#: addeditchapterdialog.cpp:71
+#, kde-format
+msgid "Create new Catalog Chapter below chapter %1"
+msgstr "Створити розділ каталогу після розділу %1"
+
+#: addeditchapterdialog.cpp:78
+#, kde-format
+msgid "Edit name and description of chapter %1"
+msgstr "Змінити назву і опис розділу %1"
+
+#: addressselection.cpp:59
+msgid "Please select a contact from the list below: "
+msgstr "Будь ласка, вкажіть у наведеному нижче списку контакт: "
+
+#: addressselection.cpp:71 akonadiaddressselector.cpp:172 docdigestview.cpp:68
+msgid "&Search: "
+msgstr "&Шукати: "
+
+#: addressselection.cpp:125 akonadiaddressselector.cpp:215
+msgid "New Contact..."
+msgstr "Створити запис контакту…"
+
+#: akonadiaddressselector.cpp:206
+msgid "Display address book selection list and hide address details."
+msgstr "Показувати список адрес з адресної книги, приховувати дані щодо адрес."
+
+#: akonadiaddressselector.cpp:211
+msgid "Edit Contact..."
+msgstr "Змінити параметри контакту…"
+
+#: akonadiaddressselector.cpp:212
+msgid "Edit the currently selected contact"
+msgstr "Змінити поточний позначений запис контакту"
+
+#: akonadiaddressselector.cpp:216
+msgid "Create a new Contact"
+msgstr "Створити запис контакту"
+
+#: archdoc.cpp:60 kraftdoc.cpp:196
+#, kde-format
+msgid "%1 for %2 (Id %3)"
+msgstr "%1 для %2 (Ідентифікатор %3)"
+
+#: brunskatalog.cpp:43
+msgid "Select Bruns Catalog Data File"
+msgstr "Оберіть файл даних каталогу Bruns"
+
+#: brunskatalog.cpp:55
+msgid "Select Bruns Catalog Key File"
+msgstr "Оберіть ключовий файл каталогу Bruns"
+
+#: brunskataloglistview.cpp:36
+msgctxt "Abbrev. for botanical name"
+msgid "Bot. Name"
+msgstr "Бот. назва"
+
+#: brunskataloglistview.cpp:37
+msgctxt "Abbrev. for localized name"
+msgid "Name"
+msgstr "Назва"
+
+#: brunskataloglistview.cpp:38
+msgctxt "Abbrev. for article identification number"
+msgid "Art. Id."
+msgstr "Ід. статті"
+
+#: brunskataloglistview.cpp:39
+msgctxt "Abbrev. for article Matchcode"
+msgid "Art. Match."
+msgstr "Відповідність статті"
+
+#: brunskataloglistview.cpp:42
+msgid "Catalog"
+msgstr "Каталог"
+
+#: brunskataloglistview.cpp:110
+msgid "Fruits"
+msgstr "Фрукти"
+
+#: brunskataloglistview.cpp:114
+msgid "Azalea and Rhododendrons"
+msgstr "Азалії і рододендрони"
+
+#: brunskataloglistview.cpp:118
+msgid "Roses"
+msgstr "Троянди"
+
+#: brunskataloglistview.cpp:122
+msgctxt "botanical"
+msgid "Bushes"
+msgstr "Кущі"
+
+#: brunskataloglistview.cpp:126
+msgctxt "Various plants (bot.)"
+msgid "Others"
+msgstr "Інші"
+
+#: brunskatalogview.cpp:61
+msgid "Plant Details (Sizes, Root Forms etc.):"
+msgstr "Параметри саджанців (розміри, форма коріння тощо):"
+
+#: brunskatalogview.cpp:67 insertplantdialog.cpp:55
+msgid "Matchcode"
+msgstr "Код відповідності"
+
+#: brunskatalogview.cpp:68 insertplantdialog.cpp:56
+msgid "Form"
+msgstr "Форма"
+
+#: brunskatalogview.cpp:69 insertplantdialog.cpp:57
+msgid "Form Add"
+msgstr "Додаткова форма"
+
+#: brunskatalogview.cpp:70
+msgid "Wuchs"
+msgstr "Висота"
+
+#: brunskatalogview.cpp:71 insertplantdialog.cpp:59
+msgid "Root"
+msgstr "Корінь"
+
+#: brunskatalogview.cpp:72 insertplantdialog.cpp:60
+msgid "Quality"
+msgstr "Якість"
+
+#: brunskatalogview.cpp:73 insertplantdialog.cpp:61
+msgid "Group"
+msgstr "Група"
+
+#: calcpart.cpp:117
+msgid "Base"
+msgstr "Основа"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, d_calcTempl)
+#: calctemplate.ui:14
+msgid "Edit Template"
+msgstr "Зміна шаблону"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget8)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:27 calctemplate.ui:75 templkataloglistview.cpp:44
+#: texteditdialog.cpp:64
+msgid "Template"
+msgstr "Шаблон"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: calctemplate.ui:53
+msgid "&Store in Chapter"
+msgstr "&Зберегти у розділі"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: calctemplate.ui:96
+msgid "&Unit"
+msgstr "&Одиниця"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_addTime)
+#: calctemplate.ui:128
+msgid "&Count Time for Overalltime"
+msgstr "&Вважати час загальним"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: calctemplate.ui:142
+msgid "Margin"
+msgstr "Поле"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, spBenefit)
+#: calctemplate.ui:161
+#, no-c-format
+msgid " %"
+msgstr " %"
+
+#. i18n: ectx: property (text), widget (KPushButton, pbRundPreis)
+#: calctemplate.ui:177
+msgid "round"
+msgstr "округлити"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: calctemplate.ui:203 kraftview_ro.cpp:220 kraftview_ro.cpp:257
+#: reportgenerator.cpp:333
+msgid "VAT"
+msgstr "ПДВ"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:214
+msgid "full"
+msgstr "цілий"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, cbMwst)
+#: calctemplate.ui:219
+msgid "half"
+msgstr "половина"
+
+#. i18n: ectx: attribute (title), widget (QWidget, Widget9)
+#: calctemplate.ui:235
+msgid "Time Calculation"
+msgstr "Обчислення часу"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: calctemplate.ui:246
+msgid "Time measureable effort for this template:"
+msgstr "Часовий вимір обсягу робіт для цього шаблону:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:271 calctemplate.ui:390 calctemplate.ui:499
+msgid "Label"
+msgstr "Мітка"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:276
+msgid "Duration"
+msgstr "Тривалість"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:281
+msgid "Hourly Rate"
+msgstr "Погодинна ставка"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_timeParts)
+#: calctemplate.ui:286
+msgid "Glob. Rate"
+msgstr "Загальна ставка"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddTime)
+#: calctemplate.ui:296
+msgid "Adds a new time calculation part to the template"
+msgstr "Додати нову частину обчислення часу до шаблону"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:299 calctemplate.ui:413 calctemplate.ui:527
+msgid "new..."
+msgstr "створити…"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditTime)
+#: calctemplate.ui:306
+msgid "Edits the current time calculation part"
+msgstr "Змінити поточну частину обчислення часу"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:309 calctemplate.ui:423 calctemplate.ui:537
+msgid "edit..."
+msgstr "змінити…"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveTime)
+#: calctemplate.ui:316
+msgid "Deletes the current time calculation part"
+msgstr "Вилучити поточну частину обчислення часу"
+
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveTime)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveFix)
+#. i18n: ectx: property (text), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:319 calctemplate.ui:433 calctemplate.ui:547
+msgid "delete"
+msgstr "вилучити"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage)
+#: calctemplate.ui:349
+msgid "Fix Costs"
+msgstr "Фіксовані вартості"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
+#: calctemplate.ui:360
+msgid "Fix costs for this template per one unit:"
+msgstr "Фіксована вартість для цього шаблону за одиницю:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:385 calctemplate.ui:504
+msgid "Amount"
+msgstr "Кількість"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:395
+msgid "Single Price"
+msgstr "Ціна за одиницю"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_fixParts)
+#: calctemplate.ui:400
+msgid "Overall Price"
+msgstr "Загальна ціна"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddFix)
+#: calctemplate.ui:410
+msgid "adds a new fix calculation part"
+msgstr "додати нову частину фіксованих розрахунків"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditFix)
+#: calctemplate.ui:420
+msgid "edits the current fix calculation part"
+msgstr "Змінити поточну частину фіксованих розрахунків"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveFix)
+#: calctemplate.ui:430
+msgid "deletes the current fix calculation part"
+msgstr "вилучити поточну частину фіксованих розрахунків"
+
+#. i18n: ectx: attribute (title), widget (QWidget, TabPage_2)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: calctemplate.ui:463 kraftglobals.h:29 materialdialog.ui:68
+#: materialkataloglistview.cpp:37
+msgid "Material"
+msgstr "Матеріал"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: calctemplate.ui:474
+msgid "Needed materials for one unit of this template:"
+msgstr "Матеріали, потрібні для одиниці за цим шаблоном:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#: calctemplate.ui:509 materialkataloglistview.cpp:39
+msgid "Unit"
+msgstr "Одиниця"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_matParts)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: calctemplate.ui:514 calctemplate.ui:580 templkataloglistview.cpp:45
+msgid "Price"
+msgstr "Ціна"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butAddMat)
+#: calctemplate.ui:524
+msgid "adds a new material calculation part"
+msgstr "додати нову частину розрахунків матеріалу"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butEditMat)
+#: calctemplate.ui:534
+msgid "edits the current material part"
+msgstr "змінити поточну частину розрахунків матеріалу"
+
+#. i18n: ectx: property (toolTip), widget (KPushButton, m_butRemoveMat)
+#: calctemplate.ui:544
+msgid "deletes the current material calculation part"
+msgstr "вилучити поточну частину розрахунків матеріалу"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbManual)
+#: calctemplate.ui:586
+msgid "&manual:"
+msgstr "&вручну:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: calctemplate.ui:603
+msgid "Euro"
+msgstr "Євро"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rbCalculation)
+#: calctemplate.ui:629
+msgid "Calculated Price"
+msgstr "Обчислена ціна"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: calctemplate.ui:642
+msgid "Overall Price per Unit"
+msgstr "Загальна ціна за одиницю"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelTime)
+#: calctemplate.ui:648
+msgid "Time Calculation Part:"
+msgstr "Частина обчислення часу:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelFix)
+#: calctemplate.ui:671
+msgid "Fix Costs Part:"
+msgstr "Частина фіксованих вартостей:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_tLabelMat)
+#: calctemplate.ui:694
+msgid "Material Part:"
+msgstr "Частина матеріалу:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resPreisName)
+#: calctemplate.ui:717
+msgid "Calculated Price:"
+msgstr "Обчислена ціна:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_resultPrice)
+#: calctemplate.ui:733
+msgid "88.888,88 €"
+msgstr "88.888,88 €"
+
+#: catalogselection.cpp:56
+msgid "Selected &Catalog: "
+msgstr "Вибраний &каталог: "
+
+#: catalogselection.cpp:149 catalogselection.cpp:164 catalogselection.cpp:173
+msgid "Append to Document"
+msgstr "Додати до документа"
+
+#: catalogtemplate.cpp:50
+msgid "Manual Price"
+msgstr "Введена вручну"
+
+#: catalogtemplate.cpp:52
+msgid "Calculated"
+msgstr "Обчислена"
+
+#: catalogtemplate.cpp:54
+msgid "AutoCalc"
+msgstr "Автообчислення"
+
+#: catalogtemplate.cpp:55
+#, c-format
+msgid "Err: Unknown type %d"
+msgstr "Помилка: невідомий тип %d"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: createdb.ui:17
+msgid "Database creation and initial schema setup:"
+msgstr "Створення бази даних та початкове налаштування схеми:"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateCounter)
+#. i18n: ectx: property (text), widget (QLabel, mFillCounter)
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeCounter)
+#: createdb.ui:36 createdb.ui:80 upgradedb.ui:39
+msgid "0 / 129"
+msgstr "0 / 129"
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateIcon)
+#. i18n: ectx: property (text), widget (QLabel, mFillIcon)
+#: createdb.ui:49 createdb.ui:93 upgradedb.ui:52
+msgid "X"
+msgstr "X"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: createdb.ui:61
+msgid "Filling the database with initial values:"
+msgstr "Заповнення бази даних початковими значеннями:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: createdb.ui:113 upgradedb.ui:72
+msgid "Status: "
+msgstr "Стан: "
+
+#. i18n: ectx: property (text), widget (QLabel, mCreateStatus)
+#: createdb.ui:123
+msgid "Database setup status..."
+msgstr "Стан налаштування бази даних…"
+
+#. i18n: ectx: label, entry (BrunsDataFile), group (bruns)
+#: databasesettings.kcfg:7
+msgid "Bruns Data File:"
+msgstr "Файл даних Bruns:"
+
+#. i18n: ectx: label, entry (BrunsKeyFile), group (bruns)
+#: databasesettings.kcfg:10
+msgid "Bruns Key File:"
+msgstr "Ключовий файл Bruns:"
+
+#. i18n: ectx: label, entry (DbDriver), group (database selection)
+#: databasesettings.kcfg:15
+msgid "Qt Database Driver:"
+msgstr "Драйвер Qt бази даних:"
+
+#. i18n: ectx: label, entry (DbServerName), group (mysql settings)
+#: databasesettings.kcfg:20
+msgid "Database Server:"
+msgstr "Сервер баз даних:"
+
+#. i18n: ectx: label, entry (DbDatabaseName), group (mysql settings)
+#: databasesettings.kcfg:24
+msgid "Database Name"
+msgstr "Назва бази даних"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: label, entry (DbUser), group (mysql settings)
+#: databasesettings.kcfg:27 mysqldetails.ui:51
+msgid "Database User:"
+msgstr "Користувач бази даних:"
+
+#. i18n: ectx: label, entry (DbPassword), group (mysql settings)
+#: databasesettings.kcfg:31
+msgid "Database Password:"
+msgstr "Пароль до бази даних:"
+
+#. i18n: ectx: label, entry (DefaultDbName), group (mysql settings)
+#: databasesettings.kcfg:34
+msgid "The default database name when creating new databases"
+msgstr "Типова назва бази даних для створення баз даних"
+
+#. i18n: ectx: label, entry (DbFile), group (Sqlite settings)
+#: databasesettings.kcfg:39
+msgid "File Name"
+msgstr "Назва файла"
+
+#. i18n: ectx: label, entry (DbPath), group (Sqlite settings)
+#: databasesettings.kcfg:42
+msgid "The path where database file are stored. Leave empty!"
+msgstr "Адреса, за якою зберігатиметься файл бази даних. Не заповнюйте!"
+
+#. i18n: ectx: property (text), widget (QLabel, mInfoText)
+#: dbinit.ui:19
+msgid "Database Update:"
+msgstr "Оновлення бази даних:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: dbinit.ui:34
+msgid "Overall Progress:"
+msgstr "Загальний поступ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: dbinit.ui:55
+msgid "Detail Progress:"
+msgstr "Поточна дія:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: dbinit.ui:76
+msgid "Status:"
+msgstr "Стан:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: dbselect.ui:21
+msgid ""
+"Kraft uses a database backend to store values. By default it uses a file "
+"based database with easy setup targeted to single user mode.\n"
+"\n"
+"Please select the database backend you want to use:"
+msgstr ""
+"Kraft використовує для збереження даних сервер бази даних. Типово програма "
+"використовує базу даних у файлі з простим налаштуванням та спрямуванням на "
+"роботу з єдиним користувачем.\n"
+"\n"
+"Будь ласка, вкажіть сервер бази даних, яким ви бажаєте скористатися:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbSqlite3)
+#: dbselect.ui:31
+msgid "SQLite 3 - file based database (default)"
+msgstr "SQLite 3 — база даних у файлі (типова)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbMySQL)
+#: dbselect.ui:41
+msgid "MySQL Serverbased Database for advanced Setups"
+msgstr "Серверна база даних MySQL з додатковими можливостями"
+
+#: defaultprovider.cpp:51 doctext.cpp:89 positionviewwidget.cpp:420
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: docassistant.cpp:60
+msgid "Show Templates"
+msgstr "Показувати шаблони"
+
+#: docassistant.cpp:65
+msgid "Show mask to create or select templates to be used in the document"
+msgstr ""
+"Показати маску для створення або вибору шаблонів, які буде використано у "
+"документі"
+
+#: docassistant.cpp:128
+msgid "Add a template to the document"
+msgstr "Додати до документа шаблон"
+
+#: docassistant.cpp:134
+msgid "Create a new template"
+msgstr "Створити шаблон"
+
+#: docassistant.cpp:141
+msgid "Edit the current template"
+msgstr "Змінити поточний шаблон"
+
+#: docassistant.cpp:148
+msgid "Delete the current template"
+msgstr "Вилучити поточний шаблон"
+
+#: docassistant.cpp:299
+msgid ""
+"Do you really want to delete the template permanently? There is no way to "
+"recover!"
+msgstr ""
+"Ви справді бажаєте остаточно вилучити цей шаблон? Відновити його буде "
+"неможливо!"
+
+#: docdigestdetailview.cpp:123
+msgid "Date"
+msgstr "Дата"
+
+#: docdigestdetailview.cpp:126 models/documentmodel.cpp:65
+msgid "Whiteboard"
+msgstr "Дошка"
+
+#: docdigestdetailview.cpp:131 models/documentmodel.cpp:69
+msgid "Project"
+msgstr "Проект"
+
+#: docdigestdetailview.cpp:135
+msgid "Customer"
+msgstr "Замовник"
+
+#: docdigestdetailview.cpp:146
+msgid "The address is not listed in an address book."
+msgstr "Адреси немає у списку адресної книги."
+
+#: docdigestdetailview.cpp:148
+#, kde-format
+msgid ""
+"The client has the address book id %1 but can not found in our address books."
+msgstr ""
+"Для клієнта вказано ідентифікатор адресної книги %1, але його запису немає у "
+"наших адресних книгах."
+
+#: docdigestdetailview.cpp:151
+msgid "The client can be found in our address books."
+msgstr "Запис клієнта є у наших адресних книгах."
+
+#: docdigestdetailview.cpp:162 prefsdialog.cpp:424
+msgid "preferred address"
+msgstr "основна адреса"
+
+#: docdigestdetailview.cpp:166 prefsdialog.cpp:428
+msgid "home address"
+msgstr "домашня адреса"
+
+#: docdigestdetailview.cpp:170 prefsdialog.cpp:432
+msgid "work address"
+msgstr "робоча адреса"
+
+#: docdigestdetailview.cpp:174 prefsdialog.cpp:436
+msgid "postal address"
+msgstr "адреса для листування"
+
+#: docdigestdetailview.cpp:178 prefsdialog.cpp:440
+msgid "international address"
+msgstr "міжнародна адреса"
+
+#: docdigestdetailview.cpp:182 prefsdialog.cpp:444
+msgid "domestic address"
+msgstr "місцева адреса"
+
+#: docdigestdetailview.cpp:186 prefsdialog.cpp:448
+msgid "unknown"
+msgstr "невідомо"
+
+#: docdigestdetailview.cpp:209
+msgid "This document was never printed."
+msgstr "Цей документ ніколи не було надруковано."
+
+#. i18n: ectx: ToolBar (documentToolBar)
+#: docdigestview.cpp:114 docdigestview.cpp:116 docdigestview.cpp:118
+#: kraftui.rc:21 portal.cpp:220
+msgid "Document Actions"
+msgstr "Дії над документом"
+
+#: docdigestview.cpp:135
+msgid "Latest Documents"
+msgstr "Найостанніші документи"
+
+#: docdigestview.cpp:137
+msgid "Shows the latest ten documents"
+msgstr "Показує останні десять документів"
+
+#: docdigestview.cpp:155
+msgid "All Documents"
+msgstr "Всі документи"
+
+#: docdigestview.cpp:157
+msgid "Shows a complete list of all documents"
+msgstr "Показує повний список документів"
+
+#: docdigestview.cpp:175
+msgid "Timelined Documents"
+msgstr "Документи з розкладу"
+
+#: docdigestview.cpp:177
+msgid "Shows all documents along a timeline"
+msgstr "Показує всі документи у розкладі"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: docfooter.ui:36
+msgid "Footer Texts"
+msgstr "Текст нижніх колонтитулів"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: docfooter.ui:42
+msgid "&Summary Text on Last Page:"
+msgstr "&Текст резюме на останній сторінці:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docfooter.ui:66
+msgid "&Greeting:"
+msgstr "&Привітання:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, _taxGroup)
+#: docfooter.ui:94 positionviewwidget.cpp:104
+msgid "Tax"
+msgstr "Податок"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docfooter.ui:100
+msgid "Document &Tax:"
+msgstr "По&даток документа:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: docheader.ui:64
+msgid "&Project:"
+msgstr "П&роект:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: docheader.ui:80
+msgid "&Whiteboard:"
+msgstr "&Дошка:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mProjectLabelEdit)
+#: docheader.ui:104
+msgid ""
+"Enter a label that describes the project. This may appear on the customer "
+"document."
+msgstr "Введіть мітку з описом проекту. Цю мітку зможуть побачити замовники."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: docheader.ui:160
+msgid "Postal &Address:"
+msgstr "По&штова адреса:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labName)
+#: docheader.ui:178
+msgid "not selected"
+msgstr "не позначено"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:204
+msgid "Select an addressee from the address books."
+msgstr "Вибрати адресата з адресної книги."
+
+#. i18n: ectx: property (text), widget (QPushButton, pb_pickAddressee)
+#: docheader.ui:207
+msgid "select..."
+msgstr "вибрати…"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: docheader.ui:232
+msgid "&Salutatory Address:"
+msgstr "&Звернення вітання:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: docheader.ui:245
+msgid "Customer:"
+msgstr "Замовник:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: docheader.ui:273
+msgid "&Entry Text on First Page:"
+msgstr "Вст&упний текст на першій сторінці:"
+
+#: doclocaledialog.cpp:45
+msgid "Document Locale Settings"
+msgstr "Параметри локалі документа"
+
+#: doclocaledialog.cpp:54
+msgid "<h2>Document Localization</h2>"
+msgstr "<h2>Локалізація документа</h2>"
+
+#: doclocaledialog.cpp:57
+msgid ""
+"Select country and language for the document.\n"
+"That influences the formatting of numbers, dates etc."
+msgstr ""
+"Оберіть країну і мову документа.\n"
+"Вказані параметри вплинуть на форматування чисел, дат тощо."
+
+#: doclocaledialog.cpp:65
+msgid "Country: "
+msgstr "Країна:"
+
+#: doclocaledialog.cpp:74
+msgid "Language:"
+msgstr "Мова:"
+
+#: doclocaledialog.cpp:118
+#, kde-format
+msgid ""
+"Money: %1\n"
+"Date: %2\n"
+"Date (short): %3"
+msgstr ""
+"Грошова одиниця: %1\n"
+"Формат дати: %2\n"
+"Скорочений формат дати: %3"
+
+#: docpostcard.cpp:36
+msgid "Document Overview"
+msgstr "Огляд документа"
+
+#: docpostcard.cpp:121
+msgid "Netto:"
+msgstr "Нетто:"
+
+#: docpostcard.cpp:132 docpostcard.cpp:139
+#, kde-format
+msgid "+ %1% Tax:"
+msgstr "+ %1% податок:"
+
+#: docpostcard.cpp:145
+msgid "Sum Tax:"
+msgstr "Загальне оподаткування:"
+
+#: docpostcard.cpp:150
+msgid "Total:"
+msgstr "Загалом:"
+
+#: docpostcard.cpp:191 docpostcard.cpp:241 kraftdoc.cpp:359
+msgid "Header"
+msgstr "Верхній колонтитул"
+
+#: docpostcard.cpp:220 docpostcard.cpp:261 kraftdoc.cpp:361
+msgid "Footer"
+msgstr "Нижній колонтитул"
+
+#: docpostcard.cpp:249
+#, kde-format
+msgid "%1 Items"
+msgstr "%1 позицій"
+
+#: docpostcard.cpp:251
+#, kde-format
+msgid "%1 Items, netto %2"
+msgstr "%1 позицій, нетто %2"
+
+#: docpostcard.cpp:253 doctext.cpp:87
+msgid "Positions"
+msgstr "Позиції"
+
+#: doctext.cpp:61
+msgid "Standard"
+msgstr "Стандартний"
+
+#: doctext.cpp:85
+msgid "Header Text"
+msgstr "Текст верхнього колонтитула"
+
+#: doctext.cpp:86
+msgid "Footer Text"
+msgstr "Текст нижнього колонтитула"
+
+#: doctypeedit.cpp:130 doctypeedit.cpp:155
+msgid "Add Document Type"
+msgstr "Додати тип документів"
+
+#: doctypeedit.cpp:131
+msgid "Enter the name of a new document type"
+msgstr "Ввести назву нового типу документів"
+
+#: doctypeedit.cpp:156
+msgid "Edit the name of a document type"
+msgstr "Змінити назву типу документів"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:43 numbercycleseditbase.ui:168
+msgid "Click to add a new document type to the list."
+msgstr "Натисніть, щоб додати новий тип документів до списку."
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: doctypeeditbase.ui:46 prefsdialog.cpp:129 prefsunits.cpp:77
+#: prefswages.cpp:88
+msgid "Add"
+msgstr "Додати"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:53
+msgid "click to edit the selected document type name"
+msgstr "Натисніть, щоб змінити назву позначеного типу документів"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEdit)
+#: doctypeeditbase.ui:56 prefsunits.cpp:81 prefswages.cpp:92
+msgid "Edit"
+msgstr "Змінити"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:63 numbercycleseditbase.ui:178
+msgid "click to remove the current document type"
+msgstr "Натисніть, щоб вилучити поточний тип документів"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: doctypeeditbase.ui:66 portalview.cpp:154 prefsdialog.cpp:133
+#: prefsunits.cpp:86 prefswages.cpp:97
+msgid "Remove"
+msgstr "Вилучити"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: doctypeeditbase.ui:77
+msgid "Unique Document Number"
+msgstr "Унікальний номер документа"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: doctypeeditbase.ui:85
+msgid "Number &Cycle:"
+msgstr "&Нумерація:"
+
+#. i18n: ectx: property (text), widget (QLabel, mExampleId)
+#. i18n: ectx: property (text), widget (QLabel, mCounter)
+#. i18n: ectx: property (text), widget (QLabel, mIdent)
+#: doctypeeditbase.ui:105 doctypeeditbase.ui:138 doctypeeditbase.ui:151
+#: numbercycleseditbase.ui:108
+msgid "example"
+msgstr "приклад"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: doctypeeditbase.ui:118
+msgid "ident Template:"
+msgstr "Шаблон ідентифікатора:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3_2)
+#: doctypeeditbase.ui:128 numbercycleseditbase.ui:75
+msgid "Example Id:"
+msgstr "Ідентифікатор прикладу:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: doctypeeditbase.ui:164
+msgid "Counter:"
+msgstr "Лічильник:"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbEditCycles)
+#: doctypeeditbase.ui:194
+msgid "&Edit Number Cycles..."
+msgstr "З&мінити нумерацію…"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2_2)
+#: doctypeeditbase.ui:222
+msgid "Template for PDF Creation"
+msgstr "Шаблон для створення PDF"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: doctypeeditbase.ui:228
+msgid "&Template File"
+msgstr "Файл &шаблону"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: doctypeeditbase.ui:257
+msgid "W&atermark:"
+msgstr "Вод&яний знак:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:271
+msgid "no watermark"
+msgstr "без водяного знаку"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:276
+msgid "on first page"
+msgstr "на першій сторінці"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, mWatermarkCombo)
+#: doctypeeditbase.ui:281
+msgid "on all pages"
+msgstr "на всіх сторінках"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: doctypeeditbase.ui:289
+msgid "&Watermark File"
+msgstr "Файл &водяного знаку"
+
+#: external/ktreeviewsearchline.cpp:530
+msgid "Search Options"
+msgstr "Параметри пошуку"
+
+#: external/ktreeviewsearchline.cpp:531
+msgctxt "Enable case sensitive search in the side navigation panels"
+msgid "Case Sensitive"
+msgstr "З врахуванням регістру"
+
+#: external/ktreeviewsearchline.cpp:534
+msgctxt "Enable regular expression search in the side navigation panels"
+msgid "Regular Expression"
+msgstr "Формальний вираз"
+
+#: external/ktreeviewsearchline.cpp:540
+msgid "Search Columns"
+msgstr "Стовпчики для пошуку"
+
+#: external/ktreeviewsearchline.cpp:542
+msgid "All Visible Columns"
+msgstr "Всі видимі стовпчики"
+
+#: external/ktreeviewsearchline.cpp:708
+msgid "S&earch:"
+msgstr "&Шукати:"
+
+#: filterheader.cpp:61 filterheader.cpp:90
+msgid "No Items"
+msgstr "Немає записів"
+
+#: filterheader.cpp:62 filterheader.cpp:91
+msgid "1 Item"
+msgstr "1 запис"
+
+#: filterheader.cpp:63 filterheader.cpp:92
+#, kde-format
+msgid "%1 of %2 Items"
+msgstr "%1 з %2 записів"
+
+#: filterheader.cpp:75 filterheader.cpp:104
+msgid "Search:"
+msgstr "Шукати:"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailFix)
+#: fixpartui.ui:14
+msgid "Calculation Parts Fix"
+msgstr "Фіксування частин обчислень"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: fixpartui.ui:20
+msgid "<h1>Fix Cost Parts</h1>"
+msgstr "<h1>Частини з фіксованою вартістю</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: fixpartui.ui:30
+msgid "Add a fix cost for one unit of the template:"
+msgstr "Додати фіксовану вартість одиниці шаблону:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: fixpartui.ui:45 timepart.ui:48
+msgid "&Label:"
+msgstr "&Мітка:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:58
+msgid "describing text"
+msgstr "описовий текст"
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: fixpartui.ui:61
+msgid "amortisation"
+msgstr "амортизація"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: fixpartui.ui:72 matpartui.ui:77
+msgid "&Amount:"
+msgstr "&Кількість:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#: fixpartui.ui:85
+msgid "amount multiplier"
+msgstr "коефіцієнт кількості"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: fixpartui.ui:98
+msgid "at &Price:"
+msgstr "за &ціною:"
+
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpMenge)
+#. i18n: ectx: property (toolTip), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:114 matpartui.ui:90
+msgid "Price for one piece"
+msgstr "Ціна за один екземпляр"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, m_inpPreis)
+#: fixpartui.ui:123
+msgid "€"
+msgstr "€"
+
+#: flostempldialog.cpp:70
+msgid "Create or Edit Template Items"
+msgstr "Створення або зміна записів шаблону"
+
+#: flostempldialog.cpp:208 flostempldialog.cpp:562
+msgid "No"
+msgstr "Ні"
+
+#: flostempldialog.cpp:209 flostempldialog.cpp:562
+msgid "Yes"
+msgstr "Так"
+
+#: flostempldialog.cpp:246
+msgid "Calculated Price: "
+msgstr "Обчислена ціна:"
+
+#: flostempldialog.cpp:251
+msgid "Manual Price: "
+msgstr "Введена вручну ціна:"
+
+#: flostempldialog.cpp:256
+#, kde-format
+msgid "(+%1%)"
+msgstr "(+%1%)"
+
+#: flostempldialog.cpp:260
+#, kde-format
+msgid "%1%"
+msgstr "%1%"
+
+#: flostempldialog.cpp:262
+msgid ": "
+msgstr ": "
+
+#: flostempldialog.cpp:369
+msgid "Saving of this template failed, sorry"
+msgstr "Спроба зберегти цей шаблон була невдалою"
+
+#: flostempldialog.cpp:370
+msgid "Template Save Error"
+msgstr "Помилка під час спроби збереження шаблону"
+
+#: flostempldialog.cpp:398
+msgid "The template was modified. Do you really want to discard all changes?"
+msgstr "Шаблон було змінено. Ви справді бажаєте відкинути всі внесені зміни?"
+
+#: flostempldialog.cpp:400 kraftview.cpp:1387
+msgid "Discard"
+msgstr "Відкинути"
+
+#: flostempldialog.cpp:400
+msgid "Template Modified"
+msgstr "Шаблон змінено"
+
+#: flostempldialog.cpp:425
+msgid ""
+"The catalog chapter was changed for this template.\n"
+"Do you really want to move the template to the new chapter?"
+msgstr ""
+"Згідно з цим шаблоном було змінено розділ каталогу.\n"
+"Ви справді бажаєте пересунути шаблон до нового розділу?"
+
+#: flostempldialog.cpp:426
+msgid "Changed Chapter"
+msgstr "Змінений розділ"
+
+#: flostempldialog.cpp:560
+#, kde-format
+msgid "%1 Min."
+msgstr "%1 хв."
+
+#: flostempldialog.h:101
+msgid "Calculated material"
+msgstr "Матеріал для обчислень"
+
+#: imporst.cpp:29
+msgid "Kraft Import Test App"
+msgstr "Тестова програма імпортування до Kraft"
+
+#: imporst.cpp:42
+msgid "Kraft import test app"
+msgstr "Тестова програма імпортування до Kraft"
+
+#: importfilter.cpp:51
+#, kde-format
+msgid "Unable to find filter called %1"
+msgstr "Не вдалося знайти фільтра з назвою %1"
+
+#: importfilter.cpp:59
+msgid "Could not open the definition file!"
+msgstr "Не вдалося відкрити файл визначень."
+
+#: importfilter.cpp:143
+msgid "Unknown tags: "
+msgstr "Невідомі мітки:"
+
+#: importfilter.cpp:184
+msgid "Could not recode input file!"
+msgstr "Не вдалося перекодувати дані вхідного файла."
+
+#: importfilter.cpp:192
+msgid "Unable to open temp file "
+msgstr "Не вдалося відкрити тимчасовий файл"
+
+#: importfilter.cpp:198
+msgid "Could not open the import source file!"
+msgstr "Не вдалося відкрити файл джерела імпортування."
+
+#: importitemdialog.cpp:47
+msgid "Import Items From File"
+msgstr "Імпортувати записи з файла"
+
+#: importitemdialog.cpp:109
+msgid "the Header of the Document"
+msgstr "Верхній колонтитул документа"
+
+#: importitemdialog.cpp:118 templtopositiondialogbase.cpp:57
+msgid "..."
+msgstr "…"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: importtodocbase.ui:32
+msgid "Import Document Items"
+msgstr "Імпорт записів документа"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: importtodocbase.ui:47
+msgid "Import information"
+msgstr "Відомості щодо імпортування"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: importtodocbase.ui:53
+msgid "Select a &File to import from:"
+msgstr "Оберіть &файл для імпортування:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: importtodocbase.ui:71
+msgid "Import &Schema:"
+msgstr "С&хема імпортування:"
+
+#. i18n: ectx: property (text), widget (QLabel, mSchemaInfo)
+#: importtodocbase.ui:95
+msgid "this is interesting information about the selected schema"
+msgstr "це цікаві відомості щодо позначеної схеми"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: importtodocbase.ui:116
+msgid "Insert all Items &after"
+msgstr "Вставити всі записи п&ісля"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mTagGroup)
+#: importtodocbase.ui:137 inserttmplbase.ui:204
+msgid "Tags"
+msgstr "Мітки"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: insertplantbase.ui:32
+msgid "Create Plant Item"
+msgstr "Створити запис саджанців"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: insertplantbase.ui:51
+msgid "Select a plant size:"
+msgstr "Вкажіть висоту саджанців:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: insertplantbase.ui:94 inserttmplbase.ui:56
+msgid "insert"
+msgstr "вставити"
+
+#. i18n: ectx: property (text), widget (QLabel, dmUnitText)
+#: insertplantbase.ui:107
+msgid "pieces at a single price of"
+msgstr "екземплярів за ціною за одиницю"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: insertplantbase.ui:157
+msgid "&after"
+msgstr "п&ісля"
+
+#: insertplantdialog.cpp:58
+msgid "Growth"
+msgstr "Ріст"
+
+#: insertplantdialog.cpp:90
+#, kde-format
+msgid "(price entered in %1/%2)"
+msgstr "(ціну введено у %1/%2)"
+
+#: inserttempldialog.cpp:103
+msgid "Create a new Item"
+msgstr "Створити запис"
+
+#: inserttempldialog.cpp:105
+msgid "Create a new Item from Template"
+msgstr "Створити запис за допомогою шаблону"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: inserttmplbase.ui:30
+msgid "Create Item from Template"
+msgstr "Створити запис за шаблоном"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: inserttmplbase.ui:45
+msgid "Edit New Template"
+msgstr "Редагування нового шаблону"
+
+#. i18n: ectx: property (text), widget (QLabel, priceBoxTextLabel)
+#: inserttmplbase.ui:76
+msgid "à"
+msgstr "à"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: inserttmplbase.ui:113
+msgid "&after position"
+msgstr "п&ісля позиції"
+
+#. i18n: ectx: property (title), widget (QGroupBox, mKeepGroup)
+#: inserttmplbase.ui:150
+msgid "Keep Template"
+msgstr "Зберегти як шаблон"
+
+#. i18n: ectx: property (text), widget (QCheckBox, mCbSave)
+#: inserttmplbase.ui:158
+msgid "&save this as a template"
+msgstr "&зберегти це як шаблон"
+
+#. i18n: ectx: property (text), widget (QLabel, mChapterText)
+#: inserttmplbase.ui:165
+msgid "in &chapter"
+msgstr "у &розділі"
+
+#: katalog.cpp:137 models/documentmodel.cpp:133
+msgid "not found"
+msgstr "не знайдено"
+
+#: kataloglistview.cpp:338
+msgid "A catalog chapter can not be deleted as long it has children."
+msgstr ""
+"Розділ каталогу не можна вилучати, доки у ній містяться дочірні записи."
+
+#: kataloglistview.cpp:339
+msgid "Chapter can not be deleted"
+msgstr "Не можна вилучити розділ"
+
+#: katalogview.cpp:164
+msgid "Edit Sub chapter"
+msgstr "Змінити підрозділ"
+
+#: katalogview.cpp:166
+msgid "Edit a catalog sub chapter"
+msgstr "Змінити підрозділ каталогу"
+
+#: katalogview.cpp:170
+msgid "Add a sub chapter"
+msgstr "Додати підрозділ"
+
+#: katalogview.cpp:172
+msgid "Add a sub chapter below the selected one"
+msgstr "Додати підрозділ у поточному розділі"
+
+#: katalogview.cpp:176 katalogview.cpp:178
+msgid "Remove a sub chapter"
+msgstr "Вилучити підрозділ"
+
+#: katalogview.cpp:182
+msgid "Edit template"
+msgstr "Змінити шаблон"
+
+#: katalogview.cpp:184
+msgid "Opens the editor window for templates to edit the selected one"
+msgstr "Відкрити вікно редактора шаблонів для редагування позначеного шаблону"
+
+#: katalogview.cpp:188
+msgid "New template"
+msgstr "Створити шаблон"
+
+#: katalogview.cpp:191
+msgid "Opens the editor window for templates to enter a new template"
+msgstr "Відкрити вікно редактора шаблонів для створення шаблону"
+
+#: katalogview.cpp:195
+msgid "Delete template"
+msgstr "Вилучити шаблон"
+
+#: katalogview.cpp:198
+msgid "Deletes the template"
+msgstr "Вилучає шаблон"
+
+#: katalogview.cpp:202
+msgid "Export catalog"
+msgstr "Експортувати каталог"
+
+#: katalogview.cpp:203
+msgid "Export the whole catalog as XML encoded file"
+msgstr "Експортувати весь каталог як кодований файл XML"
+
+#: katalogview.cpp:207
+msgid "Close the katalog view"
+msgstr "Закрити панель каталогів"
+
+#: katalogview.cpp:210
+msgid "Prints out the current document"
+msgstr "Друкує поточний документ"
+
+#: katalogview.cpp:214 portal.cpp:164
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr "Вирізати позначене і розташувати його у буфері даних"
+
+#: katalogview.cpp:218 portal.cpp:165
+msgid "Copies the selected section to the clipboard"
+msgstr "Копіювати вибране до буфера обміну даними"
+
+#: katalogview.cpp:222 portal.cpp:166
+msgid "Pastes the clipboard contents to current position"
+msgstr "Вставляє вміст буфера обміну даними у поточну позицію"
+
+#: katalogview.cpp:239 katalogview.cpp:271
+msgid "Opening file..."
+msgstr "Відкриття файла…"
+
+#: katalogview.cpp:241 katalogview.cpp:265 katalogview.cpp:280
+#: katalogview.cpp:290 katalogview.cpp:300 katalogview.cpp:313
+#: katalogview.cpp:321 katalogview.cpp:328 katalogview.cpp:335
+#: katalogview.cpp:382 katalogview.cpp:391 katalogview.cpp:400
+#: katalogview.cpp:409 portal.cpp:205 portal.cpp:334 portal.cpp:395
+#: portal.cpp:479 portal.cpp:520 portal.cpp:547 portal.cpp:688 portal.cpp:872
+#: portal.cpp:879 portal.cpp:886 portal.cpp:903
+msgid "Ready."
+msgstr "Готово."
+
+#: katalogview.cpp:260
+msgid "Opening a new katalog window..."
+msgstr "Відкриття нового вікна каталогу…"
+
+#: katalogview.cpp:274
+msgid "*|All files"
+msgstr "*|Всі файли"
+
+#: katalogview.cpp:274
+msgid "Open File..."
+msgstr "Відкриття файла…"
+
+#: katalogview.cpp:286
+msgid "Saving file..."
+msgstr "Збереження файла…."
+
+#: katalogview.cpp:296
+msgid "Closing file..."
+msgstr "Закриття файла…"
+
+#: katalogview.cpp:305
+msgid "Printing..."
+msgstr "Друк…"
+
+#: katalogview.cpp:319 portal.cpp:870
+msgid "Cutting selection..."
+msgstr "Обрізання вибору…"
+
+#: katalogview.cpp:326 portal.cpp:877
+msgid "Copying selection to clipboard..."
+msgstr "Копіювання позначеного до буфера…"
+
+#: katalogview.cpp:333 portal.cpp:884
+msgid "Inserting clipboard contents..."
+msgstr "Вставлення вмісту буфера…"
+
+#: katalogview.cpp:378
+msgid "Exporting file..."
+msgstr "Експортування файла…"
+
+#: katalogview.cpp:387
+msgid "Creating a new sub chapter..."
+msgstr "Створення підрозділу…"
+
+#: katalogview.cpp:396
+msgid "Editing a sub chapter..."
+msgstr "Редагування підрозділу…"
+
+#: katalogview.cpp:405
+msgid "Removing a sub chapter..."
+msgstr "Вилучення підрозділу…"
+
+#: katalogview.cpp:437
+#, kde-format
+msgid "<tr><td>Created at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Створено:</td><td>%1</td></tr>"
+
+#: katalogview.cpp:440
+#, kde-format
+msgid "<tr><td>Modified at:</td><td>%1</td></tr>"
+msgstr "<tr><td>Змінено:</td><td>%1</td></tr>"
+
+#. i18n: ectx: Menu (file)
+#: katalogview.rc:4
+msgid "&File"
+msgstr "&Файл"
+
+#. i18n: ectx: Menu (templates)
+#: katalogview.rc:7
+msgid "&Catalog"
+msgstr "&Каталог"
+
+#: kraftdb.cpp:264
+msgid "Wipe Database..."
+msgstr "Спорожнити базу даних…"
+
+#: kraftdoc.cpp:363
+msgid "Items"
+msgstr "Записи"
+
+#: kraftdoc.cpp:365
+msgid "Unknown document part"
+msgstr "Невідома частина документа"
+
+#: kraftdocfooteredit.cpp:54
+msgid "Document Footer"
+msgstr "Нижній колонтитул документа"
+
+#: kraftdocheaderedit.cpp:59
+msgid "Document Header"
+msgstr "Верхній колонтитул документа"
+
+#: kraftdocpositionsedit.cpp:92
+msgid "Add Item..."
+msgstr "Додати запис…"
+
+#: kraftdocpositionsedit.cpp:94
+msgid "Add a normal item to the document manually."
+msgstr "Додати звичайний запис до документа вручну."
+
+#: kraftdocpositionsedit.cpp:98
+msgid "Add Discount Item"
+msgstr "Додати запис знижки"
+
+#: kraftdocpositionsedit.cpp:101
+msgid ""
+"Adds an item to the document that allows discounts on other items in the "
+"document"
+msgstr ""
+"Додати до документа запис, який уможливить знижки на інші записи документа"
+
+#: kraftdocpositionsedit.cpp:103
+msgid "Import Items..."
+msgstr "Імпортувати записи…"
+
+#: kraftdocpositionsedit.cpp:106
+msgid "Opens a dialog where multiple items can be imported from a text file."
+msgstr ""
+"Відкрити діалогове вікно, за допомогою якого можна імпортувати декілька "
+"записів з текстового файла."
+
+#: kraftdocpositionsedit.cpp:115
+msgid "Document Items"
+msgstr "Записи документа"
+
+#: kraftglobals.h:26
+msgid "all_calculation_parts"
+msgstr "Всі частини обчислення"
+
+#: kraftglobals.h:27
+msgid "Time"
+msgstr "Час"
+
+#: kraftglobals.h:28
+msgid "Fix"
+msgstr "Фіксована"
+
+#. i18n: ectx: label, entry (DoInit), group (system)
+#: kraftsettings.kcfg:8
+msgid "Do Database Initialisation"
+msgstr "Виконати ініціалізацію бази даних"
+
+#. i18n: ectx: label, entry (DoXmlArchive), group (system)
+#: kraftsettings.kcfg:12
+msgid "Do XML archiving of documents they're printed?"
+msgstr "Створювати архівні копії XML документів, які друкуються?"
+
+#. i18n: ectx: label, entry (XmlArchivePath), group (system)
+#: kraftsettings.kcfg:16
+msgid ""
+"Where Kraft stores the XML archive documents. If empty, KDEHOME/share/apps "
+"is used."
+msgstr ""
+"Адреса, за якою Kraft зберігатиме архівні копії документів у форматі XML. "
+"Якщо не буде вказано, програма використає KDEHOME/share/apps."
+
+#. i18n: ectx: label, entry (XmlDocPath), group (system)
+#: kraftsettings.kcfg:19
+msgid "The local xml document storage path"
+msgstr "Шлях до локального сховища документів XML"
+
+#. i18n: ectx: label, entry (docViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:25
+msgid "The default size of the document view dialog"
+msgstr "Типовий розмір діалогового вікна перегляду документа"
+
+#. i18n: ectx: label, entry (RODocViewSize), group (WindowSizes)
+#: kraftsettings.kcfg:28
+msgid "The default size of the read only document view dialog"
+msgstr ""
+"Типовий розмір діалогового вікна перегляду документа без можливості "
+"редагування"
+
+#. i18n: ectx: label, entry (docViewPosition), group (WindowSizes)
+#: kraftsettings.kcfg:31
+msgid "The default position of the document view dialog"
+msgstr "Типове розташування діалогового вікна перегляду документа"
+
+#. i18n: ectx: label, entry (docViewSplitter), group (WindowSizes)
+#: kraftsettings.kcfg:34
+msgid "The splitter position of the document view dialog"
+msgstr "Розташування роздільника діалогового вікна перегляду документа"
+
+#. i18n: ectx: label, entry (materialCatalogSize), group (WindowSizes)
+#: kraftsettings.kcfg:37
+msgid "The default size of the material catalog view"
+msgstr "Типовий розмір вікна перегляду каталогу матеріалів"
+
+#. i18n: ectx: label, entry (assistantSplitterSetting), group (WindowSizes)
+#: kraftsettings.kcfg:40
+msgid "The splitter setting for the doc assistant"
+msgstr "Параметр роздільника для помічника створення документів"
+
+#. i18n: ectx: label, entry (plantTemplateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:43
+msgid "The window size of the template to document dialog for plants"
+msgstr "Розмір вікна шаблону діалогового вікна документа для саджанців"
+
+#. i18n: ectx: label, entry (templateToPosDialogSize), group (WindowSizes)
+#: kraftsettings.kcfg:46
+msgid "The window size of the template to document dialog"
+msgstr "Розмір вікна шаблону діалогового вікна документа"
+
+#. i18n: ectx: label, entry (digestListColumnsLatest), group (WindowSizes)
+#: kraftsettings.kcfg:49
+msgid "The digest list column arrangement for the Latest-list"
+msgstr "Порядок стовпчиків списку резюме для списку найсвіжіших записів"
+
+#. i18n: ectx: label, entry (digestListColumnsAll), group (WindowSizes)
+#: kraftsettings.kcfg:52
+msgid "The digest list column arrangement for the all-list"
+msgstr "Порядок стовпчиків списку резюме для списку всіх записів"
+
+#. i18n: ectx: label, entry (digestListColumnsTime), group (WindowSizes)
+#: kraftsettings.kcfg:55
+msgid "The digest list column arrangement for timeline"
+msgstr "Порядок стовпчиків списку резюме для розкладу"
+
+#. i18n: ectx: label, entry (addressPickerSplitterSize), group (WindowSizes)
+#: kraftsettings.kcfg:58
+msgid "The sizes of the slider in the address picker Widget"
+msgstr "Розміри повзунка у віджеті вибору адреси"
+
+#. i18n: ectx: label, entry (materialAddOnPercent), group (material)
+#: kraftsettings.kcfg:64
+msgid ""
+"Default percentage the sale price for a material should be higher than its "
+"purchase price"
+msgstr ""
+"Типова різниця у відсотках між ціною купівлі матеріалу і ціною його продажу"
+
+#. i18n: ectx: label, entry (lastMaterialChapter), group (material)
+#: kraftsettings.kcfg:68
+msgid "The name of the last selected chapter in the catalog"
+msgstr "Назва останнього позначеного розділу каталогу"
+
+#. i18n: ectx: label, entry (Trml2PdfBinary), group (reporting)
+#: kraftsettings.kcfg:74
+msgid "The complete filename of the trml2pdf binary"
+msgstr "Повна назва виконуваного файла trml2pdf"
+
+#. i18n: ectx: label, entry (PdfOutputDir), group (reporting)
+#: kraftsettings.kcfg:78
+msgid "The path to the output directory for document pdfs"
+msgstr "Адреса текти створення документів у форматі PDF."
+
+#. i18n: ectx: label, entry (doctype), group (userdefaults)
+#: kraftsettings.kcfg:84
+msgid "The last created doc type."
+msgstr "Тип останнього створеного документа."
+
+#. i18n: ectx: label, entry (greeting), group (userdefaults)
+#: kraftsettings.kcfg:87
+msgid "The greeting below on the document footer."
+msgstr "Вітання під нижнім колонтитулом документа."
+
+#. i18n: ectx: label, entry (salut), group (userdefaults)
+#: kraftsettings.kcfg:90
+msgid "The salut message on the document header."
+msgstr "Вітання у заголовку документа."
+
+#. i18n: ectx: label, entry (InsertTemplChapterName), group (userdefaults)
+#: kraftsettings.kcfg:93
+msgid ""
+"The name of the catalog chapter where to store new templates in by default"
+msgstr "Назва типового розділу каталогу для зберігання нових шаблонів"
+
+#. i18n: ectx: label, entry (ImportItemsSchemaName), group (userdefaults)
+#: kraftsettings.kcfg:96
+msgid "The name of the last used import schema for items."
+msgstr "Назва останньої використаної схеми імпортування записів."
+
+#. i18n: ectx: label, entry (ImportItemsFileName), group (userdefaults)
+#: kraftsettings.kcfg:99
+msgid "The name of the last used input file for items."
+msgstr "Назва останнього використаного файла вхідних даних записів."
+
+#. i18n: ectx: label, entry (UserName), group (userdefaults)
+#: kraftsettings.kcfg:102
+msgid ""
+"User name as reference to the KAddressbook to identify 'my' address "
+"(DEPRECATED)."
+msgstr ""
+"Ім’я користувача у KAddressbook для визначення «вашої» адреси. (ЗАСТАРІЛЕ)"
+
+#. i18n: ectx: label, entry (UserUid), group (userdefaults)
+#: kraftsettings.kcfg:105
+msgid ""
+"UID of the user as reference to the KAddressbook to identify 'my' address."
+msgstr ""
+"Ідентифікатор користувача як посилання на запис KAddressbook для визначення "
+"«вашої» адреси."
+
+#. i18n: ectx: label, entry (DocIdent), group (document)
+#: kraftsettings.kcfg:111
+msgid "The doc id template"
+msgstr "Шаблон ідентифікаторів документів"
+
+#. i18n: ectx: label, entry (ShowDocumentLocale), group (document)
+#: kraftsettings.kcfg:115
+msgid "Localization on document level"
+msgstr "Локалізація на рівні документів"
+
+#. i18n: ectx: label, entry (DefaultTaxType), group (document)
+#: kraftsettings.kcfg:120
+msgid "The tax default for new documents."
+msgstr "Типовий податок для нових документів."
+
+#. i18n: ectx: label, entry (AlternativeLabel), group (document)
+#: kraftsettings.kcfg:125
+msgid "The label for alternative positions"
+msgstr "Мітка для альтернативних позицій"
+
+#. i18n: ectx: label, entry (DemandLabel), group (document)
+#. i18n: ectx: label, entry (NormalLabel), group (document)
+#: kraftsettings.kcfg:128 kraftsettings.kcfg:131
+msgid "The label for demand positions"
+msgstr "Мітка для позицій «на вимогу»"
+
+#. i18n: ectx: Menu (document)
+#: kraftui.rc:4
+msgid "&Document"
+msgstr "&Документ"
+
+#. i18n: ectx: Menu (settings)
+#: kraftui.rc:15
+msgid "Settings"
+msgstr "Параметри"
+
+#: kraftview.cpp:93 kraftview_ro.cpp:84
+msgid "Document"
+msgstr "Документ"
+
+#: kraftview.cpp:369
+#, kde-format
+msgid ""
+"<qt><h2>The Document Items List is still empty, but Items can be added now.</"
+"h2>To add items to the document either <ul><li>Press the 'Add item' button "
+"above.</li><li>Open the template catalog by clicking on the '%1' button on "
+"the right and pick one of the available templates.</li></ul></qt>"
+msgstr ""
+"<qt><h2>Список записів документа залишається порожнім, але ви можете додати "
+"до нього пункти зараз.</h2>Щоб додати позицію до документа ви можете:"
+"<ul><li>натиснути кнопку «Додати запис», розташовану вище.</li><li>відкрити "
+"каталог шаблонів натисканням кнопки «%1», розташованої праворуч, а потім "
+"вибрати один з шаблонів позицій.</li></ul></qt>"
+
+#: kraftview.cpp:376
+msgid "show Template"
+msgstr "Показати шаблон"
+
+#: kraftview.cpp:553 prefsdialog.cpp:291
+msgid "Display no tax at all"
+msgstr "Не показувати податки"
+
+#: kraftview.cpp:554 prefsdialog.cpp:292
+msgid "Calculate reduced tax for all items"
+msgstr "Обчислити зменшений податок для всіх записів"
+
+#: kraftview.cpp:555 prefsdialog.cpp:293
+msgid "Calculate full tax for all items"
+msgstr "Обчислити повний податок для всіх записів"
+
+#: kraftview.cpp:556
+msgid "Calculate individual tax for each item"
+msgstr "Обчислити окремо суму оподаткування для кожного запису"
+
+#: kraftview.cpp:617
+msgid "Really overwrite all individual tax settings of the items?"
+msgstr "Перезаписати всі окремі параметри оподаткування для цих пунктів?"
+
+#: kraftview.cpp:618
+msgid "Tax Settings Overwrite"
+msgstr "Перезапис параметрів оподаткування"
+
+#: kraftview.cpp:787
+#, kde-format
+msgid ""
+"The address label is not empty and different from the selected one.<br/>Do "
+"you really want to replace it with the text shown below?<pre>%1</pre>"
+msgstr ""
+"Мітка адреси не є порожньою і відрізняється від вибраної.<br/>Ви справді "
+"бажаєте її замінити на текст, показаний нижче?<pre>%1</pre>"
+
+#: kraftview.cpp:789
+msgid "Address Overwrite"
+msgstr "Перезапис адреси"
+
+#: kraftview.cpp:1080
+msgid "Discount"
+msgstr "Знижка"
+
+#: kraftview.cpp:1385
+msgid "The document was modified. Do you really want to discard all changes?"
+msgstr "Документ було змінено. Ви справді бажаєте відкинути всі внесені зміни?"
+
+#: kraftview.cpp:1387
+msgid "Document Modified"
+msgstr "Документ змінено"
+
+#: kraftview_ro.cpp:221
+msgid "Reduced TAX"
+msgstr "Зменшений податок"
+
+#: kraftview_ro.cpp:248 reportgenerator.cpp:325
+msgid "reduced VAT"
+msgstr "зменшений ПДВ"
+
+#: main.cpp:34
+msgid "Kraft"
+msgstr "Kraft"
+
+#: main.cpp:36
+msgid "Business documents for the small enterprise"
+msgstr "Ділові папери для малого бізнесу"
+
+#: main.cpp:38
+msgid "Copyright © 2004–2014 Klaas Freitag"
+msgstr "© Klaas Freitag, 2004–2014"
+
+#: main.cpp:40
+msgid "Klaas Freitag"
+msgstr "Klaas Freitag"
+
+#: main.cpp:40 main.cpp:43
+msgid "Developer"
+msgstr "Розробник"
+
+#: main.cpp:41
+msgid "Johannes Spielhagen"
+msgstr "Johannes Spielhagen"
+
+#: main.cpp:41
+msgid "Graphics and Artwork"
+msgstr "Графіка і малюнки"
+
+#: main.cpp:43
+msgid "Thomas Richard"
+msgstr "Thomas Richard"
+
+#: main.cpp:52
+msgid ""
+"Kraft is free software for persons in small businesses\n"
+"writing correspondence like offers and invoices to their customers"
+msgstr ""
+"Kraft — це вільне програмне забезпечення для власників малого бізнесу,\n"
+"які обмінюються кореспонденцією, зокрема прайсами та накладними з "
+"замовниками."
+
+#: main.cpp:62
+msgid "Open document with doc number <number>"
+msgstr "Відкрити документ з номером <number>"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, MaterialDialogBase)
+#: materialdialog.ui:14
+msgid "Edit Material"
+msgstr "Змінити матеріал"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: materialdialog.ui:47
+msgid "Store in C&hapter"
+msgstr "Зберегти у &розділі"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: materialdialog.ui:95
+msgid "Pac&kaged:"
+msgstr "П&акування:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: materialdialog.ui:124
+msgid "per P&ackage"
+msgstr "за п&акунок"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: materialdialog.ui:142
+msgid "Prices"
+msgstr "Ціни"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: materialdialog.ui:166
+msgid "= Price of &Sale:"
+msgstr "= Ціна для п&родажу:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: materialdialog.ui:207
+msgid "pl&us"
+msgstr "пл&юс"
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mInSaleAdd)
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, mDiscountPercent)
+#: materialdialog.ui:223 positionwidget.ui:226
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: materialdialog.ui:235
+msgid "&Purchase Price:"
+msgstr "&Ціна купівлі:"
+
+#: materialkataloglistview.cpp:38
+msgid "Pack"
+msgstr "Запакувати"
+
+#: materialkataloglistview.cpp:40
+msgid "Purchase"
+msgstr "Купити"
+
+#: materialkataloglistview.cpp:41
+msgid "Sale"
+msgstr "Продати"
+
+#: materialkataloglistview.cpp:42
+msgid "Last Modified"
+msgstr "Остання зміна"
+
+#: materialkataloglistview.cpp:46
+msgid "Material Catalog"
+msgstr "Каталог матеріалів"
+
+#: materialkatalogview.cpp:103
+msgid "<new material>"
+msgstr "<новий матеріал>"
+
+#: materialkatalogview.cpp:132 templkatalogview.cpp:148
+msgid "Do you really want to delete the template from the catalog?"
+msgstr "Ви справді бажаєте вилучити цей шаблон з каталогу?"
+
+#: materialkatalogview.cpp:133 templkatalogview.cpp:149
+msgid "Delete Template"
+msgstr "Вилучення шаблону"
+
+#: materialselectdialog.cpp:38 materialselectdialog.cpp:43
+msgid "Select Material for Calculation"
+msgstr "Оберіть матеріал для обчислення"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailMat)
+#: matpartui.ui:14
+msgid "Calculation Item Material"
+msgstr "Пункт обчислень для матеріалів"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: matpartui.ui:20
+msgid "<h1>Calculation Part  'Material'</h1>"
+msgstr "<h1>Частина обчислень «Матеріал»</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: matpartui.ui:30
+msgid "Add Material to the template calculation."
+msgstr "Додати матеріал до обчислень шаблону."
+
+#. i18n: ectx: property (text), widget (QLabel, matLabel)
+#: matpartui.ui:60
+msgid "material"
+msgstr "матеріал"
+
+#. i18n: ectx: property (text), widget (QLabel, einheitLabel)
+#: matpartui.ui:106
+msgid "unit"
+msgstr "одиниця"
+
+#: models/documentmodel.cpp:62
+msgid "Id"
+msgstr "Ід."
+
+#: models/documentmodel.cpp:63
+msgid "Doc. Number"
+msgstr "Номер документа"
+
+#: models/documentmodel.cpp:64
+msgid "Doc. Type"
+msgstr "Тип документа"
+
+#: models/documentmodel.cpp:66
+msgid "Client Id"
+msgstr "Ід. клієнта"
+
+#: models/documentmodel.cpp:67
+msgid "Last modified"
+msgstr "Востаннє змінено"
+
+#: models/documentmodel.cpp:68
+msgid "Creation date"
+msgstr "Дата створення"
+
+#: models/documentmodel.cpp:70
+msgid "Client Address"
+msgstr "Адреса клієнта"
+
+#: models/documentmodel.cpp:71
+msgid "Client"
+msgstr "Клієнт"
+
+#: models/documentmodel.cpp:142
+msgid "retrieving..."
+msgstr "отримання даних…"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mysqldetails.ui:19
+msgid ""
+"Please enter the MySQL Database server settings. \n"
+"\n"
+"For detailed setup instructions for the MySQL to use with Kraft please check "
+"the Kraft website."
+msgstr ""
+"Будь ласка, введіть параметри сервера бази даних MySQL. \n"
+"\n"
+"Докладні настанови щодо користування MySQL у Kraft можна знайти на сайті "
+"Kraft."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: mysqldetails.ui:31
+msgid "Database Host:"
+msgstr "Вузол бази даних:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: mysqldetails.ui:41
+msgid "Database Name:"
+msgstr "Назва бази даних:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: mysqldetails.ui:65
+msgid "Password:"
+msgstr "Пароль:"
+
+#: newdocassistant.cpp:53
+msgid ""
+"Please select a customer as addressee for the document. If there is no entry "
+"for the customer in the addressbook yet, it can be opened by clicking on the "
+"button below."
+msgstr ""
+"Будь ласка, оберіть замовника, як адресата документа. Якщо у адресній книзі "
+"ще немає запису замовника, ви можете його створити натисканням кнопки, "
+"розташованої нижче."
+
+#: newdocassistant.cpp:97
+msgid ""
+"Select a document type and a date. A comment on the whiteboard helps to "
+"classify the document."
+msgstr ""
+"Оберіть тип і дату документа. За допомогою коментаря на дошці ви зможете "
+"класифікувати документ."
+
+#: newdocassistant.cpp:105
+msgid "Customer: Not yet selected!"
+msgstr "Замовник: ще не вибрано!"
+
+#: newdocassistant.cpp:118
+msgid "Document &Type:"
+msgstr "&Тип документа:"
+
+#: newdocassistant.cpp:122
+msgid "Document Date: "
+msgstr "Дата документа: "
+
+#: newdocassistant.cpp:125
+msgid "Whiteboard Content:"
+msgstr "Вміст дошки:"
+
+#: newdocassistant.cpp:159
+msgid "<h2>Document Details</h2>"
+msgstr "<h2>Параметри документа</h2>"
+
+#: newdocassistant.cpp:163
+msgid "<h2>Select an Addressee</h2>"
+msgstr "<h2>Вибір адресата</h2>"
+
+#: newdocassistant.cpp:165
+msgid "Document Creation Wizard"
+msgstr "Майстер створення документів"
+
+#: numbercycledialog.cpp:52
+msgid "Edit Number Cycles"
+msgstr "Змінити нумерацію"
+
+#: numbercycledialog.cpp:68
+msgid ""
+"The template may contain the following tags:<ul><li>%y or %yyyy - the year "
+"of the documents date.</li><li>%yy - the year of the document (two digits).</"
+"li><li>%w - the week number of the documents date.</li><li>%ww - the week "
+"number of the documents date with leading zero.</li><li>%d - the day number "
+"of the documents date.</li><li>%dd - the day number of the documents date "
+"with leading zero.</li><li>%m or %M - the month number of the documents date."
+"</li><li>%MM - the month number with leading zero.</li><li>%c - the customer "
+"id from kaddressbook</li><li>%i - the unique counter</li><li>%type - the "
+"localised doc type (offer, invoice etc.)</li><li>%uid - the contact id of "
+"the client.</li></ul>%i needs to be part of the template."
+msgstr ""
+"У шаблоні можуть міститися такі мітки:<ul><li>%y or %yyyy — рік дати "
+"документів.</li><li>%yy — двоцифрове значення року документа.</li><li>%w — "
+"номер тижня дати документа.</li><li>%ww — двоцифрове значення номера тижня "
+"дати документів.</li><li>%d — номер дня дати документів.</li><li>%dd — "
+"двоцифрове значення номера дня документів.</li><li>%m або %M — номер місяця "
+"дати документів.</li><li>%MM — двоцифровий номер місяця.</li><li>%c — "
+"ідентифікатор замовника з kaddressbook</li><li>%i — унікальний номер</li><li>"
+"%type — локалізований тип документа (прайс, накладна тощо)</li><li>%uid — "
+"ідентифікатор контакту клієнта.</li></ul>%i має бути частиною шаблону."
+
+#: numbercycledialog.cpp:131
+msgid "Doc-Type"
+msgstr "Тип документа"
+
+#: numbercycledialog.cpp:203
+msgid "Add Number Cycle"
+msgstr "Додати нумерацію"
+
+#: numbercycledialog.cpp:204
+msgid "Enter the name of a new number cycle."
+msgstr "Введіть назву нової нумерації."
+
+#: numbercycledialog.cpp:261
+#, kde-format
+msgid ""
+"The numbercycle %1 is still assigned to a document type.The number cycle can "
+"not be deleted as long as it is assigned to a document type."
+msgstr ""
+"Нумерацію %1 пов’язано з типом документів. Вилучати нумерацію пов’язану з "
+"типом документів не можна."
+
+#: numbercycledialog.cpp:264
+msgid "Numbercycle Deletion"
+msgstr "Вилучення нумерації"
+
+#: numbercycledialog.cpp:321
+msgid ""
+"The new counter is lower than the old one. That has potential to create "
+"duplicate document numbers. Do you really want to decrease it?"
+msgstr ""
+"Новий номер є меншим за старий. Потенційно це загрожує створенням дублікатів "
+"номерів документів. Ви справді бажаєте зменшити номер?"
+
+#: numbercycledialog.cpp:323
+msgid "Dangerous Counter Change"
+msgstr "Небезпечна зміна номерів"
+
+#. i18n: ectx: property (text), widget (QLabel, mHeader)
+#: numbercycleseditbase.ui:17
+msgid "<h3>Edit Number Cycles</h3>"
+msgstr "<h3>Змінити нумерацію</h3>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
+#: numbercycleseditbase.ui:27
+msgid "Number Cycle Details"
+msgstr "Параметри нумерації"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: numbercycleseditbase.ui:39
+msgid "&Number Cycle:"
+msgstr "&Нумерація:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: numbercycleseditbase.ui:52
+msgid "&Counter:"
+msgstr "&Лічильник:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: numbercycleseditbase.ui:85
+msgid "ident &Template:"
+msgstr "&Шаблон ідентифікатора:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: numbercycleseditbase.ui:123
+msgid "&Select a number cycle and edit the details on the right:"
+msgstr "&Оберіть нумерацію і змініть її параметри праворуч:"
+
+#. i18n: ectx: property (text), item, widget (QListWidget, mCycleListBox)
+#: numbercycleseditbase.ui:142
+msgid "New Item"
+msgstr "Створити запис"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbAdd)
+#: numbercycleseditbase.ui:171
+msgid "add"
+msgstr "додати"
+
+#. i18n: ectx: property (text), widget (QPushButton, mPbRemove)
+#: numbercycleseditbase.ui:181
+msgid "remove"
+msgstr "вилучити"
+
+#: portal.cpp:117
+msgid "Create Document"
+msgstr "Створити документ"
+
+#: portal.cpp:122
+msgid "Copy Document"
+msgstr "Копіювати документ"
+
+#: portal.cpp:127
+msgid "Follow Document"
+msgstr "Переслати документ"
+
+#: portal.cpp:132
+msgid "Print Document"
+msgstr "Надрукувати документ"
+
+#: portal.cpp:137
+msgid "Open Archived Document"
+msgstr "Відкрити документ з архіву"
+
+#: portal.cpp:141
+msgid "Show Document"
+msgstr "Показати документ"
+
+#: portal.cpp:146
+msgid "Edit Document"
+msgstr "Змінити документ"
+
+#: portal.cpp:151
+msgid "&Mail Document"
+msgstr "&Надіслати документ поштою"
+
+#: portal.cpp:163
+msgid "Quits the application"
+msgstr "Завершити роботу програми"
+
+#: portal.cpp:167
+msgid "Enables/disables the statusbar"
+msgstr "Показати або сховати рядок стану"
+
+#: portal.cpp:169
+msgid "Creates a new Document"
+msgstr "Створити документ"
+
+#: portal.cpp:170
+msgid "Print and archive this Document"
+msgstr "Надрукувати документ для архівування"
+
+#: portal.cpp:171
+msgid "Creates a new document which is a copy of the selected document"
+msgstr "Створити документ, який буде копією позначеного документа."
+
+#: portal.cpp:172
+msgid "Create a followup document for the current document"
+msgstr "Створити документ-відповідь для поточного документа"
+
+#: portal.cpp:173
+msgid "Opens the document for editing"
+msgstr "Відкрити документ для редагування"
+
+#: portal.cpp:174
+msgid "Opens a read only view on the document."
+msgstr "Відкрити перегляд документа без можливості редагування."
+
+#: portal.cpp:175
+msgid "Send document per mail"
+msgstr "Надіслати документ електронною поштою"
+
+#: portal.cpp:176
+msgid ""
+"Edit the available tag templates which can be assigned to document items."
+msgstr ""
+"Зміна доступних шаблонів міток, які можна призначати до пунктів документа."
+
+#: portal.cpp:177
+msgid "Configure the Database Kraft is working on."
+msgstr "Налаштування бази даних, з якою працюватиме Kraft."
+
+#: portal.cpp:179
+msgid "Open a viewer on an archived document"
+msgstr "Відкрити перегляд документа з архіву"
+
+#: portal.cpp:279
+#, kde-format
+msgid ""
+"Kraft can not connect to the specified MySQL server. Please check the Kraft "
+"database settings, check if the server is running and verify if a database "
+"with the name %1 exits!"
+msgstr ""
+"Kraft не вдалося з’єднатися з вказаним сервером MySQL. Будь ласка, перевірте "
+"вказані параметри бази даних Kraft, працездатність сервера та наявність на "
+"ньому бази даних з назвою %1."
+
+#: portal.cpp:283
+#, kde-format
+msgid ""
+"The database with the name %1 does not exist on the database server. Please "
+"make sure the database exists and is accessible by the user running Kraft."
+msgstr ""
+"На сервері баз даних не існує бази даних з назвою %1. Будь ласка, "
+"переконайтеся, що база даних існує і доступна для користувача програми Kraft."
+
+#: portal.cpp:287
+msgid ""
+"The Qt database driver could not be loaded. That probably means, that they "
+"are not installed. Please make sure the Qt database packages are installed "
+"and try again."
+msgstr ""
+"Не вдалося завантажити драйвери бази даних Qt. Ймовірно, це означає, що "
+"драйвери баз даних не встановлено. Встановіть пакунки Qt для роботи з базами "
+"даних, а потім повторіть спробу."
+
+#: portal.cpp:291
+#, kde-format
+msgid "There is a database problem: %1"
+msgstr "Проблема з базою даних: %1"
+
+#: portal.cpp:308
+msgid "Database Problem."
+msgstr "Проблема з базою даних."
+
+#: portal.cpp:315
+msgid "Check commandline actions"
+msgstr "Перевірити дії з командного рядка"
+
+#: portal.cpp:381
+msgid "Creating new document..."
+msgstr "Створення документа…"
+
+#: portal.cpp:471
+msgid "Opening document to view..."
+msgstr "Відкриття документа для перегляду…"
+
+#: portal.cpp:506 portal.cpp:529
+msgid "Generating PDF..."
+msgstr "Створення PDF…"
+
+#: portal.cpp:632
+msgid "Printing archived document..."
+msgstr "Друк архівованого документа…"
+
+#: portal.cpp:680
+#, kde-format
+msgid "Opening document %1"
+msgstr "Відкриття документа %1"
+
+#: portal.cpp:843
+msgid "Exiting..."
+msgstr "Вихід…"
+
+#: portal.cpp:891
+msgid "Toggle the statusbar..."
+msgstr "Увімкнути або вимкнути смужку стану…"
+
+#: portalview.cpp:63
+msgid "Catalogs"
+msgstr "Каталоги"
+
+#: portalview.cpp:69
+msgid "Kraft Document Overview"
+msgstr "Огляд документів Kraft"
+
+#: portalview.cpp:78 portalview.cpp:95
+msgid "Available Catalogs"
+msgstr "Доступні каталоги"
+
+#: portalview.cpp:80
+msgid "No catalogs available."
+msgstr "Каталогів не знайдено."
+
+#: portalview.cpp:128
+msgid "Open"
+msgstr "Відкрити"
+
+#: portalview.cpp:149
+msgid "XML Export"
+msgstr "Експортувати до XML"
+
+#: portalview.cpp:177
+msgid "System Details"
+msgstr "Параметри системи"
+
+#: portalview.cpp:196
+msgid "<h2>Welcome to Kraft</h2>"
+msgstr "<h2>Вітаємо у Kraft</h2>"
+
+#: portalview.cpp:198
+#, kde-format
+msgid "Kraft Version: %1</td>"
+msgstr "Версія Kraft: %1</td>"
+
+#: portalview.cpp:208
+msgid "Country Setting: "
+msgstr "Параметр країни:"
+
+#: portalview.cpp:212
+msgid "Language Setting: "
+msgstr "Параметр мови:"
+
+#: portalview.cpp:226
+msgid "Database Information"
+msgstr "Інформація про базу даних"
+
+#: portalview.cpp:228
+msgid "Kraft database name:"
+msgstr "Назва бази даних Kraft:"
+
+#: portalview.cpp:231
+msgid "Database schema version:"
+msgstr "Версія схеми бази даних:"
+
+#: portalview.cpp:239
+msgid "Qt database driver:"
+msgstr "Драйвер Qt бази даних:"
+
+#: portalview.cpp:242
+msgid "Database connection:"
+msgstr "З'єднання з базою даних:"
+
+#: portalview.cpp:248
+msgid "established"
+msgstr "встановлено"
+
+#: portalview.cpp:250
+msgid "<font color=\"red\">NOT AVAILABLE!</font>"
+msgstr "<font color=\"red\">НЕМАЄ!</font>"
+
+#: portalview.cpp:259
+msgid "Database Version:"
+msgstr "Версія бази даних:"
+
+#: portalview.cpp:265
+msgid "External Tools"
+msgstr "Зовнішні інструменти"
+
+#: portalview.cpp:267
+msgid "RML to PDF conversion tool:"
+msgstr "Інструмент перетворення RML на PDF:"
+
+#: portalview.cpp:272
+msgid "not found!"
+msgstr "не знайдено!"
+
+#: portalview.cpp:274
+msgid "iconv tool for text import:"
+msgstr "Інструмент iconv для імпортування тексту:"
+
+#: portalview.cpp:288
+msgid ""
+"There is a initialisation error on your system. Kraft will not work that way."
+msgstr ""
+"Помилка під час спроби ініціалізації системи. Kraft не зможе працювати "
+"належним чином."
+
+#: portalview.cpp:304
+msgid "Documents"
+msgstr "Документи"
+
+#: positiontagdialog.cpp:82
+msgid "Edit Item Tags"
+msgstr "Змінити мітки запису"
+
+#: positiontagdialog.cpp:91
+msgid "<h2>Item Tags</h2>"
+msgstr "<h2>Мітки записів</h2>"
+
+#: positiontagdialog.cpp:92
+msgid "Select all tags for the item should be tagged with."
+msgstr "Позначте всі мітки, які слід пов’язати з записом."
+
+#: positiontagdialog.cpp:107 tagtemplatesdialog.cpp:124
+msgid "Tag"
+msgstr "Мітка"
+
+#: positiontagdialog.cpp:108 tagtemplatesdialog.cpp:125
+msgid "Color"
+msgstr "Колір"
+
+#: positiontagdialog.cpp:109 tagtemplatesdialog.cpp:126
+msgid "Description"
+msgstr "Опис"
+
+#: positionviewwidget.cpp:91
+msgid "Item Actions"
+msgstr "Дії над записом"
+
+#: positionviewwidget.cpp:94
+msgid "Item Kind"
+msgstr "Тип запису"
+
+#: positionviewwidget.cpp:95 positionviewwidget.cpp:671
+msgid "Normal"
+msgstr "Звичайний"
+
+#: positionviewwidget.cpp:97 positionviewwidget.cpp:679
+msgid "Alternative"
+msgstr "Альтернативний"
+
+#: positionviewwidget.cpp:99
+msgid "On Demand"
+msgstr "На запит"
+
+#: positionviewwidget.cpp:107
+msgid "Taxfree Item"
+msgstr "Запис, вільний від оподаткування"
+
+#: positionviewwidget.cpp:113
+msgid "Reduced Tax"
+msgstr "Зменшений податок"
+
+#: positionviewwidget.cpp:119
+msgid "Full Tax"
+msgstr "Повний податок"
+
+#: positionviewwidget.cpp:128
+msgid "Move Up"
+msgstr "Пересунути вгору"
+
+#: positionviewwidget.cpp:130
+msgid "Move Down"
+msgstr "Пересунути вниз"
+
+#: positionviewwidget.cpp:132
+msgid "Lock Item"
+msgstr "Заблокувати запис"
+
+#: positionviewwidget.cpp:134
+msgid "Unlock Item"
+msgstr "Розблокувати запис"
+
+#: positionviewwidget.cpp:136
+msgid "Delete Item"
+msgstr "Вилучити запис"
+
+#: positionviewwidget.cpp:220
+msgid "All items"
+msgstr "Всі записи"
+
+#: positionviewwidget.cpp:230
+#, kde-format
+msgid "%1-tagged items"
+msgstr "Записи, позначені %1"
+
+#: positionviewwidget.cpp:262
+#, kde-format
+msgid "Tag: %1"
+msgstr "Мітка: %1"
+
+#: positionviewwidget.cpp:264
+msgid "Tags:<ul>"
+msgstr "Мітки:<ul>"
+
+#: positionviewwidget.cpp:275
+msgid "No tags assigned yet."
+msgstr "Міток ще не призначено."
+
+#: positionviewwidget.cpp:412
+msgid "Active"
+msgstr "Активна"
+
+#: positionviewwidget.cpp:414
+msgid "New"
+msgstr "Нова"
+
+#: positionviewwidget.cpp:416
+msgid "Deleted"
+msgstr "Вилучена"
+
+#: positionviewwidget.cpp:418
+msgid "Locked"
+msgstr "Заблокована"
+
+#: positionviewwidget.cpp:618
+msgid ""
+"This is an alternative item.<br/><br/> Use the position toolbox to change "
+"the item type."
+msgstr ""
+"Це альтернативний запис.<br/><br/>Скористайтеся панеллю позицій, щоб змінити "
+"тип запису."
+
+#: positionviewwidget.cpp:634
+msgid ""
+"This item is either completely optional or its amount varies depending on "
+"the needs.<br/><br/>Use the item toolbox to change the item type."
+msgstr ""
+"Цей запис є або зовсім необов’язковим, або його величина змінюється залежно "
+"від потреби.<br/><br/>Скористайтеся панеллю записів, щоб змінити тип запису."
+
+#: positionviewwidget.cpp:675
+msgid "Demand"
+msgstr "Запит"
+
+#. i18n: ectx: property (text), widget (QLabel, m_labelPosition)
+#: positionwidget.ui:46
+msgid "1."
+msgstr "1."
+
+#. i18n: ectx: property (text), widget (QLabel, lStatus)
+#. i18n: ectx: property (text), widget (QLabel, lKind)
+#: positionwidget.ui:103 positionwidget.ui:132
+msgid "D"
+msgstr "D"
+
+#. i18n: ectx: property (text), widget (QLabel, mDiscountLabel)
+#: positionwidget.ui:233
+msgid "of the sum of"
+msgstr "суми"
+
+#: prefsdialog.cpp:72
+msgid "Configure Kraft"
+msgstr "Налаштування Kraft"
+
+#: prefsdialog.cpp:91
+msgid "Taxes"
+msgstr "Податки"
+
+#: prefsdialog.cpp:99
+msgid "Tax rates beginning at date:"
+msgstr "Дата початку дії ставки податків:"
+
+#: prefsdialog.cpp:146
+msgid "Wages"
+msgstr "Заробітна платня"
+
+#: prefsdialog.cpp:155
+msgid "Units"
+msgstr "Одиниці"
+
+#: prefsdialog.cpp:164
+msgid "Own Identity"
+msgstr "Власний профіль"
+
+#: prefsdialog.cpp:172
+msgid ""
+"Select the identity of the sending entity of documents. That's <b>your "
+"companies</b> address."
+msgstr ""
+"Виберіть профіль для запису надсилання документів. Це адреса <b>ваших "
+"компаній</b>."
+
+#: prefsdialog.cpp:192
+msgid "Select Identity..."
+msgstr "Вибрати профіль…"
+
+#: prefsdialog.cpp:246
+msgid "Document Defaults"
+msgstr "Типові параметри документа"
+
+#: prefsdialog.cpp:257
+msgid "&Default document type on creation:"
+msgstr "&Тип документів під час створення:"
+
+#: prefsdialog.cpp:262
+msgid "New documents default to the selected type."
+msgstr "Типово, нові документи належатимуть до вказаного типу."
+
+#: prefsdialog.cpp:271
+msgid "Enable &Localization on Document Level"
+msgstr "Увімкнути &локалізацію на рівні документів"
+
+#: prefsdialog.cpp:272
+msgid ""
+"Checking this enables language settings for each document.<br>Leave it "
+"unchecked to use the KDE Workspace default settings for the document "
+"localisation."
+msgstr ""
+"Позначення цього пункту уможливить вибір параметрів мови для кожного з "
+"документів.<br>Не позначайте цей пункт, якщо програма використовуватиме "
+"типові параметри робочого простору KDE для локалізації документів."
+
+#: prefsdialog.cpp:284
+msgid "Default &Tax for Documents:"
+msgstr "Типовий &податок для документів:"
+
+#: prefsdialog.cpp:290
+msgid "The default tax setting for all documents."
+msgstr "Типовий параметр податків для всіх документів."
+
+#: prefsdialog.cpp:306
+msgid "Document Types"
+msgstr "Типи документів"
+
+#: prefsdialog.cpp:327
+msgid ""
+"The old default doc type for new documents was just deleted.Please check the "
+"setting in the Document Defaults in the Kraft preferences Dialog."
+msgstr ""
+"Старий типовий тип для нових документів було просто вилучено. Будь ласка, "
+"змініть відповідні налаштування типових параметрів документів за допомогою "
+"діалогового вікна налаштування Kraft."
+
+#: prefsdialog.cpp:330
+msgid "Document Default Change"
+msgstr "Зміна типових параметрів документа"
+
+#: prefsdialog.cpp:402
+msgid "The identity is not listed in an address book."
+msgstr "Профілю немає у списках адресної книги."
+
+#: prefsdialog.cpp:404
+msgid ""
+"<p><b>Kraft does not know your identity.</b></p><p>Please pick one from the "
+"address books by clicking on the Button below.</p><p>Not having an identity "
+"selected can make your documents look incomplete.</p>"
+msgstr ""
+"<p><b>Kraft не вдалося визначити ваш профіль.</b></p><p>Будь ласка, виберіть "
+"один з профілів зі списку адресної книги, яку буде показано у відповідь на "
+"натискання розташованої нижче кнопки.</p><p>Якщо не буде вибрано жодного "
+"профілю, ваші документи можуть виявитися заповненими не до кінця.</p>"
+
+#: prefsdialog.cpp:408
+msgid "Your identity can be found in the address books."
+msgstr "Запис вашого профілю можна знайти у адресних книгах."
+
+#: prefsdialog.cpp:419
+msgid "Work Phone"
+msgstr "Робочий телефон"
+
+#: prefsdialog.cpp:420
+msgid "Fax"
+msgstr "Факс"
+
+#: prefsdialog.cpp:421
+msgid "Cell Phone"
+msgstr "Мобільний телефон"
+
+#: prefsunits.cpp:150
+msgid "Edit a unit"
+msgstr "Змінити параметри одиниці"
+
+#: prefsunits.cpp:184
+msgid "<h1>Edit unit</h1>"
+msgstr "<h1>Зміна одиниці</h1>"
+
+#: prefswages.cpp:78
+msgid "Up"
+msgstr "Пересунути вгору"
+
+#: prefswages.cpp:83
+msgid "Down"
+msgstr "Пересунути вниз"
+
+#: prefswages.cpp:199
+msgid "Edit a wage group"
+msgstr "Змінити групу заробітної платні"
+
+#: prefswages.cpp:233
+msgid "<h1>Edit wage group</h1>"
+msgstr "<h1>Зміна групи заробітної платні</h1>"
+
+#: quicksearchwidget.cpp:38
+msgctxt "Search contacts in list"
+msgid "Search"
+msgstr "Шукати"
+
+#: reportgenerator.cpp:137
+#, kde-format
+msgid ""
+"A document template named %1 could not be loaded. Please check the "
+"installation."
+msgstr ""
+"Не вдалося завантажити шаблон документів з назвою %1. Будь ласка, перевірте, "
+"чи належним чином встановлено програму."
+
+#: reportgenerator.cpp:139
+msgid "Template not found"
+msgstr "Шаблон не знайдено"
+
+#: reportgenerator.cpp:191
+#, kde-format
+msgid ""
+"The template file could not be opened: %1\n"
+"Please check the setup and the doc type configuration."
+msgstr ""
+"Не вдалося відкрити файл шаблона: %1\n"
+"Будь ласка, перевірте, чи належним чином встановлено програму і вказано тип "
+"документа."
+
+#: reportgenerator.cpp:193
+msgid "Template Error"
+msgstr "Помилка, пов’язана із шаблоном"
+
+#: reportgenerator.cpp:503
+msgid ""
+"The utility to create PDF from the rml file could not be found, but is "
+"required to create documents.Please make sure the package is installed "
+"accordingly."
+msgstr ""
+"Не вдалося знайти інструмент для створення PDF на основі файла rml. Цей "
+"інструмент потрібен для створення документів. Будь ласка, переконайтеся, що "
+"пакунок з відповідною програмою встановлено."
+
+#: reportgenerator.cpp:506
+msgid "Document Generation Error"
+msgstr "Помилка під час створення документа"
+
+#: reportgenerator.cpp:514
+msgid ""
+"The Watermark file to merge with the document could not be found. Merge is "
+"going to be disabled."
+msgstr ""
+"Не вдалося знайти файл водяного знаку, який слід було об’єднати з "
+"документом. Об’єднання буде скасовано."
+
+#: reportgenerator.cpp:516
+msgid "Watermark Error"
+msgstr "Помилка під час обробки водяного знаку"
+
+#: reportgenerator.cpp:581
+#, kde-format
+msgid "Program ended with status %1"
+msgstr "Програма завершила роботу повідомленням про стан %1"
+
+#: reportgenerator.cpp:595
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>ReportLab</b> "
+"which can not be found.<br/>Please make sure the package is installed on "
+"your computer."
+msgstr ""
+"Для виведення даних у форматі PDF Kraft використовує модуль python "
+"<b>ReportLab</b>, якого не знайдено у вашій системі.<br/>Будь ласка, "
+"встановіть цей модуль належним чином."
+
+#: reportgenerator.cpp:599
+msgid ""
+"To generate PDF output, Kraft requires the python module <b>pyPdf</b> which "
+"can not be found.<br/>Please make sure the package is installed on your "
+"computer."
+msgstr ""
+"Для виведення даних у форматі PDF Kraft використовує модуль python <b>pyPdf</"
+"b>, якого не знайдено у вашій системі.<br/>Будь ласка, встановіть цей модуль "
+"належним чином."
+
+#: reportgenerator.cpp:603
+msgid "Unknown problem."
+msgstr "Невідома проблема."
+
+#: reportgenerator.cpp:606
+msgid "Could not generate the pdf file. The pdf creation script failed."
+msgstr ""
+"Не вдалося створити файл pdf. Помилка під час спроби виконання скрипту "
+"створення pdf."
+
+#: reportgenerator.cpp:608
+msgid "PDF Generation Error"
+msgstr "Помилка під час створення PDF"
+
+#: setupassistant.cpp:184 setupassistant.cpp:197
+#, kde-format
+msgid "0/%1"
+msgstr "0/%1"
+
+#: setupassistant.cpp:216 setupassistant.cpp:225 setupassistant.cpp:260
+#, kde-format
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: setupassistant.cpp:284
+msgid ""
+"Select your own address from the address book. It is set as a consigner on "
+"the documents."
+msgstr ""
+"Виберіть з адресної книги вашу власну адресу. Її буде додано до підпису "
+"документів."
+
+#: setupassistant.cpp:347
+msgid "Welcome to the Kraft Setup Assistant"
+msgstr "Вітаємо вас у помічнику з налаштування Kraft"
+
+#: setupassistant.cpp:351
+msgid "Select the Database Backend"
+msgstr "Вкажіть сервер бази даних"
+
+#: setupassistant.cpp:355
+msgid "Enter MySQL Database Setup Details"
+msgstr "Введіть параметри налаштування бази даних MySQL"
+
+#: setupassistant.cpp:359
+msgid "Enter SQLite Filename"
+msgstr "Введіть назву файла SQLite"
+
+#: setupassistant.cpp:363
+msgid "Creating the Database..."
+msgstr "Створення бази даних…"
+
+#: setupassistant.cpp:367
+msgid "Upgrade the Database Schema"
+msgstr "Оновити схему бази даних"
+
+#: setupassistant.cpp:371
+msgid "My Own Address Data"
+msgstr "Мої власні адресні дані"
+
+#: setupassistant.cpp:375
+msgid "Setup Finished."
+msgstr "Налаштування завершено"
+
+#: setupassistant.cpp:420
+msgid ""
+"<p>Can't connect to your database. Are you sure your credentials are correct "
+"and the database exists?</p>"
+msgstr ""
+"<p>Не вдалося з’єднатися з вашою базою даних. Ви впевнені у тому, що вказали "
+"належні реєстраційні дані і що сама база даних існує?</p>"
+
+#: setupassistant.cpp:425
+msgid "<p>Can't open your database file, check the permissions and such."
+msgstr ""
+"<p>Не вдалося відкрити файл бази даних, перевірте права доступу до бази та "
+"інші її параметри."
+
+#: setupassistant.cpp:434
+msgid ""
+"<p>The database is already existing, no action needs to be taken here.</"
+"p><p>Please hit <b>next</b> to proceed.</p>"
+msgstr ""
+"<p>Базу даних вже створено, на цій сторінці не потрібно виконувати жодних "
+"дій.</p><p>Будь ласка, натисніть <b>Далі</b>, щоб перейти до наступної.</p>"
+
+#: setupassistant.cpp:477
+msgid "<p>The database setup was successfully completed.</p>"
+msgstr "<p>Налаштування бази даних успішно виконано.</p>"
+
+#: setupassistant.cpp:478
+msgid "<p>You can start to work with Kraft now. Please do not forget to</p>"
+msgstr "<p>Тепер ви можете працювати з Kraft. Будь ласка, не забудьте</p>"
+
+#: setupassistant.cpp:480
+msgid "<li>adjust various settings in the Kraft Preferences dialog.</li>"
+msgstr ""
+"<li>скоригувати різноманітні параметри за допомогою діалогового вікна "
+"параметрів Kraft.</li>"
+
+#: setupassistant.cpp:481
+msgid "<li>Check the Catalog chapter list.</li>"
+msgstr "<li>Перевірити список розділів каталогу.</li>"
+
+#: setupassistant.cpp:482
+msgid "<li>Make your business and have fun.</li>"
+msgstr "<li>Займайтеся бізнесом і отримуйте від цього задоволення.</li>"
+
+#: setupassistant.cpp:484
+msgid ""
+"<p>If you press <i>Finish</i> now, the new database configuration is stored "
+"in Krafts configuration.</p>"
+msgstr ""
+"<p>Якщо ви зараз натиснете кнопку <i>Завершити</i>, налаштування нової бази "
+"даних буде збережено у налаштуваннях Kraft.</p>"
+
+#: setupassistant.cpp:497
+msgid ""
+"The Database can not be connected. Please check the database credentials."
+msgstr ""
+"Не вдалося з’єднатися з базою даних. Будь ласка, перевірте, чи правильно "
+"вказано реєстраційні дані."
+
+#: setupassistant.cpp:503
+msgid "The database core tables do not exist. Please check initial setup."
+msgstr ""
+"Не виявлено основних таблиць бази даних. Будь ласка, перевірте початкові "
+"налаштування."
+
+#: setupassistant.cpp:510
+msgid "Database is up to date. No upgrade is required."
+msgstr "Версія бази даних не є застарілою. Оновлення непотрібне."
+
+#: setupassistant.cpp:515
+msgid "Parse Update Commands..."
+msgstr "Обробка команд з оновлення…"
+
+#: setupassistant.cpp:526
+#, kde-format
+msgid "Reading upgrade command file %1"
+msgstr "Читання файла команд оновлення %1"
+
+#: setupassistant.cpp:559
+msgid "The Upgrade failed!"
+msgstr "Невдала спроба оновлення!"
+
+#: setupassistant.cpp:561
+#, kde-format
+msgid "The Upgrade succeeded, the current schema version is %1!"
+msgstr "Оновлення успішно завершено, поточна версія схеми — %1!"
+
+#: setupassistant.cpp:572
+msgid ""
+"The Database can not be connected. Please check the database credentials!"
+msgstr ""
+"Не вдалося з’єднатися з базою даних. Будь ласка, перевірте, чи правильно "
+"вказано реєстраційні дані."
+
+#: setupassistant.cpp:578
+msgid "Parse Create Commands..."
+msgstr "Обробка команд зі створення…"
+
+#: setupassistant.cpp:586
+msgid "Parse database fillup commands..."
+msgstr "Обробка команд з заповнення бази даних…"
+
+#: setupassistant.cpp:599
+msgid "Processing database creation commands..."
+msgstr "Обробка команд зі створення бази даних…"
+
+#: setupassistant.cpp:616
+msgid "Process database fillup commands..."
+msgstr "Обробка команд з заповнення бази даних…"
+
+#: setupassistant.cpp:621
+msgid "Successfully finished commands."
+msgstr "Виконання команд успішно завершено."
+
+#: setupassistant.cpp:623
+msgid "Failed to perform all commands."
+msgstr "Не вдалося виконати всі команди."
+
+#: setupassistant.cpp:696
+msgid ""
+"This assistant guides you through the basic settings of your Kraft "
+"installation."
+msgstr "Цей помічник допоможе вам у налаштуванні основних параметрів Kraft."
+
+#: setupassistant.cpp:709
+msgid ""
+"The database configuration was converted from a former configuration file."
+msgstr ""
+"Налаштування бази даних було створено на основі попереднього файла "
+"налаштувань."
+
+#: setupassistant.cpp:712
+msgid "There was no database configuration found."
+msgstr "Не знайдено налаштувань бази даних."
+
+#: setupassistant.cpp:715
+msgid "A valid current database configuration file was found."
+msgstr "Не виявлено коректного файла налаштувань бази даних поточного формату."
+
+#: setupassistant.cpp:734
+msgid ""
+"<p>The database can be opened, but does not contain valid content.</p><p>A "
+"new database can be created automatically from scratch.</p>"
+msgstr ""
+"<p>Програмі вдалося відкрити базу даних, але у базі даних не було виявлено "
+"належних даних.</p><p>Нову базу даних можна створити від початку у "
+"автоматичному режимі.</p>"
+
+#: setupassistant.cpp:741
+msgid "<p>Kraft could not connect to the configured database.<p>"
+msgstr "<p>Kraft не вдалося зв’язатися з налаштованою базою даних.<p>"
+
+#: setupassistant.cpp:743
+msgid "<p>Please check the database server setup and restart Kraft to connect."
+msgstr ""
+"<p>Будь ласка, перевірте правильність налаштувань сервера бази даних і "
+"перезапустіть Kraft, щоб програма повторила спробу з’єднання."
+
+#: setupassistant.cpp:745
+msgid "<p>Please check the database file."
+msgstr "<p>Будь ласка, переконайтесь у коректності файла бази даних."
+
+#: setupassistant.cpp:747
+msgid "or create a new database by hitting <b>next</b>.</p>"
+msgstr "або створіть нову базу даних натисканням кнопки <b>Далі</b>.</p>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sqlitedetails.ui:21
+msgid ""
+"Please enter the SQLite Database Settings.\n"
+"\n"
+"Pick a filename to name the SQLite database file or leave the default "
+"setting."
+msgstr ""
+"Будь ласка, введіть параметри бази даних SQLite.\n"
+"\n"
+"Визначтеся з назвою файла бази даних SQLite або не змінюйте типової назви."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbDefault)
+#: sqlitedetails.ui:31
+msgid "store the database file at default place."
+msgstr "зберегти файл бази даних у типовому місці."
+
+#. i18n: ectx: property (text), widget (QRadioButton, mRbCustom)
+#: sqlitedetails.ui:43
+msgid "select a file name:"
+msgstr "Вкажіть назву файла:"
+
+#: tagtemplatesdialog.cpp:46
+msgid "Edit Tag Template"
+msgstr "Змінити шаблон міток"
+
+#: tagtemplatesdialog.cpp:54
+msgid "<h2>Edit a Tag Template</h2>"
+msgstr "<h2>Змінити шаблон міток</h2>"
+
+#: tagtemplatesdialog.cpp:55
+msgid "Adjust settings for name, color and description."
+msgstr "Скоригувати параметри назви, кольору та опису."
+
+#: tagtemplatesdialog.cpp:59
+msgid "Name:"
+msgstr "Назва:"
+
+#: tagtemplatesdialog.cpp:63
+msgid "Description:"
+msgstr "Опис:"
+
+#: tagtemplatesdialog.cpp:70
+msgid "Associated Color:"
+msgstr "Пов’язаний колір:"
+
+#: tagtemplatesdialog.cpp:106 tagtemplatesdialog.cpp:114
+msgid "Edit Tag Templates"
+msgstr "Зміна шаблонів міток"
+
+#: tagtemplatesdialog.cpp:115
+msgid "Add, edit and remove tag templates for use in the documents."
+msgstr ""
+"Додати, змінити або вилучити шаблони міток, які буде використано у документі."
+
+#: tagtemplatesdialog.cpp:139
+msgid "Add..."
+msgstr "Додати…"
+
+#: tagtemplatesdialog.cpp:140
+msgid "Edit..."
+msgstr "Змінити…"
+
+#: tagtemplatesdialog.cpp:142
+msgid "Delete..."
+msgstr "Вилучити…"
+
+#: tagtemplatesdialog.cpp:184
+msgid "Do you really want to delete the template?"
+msgstr "Ви справді бажаєте вилучити цей шаблон?"
+
+#: tagtemplatesdialog.cpp:185
+msgid "Delete Tag Template"
+msgstr "Вилучення шаблону міток"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: taxeditbase.ui:20
+msgid "<h2>Add a Tax Rate</h2>"
+msgstr "<h2>Додати ставку податків</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: taxeditbase.ui:32
+msgid "Start-Date:"
+msgstr "Дата початку:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: taxeditbase.ui:68
+msgid "&Reduced Tax Rate:"
+msgstr "&Зменшена ставка податків:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2a)
+#: taxeditbase.ui:84
+msgid "&Full Tax Rate:"
+msgstr "П&овна ставка податків:"
+
+#: taxeditdialog.cpp:35
+msgid "Edit Tax Rates"
+msgstr "Змінити податкові ставки"
+
+#: templkatalog.cpp:344
+msgid "Export XML Katalog"
+msgstr "Експортувати каталог XML"
+
+#: templkataloglistview.cpp:46
+msgid "Calc. Type"
+msgstr "Тип обчислення"
+
+#: templkataloglistview.cpp:50
+msgid "Template Catalog"
+msgstr "Каталог шаблонів"
+
+#: templkatalogview.cpp:110
+msgid "<new template>"
+msgstr "<новий шаблон>"
+
+#: templtopositiondialogbase.cpp:32
+msgid "Create Position from Template"
+msgstr "Створити за шаблоном позицію"
+
+#: templtopositiondialogbase.cpp:50
+msgid "the Header of the Document as first position"
+msgstr "Заголовок документа як перша позиція"
+
+#. i18n: ectx: property (text), widget (QLabel, dmHeaderText)
+#: texteditbase.ui:32
+msgid "Edit Document Text Template"
+msgstr "Змініть шаблон тексту документа"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditbase.ui:57
+msgid "&Name:"
+msgstr "&Назва:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
+#: texteditbase.ui:91
+msgid "displayed as"
+msgstr "показано як"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_44)
+#: texteditbase.ui:129
+msgid "in doc type"
+msgstr "у типі документів"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: texteditbase.ui:179
+msgid "&Text:"
+msgstr "&Текст:"
+
+#: texteditdialog.cpp:41
+msgid "Edit Text Templates"
+msgstr "Редагувати шаблони тексту"
+
+#: texteditdialog.cpp:52
+#, kde-format
+msgid "Edit %1 Template"
+msgstr "Змінити шаблон %1"
+
+#: textselection.cpp:105
+msgid "Template Actions"
+msgstr "Створити шаблон дій"
+
+#: textselection.cpp:134
+msgid "This is the standard text used in new documents."
+msgstr "Це стандартний текст, що використовується у нових документах."
+
+#: textselection.cpp:143
+#, kde-format
+msgid "%1 Templates for %2"
+msgstr "Шаблони %1 для %2"
+
+#: textselection.cpp:151
+#, kde-format
+msgid ""
+"There is no %1 template text available for document type %2.<br/>Click the "
+"add-button below to create one."
+msgstr ""
+"Не виявлено тексту шаблону %1 для документа типу %2.<br/>Натисніть кнопку "
+"додавання, розташовану нижче, щоб додати текст."
+
+#: textselection.cpp:209
+msgid "&Use in Document"
+msgstr "&Використати у документі"
+
+#: texttemplate.cpp:130
+msgid "No file name given for template"
+msgstr "Не вказано файла, де зберігається шаблон"
+
+#: texttemplate.cpp:138
+#, kde-format
+msgid "Could not find template file %1"
+msgstr "Не вдалося знайти файл шаблону %1"
+
+#: texttemplate.cpp:147
+msgid "Failed to open template source"
+msgstr "Не вдалося відкрити джерело шаблону"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, calcdetailTime)
+#: timepart.ui:14
+msgid "Calculation Item Time"
+msgstr "Пункт обчислень для часу"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: timepart.ui:20
+msgid "<h1>Calculation Part 'Time'</h1>"
+msgstr "<h1>Частина обчислень «Час»</h1>"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: timepart.ui:30
+msgid ""
+"Calculate time efforts here for one unit of the template. <br/>Note that the "
+"costs may depend on a global hourly rate."
+msgstr ""
+"Обчислення витрат часу на одиницю у шаблоні. <br/>Зауважте, що вартість може "
+"залежати від загальної погодинної ставки."
+
+#. i18n: ectx: property (text), widget (KLineEdit, m_nameEdit)
+#: timepart.ui:61
+msgid "Work"
+msgstr "Робота"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: timepart.ui:68
+msgid "&Time Effort:"
+msgstr "Ви&трата часу:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: timepart.ui:96
+msgid "Minutes"
+msgstr "Хвилини"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: timepart.ui:108
+msgid "&Hourly Rate:"
+msgstr "По&годинна ставка:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_stdGlobal)
+#: timepart.ui:130
+msgid "Apply the &global hourly rate."
+msgstr "Застосувати &загальну погодинну ставку."
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: unitseditbase.ui:20
+msgid "<h1>Add a unit</h1>"
+msgstr "<h2>Додати одиницю</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: unitseditbase.ui:32
+msgid "Unit short"
+msgstr "Скорочення одиниці"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: unitseditbase.ui:42
+msgid "Unit long"
+msgstr "Одиниця повністю"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: unitseditbase.ui:58
+msgid "Unit plural short"
+msgstr "Скорочена множина одиниці"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: unitseditbase.ui:68
+msgid "Unit plural long"
+msgstr "Повна множина одиниці"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeInfo)
+#: upgradedb.ui:20
+msgid ""
+"This step checks if the database schema version is sufficient for this "
+"version of Kraft. \n"
+"\n"
+"In case it is not, the schema is updated automatically.\n"
+msgstr ""
+"На цьому кроці програма перевірить, чи достатньо висока версія схеми бази "
+"даних для цієї версії Kraft. \n"
+"\n"
+"Якщо це не так, схему буде автоматично оновлено.\n"
+
+#. i18n: ectx: property (text), widget (QLabel, mUpgradeStatus)
+#: upgradedb.ui:79
+msgid "Upgrade not yet started"
+msgstr "Оновлення ще не почато"
+
+#. i18n: ectx: property (text), widget (QLabel, mLabel)
+#: wageseditbase.ui:20
+msgid "<h1>Add a Wage group</h1>"
+msgstr "<h2>Додати групу «Заробітна платня»</h2>"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wageseditbase.ui:32
+msgid "Group name"
+msgstr "Назва групи"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: wageseditbase.ui:39
+msgid "Wage"
+msgstr "Заробітна платня"
+
+#~ msgid "Position Kind"
+#~ msgstr "Тип позиції"
+
+#~ msgid "Lock Position"
+#~ msgstr "Заблокувати позицію"
+
+#~ msgid "Unlock Position"
+#~ msgstr "Розблокувати позицію"
+
+#~ msgid "Delete Position"
+#~ msgstr "Вилучити позицію"
+
+#~ msgid "This is a as required position. Use the position toolbox to change."
+#~ msgstr ""
+#~ "Це обов’язкова позиція. Скористайтеся панеллю позицій, щоб змінити її."
+
+#~ msgid "Plant Catalog"
+#~ msgstr "Каталог рослин"
+
+#~ msgid "KDE Plant Catalog Viewer"
+#~ msgstr "Інструмент перегляду каталогів саджанців для KDE"
+
+#~ msgid "The KDE Plant Catalog Viewer"
+#~ msgstr "Інструмент перегляду каталогів саджанців для KDE"
+
+#~ msgid "Copyright © 2005–2010 Klaas Freitag"
+#~ msgstr "© Klaas Freitag, 2005–2010"
+
+#~ msgid "pick..."
+#~ msgstr "вибрати…"
+
+#~ msgid "Kalkulationsanteil Material"
+#~ msgstr "Частина обчислень «Матеріал»"
+
+#~ msgid "Kalkulationsanteil Zeit"
+#~ msgstr "Частина обчислень «Час»"
+
+#~ msgid "BRUNS Pflanzenkatalog 2005"
+#~ msgstr "BRUNS Pflanzenkatalog 2005"
+
+#~ msgid "Dt. Name"
+#~ msgstr "Назва німецькою"
+
+#~ msgid "Art-Ident"
+#~ msgstr "Ідентифікатор"
+
+#~ msgid "Bruns Catalog"
+#~ msgstr "Каталог Bruns"
+
+#~ msgid "Stauden"
+#~ msgstr "Кущі"
+
+#~ msgid "Sonstige"
+#~ msgstr "Інше"
+
+#~ msgid "Document Positions"
+#~ msgstr "Позиції документа"
+
+#~ msgid "Address Selection"
+#~ msgstr "Вибір адреси"
+
+#~ msgid "Text Templates"
+#~ msgstr "Шаблони тексту"
+
+#~ msgid "%1 Templates"
+#~ msgstr "Шаблони %1"
+
+#~ msgid "Create a new template (type depending)"
+#~ msgstr "Створити шаблон (залежить від типу)"
+
+#~ msgid "Edit the selected template (type depending)"
+#~ msgstr "Змінити позначений шаблон (залежить від типу)"
+
+#~ msgid "Delete the selected template (type depending)"
+#~ msgstr "Вилучити позначений шаблон (залежить від типу)"
+
+#~ msgid "%1 Text Selection"
+#~ msgstr "Позначений текст %1"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Real Name"
+#~ msgstr "Справжнє ім’я"
+
+#~ msgid "Locality"
+#~ msgstr "Розташування"
+
+#~ msgid "rml2pdf Error"
+#~ msgstr "Помилка rml2pdf"
+
+#~ msgid "Project label"
+#~ msgstr "Мітка проекту"
+
+#~ msgid "Archived"
+#~ msgstr "Архівовані"
+
+#~ msgid "Last Printed %1, %2 older prints."
+#~ msgstr "Востаннє надруковано %1, %2 надрукованих копій."
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Document Digests"
+#~ msgstr "Резюме документів"
+
+#~ msgid "Add, remove and edit catalog chapters"
+#~ msgstr "Додати, вилучити чи змінити розділи каталогу"
+
+#~ msgid "(c) 2004-2010 Klaas Freitag"
+#~ msgstr "© Klaas Freitag, 2004–2010"
+
+#~ msgid "textLabel1"
+#~ msgstr "textLabel1"
+
+#~ msgid "textLabel2"
+#~ msgstr "textLabel2"
+
+#~ msgid "TextLabel"
+#~ msgstr "TextLabel"
+
+#~ msgid "textLabel7"
+#~ msgstr "textLabel7"
+
+#~ msgid "textLabel3"
+#~ msgstr "textLabel3"
+
+#~ msgid ""
+#~ "The addressbook does not contain the address identified by the ID in the "
+#~ "document."
+#~ msgstr ""
+#~ "У адресній книзі не міститься адреси, що визначається ідентифікатором у "
+#~ "документі."
+
+#~ msgid "Addressbook out of sync"
+#~ msgstr "Адресну книгу не синхронізовано"
+
+#~ msgid "--lost--"
+#~ msgstr "--втрачено--"
+
+#~ msgid "<ul><li>Enter your own address in the KAddressBook</li>"
+#~ msgstr "<ul><li>Ввести вашу власну адресу у KAddressBook</li>"
+
+#~ msgid "The Database is going to be reset."
+#~ msgstr "Буде відновлено початковий стан бази даних."
+
+#~ msgid "Create new Customer Entry..."
+#~ msgstr "Створити новий запис замовника..."
+
+#~ msgid "edit"
+#~ msgstr "змінити"
+
+#~ msgid "default"
+#~ msgstr "типовий"
+
+#~ msgid "Connection Status:"
+#~ msgstr "Стан з'єднання:"
+
+#~ msgid "Check Connection"
+#~ msgstr "Перевірити з’єднання"
+
+#~ msgid "Database File:"
+#~ msgstr "Файл бази даних:"
+
+#~ msgid "Database"
+#~ msgstr "База даних"
+
+#~ msgid "Database Driver:"
+#~ msgstr "Драйвер бази даних:"
+
+#~ msgid ""
+#~ "Please restart Kraft after changes in the database connection parameters "
+#~ "to make the changes effective!"
+#~ msgstr ""
+#~ "Будь ласка, щоб зміни у параметрах з’єднання з базою даних набули "
+#~ "чинності, перезапустіть Kraft."
+
+#~ msgid "<font color='green'>Good!</font>"
+#~ msgstr "<font color='green'>Добре!</font>"
+
+#~ msgid "<font color='red'>Failed</font><br>"
+#~ msgstr "<font color=\"red\">Помилка</font>"
+
+#~ msgid "Position Actions"
+#~ msgstr "Дії для позиції"
+
+#~ msgid "Recreate Database"
+#~ msgstr "Повторне створення базу даних"
+
+#~ msgid ""
+#~ "<p>The database <br/><tt>%1</tt><br/> is either empty or broken.To setup "
+#~ "the database from scratch press the Start button!</p><p><b>WARNING:</b> "
+#~ "ALL YOUR KRAFT DATA WILL BE DESTROYED!</p>"
+#~ msgstr ""
+#~ "<p>База даних <br/><tt>%1</tt><br/> або порожня або пошкоджена. Щоб "
+#~ "розпочати створення бази даних з нуля, натисніть кнопку «Створити».</"
+#~ "p><p><b>ПОПЕРЕДЖЕННЯ:</b> У РЕЗУЛЬТАТІ ЦІЄЇ ДІЇ ВСІ ВАШІ ДАНІ БУДЕ "
+#~ "ЗНИЩЕНО.</p>"
+
+#~ msgid "Checking Database Schema Version"
+#~ msgstr "Перевірка версії схеми бази даних"
+
+#~ msgid "Database schema not up to date"
+#~ msgstr "Схема бази даних застаріла"
+
+#~ msgid ""
+#~ "This Kraft database schema is not up to date (it is version %1 instead of "
+#~ "the required version %2).\n"
+#~ "Kraft is able to update it to the new version automatically.\n"
+#~ "WARNING: MAKE SURE A GOOD BACKUP IS AVAILABLE!\n"
+#~ "Do you want Kraft to update the database schema version now?"
+#~ msgstr ""
+#~ "Поточна схема бази даних Kraft є застарілою (її версія %1, потрібна ж "
+#~ "версія %2).\n"
+#~ "Kraft може оновити базу даних до нової версії у автоматичному режимі.\n"
+#~ "ПОПЕРЕДЖЕННЯ: СТВОРІТЬ РЕЗЕРВНУ КОПІЮ БАЗИ ДАНИХ!\n"
+#~ "Бажаєте, щоб програма Kraft оновила версію схеми бази даних зараз?"
+
+#~ msgid ""
+#~ "The update of the database failed, only %1 of %2 commands succeeded. It "
+#~ "is not recommended to continue.\n"
+#~ "Please check the database consistency.\n"
+#~ msgstr ""
+#~ "Спроба оновлення бази даних зазнала невдачі, успішно виконано лише %1 з "
+#~ "%2 команд. Не рекомендуємо вам продовжувати процедуру оновлення.\n"
+#~ "Будь ласка, перевірте цілісність бази даних.\n"
+
+#~ msgid "Start"
+#~ msgstr "Створити"
+
+#~ msgid "Good!"
+#~ msgstr "Добре!"
+
+#~ msgid "Failed"
+#~ msgstr "Невдача"
+
+#~ msgid "Database or File Name"
+#~ msgstr "Назва бази даних або файла"
+
+#~ msgid "This material kind is already in the list of calculated materials.\n"
+#~ msgstr "Цей різновид матеріалу вже є у списку розрахунків матеріалу.\n"
+
+#~ msgid "Do you want to adjust the amount of it in the calculation?"
+#~ msgstr "Бажаєте змінити кількість у обчисленнях?"
+
+#~ msgid "Material duplicate"
+#~ msgstr "Дублікат матеріалу"
+
+#~ msgid "Amount changed"
+#~ msgstr "Кількість змінено"
+
+#~ msgid "Material amount already in calculation."
+#~ msgstr "Цю кількість матеріалу вже використано у обчисленнях."
+
+#~ msgid "Material inserted to calculation"
+#~ msgstr "Матеріал вставлено для обчислень"
+
+#~ msgid "Documents by Time"
+#~ msgstr "Документи за часом"
+
+#~ msgid "<h1>Kalkulationsanteil Zeit</h1>"
+#~ msgstr "<h1>Частина обчислень «Час»</h1>"
+
+#~ msgid ""
+#~ "Zeitabhängige Anteile an der Kalkulation sind vom im Dokument global "
+#~ "eingestellten Stundensatz abhängig."
+#~ msgstr ""
+#~ "Обчислення витрат часу на одиницю у шаблоні. Зауважте, що вартість може "
+#~ "залежати від загальної погодинної ставки."
+
+#~ msgid "&Stundensatz:"
+#~ msgstr "По&годинна ставка:"
+
+#~ msgid "&Zeitdauer"
+#~ msgstr "&Тривалість"
+
+#~ msgid "&Bezeichnung:"
+#~ msgstr "&Позначення:"
+
+#~ msgid "Minuten"
+#~ msgstr "Хвилини"
+
+#~ msgid "Stundensatz &global anpassen"
+#~ msgstr "&Загальна погодинна ставка"
+
+#~ msgid "Alt+G"
+#~ msgstr "Alt+G"
+
+#~ msgid "&Help"
+#~ msgstr "&Довідка"
+
+#~ msgid "F1"
+#~ msgstr "F1"
+
+#~ msgid "&OK"
+#~ msgstr "&Гаразд"
+
+#~ msgid "&Cancel"
+#~ msgstr "&Скасувати"
+
+#~ msgid "Database Schema Update"
+#~ msgstr "Оновлення схеми бази даних"
+
+#~ msgid "Database Schema Update Error"
+#~ msgstr "Помилка оновлення схеми бази даних"
+
+#~ msgid "Database Schema Version ok"
+#~ msgstr "Прийнятна версія схеми бази даних"
+
+#~ msgid ""
+#~ "The Kraft System Table was not found in database %1. Do you want me to "
+#~ "rebuild the database?\n"
+#~ "WARNING: ALL YOUR DATA WILL BE DESTROYED!"
+#~ msgstr ""
+#~ "У базі даних %1 не знайдено системної таблиці Kraft. Бажаєте перебудувати "
+#~ "базу даних?\n"
+#~ "ПОПЕРЕДЖЕННЯ: ВСІ ДАНІ З ЦІЄЇ БАЗИ ДАНИХ БУДЕ ЗНИЩЕНО!"
+
+#~ msgid "Database Rebuild"
+#~ msgstr "Перебудова бази даних"
+
+#~ msgid "Failed."
+#~ msgstr "Невдача."
+
+#~ msgid "Undo changes"
+#~ msgstr "Скасувати зміни"
+
+#~ msgid "Start Date"
+#~ msgstr "Дата початку"
+
+#~ msgid "Pieces per Unit"
+#~ msgstr "Кількість на одиницю"
+
+#~ msgid "Price (Buy)"
+#~ msgstr "Ціна (купівля)"
+
+#~ msgid "Price (Sell)"
+#~ msgstr "Ціна (продаж)"
+
+#~ msgid "Set Chapter of the marked Material:"
+#~ msgstr "Встановити розділ для позначеного матеріалу:"
+
+#~ msgid "Chapter..."
+#~ msgstr "Розділ..."
+
+#~ msgid "Amount: "
+#~ msgstr "Кількість:"
+
+#~ msgid " to Calculation "
+#~ msgstr " для обчислення"
+
+#~ msgid "Form3"
+#~ msgstr "Форма3"
+
+#~ msgid "&Add Account number at bottom of last page"
+#~ msgstr "&Додати номер рахунка у нижню частину останньої сторінки"
+
+#~ msgid "Alt+A"
+#~ msgstr "Alt+A"
+
+#~ msgid "Bla Help"
+#~ msgstr "Довідка Bla"
+
+#~ msgid "Bonus"
+#~ msgstr "Бонус"
+
+#~ msgid "SQL File %1 not found"
+#~ msgstr "Файла SQL %1 не знайдено"
+
+#~ msgid "&Template"
+#~ msgstr "&Шаблон"
+
+#~ msgid "Edit &Catalog Chapters..."
+#~ msgstr "Змінити розділ &каталогу..."
+
+#~ msgid "&Edit Item"
+#~ msgstr "&Змінити запис"
+
+#~ msgid "&Export Catalog..."
+#~ msgstr "&Експортувати каталог..."
+
+#~ msgid "Insert Template"
+#~ msgstr "Вставити шаблон"
+
+#~ msgid "Form1"
+#~ msgstr "Форма1"
+
+#~ msgid "Alt+E"
+#~ msgstr "Alt+E"
+
+#~ msgid "Alt+C"
+#~ msgstr "Alt+C"
+
+#~ msgid "Alt+M"
+#~ msgstr "Alt+M"
+
+#~ msgid "Form2"
+#~ msgstr "Форма2"
+
+#~ msgid "Alt+S"
+#~ msgstr "Alt+S"
